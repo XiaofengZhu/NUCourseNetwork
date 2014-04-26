@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2275, 
+    "subject": "RELIGION", 
+    "requirements": "Enrollment Requirements: Students must be current seniors Religious Studies majors and have taken Religion 396-1 to register for this course.", 
+    "title": "Senior Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sarah McFarland Taylor", 
+        "phone": "847 4914361", 
+        "address": "Crowe hall, 4-144"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Advanced senior Religious Studies majors, who meet department requirements for honors consideration and with the permission of the instructor."
+        }
+    ], 
+    "class_num": 23413, 
+    "attributes": "Prerequisites apply, see description\n\nDepartment Majors Only\n\nJuniors/Seniors Only\n\n", 
+    "catalog_num": "396-2"
+}

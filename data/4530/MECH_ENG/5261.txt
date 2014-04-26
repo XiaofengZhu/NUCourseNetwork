@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 120, 
+    "course_id": 5261, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sandip Ghosal", 
+        "phone": "847/467-5990", 
+        "address": "Technological Institute, Rm M312, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L211", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "S/U"
+        }
+    ], 
+    "class_num": 20346, 
+    "attributes": null, 
+    "catalog_num": "512-0"
+}

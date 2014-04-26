@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18467, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Human Physiology II", 
+    "section": "66", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "66", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Lucia Simo is a medical scientist MD/PhD at the crossroads between neuroscience, medicine, and the humanities/ethics. She was awarded with a Fulbright Fellowship to study brain theory and computational neuroscience in the Center for Neural Engineering at the University of Southern California. Her current research is in brain networks involved in visuomotor learning, timing, and attention using fMRI methodologies as well as the control of arm posture and movement after stroke, in collaboration with the robotics laboratory at the Rehabilitation Insittute of Chicago. She enjoys working with people of diverse backgrounds from the hard sciences to the humanities, practices Iyengar yoga, enjoys cooking, music, has a teenage daughter and a lot of patience!", 
+        "name": "Lucia S Simo", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 4", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Human Physiology (Media Update): an integrated approach by  Dee Silverthorn, copyright 2010, 5th edition OR  copyright 2009, 4th edition;   Publisher: Benjamin Cummings/Pearson. ISBN: 13 978-0-321-55139-9  (4th ed). ISBN: 13 978-0-321-55980-7 (5th ed)."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "BIOL SCI 335-A or equivalent."
+        }
+    ], 
+    "class_num": 35027, 
+    "attributes": null, 
+    "catalog_num": "335-B"
+}

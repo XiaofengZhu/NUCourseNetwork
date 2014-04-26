@@ -1,0 +1,53 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 220, 
+    "course_id": 19885, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Prerequisite: Students must completed CHEM 172-0 or CHEM 103-0 to register for this course.", 
+    "title": "Cell Biology", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute AUD", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "20:50:00", 
+            "meeting_days": "We", 
+            "start_time": "19:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "Wed 1-2pm, Fri 4-5pm", 
+        "bio": null, 
+        "name": "Gregory J Beitel", 
+        "phone": "847/467-7776", 
+        "address": "Pancoe Pavilion, Room 1407"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 3", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Alberts et al.  2013.  Essential Cell Biology, 4th edition.   ISBN: 9780815344544.   \n\nUp to date Clicker"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Active learning exercises, lectures. Two exams (One in finals week but not cumulative) and multiple quizzes."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: CHEM 103 or 172"
+        }
+    ], 
+    "class_num": 26101, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "216-0"
+}

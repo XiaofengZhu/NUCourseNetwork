@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 17412, 
+    "subject": "ARABIC", 
+    "requirements": null, 
+    "title": "Arabic IV", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ragy H Ibrahim Mikhaeel", 
+        "phone": "8474670927", 
+        "address": "4-317 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "http://www.cas.northwestern.edu/paal/"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Al-Kitaab fii Ta callum al-cArabiyya with DVD and MP3 CD: A Textbook for Arabic, Part Three | Edition: 1\nAuthor: Kristen Brustad, Mahmoud Al-Batal, Abbas Al-Tonsi\nISBN: 9781589011496 \nPublisher: Georgetown University Press \nPublication Date: 02/28/2007 \n\nTales from Kalila WA Dimna for Students of Arabic | Edition: 1\nAuthor:  Munther A. Younes\nISBN: 9780879501280 \nPublisher: Spoken Language Services, Incorporated \nPublication Date: 05/28/2001"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: 207-3 or equivalent."
+        }
+    ], 
+    "class_num": 11751, 
+    "attributes": null, 
+    "catalog_num": "311-1"
+}

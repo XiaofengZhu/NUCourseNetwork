@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6439, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Differential Calculus of Multivariable Functions", 
+    "section": "15", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "15", 
+    "school": "UC", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Robert Nendorf is currently a Ph.D. student of mathematics at Northwestern University in the field of stable homotopy theory. He received a Masters in mathematics in 2007, also from NU, and a Bachelors in mathematics from Western Michigan University. He has taught for over six years as both a graduate assistant and full instructor, receiving multiple awards for teaching excellence from both institutions. He has a wide array of interests outside of mathematics including entrepeneurship, brewing and certain martial arts.", 
+        "name": "Robert Andrew Nendorf", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Wieboldt Hall 406", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "ESSENTIAL CALCULUS,EARLY...V2 >CUSTOM<\nBy STEWART\nEDITION:   08 \nPUBLISHER:   CENGAGE C\nISBN:   9780495483175"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MATH 224 or equivalent."
+        }
+    ], 
+    "class_num": 38703, 
+    "attributes": null, 
+    "catalog_num": "230-CN"
+}

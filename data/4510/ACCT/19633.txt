@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 19633, 
+    "subject": "ACCT", 
+    "requirements": null, 
+    "title": "Accounting for Decision Making", 
+    "section": "61", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-07-15", 
+    "end_date": "2013-08-16", 
+    "start_time": null, 
+    "component": "61", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Anup Srivastava", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 42120, 
+    "attributes": null, 
+    "catalog_num": "438-B"
+}

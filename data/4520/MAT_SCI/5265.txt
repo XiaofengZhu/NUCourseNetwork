@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 5265, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "MS & E Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Vinayak P Dravid", 
+        "phone": "847/491-1363", 
+        "address": "1133 Cook Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Scanning Electron Microscopy and X-ray Microanalysis, Goldstein et al. 3rd ed. (Springer, 2003.) ISBN: 9780306472923 ; extended lecture notes and references."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The grading is based on results of a quiz at the end of the fourth week (25%) and the performance in laboratory sessions (25%).  The hands on group project report (oral and written) accounts for the balance."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and four/five 2-hour laboratories (per students' availability) are given during the first four weeks.  From the fifth to the ninth week, groups of two students carry out their projects utilizing the knowledge and techniques acquired in the first four weeks.  Individual discussion sessions with the instructor are to be arranged.  Results of projects are reported orally in class and also in a written report at the end of the quarter.  The course will utilize various multimedia tools, including 2-D, 3-D animation, video clips and much more."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Open for all freshman or by permission of the instructor."
+        }
+    ], 
+    "class_num": 15937, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "190-0"
+}

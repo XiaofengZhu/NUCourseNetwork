@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20990, 
+    "subject": "ATHL_PRA", 
+    "requirements": "Enrollment Requirements: Athletic Practicum", 
+    "title": "Practicum in Athletic Allied Health Care", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-21", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Tory Robert Lindley", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35233, 
+    "attributes": null, 
+    "catalog_num": "302-0"
+}

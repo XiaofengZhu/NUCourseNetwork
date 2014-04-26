@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 14, 
+    "course_id": 2387, 
+    "subject": "LING", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Robert A Gundlach", 
+        "phone": "8474914968", 
+        "address": "Crowe Hall 2-179"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Crystal, David, How Language Works. \nKarpf, Anne, The Human Voice: How This Extraordinary Instrument Reveals Essential \n\tClues About Who We Are.\nTufte, Virginia, Artful Sentences: Syntax as Style (several brief selections). \nAdditional selections will be distributed in class or made available electronically."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on three short essays (3-4 pages), one longer essay (6-8 pages), and participation in seminar discussions.  Students will have the opportunity to revise their essays."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion. Regular opportunities for students to write and share ideas developed in essays. Opportunities for students to conduct research on topics of individual interest."
+        }
+    ], 
+    "class_num": 32196, 
+    "attributes": null, 
+    "catalog_num": "101-6"
+}

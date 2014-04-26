@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 6724, 
+    "subject": "COMM_ST", 
+    "requirements": null, 
+    "title": "Public Speaking", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Daniel Moser received his BFA from New York University, his MA from University of Illinois/Urbana, and his PhD from Northwestern's School of Communication, Department of Performance Studies. Dr. Moser is a coprporate presentation consultant and does research in the performance of everyday life and work. He is a faculty member in The School of Continuing Studies Program in Leadership and Organizational Behavior.", 
+        "name": "Daniel Edward Moser", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 18168, 
+    "attributes": null, 
+    "catalog_num": "102-CN"
+}

@@ -1,0 +1,61 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 1542, 
+    "subject": "CLASSICS", 
+    "requirements": null, 
+    "title": "Ancient Athens: Democracy, Drama, Civilization", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 4-345", 
+            "section": "61", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Robert W Wallace", 
+        "phone": "847/491-8042", 
+        "address": "Kresge 1-520, Dept of Classics"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-415", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Classics 211 was formerly titled \"Classical Greece.\"  \"Ancient Athens: Democracy, Drama, Civilization\" is the permanent new title."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Herodotus, Thucydides, Plutarch, Aeschylus' Oresteia, Sophokles' Oedipus the King, and Antigone; Plato's Apology, and Crito; Aristophanes' Acharnians, Clouds, and Lysistrata.\n\nPlutarch's Rise and Fall of Athens, Penguin Edition, ISBN: 9780140441024\nAeschylus' Oresteia, Penguin Edition, ISBN: 9780140443332\nSophokles' Three Theban Plays, Penguin Edition, ISBN: 9780140444254\nAristophanes' Lysistrata, Clouds, Acharnians, Penguin Edition, ISBN: 9780140448146\nEuripides' Ten Plays, Bantam Edition, ISBN: 9780553210606\nThucydides' The Landmark Thucydides, Edited by Strassler, ISBN: 9781416590873\nHerodotus' The Histories, Oxford Edition, ISBN: 9780199535668"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Midterm, final, brief quizzes."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and discussion section."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None; P/N not allowed."
+        }
+    ], 
+    "class_num": 24538, 
+    "attributes": "Historical Studies Distro Area\n\nInterdisciplinary Distro - See Rules\n\nLiterature & Fine Arts Distro Area\n\nEthics & Values Distro Area Distro Area\n\nAttendance at 1st class mandatory\n\nRegistration for discussion section required\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "211-0"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 90, 
+    "course_id": 20471, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Global History: The Modern World", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Harris Hall L28", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "We", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Daniel Sepinuck Immerwahr", 
+        "phone": "847/491-7418", 
+        "address": "Harris Hall Room  225"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Leverone Auditorium Owen Coon", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 34310, 
+    "attributes": "Historical Studies Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "250-2"
+}

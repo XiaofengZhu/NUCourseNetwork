@@ -1,0 +1,44 @@
+{
+    "overview": "EXPERIMENTALISM IN THEORY & PRACTICE<p>The course examines the aesthetics and politics of experimental music both in its historical forms and its contemporary relevance to musical practice. Students will engage with composer writings, statements, manifestoes as well as contemporary critical writing on experimental traditions in the United States and Europe. We will also pose the question of what constitutes proper experimental performance practice and examine historical and contemporary recordings of this music.</p>", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3661, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Topics in 20th Century Music", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "http://www.music.northwestern.edu/faculty/profiles/ryan-dohoney.html", 
+        "name": "Ryan Wayne Dohoney", 
+        "phone": null, 
+        "address": "ryan.dohoney@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 43", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students will also work extensively with the library's John Cage and Charlotte Moorman archival collections. We will explore the music of Cage, Edgard Varse, Earle Brown, Christian Wolff, Morton Feldman, Pauline Oliveros, Meredith Monk, George Lewis, Cornelius Cardew, Yoko Ono, Fluxus, Sylvano Bussotti, Karlheinz Stockhausen, Terry Riley, Julius Eastman, and others."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Please note that all students will be required to collaborate on in-class rehearsals, though inexperienced musicians or those without performance experience are encouraged to join and participate."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Course instruction will be divided between seminar-like discussion of historical documents and scholarly writing and working rehearsals in which we will develop hands-on performance-based knowledge of the repertoires studied."
+        }
+    ], 
+    "class_num": 34999, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "355-0"
+}

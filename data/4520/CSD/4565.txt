@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 4565, 
+    "subject": "CSD", 
+    "requirements": "Enrollment Requirements: Reserved for CSD PhD Students Only.", 
+    "title": "Directed Teaching in Communication Sciences and Disorders", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Charles Larson", 
+        "phone": "847/491-3066", 
+        "address": "Room 3-247, 2240 Campus Drive, Evanston campus"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18488, 
+    "attributes": null, 
+    "catalog_num": "546-0"
+}

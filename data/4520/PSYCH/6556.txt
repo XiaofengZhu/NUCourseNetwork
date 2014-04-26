@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6556, 
+    "subject": "PSYCH", 
+    "requirements": null, 
+    "title": "Statistical Methods in Psychology", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Ben Gorvine is a Senior Lecturer in the Department of Psychology at Northwestern, where he is also currently serving as the assistant chair. He received his Ph.D. in Psychology from the University of Michigan in 2002.  His dissertation work centered on understanding the influences, both positive and negative, that fathers and father figures (i.e., men other than the biological father who may be fulfilling the fathering role) had on their children's socioemotional development, and he continues to have an interest in working with young men around issues of masculinity and parenting.  He worked for a number of years as an affiliate psychotherapist at the Family Institute at Northwestern University, where he saw adults, children, couples, and families. In what used to be his spare time, he is kept happily occupied by his two daughters, Emma (age 14) and Sophie (age 8).", 
+        "name": "Benjamin J Gorvine", 
+        "phone": "847/467-1839", 
+        "address": "Swift 306"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This course is not designed to: (1) scare you; (2) create intense amounts of math anxiety; or (3) turn you off to the field of psychology.  I will do my best to ensure that, at the end of the course, you will find yourself reflecting, \"Wow, that wasn't all that bad!\""
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Scientific calculator. \n\nGlenberg, A. & Andrzejewski, M. (2008).  Learning from Data: An Introduction to Statistical Reasoning (3rd Edition) Mahwah, NJ: Lawrence Erlbaum. ISBN: 0 -8058-4921-1."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "After completing this course, you will be able to summarize datasets using a variety of descriptive statistics, test for relationships between variables, and make group comparisons using inferential statistics.  You will also be able to understand scientific notation that you may encounter when reading journal articles in other courses and in your own research."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "PSYCH 110 and high school algebra."
+        }
+    ], 
+    "class_num": 18206, 
+    "attributes": null, 
+    "catalog_num": "201-CN"
+}

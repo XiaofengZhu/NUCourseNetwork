@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 2043, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "History of Western Science and Medicine: Origins in Early Mod Europe", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "10:50:00", 
+            "meeting_days": "Fr", 
+            "start_time": "10:00:00"
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "12:30:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Tania Munz has taught courses in the history of science, medicine, and technology; environmental history; and Biological Thought and Action (in collaboration with the Program in Biological Sciences at Northwestern). She received her Ph.D. from Princeton in 2007 with a dissertation on the History of Animal Behavior Studies. Her first book, The Dancing Bees: Karl von Frisch and the Discovery of the Honeybee Dance Language, is forthcoming with the University of Chicago Press. She has also published on the History of Biology and Ethology, Science and Film, and the uses of animals in science. She is a lecturer in the Program of Science in Human Culture and an Adviser in Weinberg College of Arts and Sciences, and has taught at Princeton, Sarah Lawrence College, and the University of Chicago. Dr. Munz teaches in the History Department and for the NU Bioscientist Initiative. She has offered courses that span the history of science from the Scientific Revolution to the modern period.", 
+        "name": "Tania Munz", 
+        "phone": "847/491-3525", 
+        "address": "University Hall Room 020"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 32814, 
+    "attributes": "Historical Studies Distro Area\n\n", 
+    "catalog_num": "275-1"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 7171, 
+    "subject": "MATH", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "81", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "81", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Keith H Burns", 
+        "phone": "8474913013", 
+        "address": "Lunt B21"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Library 3322", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "\"Men of Mathematics,\" E.T. Bell, ISBN: 978-0671628185"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Your grade will be based on your class presentations and three papers each of 6 pages. There will not be any final. WRITING ASSIGNMENTS: After (or before if you prefer) each presentation I will expect a 6-10 page paper about your mathematician."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "What I have done in the past - and plan to do again - is to divide the class into groups of three. At each meeting one of the groups will give a presentation on the life (and to some extent the work) of an interesting mathematician. Each group will give three such presentations during the quarter."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Freshmen and Sophomores only"
+        }
+    ], 
+    "class_num": 24523, 
+    "attributes": null, 
+    "catalog_num": "105-6"
+}

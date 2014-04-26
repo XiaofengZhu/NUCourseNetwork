@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 4855, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Mechanics of Continua I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "jwrudn@northwestern.edu", 
+        "bio": null, 
+        "name": "John W Rudnicki", 
+        "phone": "847/491-3411", 
+        "address": "Technological Institute, Rm A333, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "REFERENCES: L. E. Malvern, Introduction to the Mechanics of a Continuous Medium \nPaperback: 713 pages ; Prentice Hall; 1st edition (1969)ISBN: 0134876032 \n\nP. Chadwick, Continuum Mechanics: Concise Theory and Problems \nPaperback: 200 pages ; Publisher: Dover Pubns; 2nd edition (November 15, 1999) \nISBN: 0486401804 \n\nBoth of these books are RECOMMENDED, NOT REQUIRED."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No formal textbook."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "BASIS OF GRADE / Written Exams"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS FORMAT / Lecture"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CIV_ENV 212 and MATH217 or MATH219. Elementary ordinary and partial differential equations. Elementary mechancis of materials."
+        }
+    ], 
+    "class_num": 15852, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "417-1"
+}

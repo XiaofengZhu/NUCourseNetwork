@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 4581, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Acting: Basic Techniques", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tues/Thursday 11am-12pm, and by appointment", 
+        "bio": null, 
+        "name": "Shawn T Douglass", 
+        "phone": null, 
+        "address": "Theatre and Interpretation Center, 1949 Campus Drive, Room 220"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr South Studio", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "If you are an athlete whose sport is in season, please check your game schedule carefully before enrolling, as there is an attendance policy in this class."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "You will be required to purchase one play (TBA)."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Presentation of Scene Work"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Character improvisation, paired scene work"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "In this course you will learn how:\n \nTo INCREASE ATTENTION to human behavior and the world around you\nTo LISTEN and RESPOND spontaneously\nTo recognize how CIRCUMSTANCES influence your actions\nTo identify GOALS that will form the basis for clear ACTION\nTo apply the above skills to the analysis of dramatic literature and  to the creation of CHARACTER"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Register through CAESAR"
+        }
+    ], 
+    "class_num": 34817, 
+    "attributes": null, 
+    "catalog_num": "143-0"
+}

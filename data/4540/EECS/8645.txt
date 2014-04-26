@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 8645, 
+    "subject": "EECS", 
+    "requirements": null, 
+    "title": "Fundamentals of Solid State Engineering", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Manijeh Razeghi", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34196, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "223-0"
+}

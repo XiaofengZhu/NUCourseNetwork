@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 15068, 
+    "subject": "CHEM", 
+    "requirements": null, 
+    "title": "GSW Chemistry 103-0 Advanced Conceptual Workshop", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "12:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Andrew Michael French", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "14:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 32355, 
+    "attributes": null, 
+    "catalog_num": "103-GW"
+}

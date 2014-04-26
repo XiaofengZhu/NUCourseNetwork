@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 19158, 
+    "subject": "LITARB", 
+    "requirements": null, 
+    "title": "Clinic Practice: Complex Civil Litigation & Investor Protection", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jack Samuel Tenenbaum", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30163, 
+    "attributes": "Professional Skills Course\n\nCivil Litigation & Dispute Resolution\n\n", 
+    "catalog_num": "730"
+}

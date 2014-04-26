@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 2037, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Background to African Civilization and Culture: 1875-1994", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "University Library 3670", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Jonathon Glassman writes and teaches about 19th and 20th century Africa, comparative race and slavery, and the intersections between crime and social protest. His most recent book, War of Words, War of Stones: Racial Thought and Violence in Colonial Zanzibar, won the American Historical Association's Martin Klein Prize for the year's best book on African history. Among other awards, he has been the recipient of a Guggenheim Fellowship and two Fulbright grants.", 
+        "name": "Jonathon P Glassman", 
+        "phone": "847/491-8963", 
+        "address": "Harris Hall Room 316"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 102", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Africa/ME"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nPaul Bohannan and Philip Curtin, Africa and Africans, Fourth Edition.\nRichard Reid, History of Modern Africa\nBuchi Emecheta, The Joys of Motherhood\nOusmane Sembene, God's Bits of Wood\nChinua Achebe, A Man of the People"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Two short mid-term papers, a final exam, and participation in weekly discussion sections."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture format with mandatory discussion sections."
+        }
+    ], 
+    "class_num": 34326, 
+    "attributes": "Historical Studies Distro Area\n\nRegistration for discussion section required\n\n", 
+    "catalog_num": "255-3"
+}

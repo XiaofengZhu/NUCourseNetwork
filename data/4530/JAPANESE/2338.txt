@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2338, 
+    "subject": "JAPANESE", 
+    "requirements": null, 
+    "title": "Japanese I", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Junko Sato", 
+        "phone": "8474912762", 
+        "address": "4-352 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Recommended books/dictionaries: \nEndo-Hudson,M (1994). English Grammar for Students of Japanese. Ann Arbor: The Olivia and Hill Press. ISBN: 0-934034-16-8.\n\nMakino, S & Tsutsui M. (1989). Dictionary of Basic Japanese Grammar. Tokyo: The Japan Times. ISBN 4-7890-0454-6.\n\nKodansha (2002). Kodansha's Essential Kanji Dictionary. Tokyo: Kodansha. ISBN: 978-4-7700-2891-4 / 4-7700-2891-1."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Banno et al. (2011). GENKI I: An Integrated Course in Elementary Japanese [With CDROM] (2nd Edition). The Japan Times. ISBN: 4789014401 / 978-4789014403\n\nBanno, Eri et al. (2011). Genki: An Integrated Course in Elementary Japanese Workbook I [With CDROM] (Second Edition). The Japan Times. ISBN: 478901441X / 978-4789014410\n\nAJALT (2007). Japanese for Busy People: Kana Workbook revised 3rd edition. Kodansha International. ISBN: 978-4-7700-3037-5\nCourse Packets: $10.00-15.00"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class participation and performance; Assignments; Quizzes; Oral and written examinations; Essays"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The students are required to master Hiragana and Katakana at the beginning of 111-1.  Class hours are mainly spent on development of oral proficiency, and written assignments are given for reading and writing development.  Students are expected to be fully prepared for each lesson."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None for JAPANESE 111-1; For JAPANESE 111-2 & JAPANESE 111-3: Students must pass the preceding class with C- or above, or must be placed into the classes by the departmental placement test."
+        }
+    ], 
+    "class_num": 34285, 
+    "attributes": "Specific requirements in the language\n\n", 
+    "catalog_num": "111-2"
+}

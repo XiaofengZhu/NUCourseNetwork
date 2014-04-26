@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 72, 
+    "course_id": 6108, 
+    "subject": "CHEM", 
+    "requirements": null, 
+    "title": "Organic Chemistry", 
+    "section": "65", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "23A", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Owen P Priest", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Wade, Organic Chemistry. 8th Edition. Pearson. ISBN: 9780321768414\n\nTurning Technologies Response Card Model NXT"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "One year of general chemistry with a grade of C- or higher."
+        }
+    ], 
+    "class_num": 18160, 
+    "attributes": null, 
+    "catalog_num": "210-A"
+}

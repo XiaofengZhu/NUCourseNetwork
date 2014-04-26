@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3286, 
+    "subject": "SLAVIC", 
+    "requirements": null, 
+    "title": "Studies in 18Th Century Russian Lit", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ilya Kutik", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Evaluation will be based upon oral presentations and papers."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and discussion"
+        }
+    ], 
+    "class_num": 17005, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "434-0"
+}

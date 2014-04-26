@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20938, 
+    "subject": "ASIAN_LC", 
+    "requirements": null, 
+    "title": "Japanese Literature in Translation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Phyllis I Lyons", 
+        "phone": "8474912766", 
+        "address": "4-372 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Birnbaum, Rabbits, Crabs, Etc.\nLippit and Selden, Contemporary Japanese Women Writers\nEnchi, Masks\nYoshimoto, Kitchen\nCourse Packet (made available by instructor at Quartet Copies)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Discussion participation, two short papers (4 pp) and one final paper (8-10pp)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and class discussion format will be used."
+        }
+    ], 
+    "class_num": 34278, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "271-4"
+}

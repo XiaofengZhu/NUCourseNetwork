@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 4729, 
+    "subject": "DANCE", 
+    "requirements": null, 
+    "title": "Modern II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Annie Arnoult Beserra", 
+        "phone": "847/491-3147", 
+        "address": "10 Arts Circle Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Ballroom", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No dance shoes are required for this course. Simple leotards, footless tights/unitards are required. Well-fitted socks, sweatpants, T-shirts and sweatshirts are acceptable only during the floor warm-up combinations. Hair must be secured behind face at all times."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be able to:\n     demonstrate a Graham contraction during floor/standing exercises and across the floor sequences \n     demonstrate a Fagan spiral sequence during the floor exercises \n     demonstrate a Dunham flat back and undulation sequence during the standing exercises and across the floor sequences \n     demonstrate a Cunningham warm up standing sequence\nidentify and demonstrate how Fagan technique has incorporated the Graham contraction, the Dunham undulation and the off center movement of Cunningham into his movement vocabulary \n     perform movement sequences created by the instructor that include Graham, Dunham, Cunningham and Fagan vocabulary \n     demonstrate a higher level of confidence, efficiency, clarity and speed with their dancing"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Must have been placed in level II or with instructor permission."
+        }
+    ], 
+    "class_num": 21462, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "250-0"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20325, 
+    "subject": "THEATRE", 
+    "requirements": "Enrollment Requirements: Reserved for Theatre Majors and Minors", 
+    "title": "Musicianship for Actors", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ryan T Nelson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All class materials are provided."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: admission to the Music Theatre Certificate Program or consent of \tthe instructor. *Students in the Bienen School of Music music take .5 units of \tthe equivalent Music Theory/Aural Skills (SoM) in place of this \tcourse."
+        }
+    ], 
+    "class_num": 35593, 
+    "attributes": null, 
+    "catalog_num": "262-0"
+}

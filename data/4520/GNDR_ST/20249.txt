@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 150, 
+    "course_id": 20249, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Sexual Subjects: Introduction to Sexuality Studies", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "University Library 5722", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lane Fenrich", 
+        "phone": "8474917560", 
+        "address": "1922 Sheridan Rd."
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Attendance at first class is mandatory."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "D'Emilio, John and Estelle Freedman. Intimate Matters: A History of Sexuality in America \n\nFoucault, Michel. The History of Sexuality, Volume I; \n\nIrvine, Janice.  Disorders of Desire: Sexuality and Gender in Modern American Sexology.\n\nPatton, Cindy. Fatal Advice: How Safe-Sex Education Went Wrong.\n\nADDITIONAL READINGS WILL BE AVAILABLE ON THE COURSE BLACKBOARD SITE."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "WEEKLY RESPONSE PAPERS, THREE 5-7 PAGE ESSAYS"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "LECTURE/DISCUSSION"
+        }
+    ], 
+    "class_num": 13025, 
+    "attributes": "Historical Studies Distro Area\n\nInterdisciplinary Distro - See Rules\n\nSocial & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "220-0"
+}

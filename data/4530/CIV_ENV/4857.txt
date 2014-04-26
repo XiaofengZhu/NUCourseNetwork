@@ -1,0 +1,65 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 4857, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Theory of Structures II", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute LG76", 
+            "section": "01", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "karen-chou@northwestern.edu", 
+        "bio": null, 
+        "name": "Karen C Chou", 
+        "phone": "847/491-4997", 
+        "address": "2145 N. Sheridan Road  / Tech A220"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute A110", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Beer and Johnston, Mechanics of Materials, 2nd ed., McGraw-Hill 1992."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No formal textbook required."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades:  course grade is composed of homework assignments, quizzes and tests, final exam, and experimentations."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS SCHEDULE /  Two 1 and 1/2 hour lectures and a one-hour required discussion section for 10 weeks per quarter.\n\nCOMPUTER USAGE /  Use of MATLAB or spreadsheet software to solve and present graphically effects of parameter variation in structures  Introduction to and use of the FRAME computer program\n\n1.\tReview of shear and moment diagram for frames\n2.\tVirtual Work\n3.\tSlope Deflection\n4.\tMoment Distribution\n5.\tStiffness matrix\n6.\tComputer Software - use of typical commercial frame software to perform the analysis\n7.\tInfluence Lines\n8.\tApproximate Analysis\n9.\tShear Center \n10.\tIntroduction to Plastic Analysis\n11.\tIntroduction to Stability\n12.\tIntroduction to Simple Plates\n13.\tExperimentation"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To extend the concepts learned in the first course in theory of structures (Civ_Env 221).  Both classical and computer tools will be incorporated and complemented each other in the course.  Experimentation using strain gages to measure structural responses will be compared with theoretical analysis presented in this course.  At the end of this course, you will have the ability to:\n\n1.analyze a structure with non-prismatic members using consistent displacement method using virtual work, slope deflection, and moment distribution;\n2.determine the maximum design force using influence lines for floor systems and indeterminate structures;\n3.analyze structures using commercial software and/or design worksheet to perform the analysis;\n4.conduct experiments that could measure the response of a structure under static loads; and \n5.perform preliminary analysis using approximate methods."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "A course in structural analysis;  CIV_ENG 221-0"
+        }
+    ], 
+    "class_num": 20869, 
+    "attributes": null, 
+    "catalog_num": "319-0"
+}

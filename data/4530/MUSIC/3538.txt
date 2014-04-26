@@ -1,0 +1,31 @@
+{
+    "overview": "Contact the department for further information", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3538, 
+    "subject": "MUSIC", 
+    "requirements": null, 
+    "title": "Advanced Keyboard Skills VIII", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "As Posted on Door", 
+        "bio": null, 
+        "name": "Karen Chih-Pah Kan-Walsh", 
+        "phone": "847/491-3886", 
+        "address": "711 Elgin Road, Evanston, IL 60208"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 201", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22152, 
+    "attributes": null, 
+    "catalog_num": "327-2"
+}

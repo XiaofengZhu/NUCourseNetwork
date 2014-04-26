@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 16509, 
+    "subject": "ASIAN_AM", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": "Professor Kim is a Charles Deering McCormick University Distinguished Lecturer in Asian American Studies at Northwestern University. Her research focuses on the histories and cultures of contact and migration between Asia and the Americas. She is currently finishing her first book Postcolonial Grief and the Afterlife of the Pacific Wars in the Americas which demonstrates how postcolonial grief and mourning around the Pacific Wars interrupts the formation and consolidation of the U.S. as an imperialist and white supremacist nation-state. The book argues that any struggle for future freedom, justice, and transformative politics in the U.S. has to come to terms with the history of U.S. military violence and colonialism in the Pacific Arena. She is also working on a second book which looks at the relationship between the Mexican Bracero Project and the Internment of Japanese Americans during WWII.", 
+        "name": "Jinah Kim", 
+        "phone": "8474913593", 
+        "address": "Kresge Hall 1-435"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Films:\n1.\tDouble Indemnity, dir. Billy Wilder (1944)\n2.\tA Touch of Evil, dir. Orson Welles (c2000)\n3.\tChinatown, dir. Roman Polanski (1974)\n4.\tBlade Runner, director's cut, dir. Ridley Scott (1992)\n\nNovels:\n1.\tChester Himes, Rage in Harlem\n2.\tNaomi Hirahara, Summer of the Big Bachi"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The goal of the freshman seminar is to facilitate the student's transition into the college environment and to introduce students to college level expectations.  The two main goals of this seminar are for students to develop critical thinking, which is a foundational element of learning and inquiry, and to acquire strong writing skills including learning to write for multiple audiences."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 12622, 
+    "attributes": null, 
+    "catalog_num": "106-6"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20944, 
+    "subject": "ASIAN_LC", 
+    "requirements": null, 
+    "title": "Introduction to Chinese Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Peter Shen", 
+        "phone": "646/248-1881", 
+        "address": "Harris 231"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Owen, Stephen. 1996. An Anthology of Chinese Literature: Beginnings to 1911. New York: Norton.\n\nShen, Fu. 1983. Six Records of a Floating Life. New York: Penguin Classics."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance: 10%\nClass Participation: 20%\nIn-class Presentation: 10%\nFirst Paper: 10% (3-4)\nSecond Paper: 20% (5-6)\nFinal Paper: 30% (7-10)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture format with heavy reliance on class discussion"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The goal of the course is to introduce students to the major works that define the Chinese literary tradition and to build a solid foundation for further literary exploration.\n\nBy the end of the course, students will acquire the ability to discuss and write critically and knowledgeably about Chinese literature."
+        }
+    ], 
+    "class_num": 34368, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "274-2"
+}

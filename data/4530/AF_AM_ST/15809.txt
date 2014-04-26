@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 15809, 
+    "subject": "AF_AM_ST", 
+    "requirements": null, 
+    "title": "Topics in Transnational Black Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Micaela Alicia Smith", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Postings on Blackboard, 15%\nMidterm, 15% total\nParticipation, 10%\nFour in-class (section) assignments, 5% each (20% total)\nOne 3-4 page paper, 20%\nThe final exam, 20%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Combination of lecture, film and discussion"
+        }
+    ], 
+    "class_num": 34289, 
+    "attributes": null, 
+    "catalog_num": "381-0"
+}

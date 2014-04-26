@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 19813, 
+    "subject": "EARTH", 
+    "requirements": "Enrollment Requirements: Registration reserved for Graduate students or seniors majoring in Physics, Chemistry, Biology, Math, EPS, Biol Anthro, Mat Sci, Chem Eng, Mech Eng, Civ Eng, Envir Eng, Envr Sci, or Electrical Eng.", 
+    "title": "Topics in Contemporary Energy and Climate Change", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "axford@northwestern.edu", 
+        "bio": null, 
+        "name": "Yarrow Larue Axford", 
+        "phone": null, 
+        "address": "Technological Institute F394/F395"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Course is for graduate standing or senior undergrads in the sciences or engineering. Instructor permission is required for all other undergrads."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1.  Wolfson, R. SECOND EDITION, 2012. Energy, Environment and Climate,  Norton & Company, available at the Norris bookstore or through online sellers) $50-$80.\n Please let me know if you would like access to a reserve copy at the library.\n2. Coursepack--$25\n3. Additional readings will be posted on Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Exam(s)\nHomeworks\nOne group project"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two 80 minute lectures per week"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "- Consider the history of energy use and industrialization, and how this shapes the modern world\n-  Track & quantify their own energy consumption and the energy embodied in products and services\n-  Discuss the benefits and drawbacks of historical and present-day patterns of global energy consumption in terms of social costs/benefits and sustainability\n-  Evaluate the scientific evidence regarding human-caused climate change\n- Survey practical aspects of major alternative energy technologies\n- Monitor and critique news media coverage of energy-related topics\n- Research and discuss the trade-offs associated with various energy technologies and proposals"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Open to graduate students from all disciplines, senior undergraduates majoring in natural sciences or engineering, and other interested undergraduates by instructor consent."
+        }
+    ], 
+    "class_num": 12703, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "342-0"
+}

@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 19749, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Global Asians", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": "Ji-Yeon Yuh is a native of Seoul and Chicago, a former journalist, and a mother of three. Her intellectual passions are wide-ranging, but these days are focused on diaspora, memory, and community. She is active in Asian American community organizations, was the director of the Asian American Studies Program at  Northwestern, of which she is a founding faculty member, and has written on Korean diaspora. She teaches courses on Asian diaspora, Asian American history, oral history, Asian American women, and comparative race and gender.", 
+        "name": "Ji-Yeon Yuh", 
+        "phone": "847/467-6538", 
+        "address": "Harris Hall Room 306"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall B17", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION:  Americas"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nLok Siu, Memories of a Future Home, Stanford UP 2005, 0804753024\nCatherine Ceniza Choy, Empire of Care, Duke UP, 2003, 082233089X\nViranjini Munasinghe, Callaloo or Tossed Salad? Cornell 2001, 080148619X\nSandhya Shukla, India Abroad, Princeton 2003, 0691092672\nJohn Lie, Zainichi:Diasporic Nationalism and Post-colonial Identity, Univ. California Press, 2008, 978-0520258204\nTakeyuki Tsuda, Strangers in the Ethnic Homeland, Columbia UP 2003, 0231128398"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance and participation (10%), Presentations and leading short discussions (20%), Three Response Papers (30%, Term Project (40%)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and in-class discussion"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "This is a combined class in the History Department and the Asian American Studies Program and may be taken for credit as either History 216-0 or Asian American 216-0.  If taken in one discipline it may not be taken subsequently in the other discipline for repeat credit."
+        }
+    ], 
+    "class_num": 34162, 
+    "attributes": "Historical Studies Distro Area\n\n", 
+    "catalog_num": "216-0"
+}

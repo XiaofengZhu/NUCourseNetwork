@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20518, 
+    "subject": "IMC", 
+    "requirements": "Enrollment Requirements: Registration is reserved for IMC Certificate students who have completed IMC 303-0.", 
+    "title": "IMC Capstone Project", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Paul Wang", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Louis Hall 226", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22101, 
+    "attributes": null, 
+    "catalog_num": "320-0"
+}

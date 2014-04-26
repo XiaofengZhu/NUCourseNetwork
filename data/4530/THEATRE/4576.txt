@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4576, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Theatre in Context", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael Patrick Anderson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-416", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "No prior dance experience or knowledge is necessary."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course pack will be available at Quartet Copies."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "1. Course pack from Quartet\n\n2. Aston, Elaine. An introduction to feminism and theatre. New York : Routledge, 1995. \nISBN:\t 0415087686 \n0415087694 (pbk.)\n\n3. Tickets to local theatre production TBA"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "\tDefine feminism and feminist thought correctly. \n\tIdentify an argument, its sub-arguments, and its evidence in a secondary text. \n\tApply gender studies theories to elements in texts and performances and describe their (potential) impact on audiences.\n\tArticulate thoughtful questions and comments in an engaged seminar discussion.\n\tCompose a research paper that demonstrates the ability to: create an original argument,  write a thesis statement, organize and integrate evidence, and draw significant conclusions."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Have taken 140-1"
+        }
+    ], 
+    "class_num": 21546, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "140-2"
+}

@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 12470, 
+    "subject": "HUM", 
+    "requirements": null, 
+    "title": "The World of Homer", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "University Hall 122", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ann C Gunter", 
+        "phone": "847 467 0873", 
+        "address": "KRESGE 1880 Campus Dr #3-400"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "1st class mandatory"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Homer, <em>Odyssey,</em> trans. by Stanley Lombardo (Hackett Publishing Co., Inc., 2000). ISBN 978-0-87220-484-3 \nHomer, <em>Iliad,</em> trans. by Stanley Lombardo (Hackett Publishing Co., Inc., 1997). ISBN 978-0-87220-352-5 \nOsborne, Robin. <em>Greece in the Making 1200-479 BC.</em> 2d edition. Routledge, 2009. ISBN  978-0415469920. \n\nREQUIRED READING BUT PURCHASE IS OPTIONAL. STUDENTS MAY USE THE E-BOOK VERSION ACCESSED THROUGH NU LIBRARY. \n\nAdditional required readings are available through the NU Library or are posted on Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance and participation 15%\nMidterm exam 25%\nTwo short written assignments (15% each)\nFinal take-home exam 30%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The course format consists of lectures and weekly section discussions."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. Understand the main issues and approaches to reconstructing the history and material culture of early Greece.\n2. Understand the various sources available for reconstructing early Greek history and material culture: literary, archaeological, historical.\n3. Develop skills in the critical evaluation of archaeological and historical evidence and argument.\n4. Develop skills in understanding the aims and methods of archaeology and interpreting the visual presentation of archaeological information."
+        }
+    ], 
+    "class_num": 12799, 
+    "attributes": "Historical Studies Distro Area\n\nInterdisciplinary Distro - See Rules\n\nLiterature & Fine Arts Distro Area\n\nEthics & Values Distro Area Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "205-0"
+}

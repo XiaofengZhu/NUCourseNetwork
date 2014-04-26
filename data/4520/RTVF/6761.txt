@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6761, 
+    "subject": "RTVF", 
+    "requirements": null, 
+    "title": "Analyzing Media Texts", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Cary Elza received her PhD from Northwestern's Screen Cultures program in 2013, and has taught courses on film history, media and cultural theory, apocalyptic cinema,  vampires in film and TV, media history and kids' media at Northwestern, Lake Forest College, and DePaul University. Her publications include articles and anthology chapters on Pokemon, The X-Files, Veronica Mars, Michael Moore, Smallville, and Twilight.", 
+        "name": "Cary M. J. Elza", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Bordwell and Thompson, Film Art: An Introduction.  ISBN: 0073535109 (Will use 10th edition, but previous  (recent) editions will be acceptable--I'll discuss this the first day of class.)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 18198, 
+    "attributes": null, 
+    "catalog_num": "220-CN"
+}

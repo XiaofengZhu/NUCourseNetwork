@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 1714, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Advanced Topics in European Economic History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joel Mokyr", 
+        "phone": "847/467-2739", 
+        "address": "Harris Hall Room 315"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center 3204", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 23662, 
+    "attributes": null, 
+    "catalog_num": "420-2"
+}

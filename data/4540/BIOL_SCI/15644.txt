@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 15644, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Immunobiology", 
+    "section": "16", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "16", 
+    "school": "UC", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Steven J Anderson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Wieboldt Hall 406", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Peter Parham, The Immune System, 3rd edition 2009 by Garland Science ISBN 978-0815341468"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The major course objectives are: 1. To provide students with an understanding of the molecular and cellular basis of the immune response. 2. To probe the underlying mechanisms of immune system dysfunction as it relates to disease. 3. To encourage students to become independent learners. 4. To encourage students to synthesize information based on fundamental knowledge and experimental evidence."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "BIOL SCI 210-A, -B, -C or equivalent. Students should have a basic understanding of cellular and molecular biology principles. BIOL SCI 301 Biochemistry or equivalent is highly encouraged"
+        }
+    ], 
+    "class_num": 38661, 
+    "attributes": null, 
+    "catalog_num": "355-CN"
+}

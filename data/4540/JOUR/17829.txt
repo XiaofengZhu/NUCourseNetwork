@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 17829, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: REASON: Pre-registration is not allowed for this class. Please try again during regular registration.", 
+    "title": "Undergraduate Research", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michele Bitoun", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35754, 
+    "attributes": null, 
+    "catalog_num": "388-1"
+}

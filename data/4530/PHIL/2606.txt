@@ -1,0 +1,61 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 2606, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Elementary Logic II", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "University Library 3622", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael John Glanzberg", 
+        "phone": "847/491-4452", 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-345", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Lecture notes provided in class."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Weekly Homework (most weeks), one midterm exam, one final exam. \n\nThe course satisfies the logic requirement for graduate students in the Philosophy department: graduate students will have a different final project."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and discussion."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of this course, students will have a deeper understanding of how logic works, what it can do, and what it cannot do. They will also understand a range of important applications of logic, that are significant to philosophy, and to other fields including mathematics."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "PHIL 150 or permission of instructor."
+        }
+    ], 
+    "class_num": 24445, 
+    "attributes": "Formal Studies Distro Area\n\n", 
+    "catalog_num": "250-0"
+}

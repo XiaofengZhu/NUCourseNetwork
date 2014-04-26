@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 220, 
+    "course_id": 19887, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Prerequisite: Students must be currently enrolled in or have completed CHEM 210-1 or CHEM 212-1 to register for this course.\n\nStudents must have taken BIOL_SCI 116 or 216; and Chem 210-1 or 212-1, to register for this course.", 
+    "title": "Biochemistry", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Tech Institute Lecture Room 2", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "20:50:00", 
+            "meeting_days": "We", 
+            "start_time": "19:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Thomas J Meade", 
+        "phone": "847/491-2481", 
+        "address": "Silverman Hall (East Tower), 2nd floor, room 2503"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 2", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "For students who choose to purchase the full text: \nReginald H. Garrett, Charles M. Grisham Biochemistry, 5th Edition, Cengage, ISBN-10: 1133106293, ISBN-13: 9781133106296."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The text is a special Northwestern edition of Garrett/Grisham Biochemistry.   Custom text ISBN: 9781305033894.  Students may choose to purchase the full text as well (see below)\n\nStudents will also require access to Sapling Learning Online Homework (One-Term Access): ISBN 978-0-9833859-5-0 at www.saplinglearning.com"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture style with interactive activities that engage students in applications of biochemical phenomena"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No credit after taking 301. Prerequisites: BIO 116 or 216, CHEM 210-1."
+        }
+    ], 
+    "class_num": 26103, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "218-0"
+}

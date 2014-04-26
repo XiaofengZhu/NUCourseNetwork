@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 17444, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "English Literary Traditions II", 
+    "section": "66", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "66", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Jeanine Casler teaches various courses in eighteenth-century literature at Northwestern, focusing on women's writing, the novel, and satire.  Her publications include a new edition of Clara Reeve's 1791 novel The School for Widows, as well as articles on Burney, Edgeworth, and aging in the eighteenth-century.", 
+        "name": "Jeanine M Casler", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 101", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Norton Anthology of English Literature, 8th edition, Volume 2. 0-393-97490-1\nPersuasion, Jane Austen (Norton Critical edition). 0-393-96018-8\nMrs. Dalloway, Virginia Woolf 0-783-81824-6"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, you should have a good idea what we mean when we speak of romanticism, Victorianism and modernism."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Previous literature course strongly recommended. Students should have fulfilled the SCS writing requirement or taken equivalent writing courses."
+        }
+    ], 
+    "class_num": 35047, 
+    "attributes": null, 
+    "catalog_num": "210-B"
+}

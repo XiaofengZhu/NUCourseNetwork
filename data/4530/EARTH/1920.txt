@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 1920, 
+    "subject": "EARTH", 
+    "requirements": null, 
+    "title": "Tectonics and Structural Geology", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute F389", 
+            "section": "20", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Craig R Bina", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "None."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Book -  Structural Geology by Haakon Fossen, 1st edition, 2010, Cambridge, ISBN-10: 0521516641, ISBN-13: 978-0521516648, $45"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Labs and two exams."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and weekly lab section."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "EARTH 201, MATH 240, PHYSICS 135-1, or consent of the instructor."
+        }
+    ], 
+    "class_num": 34184, 
+    "attributes": null, 
+    "catalog_num": "328-0"
+}

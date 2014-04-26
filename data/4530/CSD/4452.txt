@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4452, 
+    "subject": "CSD", 
+    "requirements": "Enrollment Requirements: Reserved for Doctor of Audiology students only.", 
+    "title": "Pathologies of the Auditory System", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Tina M Grieco-Calub", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2407", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Musiek, F.E., Baran, J.A., Shinn, J.B., Jones, R.O. (2012). Disorders of the Auditory System. San Diego, CA: Plural Publishing"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the completion of this course, students will be able to:\n<ul>\n<li>Identify the auditory and vestibular disorders that arise from alterations in the development of the peripheral systems. (A1) </li>\n<li>Identify the difference between syndromic and nonsyndromic hearing loss. Identify the known genetic factors associated with each. (A2)</li>\n<li>Identify pharmacologic agents that cause hearing loss and vestibular disorders. Identify the audiological and vestibular profiles associated with this type of toxicity. (A8)</li>\n<li>Identify auditory and vestibular pathology based on information from audiological, vestibular and/or medical evaluation. Understand how individuals with these pathologies are audiologically and/or medically managed. (A10)</li>\n<li>Discuss relevant research findings in the context of auditory and vestibular pathologies. (F2)</li>\n</ul>"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Currently enrolled in the Doctor of Audiology program or by instructor permission."
+        }
+    ], 
+    "class_num": 33968, 
+    "attributes": null, 
+    "catalog_num": "420-0"
+}

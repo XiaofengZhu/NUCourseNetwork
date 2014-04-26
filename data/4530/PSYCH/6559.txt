@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6559, 
+    "subject": "PSYCH", 
+    "requirements": null, 
+    "title": "Research Methods in Psychology", 
+    "section": "15", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "15", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Seema Devi Saigal", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 514", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "PSYCH 201"
+        }
+    ], 
+    "class_num": 35086, 
+    "attributes": null, 
+    "catalog_num": "205-CN"
+}

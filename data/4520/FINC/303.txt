@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 55, 
+    "course_id": 303, 
+    "subject": "FINC", 
+    "requirements": null, 
+    "title": "Investment Banking", 
+    "section": "31", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-23", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "31", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David Paul Stowell", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18342, 
+    "attributes": null, 
+    "catalog_num": "461-0"
+}

@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 1138, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "Psychological Anthropology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rebecca A Seligman", 
+        "phone": "847/491-7207", 
+        "address": "1810 Hinman Ave., Room #204, EV Campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "ANTHRO Sem Rm B07 - 1810 Hinmn", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Course pack. No P/N allowed. No freshmen may register."
+        }
+    ], 
+    "class_num": 34153, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\nNo Freshmen\n\n", 
+    "catalog_num": "377-0"
+}

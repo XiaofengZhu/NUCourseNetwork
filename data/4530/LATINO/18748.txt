@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18748, 
+    "subject": "LATINO", 
+    "requirements": null, 
+    "title": "Topics in Latina and Latino Social and Political Issues", 
+    "section": "29", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "29", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ana L Aparicio", 
+        "phone": "847/491-5132", 
+        "address": "515 Clark St., Room #201"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "No P/N option. Attendance at first class mandatory, particularly if you're trying to register but haven't been able to do so yet."
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Aparicio, Ana. 2009. Dominican Americans and the Politics of Empowerment. FL: University Press of Florida\n\nDavila, Arlene. 2004. Barrio Dreams. CA: University of California Press.\n\nPerez, Gina et al., eds. 2010. Beyond El Barrio: Everyday Life in Latina/o America. NY: NYU Press."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Millard, Ann V. and Jorge Chapa. 2004. Apple Pie and Enchiladas: Latino Newcomers in the Rural Midwest. TX: University of Texas Press.\n\nOdem, Mary E. and Elane Lacy, eds.  2009. Latino Immigrants and the Transformation of the U.S. South.  GA: University of Georgia Press.\n\nVallejo, Jody. 2012. Barrios to Burbs: The Making of the Mexican American Middle Class. CA: Stanford University Press."
+        }
+    ], 
+    "class_num": 26073, 
+    "attributes": "Interdisciplinary Distro - See Rules\n\nSocial & Behavioral Sciences Distro Area\n\nEthics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "392-0"
+}

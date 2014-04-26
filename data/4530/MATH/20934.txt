@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20934, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "MENU:  Probability and Stochastic Processes", 
+    "section": "51", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 104", 
+            "section": "51A", 
+            "component": "DIS", 
+            "end_time": "11:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "11:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "51", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sandy L Zabell", 
+        "phone": "8474915564", 
+        "address": "Lunt 227"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall 101", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 34201, 
+    "attributes": "Formal Studies Distro Area\n\n", 
+    "catalog_num": "311-2"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19025, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Gender and Sexuality in 20th-Century Italian Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TuTh 11 - 12PM", 
+        "bio": null, 
+        "name": "Domietta Torlasco", 
+        "phone": "847/491-8269", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-131"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "http://www.filmaffinity.com/en/film357320.html"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Marita Sturken and Lisa Cartwright, eds., Practices of Looking: An Introduction to Visual Culture\n\nAdditional course materials will be made available in a course packet."
+        }
+    ], 
+    "class_num": 34088, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nGiven in English\n\n", 
+    "catalog_num": "377-0"
+}

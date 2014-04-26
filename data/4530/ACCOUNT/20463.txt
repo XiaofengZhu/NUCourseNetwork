@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20463, 
+    "subject": "ACCOUNT", 
+    "requirements": null, 
+    "title": "Income Tax II", 
+    "section": "12", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "12", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Beth Kane", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35155, 
+    "attributes": null, 
+    "catalog_num": "308-DL"
+}

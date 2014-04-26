@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 449, 
+    "subject": "OPNS", 
+    "requirements": null, 
+    "title": "Logistics and Supply Chain Management", 
+    "section": "61", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-23", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "61", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sunil Chopra", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18640, 
+    "attributes": null, 
+    "catalog_num": "455-0"
+}

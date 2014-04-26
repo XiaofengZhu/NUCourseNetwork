@@ -1,0 +1,60 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 1573, 
+    "subject": "GREEK", 
+    "requirements": null, 
+    "title": "Readings in Greek Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John P F Wynne", 
+        "phone": "847/467-1843", 
+        "address": "Crowe 1-103"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Teaching Method", 
+            "desc": "Class participation\nDiscussion\nOnline work \nPresentations\nReadings\nWriting assignments\nTranslation from the Greek; grammar reviews"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Advanced knowledge of Greek; general grasp of the genre of Athenian tragedy; intimate understanding of the Prometheus Bound; speaking, writing, and reading skills."
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "No P/N"
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Optional:\nAlexander Nehamas and Paul Woodruff (trans.), Plato: Symposium, Hackett, 1989. ISBN: 978-0872200760"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required:\nK. J. Dover (ed.), Plato, Symposium, CUP, 1980. ISBN: 978-0521295239"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Midterm Greek exams based on the text, a final paper, occasional language quizzes."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Greek 201-3 or permission of the director of the Greek program, Prof. Claudia Zatta. c-zatta@northwestern.edu"
+        }
+    ], 
+    "class_num": 23819, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nPrerequisites apply, see description\n\n", 
+    "catalog_num": "301-0"
+}

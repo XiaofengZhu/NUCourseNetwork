@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19210, 
+    "subject": "JAZZ_ST", 
+    "requirements": null, 
+    "title": "Jazz Improvisation I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Christopher Aaron Madsen", 
+        "phone": "847/491-3412", 
+        "address": "REGENSTEIN 60 Arts Circle Dr, Evanston IL"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 14408, 
+    "attributes": null, 
+    "catalog_num": "236-1"
+}

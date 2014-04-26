@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 21061, 
+    "subject": "PSYCH", 
+    "requirements": null, 
+    "title": "Advanced Seminar in Personality, Clinical, or Social Psychology", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Wendi Gardner is an Associate Professor in the Psychology department at Northwestern University.  She is a social psychologist, with research interests in the self concept, culture, social rejection and belonging needs, and emotion.  Professor Gardner has received both departmental and college wide teaching awards, as well as the college award for excellence in undergraduate mentoring.", 
+        "name": "Wendi L Gardner", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Technological Institute M177", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "PSYCH 205"
+        }
+    ], 
+    "class_num": 38767, 
+    "attributes": null, 
+    "catalog_num": "357-CN"
+}

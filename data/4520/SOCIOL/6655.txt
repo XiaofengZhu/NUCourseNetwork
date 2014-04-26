@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6655, 
+    "subject": "SOCIOL", 
+    "requirements": null, 
+    "title": "Introduction to Sociology", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Currently a doctoral candidate in Sociology and a graduate certificate candidate in the Gender and Sexuality Studies Program, Theo's research and teaching interests include Community and Urban Sociology, Sociology of Culture, Sociology of Sexualities, Race, Class, and Gender.  His dissertation, Not in My Gayborhood: Gay Neighborhoods and the Rise of the Vicarious Citizen, draws on gay neighborhoods to examine how actors make legitimate claims to ownership in a community without having any residential or material ties to that community. Theo has taught numerous classes in sociology, gender and sexuality studies on the undergraduate and graduate levels at Northwestern, including \"Sexuality and the City\" and a graduate-level seminar on undergraduate teaching.  His teaching has garnered numerous awards from Northwestern's Sociology department.", 
+        "name": "Theodore Charles Greene", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Karen Sternheimer's Everyday Sociology Reader (Norton & Company) ISBN 9780393910032 - bundled with Dalton Conley's You May Ask Yourself (Norton & Company)."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of this course, students should be able to: identify and explain key sociological concepts; apply sociological concepts to theories to real-world situations and current events; generate questions and critically examine evidence to understand how large-scale institutions such as the family, education, politics, work, religion shape our lives."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 18232, 
+    "attributes": null, 
+    "catalog_num": "110-CN"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 4894, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Sustainability: Issues & Actions Near and Far", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "k-gray@northwestern.edu", 
+        "bio": null, 
+        "name": "Kimberly A Gray", 
+        "phone": "847/467-4252", 
+        "address": "2145 N. Sheridan Road / TECH A322"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Available for purchase at Norris Bookstore:   \n\nThe Big Thirst:  The Secret Life and Turbulent Future of Water  /  Charles Fishman / ISBN 978-1439102084 / 2012 / reprint edition / Free Press\n\nCollapse: How Societies Choose to Fail or Succeed / Jared Diamond / ISBN 978-0143117001 / 2011 / rev ed./ Penguin Books\n\nThe End of Poverty:  Economic Possibilities for Our Time/ Jeffrey D. Sachs / ISBN 978-0143036586\t/ 2006 / reprint / Penguin Books"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS SCHEDULE  /  One 3-hour Lecture per week."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Junior or senior standing."
+        }
+    ], 
+    "class_num": 16991, 
+    "attributes": null, 
+    "catalog_num": "368-0"
+}

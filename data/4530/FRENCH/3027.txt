@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3027, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "From Modernism to Postmodernism", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "Fridays 1PM - 3PM", 
+        "bio": null, 
+        "name": "Scott P Durham", 
+        "phone": "8474914660", 
+        "address": "1860 S. Campus Drive, Crowe Hall #3-143"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-420", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texts (available at Norris):\nProust, Do cot de chez Swann\nBreton, Nadja\nDjebar, L'Amour, la fantasia\nLeiris, L'Age d'homme\nSartre, Les mots"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Participation in class; oral assignments and three 4-6 page papers written in French."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class discussion and lectures (in French)."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "This course satisfies the Area VI Literature and Fine Arts distribution requirement.\nPrerequisite: 271, 272, or 273, or consent of instructor."
+        }
+    ], 
+    "class_num": 34073, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nAttendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nReading, writing, speaking proficiency\n\n", 
+    "catalog_num": "360-0"
+}

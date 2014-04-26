@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20722, 
+    "subject": "ASIAN_ST", 
+    "requirements": null, 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Phyllis I Lyons", 
+        "phone": "8474912766", 
+        "address": "4-372 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Lady Sarashina, As I Crossed a Bridge of Dreams;\nFutabatei Shimei, Ukigumo (Floating Clouds);\nNatsume Soseki, Sanshiro \nOe Kenzaburo, The Silent Cry;\n\nPhoto duplicated course reader including selections from Kojiki, The Tale of Genji, The Life of an Amorous Man, etc."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "No examinations will be given but students will generate one-page weekly \"talking point\" sets based on the readings for that week, which they will present in class to guide discussion. Evaluation will be based on performance in class discussion (including \"talking point\" sets), 3 short papers and a longer final paper.\nWeekly question sets (student-generated \"talking points\"); 3 short papers (4-5 pp.); longer final paper (8-10 pp.)"
+        }
+    ], 
+    "class_num": 17220, 
+    "attributes": null, 
+    "catalog_num": "110-6"
+}

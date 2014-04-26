@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 15942, 
+    "subject": "MTS", 
+    "requirements": null, 
+    "title": "Special Topics Research Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michelle Dawn Shumate", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G29", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "MTS and TSB PhD students only. All other students must request permission of instructor."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course packet will be made available online"
+        }
+    ], 
+    "class_num": 21886, 
+    "attributes": "Graduate Students Only\n\n", 
+    "catalog_num": "525-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 1656, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Elements of Public Finance", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lee M Lockwood", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G15", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<i>Public Finance and Public Policy</i>, 4th edition, by Jonathan Gruber (ISBN: 978-1429278454)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Course grades will be based on two exams and regular assignments."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two lectures per week, with the possibility of a TA section on Fridays"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Economics 281, 310-1, and 310-2"
+        }
+    ], 
+    "class_num": 24020, 
+    "attributes": null, 
+    "catalog_num": "309-0"
+}

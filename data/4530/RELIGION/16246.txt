@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 16246, 
+    "subject": "RELIGION", 
+    "requirements": "Enrollment Requirements: Students must have taken Religion 250 to take this course.", 
+    "title": "Sufism and Philosophy in Islam", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Brannon Dobbs Ingram", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Nile Green, Sufism: A Global History (Wiley-Blackwell, 2012) - 978-1405157650\nCarl Ernst, Sufism: An Introduction to the Mystical Tradition of Islam, 2nd edition (Shambhala, 2011) - 978-1590308844\nAhmet Karamustafa, Sufism: The Formative Period (University of California Press) 978-0520252691\nMichael Sells, Early Islamic Mysticism (Paulist Press) - 978-0809136193"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Reli 250 (Introduction to Islam) or permission of instructor"
+        }
+    ], 
+    "class_num": 34536, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "354-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 16156, 
+    "subject": "COUN", 
+    "requirements": "Enrollment Requirements: Reserved for Counseling students.", 
+    "title": "Evaluation & Treatment of Trauma Disorders", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Donald R Catherall", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 37010, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "453-0"
+}

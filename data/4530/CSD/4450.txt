@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 4450, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Introduction to Audiology", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "61", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jason Tait Sanchez", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 1421", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "1. Martin, Frederick N., & Clark, John Greer. (2012). Introduction to Audiology, Eleventh Edition. Boston, MA: Pearson; Allyn & Bacon. ISBN-13: 978-0-13-210821-8.\n2. Welling, Deborah R., & Ukstins, Carol A. (2013). Fundamentals of Audiology for the Speech-Language Pathologist. Burlington, MA: Jones & Bartlett Learning. ISBN 978-1-4496-6030-7."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "<ul> \n<li>Describe the field of audiology and many of the sub-specialty areas.</li>\n<li>Relate basic principles of sound to human hearing.</li>\n<li>Relate hearing disorders to the structure and function of the auditory system.</li>\n<li>Describe the different types of hearing loss and their causes.</li>\n<li>Describe evaluation procedures used in audiology AND hearing screening protocols identified in speech-language pathology (SLP) Scope of Practice documents.</li>\n</ul>"
+        }
+    ], 
+    "class_num": 21418, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "318-0"
+}

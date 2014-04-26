@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 8307, 
+    "subject": "LITARB", 
+    "requirements": null, 
+    "title": "International Arbitration", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Lawrence Scott Schaner", 
+        "phone": "312/923-2689", 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18088, 
+    "attributes": "1 Draft degree req may be met with class\n\n3 draft degree req may be met with class\n\nConsult Professor about writing requirements\n\nProfessional Skills Course\n\nInternational Law PracticeArea in course\n\nCivil Litigation & Dispute Resolution\n\n", 
+    "catalog_num": "695"
+}

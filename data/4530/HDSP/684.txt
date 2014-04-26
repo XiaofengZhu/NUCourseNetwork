@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 684, 
+    "subject": "HDSP", 
+    "requirements": "Enrollment Requirements: Reserved for HDSP Grad Students Only.", 
+    "title": "Field Methods", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Simone Zinaida Ispa-Landa", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall 317", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 23042, 
+    "attributes": null, 
+    "catalog_num": "432-0"
+}

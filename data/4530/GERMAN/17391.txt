@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 17391, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Advanced Business German: German for Marketing and Management", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesdays 1 to 3 pm and by appointment", 
+        "bio": null, 
+        "name": "Katrin Voelkner", 
+        "phone": "847.328.3471", 
+        "address": "2-560 Kresge Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "A reader to be purchased at Quartet Copies on digital materials via CMS Canvas."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "- The students will have:\n - acquired relevant Business German vocabulary and grammatical structures prevalent in business contexts.\n - acquired cross-cultural knowledge about business practices.\n - an understanding of marketing and management practices in Germany.\n - read and written about a variety of business-related topics in Germany."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "One 200-level course in German and German 209"
+        }
+    ], 
+    "class_num": 23820, 
+    "attributes": "Reading, writing, speaking proficiency\n\n", 
+    "catalog_num": "309-2"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18859, 
+    "subject": "ART", 
+    "requirements": null, 
+    "title": "Introduction to Time Based Arts", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Irena Knezevic", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 3-365", 
+    "end_time": "15:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 33987, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "130-0"
+}

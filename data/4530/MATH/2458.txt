@@ -1,0 +1,61 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 2458, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Elementary Differential Equations", 
+    "section": "51", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 107", 
+            "section": "51A", 
+            "component": "DIS", 
+            "end_time": "11:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "11:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "51", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Dustin David Belt", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-410", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students may not receive credit for 250 and 281-2."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Elementary Differential Equations, 9th Ed. By Boyce and DePrima. Publisher-Wiley.\nISBN: 978-0-470-03940-3"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The student's grade in each quarter will be based on quizzes, midterm exams and a final exam"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Three lectures and one quiz section per week."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "230-0 or 234-0; 240 or concurrent registration in 240."
+        }
+    ], 
+    "class_num": 26517, 
+    "attributes": null, 
+    "catalog_num": "250-0"
+}

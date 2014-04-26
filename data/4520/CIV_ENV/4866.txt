@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 4866, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Construction Management", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "rjkrizek@northwestern.edu", 
+        "bio": null, 
+        "name": "Raymond John Krizek", 
+        "phone": "847/491-4040", 
+        "address": "2145 N. Sheridan Road / Tech A114"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Recommended Only --  FOR SECTION 01 ONLY -- Construction Project Management / by Alison Dykstra / ISBN 978-0-9827034-9-6 / 1st edition / 2011\n\n\nRecommended Only --  FOR SECTION 02 ONLY  -- Professional Construction Management / D.S. Barrie and B.C. Paulson / ISBN 978-0071129176  (paperback) / 1992 / 3rd / McGraw-Hill Higher Ed"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS SCHEDULE / Two days a week for two hours each class period."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the end of the course, students will be able to:\n1) Recognize the variety of delivery systems for construction projects.  \n2) Differentiate the construction manager's role during preconstruction and estimating process.  \n3) Examination of the bidding versus Quality based selection process for procurement of work by construction management firms.  \n4) Differentiation of the various types of schedules used in construction.  \n5) Contrast the roles and responsibilities and the interactions of design professionals and construction professionals to construct a project."
+        }
+    ], 
+    "class_num": 15635, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "330-0"
+}

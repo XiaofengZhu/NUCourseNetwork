@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 985, 
+    "subject": "JOUR", 
+    "requirements": null, 
+    "title": "Health & Sciences Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Donna R Leff", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "MSJ Program Only; prerequisites: Journalism Methods; Q2 requirement course."
+        }
+    ], 
+    "class_num": 22009, 
+    "attributes": null, 
+    "catalog_num": "425-0"
+}

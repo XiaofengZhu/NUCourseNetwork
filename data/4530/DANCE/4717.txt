@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4717, 
+    "subject": "DANCE", 
+    "requirements": null, 
+    "title": "Modern l", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Annie Arnoult Beserra", 
+        "phone": "847/491-3147", 
+        "address": "10 Arts Circle Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Ballroom", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Dance attire is required. Dancers take class in bare feet. \n\nA journal."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the successful completion of the course the student will demonstrate:\nAn improved understanding of body connectivity, multi-level movement, strength and release, weight shifting and sharing, rhythm, and dynamics.\nThe ability to apply the concepts listed above in the body in the context of classroom exercises, guided improvisations, and extended movement sequences.\nIncreased strength, flexibility, and coordination as developed through classroom exercises.\nA functional understanding of basic principles of anatomy and kinesiology as they relate to class material and contribute to injury-free dancing.\nA basic understanding of the origins and development of modern dance as a unique dance form that encompasses a diverse field of stylistic approaches."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No prerequisites for this class."
+        }
+    ], 
+    "class_num": 21564, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "150-0"
+}

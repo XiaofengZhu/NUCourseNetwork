@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 6186, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Reading and Writing Fiction", 
+    "section": "15", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "15", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Lisa Stolley received her MA and PhD in English with a focus on fiction writing from the Program for Writers at University of Illinois at Chicago. Her fiction has appeared in numerous literary journals and anthologies, including The Hawaii Review, Florida Review, and Scribner's Best of the Fiction Workshops; her work has also received prizes and grants, including one from the Illinois Arts Council.  Professor Stolley writes nonfiction as well; her work has been published in magazines and newspapers, including The Chicago Reader.  In addition to teaching in Northwestern's SCS program, she teaches literature and creative nonfiction/fiction writing at Roosevelt University, where she is on the MFA faculty.  She is currently at work on her second collection of short fiction.", 
+        "name": "Lisa A Stolley", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "To be announced."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Methods of developing plot and character through conflict\n\nMethods of using description, action, thoughts, and dialogue to bring out character\n\nUse of various narrative points of view through which stories can be told\n\nUse of various kinds of diction and figurative language  to write stories\n\nMethods for generating story ideas\n\nMethods for revising and editing a stories\n\nMethods for providing constructive suggestions and encouragement to fellow writers in a workshop setting"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "May not be audited or taken P/N. Advanced composition course or equivalent writing experience strongly recommended.\n\nStudents should have fulfilled the SCS writing requirement or taken equivalent writing courses."
+        }
+    ], 
+    "class_num": 18183, 
+    "attributes": null, 
+    "catalog_num": "207-CN"
+}

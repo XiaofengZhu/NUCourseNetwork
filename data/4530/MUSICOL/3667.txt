@@ -1,0 +1,36 @@
+{
+    "overview": "<em>Issues of Jewish identity in Music 1800-1950</em> <p>This graduate level seminar will explore a number of issues concerning Jewish identity in Western art music from the beginning of the 19th-century through the middle of the 20th.  Among the topics we will investigate are the musical and dramatic representation of Jewish characters in selected operas by Rossini, Halvy, Mascagni, and Richard Strauss; Wagner's anti-semitism and his attack on Meyerbeer, the complexities of identity in the case of music by Jewish-born converts to Christianity such as Felix Mendelssohn, Ferdinand Hiller, and Gustav Mahler; the Jewish-inspired works of Swiss composer Ernest Bloch, Arnold Schoenberg's Jewish musical legacy, the ramifications of anti-Semitism in the musical policies of totalitarian states, and the peculiar position of assimilated Jewish composers in the United States.</p>", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 3667, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Selected Topics in Musicology", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Specialist in 19th- and 20th-century Italian opera, with articles published on Rossini, Donizetti, Bellini, and Verdi; papers read at national and international conferences on opera and film music history. Research interests in musical aesthetics and the convergence of music with fields such as literature, poetry, and theology. Contributor, New Grove Dictionary of Opera (Macmillan, 1992), Pipers Enzyclopdie des Musiktheaters (Pipers, 1996), New Grove Dictionary of Music and Musicians (Macmillan, 2000). Outstanding Dissertation Award and Excellence in Teaching Award, New York University. Faculty Honor Roll, Northwestern University.", 
+        "name": "Jesse Rosenberg", 
+        "phone": "847/467-2033", 
+        "address": "j-rosenberg1@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 229", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "A final presentation and research paper will be required of all students."
+        }
+    ], 
+    "class_num": 22989, 
+    "attributes": null, 
+    "catalog_num": "435-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 530, 
+    "subject": "DECS", 
+    "requirements": null, 
+    "title": "Game Theory & Strategic Decisions", 
+    "section": "31", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "31", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ehud Kalai", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 109", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33449, 
+    "attributes": null, 
+    "catalog_num": "452-0"
+}

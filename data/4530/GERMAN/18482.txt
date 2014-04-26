@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 18482, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Writers and their Critics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Mon 1:00 - 2:00 PM  and by email appointment", 
+        "bio": null, 
+        "name": "Samuel Weber", 
+        "phone": "847/491-8296", 
+        "address": "Kresge 2-540"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Critical Texts to be read include: 1. Walter Benjamin, \"Franz Kafka: On the Tenth Annniversary of his Death\" (Selected Writings, vol. 2, Harvard UP) 2. Theodor Adorno, \"Notes on Kafka\" (Prisms, MIT Press)  3. Jacques Derrida, \"Before the Law\" in: Acts of Literature (Routledge, 1992) 4. Maurice Blanchot, \"Kafka and the Work's Demand,\" in The Space of Literature (University of Nebraska Press); Franz Kafka: The Complete Stories, The Man Who Disappeared (formerly entitled: America). German texts available on the internet and in Kindle editions."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be expected to have a better understanding of the variety of ways one of the most influential writers of the 20th century has been read and understood."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No particular registration requirements. Texts will be made available in English as well as in their original language (German, French)"
+        }
+    ], 
+    "class_num": 34141, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "334-0"
+}

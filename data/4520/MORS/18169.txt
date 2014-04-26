@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 18169, 
+    "subject": "MORS", 
+    "requirements": null, 
+    "title": "Writing in Organizations", 
+    "section": "61", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-23", 
+    "end_date": "2013-10-25", 
+    "start_time": null, 
+    "component": "61", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Barbara L Shwom", 
+        "phone": "847/491-7690", 
+        "address": "Kresge 2-245"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18442, 
+    "attributes": null, 
+    "catalog_num": "449-A"
+}

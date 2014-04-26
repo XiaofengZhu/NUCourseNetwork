@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 16588, 
+    "subject": "MSA", 
+    "requirements": "Enrollment Requirements: Reserved for MSA Students Only", 
+    "title": "Sports in the Social Context", 
+    "section": "50", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "50", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Craig Llewellyn Lamay", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M164", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34816, 
+    "attributes": null, 
+    "catalog_num": "400-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 17243, 
+    "subject": "DANCE", 
+    "requirements": "Enrollment Requirements: Reserved for Dance Minors & Music Theatre Certificate Students", 
+    "title": "Music Theatre Dance I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Laura K Wade", 
+        "phone": "847/491-3147", 
+        "address": "10 Arts Circle Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Ballroom", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21507, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "130-2"
+}

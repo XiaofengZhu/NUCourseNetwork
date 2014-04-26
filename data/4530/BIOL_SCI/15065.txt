@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 37, 
+    "course_id": 15065, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Students must have taken Biol_SCI 210-3, or 215 & 216; plus 1 Statistics course to register for this class.", 
+    "title": "Functional Genomics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Norman J Wickett", 
+        "phone": "847/467-2769", 
+        "address": "Hogan Hall, 2205 Tech Drive, 6th Floor, 6-120B"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L160", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "A Primer of Genome Science, third edition, Greg Gibson and Spencer V. Muse. Sinauer Associates, Inc. 370pp. ISBN: 978-0-87893-236-8\n\nPrimary scientific literature will be distributed in class."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Exams - 50%\nPapers - 25%\nProjects - 20%\nClass Participation - 5%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture, Discussion"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites:  BIO 210-3 or BIO 215 and 216; a course in statistics"
+        }
+    ], 
+    "class_num": 26357, 
+    "attributes": "Prerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "378-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 20639, 
+    "subject": "HEMA", 
+    "requirements": null, 
+    "title": "Health Care Finance", 
+    "section": "81", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-10-28", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "81", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Dale Yamamoto", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18369, 
+    "attributes": null, 
+    "catalog_num": "930-B"
+}

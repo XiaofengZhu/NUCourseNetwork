@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 76, 
+    "course_id": 18026, 
+    "subject": "BMD_ENG", 
+    "requirements": null, 
+    "title": "Introduction to Biomedical Signals and Electrical Circuits", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Tech Institute Lecture Room 4", 
+            "section": "21", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Hao Zhang", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 16158, 
+    "attributes": null, 
+    "catalog_num": "305-0"
+}

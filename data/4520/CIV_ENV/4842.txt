@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 32, 
+    "course_id": 4842, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Introductory Soil Mechanics", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute AG40", 
+            "section": "20", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Giuseppe Buscarnera", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Being ordered for purchase at Norris Bookstore:\nIntro to Geotechnical Engineering / Holtz / ISBN 978-0132496346 / 2010 / 2nd / Prentice Hall"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "This is arguably the first \"real\" engineering course that many students will take in the sense that problems encountered are more \"open-ended\" with a range of \"right answers\" in many instances, and they draw upon synthesizing concepts from preceding courses punctuated by an occasional need for engineering judgement. HOMEWORK / Solution of approximately 60 homework problems and preparation of six laboratory reports is required."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, students should be able to:  \n1) Understand soil as a three-phase material and the definitions used to relate the phases; \n2) Determine the classification of soils through testing and visual observations; \n3) Relate water flow concepts from Fluid Mechanics to flow through soil and understand how water affects effective stress; \n4) Understand the compaction process and its specification as it applies to use of soil as a construction material; \n5) Calculate the magnitude and time rate of consolidation induced settlement resulting from changes in effective stress; \n6) Relate the two dimensional stress state in soil under load to shearing strength; \n7) Provide experimental laboratory exercises to verify objectives 2-6."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CIV_ENV 216-0, Mechanics of Materials"
+        }
+    ], 
+    "class_num": 15851, 
+    "attributes": null, 
+    "catalog_num": "250-0"
+}

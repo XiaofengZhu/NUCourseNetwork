@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 75, 
+    "course_id": 20453, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Physiological Processes Laboratory", 
+    "section": "100", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "14:00:00", 
+    "component": "100", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": "Ryan Hurtado received his bachelor's degree in Genetics and Biochemistry from the University of Wisconsin and his PhD in Molecular Biosciences at Northwestern University.  A portion of his thesis work on a potential anti-cancer therapeutic was published in the journal Molecular Pharmaceutics.  He completed the Searle Center's teaching certificate program in 2010.  He has previously taught college level courses at Gateway Technical College in Wisconsin and currently also teaches at Oakton Community College.", 
+        "name": "Ryan Richard Hurtado", 
+        "phone": "847/491-4120", 
+        "address": "3117 Cook Hall"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "18:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Grades of C- or higher in both BIOL SCI 210-B and CHEM 210-A."
+        }
+    ], 
+    "class_num": 38656, 
+    "attributes": null, 
+    "catalog_num": "222-CN"
+}

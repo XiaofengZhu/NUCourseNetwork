@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 16417, 
+    "subject": "LITARB", 
+    "requirements": "Enrollment Requirements: A core intellectual property course is a pre-requisite for this class", 
+    "title": "Patent Litigation I:  Pretrial Practice", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joseph J Berghammer", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18100, 
+    "attributes": "1 Draft degree req may be met with class\n\nLit/Arb Concentration Elective\n\nProfessional Skills Course\n\nIntellectual Property Practice Area present\n\nCivil Litigation & Dispute Resolution\n\n", 
+    "catalog_num": "614A"
+}

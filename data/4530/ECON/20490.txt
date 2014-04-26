@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 20490, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Investments", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Masako Ueda", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 102", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<i>Investments</i> by Bodie, Kane and Marcus, 9th Edition (ISBN: 978-0073530703)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The course grade will be based upon a combination of problem sets, class participation, a midterm exam, and a final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two weekly lectures including case discussions and occasional review sessions plus problem sets throughout the quarter. The problems will provide practice with the types of calculations and concepts that are important to a proper understanding of the course material. Some problems will provide valuable practice for the midterm and final, while other problems will require you to obtain and make use of real-world financial data or to analyze a case and thus will give you an idea of how theory connects to reality. Sample exams will also be provided to help students practice before the actual exam."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ECON 360-1, Corporate Finance (previously Econ 360-0)"
+        }
+    ], 
+    "class_num": 26432, 
+    "attributes": null, 
+    "catalog_num": "360-2"
+}

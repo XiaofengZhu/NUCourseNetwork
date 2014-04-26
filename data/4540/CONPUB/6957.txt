@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 6957, 
+    "subject": "CONPUB", 
+    "requirements": null, 
+    "title": "First Amendment", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Jason C DeSanto", 
+        "name": "Jason C DeSanto", 
+        "phone": "312/961-2356", 
+        "address": "McCormick 198"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30056, 
+    "attributes": "Open to First Year Students\n\nConstitutional Law or Procedure an element\n\nTort & Personal Injury Law\n\n", 
+    "catalog_num": "610"
+}

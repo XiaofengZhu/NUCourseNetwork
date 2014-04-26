@@ -1,0 +1,44 @@
+{
+    "overview": "This course traces the development of the symphony, and related musical genres, from origins in the 17th century through to the current day.  In addition to historical and formal issues concerning the symphony, we will discuss broader cultural issues such as reception, politics, and the social experience, with a focus on nationalist themes.", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 3487, 
+    "subject": "GEN_MUS", 
+    "requirements": null, 
+    "title": "History of the Symphony", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jeffrey Donald Van Den Scott", 
+        "phone": null, 
+        "address": "P2R3M6@u.northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 42", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course-pack of readings and/or PDFs uploaded to Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students will be evaluated based on class discussion, journals, concert reports, in-class exams, and a final project.   Attendance in class is expected."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "This course will combine lecturing with generous class discussion of musical examples provided ahead of time."
+        }
+    ], 
+    "class_num": 34983, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "220-0"
+}

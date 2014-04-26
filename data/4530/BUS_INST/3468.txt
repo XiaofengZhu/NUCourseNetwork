@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 3468, 
+    "subject": "BUS_INST", 
+    "requirements": "Enrollment Requirements: Reserved for Juniors & Seniors", 
+    "title": "Special Topics in Business Institutions", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tuesdays & Thursdays:  11:00am - 12:00pm & by appointment", 
+        "bio": "Michelle Vile is a classically trained marketing professional with over 10 years of experience managing both large and small brands at a variety of consumer packaged goods companies.  Prior to Northwestern, she worked at Pepsico, Del Monte and Yahoo!, where she honed her skills in brand strategy, product positioning and communication, new product innovation and consumer insights.  She earned a B.A. from the University of Notre in Psychology and an M.B.A. from Indiana University in Marketing.", 
+        "name": "Michelle W Vile", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "The class will have relevance for students from and with interests in a wide range of disciplines and applied fields including engineering, journalism, health and social sciences. BIP will no longer keep any wait lists in the office or on CAESAR. Any open slots will be at the professor's discretion. \nFirst class mandatory."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The course will introduce and apply mapping tools evolved with the industry as well as multidisciplinary perspectives and will work through a series of open-ended interactive cases and exercises. After introductory sessions, a major focus will be on group projects with individual group interaction with the instructor."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "One textbook and two books are required in this class. These materials should be read BEFORE you come to class, in preparation for discussions of current trends and developments in consumer behavior.  In order to complete the assignments, you will need to utilize tools presented exclusively during class. \n\nRequired Books:\nSolomon, Michael, Consumer Behavior (10th edition), Prentice Hall, 2012.  ISBN-10:  0132671840, ISBN-13: 978-0132671842\n\nGladwell, Malcolm, The Tipping Point: How Little Things Can Make a Big Difference, Little Brown. (The copyright date is 2000 for the hardcover, 2002 for the paperback.)  ISBN-10: 0316346624, ISBN-13:  978-0316346627      \n\nHeath, Chip and Dan Heath, Made to Stick, Random House, 2008.  ISBN-10:  1400064287, ISBN-13: 978-1400064281\n\nLecture materials and other readings available on Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Participation: 20%\nBook Analysis 1 - Tipping Point (Group): 15% \nBook Analysis 2 - Made to Stick (Group): 15%\nConsumer Interviews - (Individuals or Pairs): 20%\nProduct Category Paper - (Individuals or Pairs): 30%\n\nTotal 100%\n\nEach book will be written up by your group of approximately 3 students.  The consumer interviews and final paper may be written by individuals or pairs."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Attendance at 1st class is mandatory."
+        }
+    ], 
+    "class_num": 34020, 
+    "attributes": null, 
+    "catalog_num": "390-0"
+}

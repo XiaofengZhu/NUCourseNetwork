@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 15855, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Advanced Mechatronics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael Aaron Peshkin", 
+        "phone": "847/491-4630", 
+        "address": "Technological Institute, Rm B227, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34583, 
+    "attributes": null, 
+    "catalog_num": "433-0"
+}

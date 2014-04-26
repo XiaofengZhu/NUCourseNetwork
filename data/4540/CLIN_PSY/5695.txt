@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 5695, 
+    "subject": "CLIN_PSY", 
+    "requirements": "Enrollment Requirements: Reserved for Clinical Psych MS or PhD students.", 
+    "title": "Introduction to Psychotherapy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jonathan H Sherman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 36967, 
+    "attributes": null, 
+    "catalog_num": "441-0"
+}

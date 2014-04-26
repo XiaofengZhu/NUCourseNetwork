@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 75, 
+    "course_id": 6077, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Genetics and Evolutionary Biology", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Dr. Marla Issac obtained her Ph.D. in Cell and Molecular Biology from Northwestern University in 2013.  Dr. Issac has taught biology at both the high school and undergraduate levels, and enjoys using technology to enhance her students learning experience.", 
+        "name": "Marla Edwinna Issac", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "-Introduction to Genetic Analysis, 10th ed., by Griffiths et al.\n-Evolutionary Analysis, 4th ed., by Freeman & Herron"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "-Be versed in the major themes of genetics and evolutionary biology such as heredity, phenotype, natural selection, and biodiversity. Be able to articulate these concepts using appropriate scientific terminology.\n-Understand the logic behind the gene theory, the chromosome theory and the theory of evolution, and be familiar with the experimental evidence on which these theories were first proposed.\n-Demonstrate the ability to apply the predictive power of genetics through problem solving, pedigree analysis, and statistical computation.\n-Understand how living species are connected through the process of descent with modification."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "One year of general chemistry with laboratory (CHEM 101; 102; 103) and one college biology course (BIOL SCI 165 or 170)."
+        }
+    ], 
+    "class_num": 18152, 
+    "attributes": null, 
+    "catalog_num": "210-A"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3432, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Feminist Theory", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mary Golden Dietz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "L Nicholson, ed. The Second Wave: A Reader in Feminist Theory; J Butler, Gender Trouble: Feminism and the Subversion of Identity; M Wittig, The Straight Mind and Other Essays; selected essays, chapters, articles by J Scott; J Kristeva; H Cixous; C Sandoval; W Brown; S Okin; A Jaggar; L Zerilli, and others."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "(a) Mid-term text interpretive essay (5-6 pp); (b) Final interpretive essay (6-8 pp); (c) four very short 1-2 pp. \"topos\" related to weekly readings [25%]; & class/discussion/participation [15%]."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Primarily seminar style: table talk and group discussion, student presentations, question and answer; minimal lecturing."
+        }
+    ], 
+    "class_num": 17130, 
+    "attributes": null, 
+    "catalog_num": "397-0"
+}

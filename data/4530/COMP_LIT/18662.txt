@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 18662, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Major Periods in World Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Marcus G Moseley", 
+        "phone": "847/467-4712", 
+        "address": "Kresge 2-525"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students will meet twice per week and each student will be asked give two seminar presentations. These presentations should include handouts for the group and a well-designed format for group discussion of key passages in our texts.  A paper of 15-20 pages is required at the end of the quarter.  In this paper, students will be asked to integrate the insights they have acquired in the course of the semester to their own scholarly enquiries.  Participation in the seminars plus presentations constitute 40% and the final essay 60% in grading assessment."
+        }
+    ], 
+    "class_num": 26731, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "302-0"
+}

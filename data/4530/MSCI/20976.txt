@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 20976, 
+    "subject": "MSCI", 
+    "requirements": null, 
+    "title": "Introduction to Health Measurement Science", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David Cella", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lurie Searle Seminar Room", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35175, 
+    "attributes": null, 
+    "catalog_num": "401-0"
+}

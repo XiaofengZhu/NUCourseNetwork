@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 6179, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Writing Seminar II", 
+    "section": "15", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "15", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Tricia Hermes is a writer and teacher of writing.  She completed the certificicate program in writing at Norhtwestern's School of Continuing Education in 1992, earned her Masters degree in Writing, Rhetoric & Discourse at DePaul University in 2002 and is also teaching there.  Her writing has appeared in the Chicago Tribune, Sun-Times, and in Chicago and NorthShore Magazines.  She is a mother of three college students,  a loyal Cub Fan, and may be the best parallel parker in the city.", 
+        "name": "Tricia Lee Hermes", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 406", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on in-class work (20%), summary/response to assigned readings (20%) and three short research-based essays (20% each)."
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "You will enjoy this class and learn quite a bit."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Our textbook is Protest Nation: Words that Inspired a Century of American Radicalism by Timothy Patrick McCarthy and John McMillian"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will focus on the kind of academic writing that uses information drawn from research to shape convincing arguments. Students will become comfortable with the variable relationships between writer, reader, and subject in the context of academic research and argumentation."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ENGLISH 110 or equivalent"
+        }
+    ], 
+    "class_num": 35044, 
+    "attributes": null, 
+    "catalog_num": "111-CN"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 55, 
+    "course_id": 2453, 
+    "subject": "MATH", 
+    "requirements": "Enrollment Requirements: Reserved for Engineering Students.", 
+    "title": "Multiple Integration and Vector Calculus", 
+    "section": "37", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute LG52", 
+            "section": "37A", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "37", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 1421", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 23729, 
+    "attributes": "Engineering Students Only\n\n", 
+    "catalog_num": "234-0"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4752, 
+    "subject": "DANCE", 
+    "requirements": null, 
+    "title": "Advanced Choreographic Study", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tuesday and Thursday, noon-2:00pm and by appointment", 
+        "bio": null, 
+        "name": "William Lewis Siegenfeld", 
+        "phone": "847/491-3147", 
+        "address": "10 Arts Circle Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Ballroom", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Harvard Dictionary of Music; The Art of Making Dances by Doris Humphrey; \"Performing Energy: American Rhythm Dancing and `The Great Articulation of the Inarticulate'\" by Billy Siegenfeld, in\nJazz Dance:  A History of the Roots and Branches, eds, Lindsay Guarino and Wendy Oliver"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "How to make dances that reflect a thoughtful, articulate movement relationship to the rhythmic and dynamic markings of a piece of metrical music"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "The student should have taken at least one class in dance composition and/or one class in dance improvisation.  Exceptions can be allowed if the student has had significant experience choreographing for concert dance and/or musical theatre."
+        }
+    ], 
+    "class_num": 34043, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "325-0"
+}

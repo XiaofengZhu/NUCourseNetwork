@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 18668, 
+    "subject": "JAZZ_ST", 
+    "requirements": null, 
+    "title": "Jazz History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John McDonough", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grading based on periodic quizzes, including song identifications and essay choices."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be expected to become conversant with major figures as well as the basic repertoire of jazz, meaning the American popular songbook, as a basis for performance."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Interested students should contact the instructor (john.mcdonough@northwestern.edu) to request a permission number for the course."
+        }
+    ], 
+    "class_num": 17431, 
+    "attributes": null, 
+    "catalog_num": "210-1"
+}

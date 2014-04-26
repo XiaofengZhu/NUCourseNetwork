@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4612, 
+    "subject": "THEATRE", 
+    "requirements": "Enrollment Requirements: Theatre Majors & Performance Studies Only", 
+    "title": "Acting II: Analysis and Performance", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mary Margaret Poole", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "The Greeks,  Kitto\nThe Ancient Greeks,  Finley\nA Short Introduction to the Ancient Greek Theatre,  Graham Ley   \nThe Greeks,  ed.  Jean-Pierre Vernant"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Agamemnon, Aeschylus\nAntigone and Electra, Sophocles\nMedea, The Bacchae, andThe Trojan Women,  Euripides\n\nAny translation.  All in public domain."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission # required."
+        }
+    ], 
+    "class_num": 14921, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "341-1"
+}

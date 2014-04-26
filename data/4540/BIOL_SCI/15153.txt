@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 48, 
+    "course_id": 15153, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Pre-Requisite: Students must have taken BIOL_SCI 210-1, BIOL_SCI 215-0, or ENVR_SCI 202-0 to register for this course.", 
+    "title": "Conservation Biology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Joseph S Walsh", 
+        "phone": "847/491-5098", 
+        "address": "Hogan Hall, Room 6-110A"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 31224, 
+    "attributes": null, 
+    "catalog_num": "347-0"
+}

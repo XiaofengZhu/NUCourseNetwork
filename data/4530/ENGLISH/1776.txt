@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1776, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Intermediate Composition", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": "Ellen Wright has published literary criticism on Latin poetry, Old English poetry, Renaissance drama, and the nineteenth-century American novel. She has also worked as a magazine and book editor. She is currently writing fiction and becoming a bluegrass musician.", 
+        "name": "Ellen F Wright", 
+        "phone": "8474914453", 
+        "address": "Kresge 2-205"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Library 3670", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Some of the authors we shall study are Annie Dillard, Walker Percy, Frank Conroy, and Eudora Welty. In addition to Hall's The Contemporary Essay, we shall use Writing Well, a composition text that emphasizes writing as discovery."
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "Registration for this course is not handled by the English department. Questions about this course should be directed to: The Writing Program, Crowe Hall 2-178: writing-program@northwestern.edu"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Reading:\n\n\nStyle: Ten Lessons in Clarity and Grace by Joseph Williams\nHedda Gabler by Henrik Ibsen"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades are based on papers, one quiz, and class participation."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion."
+        }
+    ], 
+    "class_num": 23670, 
+    "attributes": null, 
+    "catalog_num": "205-0"
+}

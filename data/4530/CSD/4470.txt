@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 4470, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Early Communication Intervention With Infants and Toddlers", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Frances Searle Building 3417", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Megan York Roberts", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2378", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings for the class are listed on Blackboard."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Method of Instruction:\t  Class will involve lecture, discussions, required reading, video demonstration, live observation and small group projects.  Students are responsible for participation in class activities to facilitate your learning,"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Course Requirements:   Attendance is mandatory in any graduate level course.  Grades are based on completion of live observations, participation in class discussions, short class presentation, midterm examination, brief homework assignments and a final examination.  Late assignments will not be accepted, and will receive a grade of \"0\".  Late assignments consist of anything not turned in to the instructor in person, via a fellow student, via mail, via e-mail or under my door after the end of class the day it was due (M 4, F 4)."
+        }
+    ], 
+    "class_num": 33960, 
+    "attributes": null, 
+    "catalog_num": "339-0"
+}

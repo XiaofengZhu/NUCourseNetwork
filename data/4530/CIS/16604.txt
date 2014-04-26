@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 16604, 
+    "subject": "CIS", 
+    "requirements": null, 
+    "title": "Advanced Object-Oriented Programming", 
+    "section": "50", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "50", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Christopher W Hield", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35470, 
+    "attributes": null, 
+    "catalog_num": "315-0"
+}

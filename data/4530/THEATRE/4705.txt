@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 3, 
+    "course_id": 4705, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Seminar in Advanced Directing", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jessica Margaret Thebus", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TIC Room 211", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Consent of instructor"
+        }
+    ], 
+    "class_num": 21433, 
+    "attributes": "Graded P/N\n\n", 
+    "catalog_num": "451-2"
+}

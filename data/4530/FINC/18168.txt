@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 18168, 
+    "subject": "FINC", 
+    "requirements": null, 
+    "title": "Financial Modeling for Leveraged Buyout Transactions", 
+    "section": "91", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-02-08", 
+    "start_time": null, 
+    "component": "91", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Chirag Sharad Saraiya", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center G43", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34493, 
+    "attributes": null, 
+    "catalog_num": "940-A"
+}

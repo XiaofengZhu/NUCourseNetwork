@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 16305, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "MENU: Real Analysis", 
+    "section": "71", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 103", 
+            "section": "71A", 
+            "component": "DIS", 
+            "end_time": "13:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "13:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "71", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John Michael Alongi", 
+        "phone": "8474671874", 
+        "address": "Lunt B3"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 103", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 23730, 
+    "attributes": null, 
+    "catalog_num": "321-2"
+}

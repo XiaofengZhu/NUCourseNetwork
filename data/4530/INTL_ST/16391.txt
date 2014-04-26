@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 16391, 
+    "subject": "INTL_ST", 
+    "requirements": null, 
+    "title": "Integrating Project Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Arda Gucler", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course packet"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "*        This class introduces and unpacks the questions and problems revolving around the concept of \"inclusion\" to familiarize students with the ways this topic has been discussed in the relevant disciplines in the field of international studies. \n*         This is done with the intention to enable students to pinpoint a topic of their own interest and to formulate an interesting and relevant research question within an already existing literature. \n*         Since academic research is never a solitary activity, along the way students will be expected to present their literature review and a preliminary draft of their research paper to their peers. \n*         As a critical reader and listener, they will also be assigned to compose written peer reviews of each other's work. \n*         Finally, there will be a Blackboard blog to comment on. To give the online discussion a framework, the instructor will prompt the debate with a particular question. \n*         The ultimate aim of the class is to give the students a chance to design and execute a well-organized, engaging and relevant research project."
+        }
+    ], 
+    "class_num": 24025, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "395-0"
+}

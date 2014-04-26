@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 3522, 
+    "subject": "MUSIC", 
+    "requirements": "Enrollment Requirements: Restricted to Music Undergraduates", 
+    "title": "Music Theory IV", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Robert Andrew Reinhart", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Advanced section; by adviser recommendation only."
+        }
+    ], 
+    "class_num": 13726, 
+    "attributes": "No P/N option for this section\n\nMusic Majors Only\n\n", 
+    "catalog_num": "211-1"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 6634, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Elementary Spanish", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Elena Lanza is a Senior Lecturer of Spanish at the Department of Spanish and Portuguese at Northwestern University, as well as the Coordinator of Spanish 199, and the Assistant Director of the Spanish Language Program. She has been involved in organizing exchange programs in Spain for American high school students and participated as the Spanish author of an on-line educational language program. Her research focuses mainly on assessment development and professional development. She has won several teaching awards and honors such as the Faculty Honor Roll by the Associated Student Government at Northwestern University.", 
+        "name": "Elena Lanza", 
+        "phone": "847/491-8280", 
+        "address": "1-200 Kresge"
+    }, 
+    "term": "2014 Spring", 
+    "room": "Kresge Centennial Hall 2-415", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "-Textbook: Alonso, Montserrat and Roco Prieto. Embarque 2, Madrid: Edelsa, 2011\n\n-Manual (Libro de ejercicios): Alonso, Montserrat and Roco Prieto. Embarque 1, Madrid: Edelsa, 2011"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Course goals:\n\nTalk about health/ healthy habits\nExpress cause, consequence and finality\nGive advice and opinion; suggest; express (dis)agreement \nExpress certainty and uncertainty\nExpress wishes and hopes\nOrder at a restaurant \nTalk on the phone"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Only students who have never taken Spanish before should enroll in this course. Students with previous Spanish experience (high school or college, studied abroad, etc), should enroll in SPANISH 102. Students with questions prior to registering should contact the instructor."
+        }
+    ], 
+    "class_num": 38726, 
+    "attributes": null, 
+    "catalog_num": "101-C"
+}

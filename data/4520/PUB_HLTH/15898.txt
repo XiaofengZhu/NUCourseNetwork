@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 15898, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Topics IV: Romance and Adventure of Public Health: An Interview Course", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Peter Orris", 
+        "phone": "312/413-0105", 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Books:\n1.\tThe Scalpel, the Sword the Story of Dr. Norman Bethune \n\tBy Ted Allan, Julie Allan and Norman Bethune Allan\n\n2.\tMountains Beyond Mountains: The Quest of Dr. Paul Farmer, a Man Who Would Cure the \n                     World by Tracy Kidder\n\n3.\tWhite Coat, Clenched Fist: The Political Education of an American Physician By Fitzhugh \n                      Mullan\n\n4.\tMy Own Country by Abraham Verghese\n\n5.\tPlagues and Politics: The Story of the United States Public Health Service by Fitzhugh \n                     Mullan,"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Posted Chapters"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The primary objective of this course is to share the adventure of careers in public health and provide a forum for students to interact with clinicians and others who have chosen this path to affect social change. \nThrough the discussion of specific public health problems tackled by the guest public health professional, the students will:\n1.\tKnow how Public Health professionals identify problems to be solved.\n2.\tHave the background to plan a strategy for health care professionals to take leadership \nin developing social change impacting on the public's health\n3.\tConceptualize the development of a personal and community agenda for social \nchange impacting the public's health\n4.\tConduct a stakeholder analysis and understand community decision making.\n5.\tIdentify different career paths and background training in public health"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Second year in MPH program\nDepartment consent required (permission number)"
+        }
+    ], 
+    "class_num": 13553, 
+    "attributes": null, 
+    "catalog_num": "313-0"
+}

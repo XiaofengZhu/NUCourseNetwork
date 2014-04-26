@@ -1,0 +1,49 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 23, 
+    "course_id": 2492, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Linear Algebra: Second Course", 
+    "section": "31", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 104", 
+            "section": "31A", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "31", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Zhihong Xia", 
+        "phone": "847/491-5487", 
+        "address": "Lunt Hall  Rm. 208"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 104", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Linear Algebra Done Right, 2nd ed. \nAuthor: Axler\nPublisher: Springer"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "240"
+        }
+    ], 
+    "class_num": 23696, 
+    "attributes": null, 
+    "catalog_num": "334-0"
+}

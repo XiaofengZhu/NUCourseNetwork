@@ -1,0 +1,53 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 75, 
+    "course_id": 18794, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Introduction to Critical Theory", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 2-380", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Fr", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mark Vinzenz Alznauer", 
+        "phone": "847/491-2559", 
+        "address": "Crowe 3-167"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall 107", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The following can be found in the bookstore.  Some additional readings will be made available on the Blackboard site.\n\nKarl Marx and Friedrich Engels, The Marx-Engels Reader, second edition, edited by Richard Tucker (Norton, 1978) ISBN-10: 9780393090406\nFriedrich Nietzsche, 'On the Genealogy of Morality' and Other Writings: Revised Student Edition (Cambridge Texts in the History of Political Thought) [STUDENT EDITION] ISBN-10: 052169163X/ ISBN-13: 978-0521691635.\nMax Weber, From Max Weber: Essays in Sociology, ed. H. H. Gerth and C. Wright Mills (Routledge, 2007) ISBN: 978-0415436663 (Note: The older, Oxford edition (1946) is perfectly fine though out of print.)\nSigmund Freud, The Freud Reader, edited by Peter Gay (Norton, 1995) ISBN: 0-393-31403-0"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assessment will be based on section participation, a quiz, two papers, and a take home assignment.\nSection attendance and participation: \t20% \nMidterm: \t\t\t\t20%\nFirst paper (3-5pp.): \t\t\t15%\nTake-home assignment: \t\t15%\nSecond paper (5-8pp.): \t\t30%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture with Discussion Sections"
+        }
+    ], 
+    "class_num": 33826, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "220-0"
+}

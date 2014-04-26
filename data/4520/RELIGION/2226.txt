@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 100, 
+    "course_id": 2226, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Introduction to Judaism", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "University Hall 122", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Barry Scott Wimpfheimer", 
+        "phone": "847 4912618", 
+        "address": "Crowe Hall, 1860 Campus Drive, 5-174"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Scheindlin, Raymond A Short History of the Jewish People (0195139410)\nSegal, Eliezer, Introducing Judaism (0415440092)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "- To gain familiarity with the general contours of Jewish History.\n- To sample the various forms of Jewish cultural expression, including Jewish literature.\n- To recognize both the commonalities and varieties within different religious expressions of Judaism."
+        }
+    ], 
+    "class_num": 13002, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "230-0"
+}

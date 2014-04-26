@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2549, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Algebra", 
+    "section": "61", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:00:00", 
+    "component": "61", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Boris L Tsygan", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 101", 
+    "end_time": "12:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 23440, 
+    "attributes": null, 
+    "catalog_num": "470-2"
+}

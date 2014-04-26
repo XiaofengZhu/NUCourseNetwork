@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 631, 
+    "subject": "SOC_POL", 
+    "requirements": null, 
+    "title": "Introduction to Social Policy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Marvin R Cohen", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall 345", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "American Dream: Three Women, Ten Kids, and a Nation's Drive to End Welfare.  2004. Jason DeParle.  New York, Viking\n\nClass and Schools: Using Social, Economic, and Educational Reform to Close the Black-White Achievement Gap.  2004.  Richard Rothstein. Washington, D.C., Economic Policy Institute. \n\nNickel and Dimed: On (Not) Getting By in America.  2001.  Barbara Ehrenreich.  New York, New York, Henry Holt and Company, LLC.   \n\nThe New Jim Crow. 2010. Michelle Alexander, New York, The New Press\t\n\nWhat Government Can Do: Dealing with Poverty and Inequality.  2000.  Benjamin I. Page and James R. Simmons.  Chicago, University of Chicago Press."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Note: Assuming that a student fully participates in all aspects of this course, the student's final grade will generally be reflective of his/her best efforts, rather than premised on an uncompromising, mathematical formula. In this spirit, the following depiction of class activities can be relied upon as a rough estimate of how final grades will be determined.\n\nClass participation, group assignments, and class presentations\t20%\nShort assignments\t10%\nTerm Paper\t\t30%\nMid-term exam\t20%\nFinal exam\t\t20%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Students will be expected to become familiar with the basic purposes and constructs of contemporary social policy. \n\nIn addition to the assigned readings and lectures, a number of shorter individual and group assignments will be given with detailed instructions and deadlines.\n\nEach student is required to write a term paper (10 - 14 pages in length) on a topic of her or his choice. The topic must be proposed no later than October 3rd, and the paper is due November 14th.\n\nStudents are expected to attend and participate in all class sessions.  \n\nThere will be two essay exams.  A mid-term exam will be taken in class.  The final will be a take-home exam."
+        }
+    ], 
+    "class_num": 23029, 
+    "attributes": null, 
+    "catalog_num": "201-0"
+}

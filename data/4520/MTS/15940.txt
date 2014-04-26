@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 15940, 
+    "subject": "MTS", 
+    "requirements": null, 
+    "title": "Introduction  to Grad Research in MTS", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Pablo J Boczkowski", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "None"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Mandatory for first-year graduate students in the MTS and TSB programs"
+        }
+    ], 
+    "class_num": 14961, 
+    "attributes": "Graduate Students Only\n\n", 
+    "catalog_num": "501-0"
+}

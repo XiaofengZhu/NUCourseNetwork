@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 15899, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Topics in Public Health V", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Anagha Ramesh Loharikar", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "McGaw Daniel Hale Williams Aud", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No required textbooks.  Articles and readings will be presented throughout the quarter for students to supplement topics discussed."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be able to:\n\n1.\tDescribe the steps of the policy formation process\n2.\tDescribe how social determinants of health affect policy\n3.\tUnderstand and be involved in the legislative process"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission number required. Please contact Meera at meera.tavathia@northwestern.edu."
+        }
+    ], 
+    "class_num": 34805, 
+    "attributes": null, 
+    "catalog_num": "314-0"
+}

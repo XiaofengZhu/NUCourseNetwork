@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 17810, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Gender, Sexuality, and Public Policy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ann Shola Orloff", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "You will read three books, which will be available on reserve, and are for sale at Norris or online:\n\nR.W. Connell, Masculinities (Berkeley:  University of California Press, second edition, 2005)\n\nKimberly Morgan, Working Mothers and the Welfare State: Religion and the Politics of Work-Family Policies in Western Europe and the United States (Stanford, CA: Stanford University Press, 2006)\nISBN-13: 9780804754132\n\nSheryl Sandberg, Lean In:  Women, Work and the Will to Lead  (New York:  Alfred Knopf, 2013)\nISBN 978-0-385-34994-9\n\nAs a supplemental (not required) text for those who would like some background in gender studies, Raewyn Connell's Gender in World Perspective (second edition) Malden, MA:  Polity, 2009) is a good, short introduction.\nISBN-13: 9780745645674\n\nWe will also read several articles; these readings will be available online on Blackboard or via the Web."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "To demonstrate knowledge and critical analysis of the readings and general themes of the course, you will have several formal assignments:\n\n\t(short) in-class quiz (15% of the grade) \n\n\t(full-session) in-class exam (50% of total grade)\n\n\tshort final paper (25% of total grade) on the question of social policy and social change.  \n\nIn addition to the formal assignments, there will be several informal assignments, noted on the syllabus.  You are required to complete all informal assignments (10% of your grade).  \n\nAttendance is mandatory. (N.B.:  Unexcused absences may result in your grade being lowered.)"
+        }
+    ], 
+    "class_num": 35171, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "351-0"
+}

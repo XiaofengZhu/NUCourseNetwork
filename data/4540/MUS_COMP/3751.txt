@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 3751, 
+    "subject": "MUS_COMP", 
+    "requirements": null, 
+    "title": "Selected Topics in Music Composition", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Jay Alan Yim", 
+        "phone": "847/467-2030", 
+        "address": "jaymar@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 36685, 
+    "attributes": null, 
+    "catalog_num": "335-0"
+}

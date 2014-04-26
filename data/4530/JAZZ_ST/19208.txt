@@ -1,0 +1,31 @@
+{
+    "overview": "Contact the department for further information", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 19208, 
+    "subject": "JAZZ_ST", 
+    "requirements": null, 
+    "title": "Jazz Improvisation V", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Christopher Aaron Madsen", 
+        "phone": "847/491-3412", 
+        "address": "REGENSTEIN 60 Arts Circle Dr, Evanston IL"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Regenstein Hall of Music 058", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22771, 
+    "attributes": null, 
+    "catalog_num": "336-2"
+}

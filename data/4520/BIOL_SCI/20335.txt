@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 75, 
+    "course_id": 20335, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Genetic and Molecular Processes Laboratory", 
+    "section": "100", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "100", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": "Ryan Hurtado received his bachelor's degree in Genetics and Biochemistry from the University of Wisconsin and his PhD in Molecular Biosciences at Northwestern University.  A portion of his thesis work on a potential anti-cancer therapeutic was published in the journal Molecular Pharmaceutics.  He completed the Searle Center's teaching certificate program in 2010.  He has previously taught college level courses at Gateway Technical College in Wisconsin and currently also teaches at Oakton Community College.", 
+        "name": "Ryan Richard Hurtado", 
+        "phone": "847/491-4120", 
+        "address": "3117 Cook Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Pants and shoes are required laboratory attire.  Sandals are not acceptable.  Readings from scientific primary literature may be required."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will learn to conduct advanced genetic and molecular biology laboratory techniques.\nStudents will learn to develop scientific thoughts and propose novel experiments culminating in a written proposal.\nStudents will learn to analyze experimental results.\nStudents will learn to present their own scientific findings orally in presentations."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "One year of general chemistry with laboratory (CHEM 101; 102; 103) and one college biology course (BIOL SCI 165 or 170)."
+        }
+    ], 
+    "class_num": 18153, 
+    "attributes": null, 
+    "catalog_num": "220-CN"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20091, 
+    "subject": "CMN", 
+    "requirements": null, 
+    "title": "Law of the Creative Process", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rick Gene Morris", 
+        "phone": "8474914262", 
+        "address": "2240 Campus Drive, Frances Searle, 1-123"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35497, 
+    "attributes": "No Freshmen\n\n", 
+    "catalog_num": "302-0"
+}

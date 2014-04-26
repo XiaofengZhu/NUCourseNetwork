@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 5790, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Ethical Issues in Clinical Research", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Maureen B Moran", 
+        "phone": "312 5030500", 
+        "address": "680 N. Lake Shore Drive, Suite 1400"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Optional:\n\nSkloot R. The immortal life of Henrietta Lacks. New York: Crown Publishers, 2010.\n\nEmanuel EJ, Crouch RA, Arras JD, Moreno JD, Grady C, editors. Ethical and\nregulatory aspects of clinical research Readings and Commentary. Baltimore and\nLondon: The Johns Hopkins University Press, 2003.\n\nMurphy TF. Case studies in biomedical research ethics. Cambridge, Massachusetts:\nThe MIT Press, 2004."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Through the course sessions and homework assignments, students will 1) actively\nparticipate in class discussion, 2) show respect for different points of view within the\ncontext of class discussion, 3) identify ethical issues in clinical research proposals and\noffer alternative protocols and procedures to eliminate those that are unethical, 4)\ndemonstrate the ability to write and to edit critically, 5) describe the characteristics of\nvulnerable groups, identify protocols involving vulnerable groups and determine the\nmeans by which their rights as research participants are to be protected."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Department consent required (permission number)"
+        }
+    ], 
+    "class_num": 37016, 
+    "attributes": null, 
+    "catalog_num": "441-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 16756, 
+    "subject": "AF_AM_ST", 
+    "requirements": null, 
+    "title": "Comparative Slavery", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sherwin K Bryant", 
+        "phone": "8474913756", 
+        "address": "1860 Campus Dr Crowe 5-125"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34093, 
+    "attributes": "Historical Studies Distro Area\n\nInterdisciplinary Distro - See Rules\n\nSocial & Behavioral Sciences Distro Area\n\nEthics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "342-0"
+}

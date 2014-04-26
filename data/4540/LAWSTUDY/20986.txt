@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 20986, 
+    "subject": "LAWSTUDY", 
+    "requirements": null, 
+    "title": "Persuasion Theory and Practice", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "James Lupo", 
+        "phone": "312/503-4850", 
+        "address": "Levy Mayer 216"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30274, 
+    "attributes": "Professional Skills Course\n\n", 
+    "catalog_num": "674"
+}

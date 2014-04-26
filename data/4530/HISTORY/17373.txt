@@ -1,0 +1,61 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 17373, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Jewish History 1789-1948", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "University Library 3322", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "13:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "13:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "YPS is the Crown Family Professor in Jewish Studies at History Department. He authored three books, Jews in the Russian Army, 1827-1917: Drafted into Modernity (2008), The Anti-Imperial Choice: the Making of a Ukrainian Jew (2009), Lenins Jewish Question (2010). A Fellow at Harvard Ukrainian Research Institute and Visiting Professor at Free Ukrainian University in Munich, he is currently working with P.R. Magocsi on a new book tentatively entitled Jews and Ukrainians in the Ukrainian Lands.", 
+        "name": "Yohanan Petrovsky-Shtern", 
+        "phone": "847/467-3399", 
+        "address": "Harris Hall Room 317"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L07", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "All readings MUST be done before the date they are assigned\nAREA OF CONCENTRATION: Europe"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nCourse Pack (CP) available at Quartet Copiers\nThe Jew in the Modern World ed. By Reinharz and Mendes-Flohr"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on one in-class test (mid-term), two response papers, active participation in class discussions, and final paper"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Combined power-point based lectures and mandatory discussion sections"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Attendance at first class is mandatory (applicable to enrolled, waitlisted and all potential students)."
+        }
+    ], 
+    "class_num": 34237, 
+    "attributes": "Historical Studies Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "203-3"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2537, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Algebraic Topology II", 
+    "section": "71", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "71", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John N K Francis", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 101", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 24527, 
+    "attributes": null, 
+    "catalog_num": "465-2"
+}

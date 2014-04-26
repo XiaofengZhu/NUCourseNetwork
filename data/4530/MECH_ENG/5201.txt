@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 5201, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Mechanics II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Cheng Sun", 
+        "phone": "8474670704", 
+        "address": "Technological Institute, Rm L292, 2145 Sheridan Road, EV CAMPUS"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L160", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Quizzes, Homework, Final Exam"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: GEN_ENG 205-4. This course is usually taken by undergraduate Mechanical Engineering students during their sophomore year."
+        }
+    ], 
+    "class_num": 20341, 
+    "attributes": null, 
+    "catalog_num": "202-0"
+}

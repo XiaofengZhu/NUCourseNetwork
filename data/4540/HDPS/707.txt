@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 56, 
+    "course_id": 707, 
+    "subject": "HDPS", 
+    "requirements": null, 
+    "title": "Marriage 101:  Building Loving and Lasting Relationships", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Alexandra Hambright Solomon", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 36902, 
+    "attributes": null, 
+    "catalog_num": "340-0"
+}

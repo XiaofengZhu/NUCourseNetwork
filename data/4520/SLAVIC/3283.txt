@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3283, 
+    "subject": "SLAVIC", 
+    "requirements": null, 
+    "title": "Proseminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Gary S Morson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and Discussion"
+        }
+    ], 
+    "class_num": 10772, 
+    "attributes": null, 
+    "catalog_num": "411-0"
+}

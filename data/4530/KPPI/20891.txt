@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20891, 
+    "subject": "KPPI", 
+    "requirements": null, 
+    "title": "Medical Technologies in Developing Countries", 
+    "section": "61", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-02-10", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "61", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kara Marie Palamountain", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center 165", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34944, 
+    "attributes": null, 
+    "catalog_num": "973-B"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2595, 
+    "subject": "PHIL", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar in Philosophy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rachel E Zuckert", 
+        "phone": "8474912556\t", 
+        "address": "Crowe 3-178"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-345", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Reading List:\nElizabeth Anderson, Value in Ethics and Economics (selection on Blackboard)\nHannah Arendt, The Human Condition ISBN 9780226025988\nSimone de Beauvoir, The Second Sex (selection on Blackboard)\nFriedrich Hayek, \"The Use of Knowledge in Society\" (on Blackboard)\nArlie Hochschild, The Second Shift (selection on Blackboard)\nJohn Locke, The Second Treatise of Government (selection on Blackboard)\nKarl Marx, The Economic and Philosophic Manuscripts of 1844 (selection on Blackboard)\nHerman Melville, \"Bartleby the Scrivener; A Tale of Wall Street\" in Billy Budd and Other Stories ISBN 9780451530813\nJudith Schor, \"Toward a New Ethics of Consumption\" (on Blackboard)\nMichael Walzer, Spheres of Justice (selection on Blackboard)\nMax Weber, The Protestant Ethic and the \"Spirit of Capitalism\" ISBN 9780140439212"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be assigned based on class participation, reading reflections, and three papers (3-6 pp. each)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two meetings of 90 minute meetings each per week, comprising largely of discussion."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To introduce students to philosophical texts, and philosophical modes of interpreting and engaging with those texts\n\nTo encourage reflection about the meaning of work and the nature of money, and the appropriate place of each in human life"
+        }
+    ], 
+    "class_num": 23668, 
+    "attributes": null, 
+    "catalog_num": "109-6"
+}

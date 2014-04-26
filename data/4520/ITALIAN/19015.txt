@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19015, 
+    "subject": "ITALIAN", 
+    "requirements": "Enrollment Requirements: Pre-Requisite: Italian 102-3, 133-3, or 134-3", 
+    "title": "Conversation in Italian", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M 2 - 3PM & Tu 11 - 12PM", 
+        "bio": null, 
+        "name": "Paola Morgavi", 
+        "phone": "847/491-8271", 
+        "address": "1860 S. Campus Drive, Crowe Hall #3-142"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TBA"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students must have completed Italian 102-3, Italian 133/4-3 or equivalent."
+        }
+    ], 
+    "class_num": 17132, 
+    "attributes": null, 
+    "catalog_num": "207-0"
+}

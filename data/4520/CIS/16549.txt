@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 16549, 
+    "subject": "CIS", 
+    "requirements": null, 
+    "title": "Introduction to Object-Oriented Programming", 
+    "section": "16", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "16", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Jackie Bird has been in IT for 25 years, and has taught at the collegiate level for 20 years.  Her professional experience includes performing in all phases of the SDLC (Systems Development Life Cycle), including development (programming),  analysis and design, project management, QA (testing) and maintenance, working in the financial/banking, trading, manufacturing, health care, telecommunications, benefits/compensation, retailing and educational industries.   She has taught courses in programming (.NET and Java), project management, analysis and design, database design and development (Oracle, SQL Server, Access), enterprise architecture and networking.", 
+        "name": "Jacqueline Ann Bird", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "STARTING OUT W/JAVA:FROM CONTROL...\nBy GADDIS\nEDITION:   5TH 13 PUBLISHER:   PEARSON\nISBN:   9780132855839"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "May not be audited or taken P/N."
+        }
+    ], 
+    "class_num": 18163, 
+    "attributes": null, 
+    "catalog_num": "212-CN"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 11527, 
+    "subject": "IEMS", 
+    "requirements": "Enrollment Requirements: Reserved for Masters of Engineering Management Students or by permission from MEM.", 
+    "title": "Computer Simulation for Risk and Operations Analysis", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Barry L Nelson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 15999, 
+    "attributes": "Permission of MEM Required\n\n", 
+    "catalog_num": "415-0"
+}

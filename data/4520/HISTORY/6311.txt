@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6311, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "History of the United States", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Neal Dugre is a historian of colonial America with special interests in the seventeenth century, European-Native American relations, and the interplay between religion and politics. His current project examines puritan political ideas and the origins of \"New England\" as a distinct entity within the early modern Atlantic World.", 
+        "name": "Neal Thomas Dugre", 
+        "phone": "TBA", 
+        "address": "Harris Hall TBA"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings will likely include:\n\n- Eric Foner, Give Me Liberty: An American History, vol. 1 (3rd ed.)\n- Course packet of primary source readings"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of this course, students should be able to...\n1. Identify and explain the significance of major figures, events, and developments in American history from the first encounters between Indians, Europeans, and Africans through the end of the Civil War.\n\n2. Understand the meaning and value of historical thinking. History is not a finished story of facts and dates; it is an ongoing investigation that requires us to compare stories and weigh different perspectives. Historical thinking encompasses the skills necessary to sort through the complex issues of the present and engage meaningfully in public life: critical reading, critical thinking, and asking questions.\n\n3. Practice historical thinking effectively. In discussions and daily writing assignments, you will scrutinize historical events as products of broader contexts and multiple causes. You will analyze evidence using a 4-step method of sourcing, contextualizing, close reading, and corroborating. You will evaluate historical narratives as interpretations grounded in evidence, and craft your own interpretations from your analysis of evidence (especially primary sources)."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 18629, 
+    "attributes": null, 
+    "catalog_num": "210-A"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19096, 
+    "subject": "CHINESE", 
+    "requirements": null, 
+    "title": "Chinese II - Accelerated", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": "MoTuWeTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Wen-pin Hsieh", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G31", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Integrated Chinese, Level 2 Part 1 \nTextbook ISBN 978-088727-679-8\nWorkbook ISBN 978-088727-683-5\n\t\nIntegrated Chinese, Level 2 Part 2 \nTextbook ISBN 978-088727-688-0\nWorkbook ISBN 978-088727-692-7"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students are evaluated on their communicative skills: speech making, reading and writing, through a variety of forms such as classroom performance and written assignments, oral quizzes, written quizzes, a mid-term exam and a final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Integrated with Chinese culture, this course is conducted through a communicative/interactive approach involving both students and the instructor. Students have four 50-minute meetings in class per week, and an equivalent amount of time after class might be needed to complete homework or projects. Instruction, discussion, presentation, essay composition, and other class activities are mainly conducted in the target language of Mandarin Chinese."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Successful completion of the Accelerated First-Year Chinese I sequence, or placement by the coordinator of language instruction. P/N is allowed (but may not be used if the course is used to count toward satisfaction of the WCAS foreign language proficiency requirement)."
+        }
+    ], 
+    "class_num": 24271, 
+    "attributes": null, 
+    "catalog_num": "125-2"
+}

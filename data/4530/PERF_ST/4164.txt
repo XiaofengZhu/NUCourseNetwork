@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4164, 
+    "subject": "PERF_ST", 
+    "requirements": null, 
+    "title": "Presentational Aesthetics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Paul C Edwards", 
+        "phone": "847/491-3171", 
+        "address": "Annie May Swift Hall, Room G03"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annie May Swift Hall 103", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "READING.\nRequried: source texts for adaptations.  Required or recommended: essays and book chapters by David Wiles, Anthony Q. Artis, Roland Barthes, Steve Dixon, Susan Sontag, David Levi Strauss, and Diana Taylor."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Weekly rehearsals and performances in one of three groups.  Three short response papers.  Rehearsal outside of class required.  Attendance at all class meetings mandatory."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "To request permission: no later the beginning of SoC pre-registration, e-mail Paul Edwards at edwdoyle@northwestern.edu or edwdoyle1@gmail.com .  Adapter/directors: send me a reminder e-mail, so I can have the Department send you a permission number.  Actors: indicate that you wish to enroll as an actor. \n\nDIVISION OF EXPERIENCE.\nStudents may enroll in 324-1 as either adapter/directors or actors.  A maximum of three adapter/directors will workshop staging projects all quarter.  The scenes they will adapt are from upcoming \"capstone\" performances for the Devising and Adaptation Module (offered jointly by Theatre and Performance Studies).  Students enrolled as actors will perform in scenes staged by the adapter/directors; some scenes will be memorized, while others might be performed script-in-hand.\n\nSTUDENT DIRECTORS FOR WINTER 2013 (all slots are filled).  \n1. Daphne Kim, adapting and directing \"Riot Antigone.\"\n2. Alex Benjamin, directing \"The Lilliput Troupe,\" adapted from documentary sources by Gaby Febland.\n3. Hannah Fisher, adapting and directing Whitman's \"Song of Myself\" (for a site-responsive performance).\n \nPRE-REQUISITE FOR ACTORS. \n224 \"Adapting Narrative for Group Performance\" or equivalent.  If you haven't taken 224 \"Adapting Narrative,\" I urge you to take that course first. (The plan is to begin to offer 324-1 on an annual basis, in winter or spring, in connection with the Devising and Adaptation Module.)\n\nDEVISING AND ADAPTATION MODULE.\nStudents who have \"registered to complete\" the Devising and Adaptation Module and need this course to complete the Module are guaranteed admission, PROVIDED that they notify me during SoC Preregistration.  (I read here that SoC Pre-Registration begins on Monday, November 11, 2013, and that Registration begins on Monday, November 18, 2013.)"
+        }
+    ], 
+    "class_num": 34355, 
+    "attributes": null, 
+    "catalog_num": "324-1"
+}

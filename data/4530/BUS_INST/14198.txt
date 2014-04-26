@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 55, 
+    "course_id": 14198, 
+    "subject": "BUS_INST", 
+    "requirements": null, 
+    "title": "Marketing Management", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": "Ph.D. (Social Psychology; Northwestern, 2002), Previous appointment: Assistant Professor of Marketing Management, University of Chicago Booth School of Business.", 
+        "name": "Ginger L. Pennington", 
+        "phone": "847/467-3041", 
+        "address": "Swift Hall, 2029 Sheridan Road, Evanston"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Kotler, P., & Armstrong, G.  (2014).  Principles of Marketing (15th edition), New Jersey:  Pearson Education.  ISBN: 0-13-308404-3\n\nCourse Packet (Available on-line through Harvard Business Publishing)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Exam, final\nClass participation\nHomework\nWriting assignments\nGroup projects\nCase studies\nPeer assessments"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture:  Two 80-minute lectures weekly\nCase studies\nClass participation and discussion\nGroup work"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of this course, you will understand the basic processes involved in marketing management -- how to determine which customers your organization should serve, which products and services it should offer them, and how.  You will know how to read and interpret marketing case studies, and have experience applying strategic frameworks to analyze business situations."
+        }
+    ], 
+    "class_num": 23618, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "239-0"
+}

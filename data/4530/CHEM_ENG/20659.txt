@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 20659, 
+    "subject": "CHEM_ENG", 
+    "requirements": null, 
+    "title": "Chemical Product Design", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Justin M Notestein", 
+        "phone": "8474915357", 
+        "address": "Technological Institute E250 (Mail to Tech E136)"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG72", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33980, 
+    "attributes": null, 
+    "catalog_num": "355-0"
+}

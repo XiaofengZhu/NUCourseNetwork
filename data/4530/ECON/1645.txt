@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1645, 
+    "subject": "ECON", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Robert J Gordon", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2378", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "I am a senior professor with active ongoing research in macroeconomics, ranging from inflation and unemployment to long-term growth and disputes about macroeconomic theory.  I also am writing a book about the history of the American standard of living. Military history is a hobby, as is second-guessing airline management through a private e-mail chat group that I founded more than 15 years ago."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Most of the reading is available online through the library.  In addition there is an inexpensive course packet with some of the readings.  There are only two required books for purchase:\n<br>1. <i>Why the Allies Won</i> by Overy, 1997\t(ISBN: 978-0393316193)\n2. <i>Fateful Choices </i>\tby Kershaw, 2008 (ISBN: 978-0143113720)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There are no exams. The class grade will be based primarily on written papers, but 30% of the total grade will be based on the quality and quantity of participation in class discussion. There will be three 5-page papers, and one final paper of up to 15 pages, including at least one original table or graph. Papers will be worth a total of 70% of the final grade."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "In class discussion of readings. Students will be encouraged to disagree with each other and with the readings as their knowledge of the subject develops. Active class participation is important and counts for 30 percent of the grade."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "none."
+        }
+    ], 
+    "class_num": 23757, 
+    "attributes": null, 
+    "catalog_num": "101-6"
+}

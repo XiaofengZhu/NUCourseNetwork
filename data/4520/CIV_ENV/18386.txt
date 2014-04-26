@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18386, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Environmental Law and Policy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Keith I Harley", 
+        "phone": null, 
+        "address": "Kharley@kentlaw.edu"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Being ordered for purchase at Norris Bookstore:\nEnvironmental Law and Policy (Concepts and Insights Series)\t/ J. Salzman and B.H. Thompson / ISBN-13: 978-1599417714 / 2010 / 3rd / Foundation Press"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Course grade will be determined by your performance on the final examination, with adjustments for attendance and contributions to class discussions. Attendance will be taken. Students who attend class and actively contribute to discussions will be rewarded, and unprepared and absent students risk downgrading."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures, skill-sharing sessions, discussions, and a case study/practice exam."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Learning objectives: Students will understand why major federal environmental laws were enacted, what these laws require and how they are implemented in practice.  Students will be capable of applying this knowledge to situations commonly encountered by environmental professionals."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite:  Of Junior or Senor standing."
+        }
+    ], 
+    "class_num": 16171, 
+    "attributes": "Permission of department\n\n", 
+    "catalog_num": "303-0"
+}

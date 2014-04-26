@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 100, 
+    "course_id": 5266, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Introduction to Materials", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute M120", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "R P H Chang", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G21", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Materials Science and Engineering: An Introduction by William D., Jr. Callister and Rethwisch.  8th edition.  ISBN-13: 978-0-470-41997-7"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "homework/participation (20%) \ntwo mid - term exams (40%) \nfinal exam (40%)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CHEM 102"
+        }
+    ], 
+    "class_num": 20347, 
+    "attributes": null, 
+    "catalog_num": "201-0"
+}

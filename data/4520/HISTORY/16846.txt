@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 16846, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Trailer Seminar", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Jacob Lassner is the Philip M. & Ethel Klutznick Professor Emeritus in the departments of history and religion of WCAS. He has published and lectured extensively on both Jewish and Islamic history on topics ranging from the history of Baghdad and Arabic historical writing to Biblical themes in Islamic tradition and the Arab-Israel. He is currently working on two projects: a book of source readings for the study of medieval Jewish history (with R. Chazan) and book length study of the Islamization of Jerusalem.", 
+        "name": "Jacob Lassner", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "All students will acquire an understanding of American Immigration - both the experiences of immigrants to America, and \"native\" Americans' reactions to immigration. We will look at primary sources, creative nonfiction, and historical texts. Students will practice analyzing primary sources of all types: letters, governmental documents, music, and photographs. Students will be expected to compose cogent historical arguments based on such sources, and bring them into conversation with historical interpretations. Finally, all students will practice leading a seminar-style discussion."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course pack (Quartet copiers, Clark and Benson in Evanston).\n\nBooks at Norris Center Bookstore: \nMULTIPLE IDENTITIES OF THE MIDDLE EAST Author: LEWIS Edition: 98 Publisher: RANDOM ISBN: 9780805211184.\n\nIRON CAGE Author: KHALIDI Edition: 06 Publisher: RANDOM ISBN: 9780807003091.\n\n\nJEWS+MUSLIMS IN ARAB WORLD Author: LASSNER Edition: 07 Publisher: RLPG ISBN: 9780742558427.\n\n\nARAB-ISRAELI CONFLICT Author: SCHULZE Edition: 2ND 08 Publisher: PEARSON ISBN: 9780582771895.\n\n\nPALESTINIAN IDENTITY Author: KHALIDI Edition: 2ND 09 Publisher: PERSEUS D ISBN: 9780231150750."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Final paper; Class participation. Attendance mandatory unless excused."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and discussion based on close readings of translated primary Arabic and Hebrew sources and selected secondary works."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None, but some courses on the Middle East would be helpful."
+        }
+    ], 
+    "class_num": 18428, 
+    "attributes": null, 
+    "catalog_num": "395-CN"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 19305, 
+    "subject": "REAL", 
+    "requirements": null, 
+    "title": "Real Estate Entrepreneurship", 
+    "section": "81", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "81", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "William Bennett", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center G27", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33575, 
+    "attributes": null, 
+    "catalog_num": "925-0"
+}

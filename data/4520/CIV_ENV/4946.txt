@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4946, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Trn Sys Plan/Mgt", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute L150", 
+            "section": "20", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "j-schofer@northwestern.edu", 
+        "bio": null, 
+        "name": "Joseph L Schofer", 
+        "phone": "847/491-5550", 
+        "address": "2145 N. Sheridan Road / Tech L272"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Fundamentals of Urban Transportation Planning, Marvin L. Manheim, MIT Press, 1979. \n\nUrban Transportation Networks: Equilibrium Analysis with Mathematical Programming Methods, Y. Sheffi, Prentice Hall, 1985"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No formal textbook is needed for this class."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "BASIS OF GRADE / \n*** Homework assignments (30%) \n*** Mid-term exam (20%) \n*** Final exam (40%) \n*** Class participation (10%)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS SCHEDULE / Lecture: Two 2-hour lectures each week for. Laboratory: 1 2-hour lab per week for 10 weeks."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Junior standing or consent of instructor"
+        }
+    ], 
+    "class_num": 15886, 
+    "attributes": null, 
+    "catalog_num": "479-0"
+}

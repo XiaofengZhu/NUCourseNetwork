@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1623, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Topics in Comparative Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Mon 1:00 - 2:00 PM  and by email appointment", 
+        "bio": null, 
+        "name": "Samuel Weber", 
+        "phone": "847/491-8296", 
+        "address": "Kresge 2-540"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texts: \"Franz Kafka: On the Tenth Anniversary of his Death\" by Walter Benjamin, \"Notes on Kafka\" by Theodor Adorno, \"Before the Law\" in: Acts of Literature by Jacques Derrida, \"Kafka and the Work's Demand\" in The Space of Literature by Maurice Blanchot, The Complete Stories & The Man Who Disappeared by Franz Kafka"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance, Class Presentation, Term Paper"
+        }
+    ], 
+    "class_num": 34140, 
+    "attributes": null, 
+    "catalog_num": "390-0"
+}

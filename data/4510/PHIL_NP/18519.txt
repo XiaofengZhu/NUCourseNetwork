@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18519, 
+    "subject": "PHIL_NP", 
+    "requirements": null, 
+    "title": "Legal Issues in Philanthropy", 
+    "section": "45", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-07-10", 
+    "end_date": "2013-08-07", 
+    "start_time": null, 
+    "component": "45", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 42069, 
+    "attributes": null, 
+    "catalog_num": "330-0"
+}

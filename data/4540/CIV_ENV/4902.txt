@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 13, 
+    "course_id": 4902, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Special Topics in Civil and Environmental Engrg", 
+    "section": "23", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "23", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Keith I Harley", 
+        "phone": null, 
+        "address": "Kharley@kentlaw.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34533, 
+    "attributes": "Permission of department\n\nJrs, Srs, Grad Students Only\n\n", 
+    "catalog_num": "395-0"
+}

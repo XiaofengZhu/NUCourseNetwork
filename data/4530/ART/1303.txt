@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1303, 
+    "subject": "ART", 
+    "requirements": null, 
+    "title": "Introduction to Painting", 
+    "section": "23", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "23", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Andrew W Falkowski", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 3-335", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "No prerequisites.  P/N permitted."
+        }
+    ], 
+    "class_num": 23818, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "120-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 18063, 
+    "subject": "ARABIC", 
+    "requirements": null, 
+    "title": "Reading Classical Arabic Texts (in Arabic)", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ragy H Ibrahim Mikhaeel", 
+        "phone": "8474670927", 
+        "address": "4-317 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The course\\'s main textbook is Anthology of Arabic Literature by Bassam K. Frangieh -- ISBN: 0-300-10493-6, and a supplemental course reader compiled by the course instructor."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Student evaluation will be based on class participation, response papers, a midterm paper, and a final paper (in Arabic)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Continued development of reading-for-comprehension skills constitutes an important part of the class. However, another major focus of this course is to introduce students to traditional methods and devices of Arabic rhetoric, including similes, metaphors, and figurative speech. In-class discussions will also focus on the evolution of literary forms and genres, as well as the social and political structures and issues reflected/ treated in the selections."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Completion of 316-1 with C- or higher, or instructor's permission."
+        }
+    ], 
+    "class_num": 24242, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nRead & Discuss in language\n\n", 
+    "catalog_num": "316-2"
+}

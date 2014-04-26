@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 26, 
+    "course_id": 1503, 
+    "subject": "CHEM", 
+    "requirements": null, 
+    "title": "Quantum Chemistry", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "George C Schatz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L150", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. \"Quantum Mechanics in Chemistry\" by G. C. Schatz and M. A. Ratner, Dover, ISBN 0-486-42003-5"
+        }
+    ], 
+    "class_num": 23294, 
+    "attributes": null, 
+    "catalog_num": "442-2"
+}

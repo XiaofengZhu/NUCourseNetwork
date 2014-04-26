@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2362, 
+    "subject": "ARABIC", 
+    "requirements": null, 
+    "title": "Arabic III", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ragy H Ibrahim Mikhaeel", 
+        "phone": "8474670927", 
+        "address": "4-317 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Supplemental materials provided by the instructor.  Hans Wehr dictionary.\n\n\"3rd edition\" for Alif Baa', and for  BOTH Vol. I and Vol. II of the Al-Kitaab series\nAlif Baa: Introduction to Arabic Letters and Sounds | Edition: 3\nAuthor: Kristen Brustad, Mahmoud Al-Batal, Abbas Al-Tonsi\nISBN: 9781589016323 \nPublisher: Georgetown University Press \nPublication Date: 07/01/2010 \n\nAl-Kitaab fii Ta callum al-cArabiyya: A Textbook for Beginning Arabic: Part One | Edition: 3\nAuthor: Kristen Brustad, Mahmoud Al-Batal, Abbas Al-Tonsi\nISBN: 9781589017368 \nPublisher: Georgetown University Press \nPublication Date:  07/15/2011"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on class participation, compositions, quizzes & exams, individual progress in comprehending textual material and acquired degree of fluency in the language."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The class will meet twice a week to discuss assigned and new materials.  Students will be expected to do a fair amount of work independently, so that class time can be used efficiently."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Arabic II-1,2 and 3, or equivalent determined by placement exam, or consent of the Instructor"
+        }
+    ], 
+    "class_num": 10438, 
+    "attributes": "Specific requirements in the language\n\n", 
+    "catalog_num": "211-1"
+}

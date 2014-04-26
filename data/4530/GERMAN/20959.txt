@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 20959, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "The Rise and Fall of Modern Yiddish Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Marcus G Moseley", 
+        "phone": "847/467-4712", 
+        "address": "Kresge 2-525"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "A paper of 15-20 pages is required at the end of the quarter.  In this paper, students will be asked to integrate the insights they have acquired in the course of the semester to their own scholarly enquiries.  Participation in the seminars plus presentations constitute 40% and the final essay 60% in grading assessment."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Students will meet twice per week and each student will be asked give two seminar presentations. These presentations should include handouts for the group and a well-designed format for group discussion of key passages in our texts."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "A significant number of students in the Humanities, literature and history in particular, place particular emphasis upon the Jewish aspects of their scholarly enterprises.  However, many of these students, housed in departments of English, French, German, History, Slavic literatures etc., have had no background in Jewish Studies.  The aim of the present course is to provide such students with an apprenticeship in modern Jewish cultural and literary history by means of close reading of and meditation upon, key Yiddish documents that illuminate the transformations of Jewish culture in Europe and the impact of these transformations in the shaping of European modernity."
+        }
+    ], 
+    "class_num": 34427, 
+    "attributes": null, 
+    "catalog_num": "366-0"
+}

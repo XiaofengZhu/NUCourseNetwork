@@ -1,0 +1,31 @@
+{
+    "overview": "Contact the department for further information", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 3614, 
+    "subject": "MUSIC_ED", 
+    "requirements": null, 
+    "title": "Teaching Choral Music I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Amy Lynn Becker", 
+        "phone": null, 
+        "address": "amy.becker@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 219", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 22567, 
+    "attributes": null, 
+    "catalog_num": "366-0"
+}

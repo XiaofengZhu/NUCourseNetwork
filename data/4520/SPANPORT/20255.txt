@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20255, 
+    "subject": "SPANPORT", 
+    "requirements": "Enrollment Requirements: Please contact the department of Spanish & Portuguese to request a permission number, spanish-portuguese@northwestern.edu.", 
+    "title": "Topics in Latin American Literature and/or Iberian Literatures & Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Cesar A Braga-Pinto", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Lucia Sa. Rain Forest Literatures: Amazonian Texts and Latin American Literature\n\nEssays by Montaigne, Jacques Derrida, Frank Lestringant, Michel de Certeau, Silviano Santiago, James Clifford, Krupat, Walter Mignolo, V. Crapanzano, among others\n\nFilms: Iracema: uma transa amaznica, Xingu (Cao Hamburger), Serras da Desordem (Tonacci)"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\tJean de Lry, History of a Voyage to the Land of Brazil. ISBN-10: 0520082745 | ISBN-13: 978-0520082748\n\tJos de Alencar, Iracema   ISBN-10: 0195115481  ISBN-13: 978-0195115482\n\tMrio de Andrade. Macunama.   ISBN-10: 0394534123   ISBN-13: 978-0394534121\n\tClaude Levi-Strauss, Tristes Tropiques;   ISBN-10: 0143106252 ISBN-13: 978-0143106258\n\tGuimares Rosa, \"The Jaguar\" in The Jaguar and other Stories   ISBN-10: 189946090X  ISBN-13: 978-1899460908\n\tDarcy Ribeiro, Maira   ISBN-10: 0394722140  ISBN-13: 978-0394722146\n\tBernardo Carvalho, Nine Nights   ISBN-10: 0099470330  ISBN-13: 978-0099470335\n\tMilton Hatoum, Ashes from the Amazon \n\tEduardo Viveiros de Castro. The Inconstancy of the Indian Soul: Encounter of Catholics and Cannibals in 16th-century Brazil.  ISBN-10: 0984201017 ISBN-13: 978-0984201013"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "\tunderstand the main issues in the contemporary debates involving the relationship between fiction and ethnography\n\tsituate the role of indigenous cultures and narratives in the development of Brazilian lettered culture\n\traise questions regarding the conflicts and contradictions between the modern nation and indigenous communities\n\tcritically consider the role of non-western epistemologies in contemporary criticism and literary imagination."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Reading knowledge of Portuguese, Spanish and/or French desired but not required"
+        }
+    ], 
+    "class_num": 13022, 
+    "attributes": null, 
+    "catalog_num": "480-0"
+}

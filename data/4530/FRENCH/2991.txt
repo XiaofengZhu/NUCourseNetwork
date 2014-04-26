@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2991, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Intensive Elementary French", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoTuWeTh", 
+    "instructor": {
+        "office_hours": "W & Th 2 - 3PM", 
+        "bio": null, 
+        "name": "Margaret M Dempster", 
+        "phone": "847/467-3884", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-121"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-355", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Anderson, Golato and Blatty, En Avant!, first edition\nAnderson, Golato and Blatty, En Avant!: WorkBook and Laboratory Manual (WBLM)  first ed. \n (These texts are available in a bundle at Norris Bookstore\nCourse packet (to be purchased at Quartet Copies, 825 Clark Street)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Final grades are based on class performance, class attendance, homework, compositions, quizzes, 2 unit tests and a final oral exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Classes will include a variety of activities designed to help students acquire a knowledge of basic French vocabulary and structures along with the ability to use what they have learned in situations of communication. Classes will be conducted in French except when explanation of grammar or other material may necessitate the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the En Avant! listening program and Internet activities."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: Department Placement"
+        }
+    ], 
+    "class_num": 23527, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "115-2"
+}

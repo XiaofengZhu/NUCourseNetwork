@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 19420, 
+    "subject": "TEACH_ED", 
+    "requirements": null, 
+    "title": "Student Teaching: Humanities", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David W Renz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G22", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "You will receive one grade for the entire student teaching experience.\n\n20% Field Seminar attendance, participation and essay/reflections\n40% Mentor Evaluations (both midterm and final evaluation)\n40% Supervisor Observations and Evaluation\n\nBy the end of student teaching, students are expected to perform according to the dispositions as implied in the Conceptual Framework.\n\nAlthough there will be consultation with others, I am ultimately responsible for your grade in the student teaching experience."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Requirements:\n\n1. Attendance. Attendance is mandatory at the seminar every week. You will have to notify your mentor(s) of your need to be here every Wednesday. Exceptions to attendance will be for parent-teacher conferences or open houses. Please notify me of these events.\n\n2. Essay Reflections. Five essay/reflections must be sent to your supervisor and to me. Essay reflections are expected as listed in the syllabus. These should be responses to topics and questions. They may also include reflections on other aspects of your work and experiences. The essays will also give you an opportunity to communicate questions or concerns with your university supervisor. But more importantly, the essays encourage you to consider what you have done and/or are going to do in your experiences. Constant reflection of your work is a critical element of successful growth and development and indicates true professionalism.\n\n3. Video. All students are required to complete a video of one full period of teaching. \n\n**Although not required to receive the credit for student teaching, the completed digital portfolio of \"professional\" quality is also required before Illinois certification is possible (see digital portfolio website). The student teaching experience is a rich resource for the portfolio artifacts.\n\n4. How Candidates Know the Students Have Learned. See reflection #4 among Essay Reflection prompts."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "In consideration of the SESP's Conceptual Framework and its Vision of Learning, the Learner, and Teaching, this course will give special concentration to:\n\nA vision of learning that focuses on:\n1.1 understanding student thinking about the subject matter,\n1.2 reflection and research as a means of learning,\n1.3 learning as a social practice, which encourages collaborative learning in which people clarify doubts, examine beliefs, and work together to address questions and concerns;\n1.4 authentic experience, where class sections and assignments are designed to engage students' interests and to have implication for the student beyond the classroom, and\n1.5 The use of technology by extending learning opportunities and thinking\n\nA vision of the learner that focuses on:\n2.1 Lifelong learning and development shaped by social contexts\n2.2 Student diversity as resource for educational community\n\nA vision of teaching that focuses on:\n3.1 Connection of theory to practice, where candidates understand that theories suggest questions and ideas about practice, and practice suggests modification of theory\n3.2 Professional conduct that is responsible and ethical"
+        }
+    ], 
+    "class_num": 23059, 
+    "attributes": "Permission of School\n\nDepartment Majors Only\n\n", 
+    "catalog_num": "388-0"
+}

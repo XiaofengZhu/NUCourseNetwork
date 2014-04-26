@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18757, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Short Course in Calculus", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Philip Egger is a fourth year Ph.D. student under Professor Paul Goerss at Northwestern University. A dual citizen of Switzerland and the United States, he graduated in 2010 with a M.Sc. in mathematics from the Swiss Federal Institute of Technology, Lausanne (EPFL). Between graduation and beginning his doctoral studies, he spent a semester teaching middle school and high school mathematics at an American preparatory school in Beijing, China. He has worked the last two years as a teaching assistant for various undergraduate calculus courses at Northwestern, in addition to doing some private tutoring in his spare time.", 
+        "name": "Philip Ernest Egger", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Applied Calculus, Hughes-Hallet et al, Fourth Edition. ISBN-10: 0470170522  We will cover chapters 1 to 6 in this course."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will:\nBecome familiar with certain basic functions and their relevance to real-world problems.\nGain a conceptual introduction to the notions of limit and continuity.\nExtend the notion of slope of a line to that of the rate of change, or derivative, of a function. \nLearn the rules of differential calculus and apply them to computing derivatives of various functions.\nLearn how to use the derivative in optimisation problems.\nInterpret distance traveled as a sum of speeds, and refine this to an integral.\nLearn the rules of integral calculus and how to tell when a problem calls for its use."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students should be comfortable with basic algebra. Some familiarity with certain essential functions, such as polynomials, and the notion of limit will also be helpful, though these concepts will be reviewed."
+        }
+    ], 
+    "class_num": 18203, 
+    "attributes": null, 
+    "catalog_num": "211-CN"
+}

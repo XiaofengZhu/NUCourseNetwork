@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 6829, 
+    "subject": "CIS", 
+    "requirements": null, 
+    "title": "Introduction to Computer Programming", 
+    "section": "12", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "12", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Jackie Bird has been in IT for 25 years, and has taught at the collegiate level for 20 years.  Her professional experience includes performing in all phases of the SDLC (Systems Development Life Cycle), including development (programming),  analysis and design, project management, QA (testing) and maintenance, working in the financial/banking, trading, manufacturing, health care, telecommunications, benefits/compensation, retailing and educational industries.   She has taught courses in programming (.NET and Java), project management, analysis and design, database design and development (Oracle, SQL Server, Access), enterprise architecture and networking.", 
+        "name": "Jacqueline Ann Bird", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 517", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students find programming challenging and frustrating, so students are supported throughout the course via email and chat sessions."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Starting Out with Java: From Control Structures Through Objects by Tony Gaddis. 5th edition. Pearson/Addison Wesley  - ISBN: 9780132855839"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Course objectives include:\n-Designing and programming with the Java language, using variables, constants, conditional and looping structures, arrays, GUI and basic objects.\n-Understanding and designing well-defined programming logic.\n-Applying good testing approaches to address compilation and logic errors in your programs."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CIS 110 has no prerequisites.  You need access to a Windows (XP or later) computer.  Mac and Linux users can be successful in the course, but CIS 110 is a Windows-based course.\n\nMay not be audited or taken P/N."
+        }
+    ], 
+    "class_num": 35059, 
+    "attributes": null, 
+    "catalog_num": "110-CN"
+}

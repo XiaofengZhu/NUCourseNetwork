@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 16316, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Reserved for students who have taken & passed JOUR 301.", 
+    "title": "Journalism of Empathy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Alex W Kotlowitz", 
+        "phone": "847/467-4099", 
+        "address": "1860 Campus Drive ,Crowe Hall 5-144"
+    }, 
+    "term": "2014 Winter", 
+    "room": "McCormick Tribune 2101", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: JOUR 301-0"
+        }
+    ], 
+    "class_num": 22058, 
+    "attributes": "Prerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "371-0"
+}

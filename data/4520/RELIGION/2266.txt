@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 2266, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Christian Mystical Theology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Barbara Jane Newman", 
+        "phone": "847/491-5679", 
+        "address": "University Hall 215"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Books for purchase:\n<ul>\n<li>Bernard McGinn, ed. <i>Essential Writings of Christian Mysticism</i> (Modern Library)</li>\n<li>Bernard of Clairvaux, <i>Selected Works</i> (Paulist Press)</li>\n<li>Mechthild of Magdeburg, <i>Flowing Light of the Godhead</i> (Paulist Press)</li>\n<li>Henry Suso, <i>The Exemplar, with Two German Sermons</i> (Paulist Press)</li>\n<li>John of the Cross, <i>Selected Writings</i> (Paulist Press)</li>\n</ul>"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Requirements:  (1) regular attendance and participation (25% of grade); (2) journal entries, to be collected twice (50%); (3) mystical narrative or dialogue (25%)."
+        }
+    ], 
+    "class_num": 16844, 
+    "attributes": null, 
+    "catalog_num": "342-0"
+}

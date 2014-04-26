@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 2641, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Philosophy of Art", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rachel E Zuckert", 
+        "phone": "8474912556\t", 
+        "address": "Crowe 3-178"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 215", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "I. Kant, Critique of the Power of Judgment (selections on Blackboard)\nJ.G. Herder, \"Shakespeare\" (Blackboard)\nJ.G. Herder, \"Letter on Ossian\" (Blackboard)\nG.W.F. Hegel, Aesthetics: Lectures on Fine Art ISBN 0198238169\nTheodor Adorno, Aesthetic Theory  ISBN 0816618003"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Reading reflections, a class presentation, and two papers (6-10 pp. each)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "2 meetings of 90 minutes each per week, mixture of lecture and discussion."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To become familiar with two of the most important and influential aesthetic theories in the history of Western thought\n\nTo deepen understanding of the relationship between art, aesthetic value, social context, and history\n\nTo become more adept at understanding and practicing different forms of abstract argumentation, including \"dialectical\" thinking"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "REQUIREMENTS: \nNo prerequisites required but one prior class in philosophy is recommended."
+        }
+    ], 
+    "class_num": 33772, 
+    "attributes": "Juniors/Seniors Only\n\n", 
+    "catalog_num": "380-0"
+}

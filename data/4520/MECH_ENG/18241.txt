@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 18241, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Electronics Design", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael Aaron Peshkin", 
+        "phone": "847/491-4630", 
+        "address": "Technological Institute, Rm B227, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Electronics - Out of the Lab. (provided at no cost)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "100% class attendance is required. Each class session consists of a lecture and a period of in-class lab work. Most classes will have a follow-on homework set or an at-home lab project. There is no separate \"lab\" lab. Students must bring a Windows-capable notebook computer (Mac or PC) to class every day, with at least 90 minutes battery capacity. Note however that all circuits are real, not simulated. A $100 refundable equipment deposit may apply."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Minisyllabus: \n\n1. Ground and power supply considerations; use of instruments \n2. Potentiometers, voltage dividers, and resistor networks \n3. Opamps: design of closed loop behaviors, and applications \n4. Diode circuits, rectification, capacitors, and power supplies \n5. Capacitors, integrators, differentiators, and RC filters \n6. Transistors, biasing, and optical sensors \n7. MOSFETs and controlling large currents \n8. Instrumentation amps and applications \n9. Digital logic, gates, counters, and applications"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Intended for second and third year students in all engineering disciplines, though probably not appropriate for electrical engineering students. No previous electronics coursework is assumed. Provides a solid foundation for ME 333 Mechatronics or Design Competition."
+        }
+    ], 
+    "class_num": 16156, 
+    "attributes": null, 
+    "catalog_num": "233-0"
+}

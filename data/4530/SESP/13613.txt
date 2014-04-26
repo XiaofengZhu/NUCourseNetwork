@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 80, 
+    "course_id": 13613, 
+    "subject": "SESP", 
+    "requirements": null, 
+    "title": "Introduction to Community Development", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John P Kretzmann", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G21", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Addams, Jane, Twenty Years at Hull House, University of Illinois, 1990.\n\nAlinsky, Saul D., Reveille for Radicals, Vintage Press, 1989.\n\nMedoff, Peter and Sklar, Holly, Streets of Hope:  The Fall and Rise of an Urban\nNeighborhood, South End Press, 1994.\n\nCourse Packet (Should be purchased by first class)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Obviously, class attendance and completion of the readings are students' obligations. Just as clearly, active participation in both large and small group discussions will make the course come alive for everyone.\n\nEvery student will complete either a \"community involvement\" or a \"community exploration\" assignment.\n\nIn addition, one class will be devoted to a piece of writingour in-class \"exam,\" if you will. The questions will reflect the readings, lectures and other materials covered recently, and will be distributed at the time. A third assignment will be an end-of-quarter take-home final exam.\n\nGrades will be determined as follows:\nActive participation in large and small group discussions:  20%\nCommunity Involvement or Exploration:  20%\nOne In-class Exam:  20% \nFinal Take-Home Exam:  40%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Since nearly 100 students will be enrolled in the class, a variety of formats will be employed to enable students to be active participants in the learning process. Some sessions will feature lectures with discussion, others will involve smaller discussion sections. Guest speakers and videos will also provide variety, as will a small group assignment in the community."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course students will:\n\nhave become familiar with the most important community development strategies, their histories and the controversies surrounding each;\n\nhave grown more knowledgeable about urban issues, and particularly about the city of Chicago;\n\nhave examined and communicated their own community building choices and commitments."
+        }
+    ], 
+    "class_num": 23017, 
+    "attributes": null, 
+    "catalog_num": "202-0"
+}

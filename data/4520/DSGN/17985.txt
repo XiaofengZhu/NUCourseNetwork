@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 17985, 
+    "subject": "DSGN", 
+    "requirements": null, 
+    "title": "Human-Centered Design Studio 1", 
+    "section": "05", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "05", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "James Edward Colgate", 
+        "phone": "847/491-4264", 
+        "address": "Technological Institute, Rm B225, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 16131, 
+    "attributes": null, 
+    "catalog_num": "401-1"
+}

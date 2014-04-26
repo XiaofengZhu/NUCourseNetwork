@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 8030, 
+    "subject": "LOC", 
+    "requirements": null, 
+    "title": "Organizational Planning & Analysis", 
+    "section": "23", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "23", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kevin M Murnane", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall 347", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Leading Change, John P. Kotter, 2013\nStrengths-Based Leadership, Tom Rath and Barry Conchie, 2009"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "1. Course Contribution/Active Participation and Inquiry-- 25% \n2. Individual Written Assignments-- 25% \n3. Class Project Work Products & Final Presentation/Solution-- 50%"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Experience in working on a live, program-design project as a consultant.\nExperience with on-going engagement with a Client at key stages of a project.\nApplication of LOC concepts in a real-world organizational context. \nExperience in researching organizational situations, assessing the relevance of hypotheses, setting metrics for projects, analyzing findings, developing coherent recommendations and presenting recommendations to a senior client team. \nExperience with receiving and giving coaching and feedback.\nExperience with corporate experts in a variety of relevant fields.\nExperience in working with a team that focuses on the outcomes, individual and team learning, and creating and implementing group process (Action Learning).\nA work product (final course project materials delivered to SVDPC) suitable for use as an example of professional capabilities. \nA customized and personal toolkit that helps change organizations.\nIncreased self-awareness and reflection as a guide to who you are as an authentic leader."
+        }
+    ], 
+    "class_num": 23037, 
+    "attributes": null, 
+    "catalog_num": "391-1"
+}

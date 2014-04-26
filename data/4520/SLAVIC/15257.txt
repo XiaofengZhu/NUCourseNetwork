@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 15257, 
+    "subject": "SLAVIC", 
+    "requirements": null, 
+    "title": "Elementary Polish", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kinga B. Maciejewska", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required materials: M. Malolepsza & A. Szymkiewicz, \"Hurra po polsku 1\" (book, CD, student's workbook); D. Bielec \"Basic Polish: A Grammar and Workbook.\" Autumn, Winter, Spring."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class participation\nquizzes\noral presentation\nmid-term exam\nfinal exam"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and Discussion"
+        }
+    ], 
+    "class_num": 16996, 
+    "attributes": null, 
+    "catalog_num": "108-1"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 13, 
+    "course_id": 4725, 
+    "subject": "DANCE", 
+    "requirements": null, 
+    "title": "Introduction to the Dance Experience", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jose Luis Reynoso", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G30", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Attendance at 1st class is mandatory"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course Packet will be available a Quartet Digital Printing"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. To critically examine dance as a human activity that impacts people's sense of individual and collective identity. \n \n2. To employ contemporary aesthetic, political, and cultural discourses while choreographing short dances.  \n \n3. To apply interdisciplinary analytical tools while discussing and writing about dance readings and dances watched on video or live.\n \n4. To increase understanding that dance practice and theory are shaped by the cultural and historical contexts in which artistic and academic activities are produced."
+        }
+    ], 
+    "class_num": 34038, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "101-2"
+}

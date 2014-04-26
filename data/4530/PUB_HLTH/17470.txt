@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 17470, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Introduction to Health and Human Rights", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Juliet Suzanne Sorensen", 
+        "phone": "312/342-0598", 
+        "address": "Rubloff 845"
+    }, 
+    "term": "2014 Winter", 
+    "room": "McGaw Pavilion 2-322", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the conclusion of the course, students will be able to identify key areas of health and human rights litigation around the world; evaluate corporate social responsibility programs related to health as a human right; and critically evaluate health interventions in a resource-poor setting from a rights perspective."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission number required. Please contact Meera at meera.tavathia@northwestern.edu."
+        }
+    ], 
+    "class_num": 34801, 
+    "attributes": "See Dept for further info\n\n", 
+    "catalog_num": "393-0"
+}

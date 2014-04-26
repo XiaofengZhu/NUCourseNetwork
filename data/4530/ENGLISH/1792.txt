@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1792, 
+    "subject": "ENGLISH", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Students must have taken & passed English 206-0 to enroll.", 
+    "title": "Advanced Creative Writing", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Eula Ruth Biss", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Library 3622", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Prerequisites: Prerequisite English 206. No P/N registration. Attendance at first class is mandatory."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings will include Toni Morrison, Andrea Barrett, David Trinidad, Albert Goldbarth, and Anne Carson, among others.  All texts will be available at Beck's Books."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Three short creative works in at least two different genres or one long creative work (delivered in three parts) in one genre."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion and practice."
+        }
+    ], 
+    "class_num": 23811, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "307-0"
+}

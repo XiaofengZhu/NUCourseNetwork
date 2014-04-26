@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 5045, 
+    "subject": "EECS", 
+    "requirements": null, 
+    "title": "Introduction to Feedback Systems", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Tech Institute CG50 - EECS T-L", 
+            "section": "21", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Randy A Freeman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2407", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20510, 
+    "attributes": null, 
+    "catalog_num": "360-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 19427, 
+    "subject": "MECS", 
+    "requirements": "Enrollment Requirements: All students must have taken ECON 410 -1, -2, -3 to enroll in this course", 
+    "title": "Conflict and Cooperation", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Bantwal Sandeep Baliga", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18378, 
+    "attributes": null, 
+    "catalog_num": "473-0"
+}

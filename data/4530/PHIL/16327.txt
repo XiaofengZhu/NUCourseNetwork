@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 16327, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Seminar in  French Philosophy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "18:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Penelope L Deutscher", 
+        "phone": "847/491-5293", 
+        "address": "Kresge 3-245"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-345", 
+    "end_time": "20:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Michel Foucault , History of Sexuality volume 1 (background 978-0679724698\nThomas Lemke, Introduction to Biopolitics ISBN-10: 081475242X  (background)\n\nStudents will  read excepts from some of the following:\nMichel Foucault,  Psychiatric Power, Abnormal,  Society Must be Defended,  Security, Territory, Population \nRoberto Esposito,  Bios: Biopolitics and Philosophy \nGiorgio Agamben, Homo Sacer # ISBN-10: 0804732183\nAnn Stoler, Race and the Reproduction of Desire\n\n Puar, Jasbir  Terrorist Assemblages Introduction: Homonationalism and Biopolitics \nAchille Mbembe, Necropolitics, \"On Politics as a Form of Expenditure\"\nLauren Berlant, \"America, Fat, the Fetus,\" \" Slow Death\"\nJudith Butler: Is Kinship Alwaus Heterosexual? \nFoucault and Farge, The Disorder of Families\n\n\nDerrrida, The Death Penalty\n\nJudith Butler, Precarious Life, Frames of War\nRose, Politics of Life Itself : Biomedicine, Power and Subjectivity in the Twenty-First century. \nEd Cohen, A Body Worth Defending: Immunity, Biopolitics and the Apotheosis of the Modern Body, \nCatherine Mills, Futures of Reproduction: Bioethics and Biopolitics."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "By paper and (very) short class presentation."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar discussion"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "LEARNING OBJECTIVE: \nGraduate students will develop advanced expertise in Foucault and contemporary post-Foucauldian scholarship, particularly the field of biopolitical theory as developed in contemporary continental philosophy and its interlocutors. \nGraduate students will develop advanced expertise in the role of post-Foucauldian theory, and biopolitics,  as it is developing in contemporary race, gender and sexuality studies"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "REGISTRATION REQUIREMENTS: Students should have previously taken a course on Foucault such as Phil315- offered in fall 2014) or have equivalent background familiarity in Foucault, and should also have some research background in gender and sexuality studies. Send an email to p-deutscher@northwestern.edu if you are interested in taking this class."
+        }
+    ], 
+    "class_num": 33763, 
+    "attributes": "Graduate Students Only\n\n", 
+    "catalog_num": "415-0"
+}

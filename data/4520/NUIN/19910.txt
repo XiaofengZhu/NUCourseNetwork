@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 19910, 
+    "subject": "NUIN", 
+    "requirements": "Enrollment Requirements: Reserved for NUIN students only", 
+    "title": "Fundamental Molecular and Celular Biology for Neuroscience", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute A110", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Thomas C Bozza", 
+        "phone": "847/467-2870", 
+        "address": "Pancoe 2-119"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 13611, 
+    "attributes": null, 
+    "catalog_num": "403-0"
+}

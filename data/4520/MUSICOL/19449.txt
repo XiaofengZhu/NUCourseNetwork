@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 19449, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Music and Film", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "http://www.music.northwestern.edu/faculty/profiles/thomas-bauman.html", 
+        "name": "Thomas A Bauman", 
+        "phone": null, 
+        "address": "t-bauman@northwestern.edu"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be determined based on class participation, an in-class midterm exam, and a final project."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "A technical background in music studies, while helpful, is NOT a prerequisite."
+        }
+    ], 
+    "class_num": 14546, 
+    "attributes": null, 
+    "catalog_num": "344-0"
+}

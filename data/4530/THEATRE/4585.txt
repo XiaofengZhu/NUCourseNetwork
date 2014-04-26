@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 4585, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Training the Actor's Voice", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Linda H. Gates", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Struble", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21401, 
+    "attributes": "Attendance at 1st class mandatory\n\nGraded P/N\n\n", 
+    "catalog_num": "210-0"
+}

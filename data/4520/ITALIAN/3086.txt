@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 3086, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Intensive Italian", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 12 - 1PM", 
+        "bio": null, 
+        "name": "Alexandra Visconti McAdoo", 
+        "phone": "847/491-8271", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-113"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students MUST be registered for both Italian 133-1 and 134-1. However, students should wait until the add/drop period to register for 134-1, to avoid potential issues with adding a 5th course."
+        }
+    ], 
+    "class_num": 10738, 
+    "attributes": null, 
+    "catalog_num": "133-1"
+}

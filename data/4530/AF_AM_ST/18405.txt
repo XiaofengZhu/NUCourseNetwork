@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18405, 
+    "subject": "AF_AM_ST", 
+    "requirements": null, 
+    "title": "Introduction to Black Social & Political Life", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Micaela Alicia Smith", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "In addition to a Course Reader the following books will be read:\nCedric Robinson, Black Movements.  London: Routledge, 1990\n\nEric Mann, Katrina's Legacy: White Racism and Black Reconstruction in New Orleans and the Gulf Coast.  Los Angeles: Frontlines Press, 2006/\n\nAssata Shakur, Assata. Brooklyn, NY: Lawrence Hill Books, 1987.\n\nGeorge Lipsitz, A Life in the Struggle: Ivory Perry and the Culture of Opposition. Philadelphia: Temple University Press, 1995 new ed., orig. 1988."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "\tPostings on Blackboard, 15% \n\tMidterm, 15% total\n\tParticipation, 10%\n\tFour in-class (section) assignments, 5% each (20% total)\n\tOne 3-4 page paper, 20%\n\tThe final exam, 20%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The lectures, readings and films should compel us to move beyond traditional binaries (e.g., accommodation vs. resistance; integration vs. separatism; North vs. South); demolish the myth that black people needed a \"messiah\" to lead them by introducing us to local leaders who rose from the grassroots but never found a place in the grand narrative; and reveal a vision of emancipation so broad, so complex, so fluid that it defies labels and categories.  \"Freedom\" was a much bigger matter than integration; it was, and continues to be, a struggle for full citizenship and the right to determine our destiny, a struggle for power and the overthrow the many oppressions we all experience, a struggle to remake the world and to ensure we never forget the past that made us.  The we, I venture to say, includes all oppressed humanity, for black social movements at their best exposed the fragility of whiteness, shed light on how racism arrests the human potential, and sought to replace the values of individualism, accumulation, and competition with the values of community, cooperation, self-determination, love, and an unwavering commitment to social justice for all."
+        }
+    ], 
+    "class_num": 34091, 
+    "attributes": "Historical Studies Distro Area\n\nInterdisciplinary Distro - See Rules\n\nSocial & Behavioral Sciences Distro Area\n\nEthics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "215-0"
+}

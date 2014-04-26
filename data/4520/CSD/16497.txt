@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 16497, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "The Scientific Exploration of Communication", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Erica Knowles", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Speech Science Primer: Physiology, Acoustics, and Perception of Speech\nBy Lawrence J. Raphael, Gloria J. Borden, Katherine S. Harris\nISBN-13: 9780781771177\nEdition Description: Fifth Edition\nEdition Number: 5\nPub. Date: October 2006\nPublisher: Lippincott Williams & Wilkins\n\nAdditional readings can be downloaded from the Course Management System (\"Blackboard\"): https://courses.northwestern.edu"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assessment & Grading\nThere will be approximately 7 quizzes and homework and laboratory assignments through out the quarter (35% of your final grade, 5% each). There will also be two midterm exams (20% each) and a final exam (25%). Your final course grade will be assigned as follow:\n\n94% or higher = A; 90-93% = A- \n87-89% = B+; 83-86% = B; 80-82% = B- \n77-79% = C+; 73-76% = C; 70-72% = C-\n60-69% = D; 59 or below = F"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The class is designed such that material will be presented in lecture/discussion format. Lectures are designed around \"probe\" questions that are meant to stimulate discussion and inquiry. A large part of this class will involve laboratory/computer exercises, which are designed to augment the class presentations."
+        }
+    ], 
+    "class_num": 15039, 
+    "attributes": "Natural Sciences Distro Area\n\nNo P/N option for this section\n\nFreshmen/Sophomores Only\n\n", 
+    "catalog_num": "112-0"
+}

@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 17789, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Dynamical Systems", 
+    "section": "51", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "51", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Laura Grace DeMarco", 
+        "phone": null, 
+        "address": "Lunt 304"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 101", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Dynamical Systems\" 2n Edition Author: R. Clark Robinson Publisher: CRC\n\"Introductions to Dynamical Systems\" by Michael Brin, Garrett Stuck, Cambridge Press"
+        }
+    ], 
+    "class_num": 34193, 
+    "attributes": null, 
+    "catalog_num": "430-1"
+}

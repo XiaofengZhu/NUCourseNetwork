@@ -1,0 +1,31 @@
+{
+    "overview": "Contact the department for further information", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 20575, 
+    "subject": "MUSIC", 
+    "requirements": null, 
+    "title": "Student Organized Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Linda Ann Garton", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 23008, 
+    "attributes": null, 
+    "catalog_num": "298-0"
+}

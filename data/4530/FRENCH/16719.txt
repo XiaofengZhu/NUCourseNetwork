@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 16719, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Elementary French II", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "W 2 - 4PM, Fri 12 - 1PM & 2 - 3PM", 
+        "bio": "Dominique Licops has a Licence (B.A) in Germanic Philology from Universit Catholique de Louvain-La-Neuve (Belgium), an M.A. in Literature from Commonwealth Countries from Leeds University (UK), a PhD. in Comparative Literary Studies from Northwestern University, and a graduate certificate in Gender Studies, also from Northwestern University. Her dissertation is a study of metaphors of identity in Caribbean Francophone and Anglophone Literature. She currently teaches a wide range of courses in the French department and for the School of Continuing Studies, and occasionally for the Gender Studies Program. Her main interests are in French and Francophone and post-colonial studies.", 
+        "name": "Dominique Mary Licops", 
+        "phone": "847/491-8258", 
+        "address": "1860 S. Campus Drive, Crowe Hall #3-136"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-430", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Classes are conducted in French except when explanations of Grammar or administrative matter required the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the En Avant! online program and Workbook / Laboratory Manual throughout the week. Carries humanities credit (two-course limit for language courses). This course is for students with less than two recent years of high school French."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "- Anderson, Golato and Blatty, En Avant!, first edition\n- Anderson, Golato and Blatty, En Avant! WorkBook and Laboratory Manual (WBLM), first ed.  \n (These texts are available in a bundle at Norris Bookstore. Included in the price of the bundle  is an \naccess key to online material)\n-Course packet (provided at first class)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance/Participation: You will earn a total of 10 participation points per day (please see the \"participation rubric\"). If you are absent, you will receive a \"0\" as your participation grade for that day."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Classes will be conducted exclusively in French except when explanation of administrative information may necessitate the use of English. Students are expected to study and practice regularly throughout the week (between classes), prepare for the next week's lesson, to participate actively in class activities, to speak only French in class, and to work independently with the En Avant! listening program and the En Avant! Internet activities. The instructor will not teach grammar explicitly, instead we will practice grammar in communicative class activities."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "In this course, we will cover elementary grammatical structures and vocabulary in order for you to become proficient at an introductory level.  In order to get the most out of this course, you should speak only French (that includes asking questions in class)!  One of the best ways to learn a language is through constant practice, by assimilating concepts and vocabulary, and by having the courage to create with language and to make mistakes!"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "FRENCH 101-A or equivalent. This course is for students with less than two years of high school French or with no previous study of French. Students who have studied French for two or more years in high school recently should register in second-year French."
+        }
+    ], 
+    "class_num": 35055, 
+    "attributes": null, 
+    "catalog_num": "101-B"
+}

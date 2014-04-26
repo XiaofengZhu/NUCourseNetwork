@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 3198, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Topics in Hispanic Literatures and Cultures", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Laura Monica Leon Llerena", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-301", 
+    "end_time": "14:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Subject to change: Crane, The Bridge; Rukeyser, \"The Book of the Dead\"; Williams, In the American Grain and Paterson; Neruda, Canto General; Olson, Selected Writings; Brathwaite, The Arrivants, M. NorbeSe Phillips, Zong!; additional poems and essays by Whitman, Cardenal, Baca, Walcott and others; short essays by historians and theorists of poetry."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Short annotation and blog assignments; ~5-page midterm essay; ~10-page research paper or creative final project. Participation is crucial."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Mini-lectures and seminar discussion."
+        }
+    ], 
+    "class_num": 34883, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "397-0"
+}

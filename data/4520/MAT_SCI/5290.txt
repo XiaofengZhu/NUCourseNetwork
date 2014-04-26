@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 5290, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Process Design", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Yip-Wah Chung", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Design and Analysis of Experiments, 7th Edition D.C Montgomery ISBN 978-0-470-12866-4"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "25% Midterm Exam, 25% Final Exam, 25% Project Reports and Presentation, 25% Homework Exercises"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Classroom Lectures, Laboratory Exercises (Each team will complete a project, and present the results to the class orally and in writing)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MAT_SCI 316-1, 316-2"
+        }
+    ], 
+    "class_num": 15859, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "391-0"
+}

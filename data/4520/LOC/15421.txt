@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 15421, 
+    "subject": "LOC", 
+    "requirements": null, 
+    "title": "Learning and Thinking in Organizations", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David H Uttal", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Gilovich, T. (1991). How we know what isn't so: The fallibility of human reason in everyday life. New York: Free Press.\n\nGroopman, J. (2007). How doctors think. Boston: Houghton Mifflin."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Midterm 1: 10 percent of final grade\nConsulting Project: 10 percent of grade\nClass participation: 10 percent of grade\nDraft of final project: 5 percent of grade\nPresentation of final project: 5 percent of grade\nFinal project: 45 percent of grade\nFinal exam: 15 percent of grade"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "A course in cognitive science or cognitive psychology is a prerequisite for this course. We will not be rigid about what counts, but the basic idea is to have some course beyond Introductory Psychology that focuses on cognition."
+        }
+    ], 
+    "class_num": 17043, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\n", 
+    "catalog_num": "313-0"
+}

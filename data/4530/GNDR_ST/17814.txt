@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 17814, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Gender, Sexuality, and Drama", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jeffrey A Masten", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Attendance at first class mandatory. \nNo P/N allowed. \nCounts as an ICSP course in English.\nThis course is co-listed in Gender Studies and English."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Plays: The Two Noble Kinsmen, Philaster, Edward II, The Man of Mode, Sodom, The Importance of Being Earnest, Patience, A Streetcar Named Desire, Angels in America.\n\nFilms: An American in Paris, Tea and Sympathy, The Boys in the Band.\n\nTheory: Butler, Dryden, Edelman, Foucault, Halperin, Koestenbaum, Miller, Montaigne, Sedgwick, Sontag, others."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Based on attendance and discussion, papers."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar, with some brief lectures."
+        }
+    ], 
+    "class_num": 34004, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "362-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2353, 
+    "subject": "KOREAN", 
+    "requirements": null, 
+    "title": "Korean II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Hye-Ryeong Baek", 
+        "phone": "8474912767 no voicemail", 
+        "address": "4-366 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Integrated Korean (second edition) : Intermediate I (978-0-8248-2418), Intermediate II (978-0-8248-3813-3)\nIntegrated Korean Workbook (second edition) : Intermediate I (978-0-8248-3651), Intermediate II (978-0-8248-3867-6)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be given based on weekly quizzes and tests, assignments, attendance, oral test and final examination."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "After the instructor's lecture, students will practice speaking with the vocabulary and grammar patterns they have learned and elaborate on the conversation.  Class participation is very important.\n\nAlso, various kinds of reading and video materials will be provided to enhance students reading and comprehension."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Successful completion of Korean II 121-1, or by instructor permission."
+        }
+    ], 
+    "class_num": 24305, 
+    "attributes": null, 
+    "catalog_num": "121-2"
+}

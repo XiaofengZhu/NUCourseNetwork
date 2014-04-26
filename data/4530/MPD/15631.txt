@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 42, 
+    "course_id": 15631, 
+    "subject": "MPD", 
+    "requirements": null, 
+    "title": "Intellectual Capital Strategy for Product Design and Development", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-02-08", 
+    "start_time": "08:00:00", 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": "FrSa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "James G Conley", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Ford Eng Design Cntr ITW 1350", 
+    "end_time": "12:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 35267, 
+    "attributes": "Graduate Students Only\n\n", 
+    "catalog_num": "458-0"
+}

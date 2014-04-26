@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 17820, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Queer Theory", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jillana B Enteen", 
+        "phone": "8474915871", 
+        "address": "Crowe 3-144"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texts may include: \nQueer Cultures, ed. Deborah Carlin, Jennifer DiGrazia; \nHistory of Sexuality Vol 1, Michel Foucault; \nThree Essays on the Theory of Sexuality, Sigmund Freud; \nGold by the Inch, Laurence Chua, and a course packet or readings on reserve. \nFilms may include: Fated to Be Queer, Metrosexuality, Watermelon Woman, The Attendant, Iron Lady."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students will be expected to attend all classes, post weekly responses on a bulletin board website, attend several screenings and talks, write several responses to readings and complete a 12 page final paper."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar; mostly discussion. One small presentation."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite that at least one course previously taken in Gender Studies or critical theory (English Category 8) or have a background in critical or literary theory. Mandatory first day attendance. No p/n."
+        }
+    ], 
+    "class_num": 34159, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nAttendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "381-0"
+}

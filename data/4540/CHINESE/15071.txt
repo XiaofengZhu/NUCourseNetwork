@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 15071, 
+    "subject": "CHINESE", 
+    "requirements": null, 
+    "title": "Chinese IV:  Modern Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Li-Cheng Gu", 
+        "phone": "8474912760", 
+        "address": "4-374 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 32748, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "311-3"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4864, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Finite Element Methods in Mechanics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "w-liu@northwestern.edu", 
+        "bio": null, 
+        "name": "Wing K Liu", 
+        "phone": "847/491-7094", 
+        "address": "Technological Institute, Rm A326, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "A First Course in Finite Elements, Jacob Fish and Ted Belytschko, ISBN 0-47-051085-4, 2007, 1st, John Wiley"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS SCHEDULE / Two 1.5-hr lecture periods per week. \n\nCOMPUTER USAGE / Computer programming stressed, with MATLAB as the official programming language. Finite element commercial software ABAQUS is adopted to offer students extra opportunity to get experience in the industrial engineering community."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Matrix algebra, strength of materials, knowledge of computing. Primary audience are seniors and graduates in civil and mechanical engineering."
+        }
+    ], 
+    "class_num": 16990, 
+    "attributes": null, 
+    "catalog_num": "327-0"
+}

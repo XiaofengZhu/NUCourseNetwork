@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1338, 
+    "subject": "ASTRON", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M, W, F 3:00-4:00pm (but call ahead for exceptions or if you can't make those times).", 
+        "bio": null, 
+        "name": "Melville P Ulmer", 
+        "phone": "847/491-5633", 
+        "address": "Dearborn Observatory (2131 Tech Drive), Room 3B, Evanston"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Gateway (by Fredrik Pohl, ISBN: 0-345-47583-6)\nDragon's Egg (by Robert L. Forward, ISBN: 0-345-43529-X)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Four writing assignments will be required; three of moderate length (45% of the grade) and one in-depth essay (25% of the grade). Abstracts can add at most 2 points to a paper such that is your paper already has a 14, you will only get 1 pt. Abstract will get grades of  2, 1, or 0 depending on their quality. Ones that are too long will be returned without a grade. Class participation will account for 15% of the grade. Each student will be required to facilitate a discussion of a topic from one of the two books we will read in the class. Each student will also give a 10 minute presentation (15% of the grade) of a paper of their choice (but I recommend the last paper) that is within the context of the class."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion, Student Presentations"
+        }
+    ], 
+    "class_num": 11106, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "110-6"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 963, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Reserved for students who have taken & passed JOUR 301.", 
+    "title": "Media Design", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Susan Yvonne Curtis", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "InDesign CS4 or CS5 for the Macintosh and Windows, by Sandee Cohen, Published by Peachpit Press \n\nPhotoshop CS4 or CS5 for Windows and Macintosh, by Elaine Weinmann & Peter Lourekas, Published by Peachpit Press\n\nSteve Krug \"Don't Make Me Think\" 2 edition\n\nPatrick NcNeil \"The Web Designer's Idea Book\""
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "*Textbook under review.  One will be required.*\n\nSmall Artist sketchbook is used to develop sketches (thumbnail, rough, and comprehensive layouts) that are created in a step-by-step process to develop a final solution."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "        Know how to choose typefaces according to your audience and delivery system. \n\n        Explore how color effects perception and behavior.\n\n        Become more observant and critical in the area of design.\n\n        Able to suggest good design solutions for packaging stories.\n\n        Develop innovative ways to communicate with audiences. \n\n        Develop skills in picture editing.\n\n       Prototyping your design solutions then testing online usability and print functionality."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "JOUR 301"
+        }
+    ], 
+    "class_num": 15506, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "376-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20751, 
+    "subject": "CRT_INT", 
+    "requirements": null, 
+    "title": "Internal Audit Basics", 
+    "section": "44", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-10-01", 
+    "end_date": "2013-11-12", 
+    "start_time": null, 
+    "component": "44", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 17785, 
+    "attributes": null, 
+    "catalog_num": "201-0"
+}

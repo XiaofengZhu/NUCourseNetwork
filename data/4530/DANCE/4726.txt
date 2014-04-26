@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 13, 
+    "course_id": 4726, 
+    "subject": "DANCE", 
+    "requirements": null, 
+    "title": "Introduction to the Dance Experience", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Susan A Lee", 
+        "phone": "847/491-3147", 
+        "address": "10 Arts Circle Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Ballroom", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34039, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "101-3"
+}

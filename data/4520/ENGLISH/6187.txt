@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6187, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "English Literary Traditions I", 
+    "section": "66", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "66", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Jeanine Casler teaches various courses in eighteenth-century literature at Northwestern, focusing on women's writing, the novel, and satire.  Her publications include a new edition of Clara Reeve's 1791 novel The School for Widows, as well as articles on Burney, Edgeworth, and aging in the eighteenth-century.", 
+        "name": "Jeanine M Casler", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Norton Anthology of English Literature, 8th Edition, Volume I (ISBN 0393925315)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course students should have a good understanding of some of the most important early works of British literature, as well as the context (political, social, religious, etc.) in which these works were created."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Previous literature course strongly recommended. Students should have fulfilled the SCS writing requirement or taken equivalent writing courses."
+        }
+    ], 
+    "class_num": 18186, 
+    "attributes": null, 
+    "catalog_num": "210-A"
+}

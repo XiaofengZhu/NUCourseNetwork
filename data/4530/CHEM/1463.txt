@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 220, 
+    "course_id": 1463, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for Chemistry 182-0. \nAdd both classes to the shopping cart and submit together for successful registration.", 
+    "title": "Accelerated General Physical Chemistry", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeThFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Elad Harel", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 3", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "1. \"Student Study Guide and Solutions Manual (for Chemical Principles)\" by Hoeger et al., Freeman, 6th Edition."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. \"Chemical Principles\" by Atkins and Jones, Freeman, 6th Edition"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Preqrequisite: Grade of C- or better in Chemistry 171-0 and Chemistry 181-0"
+        }
+    ], 
+    "class_num": 23285, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "172-0"
+}

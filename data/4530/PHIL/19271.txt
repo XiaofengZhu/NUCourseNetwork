@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 19271, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "The Brady Scholars Program: Philosophy and the City", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-345", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "None."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students will be evaluated on the basis of their contributions to the service project."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "See above."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "See above."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "See above."
+        }
+    ], 
+    "class_num": 24350, 
+    "attributes": null, 
+    "catalog_num": "373-2"
+}

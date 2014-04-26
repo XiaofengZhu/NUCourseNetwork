@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 1772, 
+    "subject": "ENGLISH", 
+    "requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for DSGN 106-2 01. \nAdd both classes to the shopping cart and submit together for successful registration.", 
+    "title": "Writing in Special Contexts", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Jeanne Elizabeth Herrick", 
+        "phone": "847/491-4560", 
+        "address": "Kresge 2-265"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30517, 
+    "attributes": null, 
+    "catalog_num": "106-2"
+}

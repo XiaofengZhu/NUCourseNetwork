@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 1570, 
+    "subject": "GREEK", 
+    "requirements": null, 
+    "title": "Introduction to Greek Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Claudia Zatta", 
+        "phone": "847/467-6976", 
+        "address": "Kresge Hall 1-525"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Lysias Orations I, III, Bryn Mawr Greek Commentaries ISBN 0-929524-19-5\nPlato's Apology, Bryn Mawr Commentaries ISBN 0-929524-56-X"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Daily assignments, weekly quizzes, final exam, class participation, and in-class presentations"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Translation of daily reading assignments, grammar review, and composition; class discussion of cultural, historical, and literary issues from the readings"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Successful completion of 201-1-20, or permission of the instructor."
+        }
+    ], 
+    "class_num": 26402, 
+    "attributes": "Reading in the language, discussion in English\n\nSpecific requirements in the language\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "201-2"
+}

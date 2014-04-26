@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 200, 
+    "course_id": 20451, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for Chemistry 103-0 01. \nAdd both classes to the shopping cart and submit together for successful registration.", 
+    "title": "General Physical Chemistry Laboratory", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "09:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "Fr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Shelby Hatch", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 33306, 
+    "attributes": null, 
+    "catalog_num": "123-0"
+}

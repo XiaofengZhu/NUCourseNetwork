@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 90, 
+    "course_id": 3421, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Gender, Sexuality, and Representation", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "University Hall 101", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Helen F Thompson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "THE CLASS IS HEAVILY COURSE-PACK DEPENDENT.  BOOKS TO BE PURCHASED WITH THE COURSEPACK:  \n\nDavis, Angela Y.  Women, Race, and Class.  NY:  Vintage.  ISBN-10: 0394713516\nFriedan, Betty.  The Feminine Mystique.  NY:  W. W. Norton.  ISBN 0-393-32257-2\nhooks, bell.  Ain't I A Woman.  Boston: South End Press.  ISBN 978-0-89608-129-1\nJong, Erica.  Fear of Flying.  Signet (Penguin Group).  ISBN 0-451-18556-0\nLevin, Ira.  The Stepford Wives.  Perennial/ HarperCollins.  ISBN 0-06-008084-1\nPiercy, Marge.  Woman on the Edge of Time.  Ballantine.  ISBN-13: 078-0449210826"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "ONE ESSAY; ONE LIBRARY PROJECT; ONE FINAL EXAM"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "LECTURE, SOME DISCUSSION; FRIDAY DISCUSSION SECTIONS"
+        }
+    ], 
+    "class_num": 26124, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "231-0"
+}

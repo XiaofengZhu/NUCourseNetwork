@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18305, 
+    "subject": "LIT", 
+    "requirements": "Enrollment Requirements: Reserved for School of Continuing Studies MALS, MLIT, MFA and MCW Students Only", 
+    "title": "Topics in Literature", 
+    "section": "50", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "50", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Nicholas K Davis", 
+        "phone": "847/491-3433", 
+        "address": "1897 Sheridan, Uh 215, Evanston, IL 60208"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 312", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34877, 
+    "attributes": null, 
+    "catalog_num": "405-0"
+}

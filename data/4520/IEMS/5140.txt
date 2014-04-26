@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 5140, 
+    "subject": "IEMS", 
+    "requirements": null, 
+    "title": "Systems Management", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Charles W N Thompson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 16022, 
+    "attributes": "No P/N option for this section\n\nDepartment Majors Only\n\n", 
+    "catalog_num": "390-0"
+}

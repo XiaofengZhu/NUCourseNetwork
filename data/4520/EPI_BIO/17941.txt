@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 17941, 
+    "subject": "EPI_BIO", 
+    "requirements": null, 
+    "title": "Applied Statistical Programming in SAS", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Galter Health Sciences Library", 
+            "section": "20A", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Angela J Fought", 
+        "phone": "312/503-4746", 
+        "address": "680 N, Lake Shore Drive, Suite 1400"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Little SAS Book: A Primer, Forth Edition, Lora D.Delwiche, Susan J. Slaughter, Cary NC, The SAS Institute, 2008."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "After completion of this course students should be able to do the following in SAS:\na.\tOpen existing SAS datasets, read in external datasets, and set and display variable characteristics\nb.\tCreate new variables and/or datasets, manage and clean data, and manipulate data using the Data step, SQL, and SAS functions\nc.\tCreate and use macro variables and functions\nd.\tGet descriptive statistics with and without significance tests\ne.\tRun univariate and multivariate linear and logistic regression models and diagnostics\nf.\tPerform survival analysis"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites:EB 301 Introduction to Epidemiology and  EB 302 Introduction to Biostatistics  \n\nDepartment consent required (permission number)"
+        }
+    ], 
+    "class_num": 13571, 
+    "attributes": null, 
+    "catalog_num": "305-0"
+}

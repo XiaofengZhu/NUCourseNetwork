@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 16543, 
+    "subject": "THEATRE", 
+    "requirements": "Enrollment Requirements: Registration open to MFA Directing & Design Students Only.", 
+    "title": "Collaboration: Shakespeare in the 21st Century", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Todd A Rosenthal", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35192, 
+    "attributes": null, 
+    "catalog_num": "420-3"
+}

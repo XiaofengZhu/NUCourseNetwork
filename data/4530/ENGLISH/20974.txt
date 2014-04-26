@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 17, 
+    "course_id": 20974, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Topics in Screenwriting", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sarah Valentine", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 218", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TBA"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "TBA"
+        }
+    ], 
+    "class_num": 35103, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "209-0"
+}

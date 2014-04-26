@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 55, 
+    "course_id": 18127, 
+    "subject": "CHEM", 
+    "requirements": null, 
+    "title": "Introductory Instrumental  Analysis", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": "17:50:00", 
+            "meeting_days": "Mo", 
+            "start_time": "13:00:00"
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "10:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Frederick J Northrup", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 31934, 
+    "attributes": null, 
+    "catalog_num": "220-0"
+}

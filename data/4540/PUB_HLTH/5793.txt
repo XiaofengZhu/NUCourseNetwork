@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 14, 
+    "course_id": 5793, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Medical Cost-Effectiveness Analysis Projects", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Gordon B Hazen", 
+        "phone": "847/491-5673", 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 37171, 
+    "attributes": null, 
+    "catalog_num": "444-0"
+}

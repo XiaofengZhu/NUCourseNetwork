@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 74, 
+    "course_id": 20688, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Summer Co-Requisite: Students must also register for Chemistry 210-C. Add both classes to the shopping cart and submit together for successful registration.", 
+    "title": "Organic Chemistry Lab II", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-08-05", 
+    "end_date": "2013-08-23", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Owen P Priest", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 42370, 
+    "attributes": null, 
+    "catalog_num": "230-C"
+}

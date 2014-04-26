@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 5925, 
+    "subject": "JRN_WRIT", 
+    "requirements": null, 
+    "title": "Journalistic Writing Practice I", 
+    "section": "12", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "12", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Prof. Nelson has been elected three times to the Northwestern University Honor Roll by students. He also was named \"Professor of the Year\" in 2008 by the NU Alumni Association. He was an executive with Time Inc. and The Miami Herald before joining Northwestern.  His students have won Pulitzer Prizes, written books and several have become editors and publishers in the media industry. He was department chair and former Associate Dean of the Medill School of Journalism. His motto:  \"Write for the reader.\"", 
+        "name": "David L Nelson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Hard work. Rewarding. Fun."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "ELEMENTS OF STYLE\nBy STRUNK\nEDITION:   4TH 00 PUBLISHER:   PEARSON\nISBN:   9780205309023\n\nWHEN WORDS COLLIDE\nBy KESSLER\nEDITION:   8TH 12 PUBLISHER:   CENGAGE L\nISBN:   9780495572404\n\nNEW YORK TIMES: Monday print edition:"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The ability to communicate clearly in writing whether it be for business, academics or personal prose."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Basic English language skills. Basic understanding of grammar, spelling, word choice. This is an entry-level writing course. It can help all students irrespective of their major."
+        }
+    ], 
+    "class_num": 18197, 
+    "attributes": null, 
+    "catalog_num": "201-A"
+}

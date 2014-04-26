@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4628, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Playwriting", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Laura J. Schellhardt", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Bergen Theate", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21409, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "346-2"
+}

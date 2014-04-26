@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 6, 
+    "course_id": 4441, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Scientific Writing", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Beverly Ann Wright", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2407", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "<ul>\n<li>Reading Packet</li>\n<li>Elements of Style by Strunk and White, http://www.bartleby.com/141/strunk5.html</li>\n<li>Example grants from NIH : http://funding.niaid.nih.gov/researchfunding/grant/pages/appsamples.aspx</li>\n</ul>"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "-The Grant Application Writer's Workbook:  National Institutes of Health Version (Revised October 2010) by Stephen W. Russell and David C. Morrison"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To help students:\n<ul>\n<li>appreciate the importance of writing in their scientific careers</li>\n<li>improve the organization and clarity of their writing</li>\n<li>identify strategies for revision</li>\n<li>master the fundamentals of written scientific argumentation for grants and journal article</li>\n</ul>"
+        }
+    ], 
+    "class_num": 21557, 
+    "attributes": "Auditing not permitted\n\n", 
+    "catalog_num": "412-0"
+}

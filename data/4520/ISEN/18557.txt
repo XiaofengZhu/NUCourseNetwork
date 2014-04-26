@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18557, 
+    "subject": "ISEN", 
+    "requirements": "Enrollment Requirements: Registration reserved for Graduate students or seniors majoring in Physics, Chemistry, Biology, Math, EPS, Biol Anthro, Mat Sci, Chem Eng, Mech Eng, Civ Eng, Envir Eng, Envr Sci, or Electrical Eng.", 
+    "title": "Topics in Contemporary Energy and Climate Change", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "axford@northwestern.edu", 
+        "bio": null, 
+        "name": "Yarrow Larue Axford", 
+        "phone": null, 
+        "address": "Technological Institute F394/F395"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "THIS COURSE IS ANTICIPATED TO REACH THE ENROLLMENT CAP OF 35 STUDENTS.  Should this occur, students will be admitted on a first-come, first-served basis in WAITLIST order.  ALL waitlist requests will be handled via the ISEN 410 listing for the course (EARTH 342 waitlist will be disabled to centralize the process).  Please e-mail Jeff Henderson at ISEN (jeffhenderson@northwestern.edu), NOT PROFESSOR AXFORD, if you have any questions."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. Wolfson, R. 2nd Edition, 2012.  Energy, Environment, and Climate.  W.W. Norton & Company (available at the University bookstore or used through online sellers) -- $50-$80\n\nPlease let the instructor know if you would like access to a reserve copy at the library.\n\n2. Coursepack -- $25\n\n3. Additional readings will be posted on Blackboard."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "- Consider the history of energy use and industrialization, and how this shapes the modern world\n\n- Track & quantify their own energy consumption and the energy embodied in products and services\n\n- Discuss the benefits and drawbacks of historical and present-day patterns of global energy consumption in terms of social costs/benefits and sustainability\n\n- Evaluate the scientific evidence regarding human-caused climate change\n\n- Survey practical aspects of major alternative energy technologies\n\n- Monitor and critique news media coverage of energy-related topics\n\n- Research and discuss the trade-offs associated with various energy technologies and proposals"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Open to graduate students from all disciplines, senior undergraduates majoring in natural sciences or engineering, and other interested undergraduates by instructor consent."
+        }
+    ], 
+    "class_num": 13443, 
+    "attributes": null, 
+    "catalog_num": "410-0"
+}

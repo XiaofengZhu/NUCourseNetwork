@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 588, 
+    "course_id": 3234, 
+    "subject": "SLAVIC", 
+    "requirements": null, 
+    "title": "Introduction to Russian Literature", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 4-440", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Gary S Morson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Paper and examination"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and discussions."
+        }
+    ], 
+    "class_num": 12389, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nGiven in English\n\n", 
+    "catalog_num": "210-2"
+}

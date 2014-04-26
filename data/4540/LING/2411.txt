@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 2411, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Research Methods in Linguistics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appt", 
+        "bio": null, 
+        "name": "Matthew A Goldrick", 
+        "phone": "847/491-8053", 
+        "address": "2016 Sheridan Road, Rm 105"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33121, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "330-0"
+}

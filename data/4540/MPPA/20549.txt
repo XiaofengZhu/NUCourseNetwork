@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 20549, 
+    "subject": "MPPA", 
+    "requirements": "Enrollment Requirements: Reserved for MPPA Students ONLY", 
+    "title": "International Institutions", 
+    "section": "50", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "19:00:00", 
+    "component": "50", 
+    "school": "UC", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Iwona Wegrzyn-Bochenska", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Wieboldt Hall 421", 
+    "end_time": "21:30:00", 
+    "coursedesc_set": [], 
+    "class_num": 38893, 
+    "attributes": null, 
+    "catalog_num": "440-0"
+}

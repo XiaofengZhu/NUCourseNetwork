@@ -1,0 +1,48 @@
+{
+    "overview": "Introduction to Music\n<p>This introductory course will explore music in its social and cultural contexts.   We will listen, analyze, and discuss the influences of culture and society on a variety of the world's rich musical tapestry, including Western art music, world music, jazz, rock, and popular music, to name a few. </p>", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 3485, 
+    "subject": "GEN_MUS", 
+    "requirements": null, 
+    "title": "Introduction to Music", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jason Deon Thompson", 
+        "phone": null, 
+        "address": "JasonThompson2013@u.northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 37", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "No prior musical training is necessary for successful completion of this course."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course Textbook: Steven Cornelius and Mary Natvig, Music: A Social Experience.  Pearson, 2011 - Book (ISBN: 0136017509) and 4-CD set (ISBN 0136017517)."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Evaluation will be based on writing assignments, in-class quizzes, and participation."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will leave this course with knowledge of the multiple contexts in which music exists, how music functions in society, and the meanings and value that people attribute to music and musical participation."
+        }
+    ], 
+    "class_num": 22119, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "170-0"
+}

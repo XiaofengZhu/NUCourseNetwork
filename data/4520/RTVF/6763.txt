@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 6763, 
+    "subject": "RTVF", 
+    "requirements": null, 
+    "title": "Designing for the Internet", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Philip John Williams", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Online resources will be used in lieu of paper textbooks.  Adobe Dreamweaver and Photoshop software required but available in lab.  A USB-compatible portable storage device required."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Familiarity with the Macintosh or Windows operating system."
+        }
+    ], 
+    "class_num": 18195, 
+    "attributes": null, 
+    "catalog_num": "375-CN"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 20280, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Jewish History 750-1492", 
+    "section": "1", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "10:50:00", 
+            "meeting_days": "Fr", 
+            "start_time": "10:00:00"
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "11:00:00", 
+    "component": "1", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "David Shyovitz studies medieval Jewish cultural and intellectual history, and is particularly interested in Jewish-Christian and Jewish-Islamic relations, the history of biblical interpretation, the interplay between science and theology, and the history of law.  Before joining the Northwestern faculty in 2010, he completed BA, MA, and PhD degrees at the University of Pennsylvania.", 
+        "name": "David Shyovitz", 
+        "phone": "847/467-1967", 
+        "address": "Harris Hall Room 314"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 33040, 
+    "attributes": "Historical Studies Distro Area\n\n", 
+    "catalog_num": "203-1"
+}

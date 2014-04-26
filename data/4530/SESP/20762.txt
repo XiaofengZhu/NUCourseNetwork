@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20762, 
+    "subject": "SESP", 
+    "requirements": null, 
+    "title": "Practicum: Learning& Organizational Change", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "View Class Details for Room", 
+            "section": "21", 
+            "component": "LAB", 
+            "end_time": "20:00:00", 
+            "meeting_days": "MoTuWeTh", 
+            "start_time": "08:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mindy Douthit", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G02", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34291, 
+    "attributes": null, 
+    "catalog_num": "387-0"
+}

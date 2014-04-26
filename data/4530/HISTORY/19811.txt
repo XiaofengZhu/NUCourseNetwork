@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 19811, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "The Ottomans: Last Empire of Islam, 1300-1622", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "pek K. Yosmaolu is a historian of the late Ottoman Empire.  She hails from Istanbul via New Jersey.  Before joining the faculty at Northwestern she taught at UW-Madison.", 
+        "name": "Ipek Kocaomer Yosmaoglu", 
+        "phone": "847/491-3154", 
+        "address": "Harris Hall Room 214"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-435", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION:   Asia/Middle East or Europe"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nDaniel Goffman, The Ottoman Empire and Early Modern Europe (Cambridge University Press, ISBN 978-0521459082)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Midterm essay and final exam"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture"
+        }
+    ], 
+    "class_num": 26078, 
+    "attributes": "Historical Studies Distro Area\n\n", 
+    "catalog_num": "373-1"
+}

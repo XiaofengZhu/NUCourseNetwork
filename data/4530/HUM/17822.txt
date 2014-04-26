@@ -1,0 +1,65 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 176, 
+    "course_id": 17822, 
+    "subject": "HUM", 
+    "requirements": null, 
+    "title": "Humanities Explorations", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 4-440", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Gary S Morson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Jane Jacobs, <em>The Death and Life of Great American Cities,</em> ISBN: 978-0-679-60047-3"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Robert Alter, <em>Genesis: Translation and Commentary,</em> Norton, ISBN 9780393316704, (1996)\nJared Diamond, <em>Guns, Germs, and Steel: The Fates of Human Societies,</em> Norton, \nISBN: 9780393317558, (1997)\n<em>The Holy Bible,</em> Hendrickson, ISBN: 9781565633254 (2006)\nGary Saul Morson, <em>Narrative and Freedom: The Shadows of Time,</em> Triliteral, ISBN: 9780300068757 \n\nThis course will include Professor Morson's essays on unpredictability and irrationality and Professor Schapiro's writings on US counterfactual history and economics of higher education.  There will also be extracts from The Bible, Gary Becker, Jorge Luis Borges, John Rawls, Jared Diamond, Aristotle, Charles Darwin, Jane Jacobs, Stephen Jay Gould, Fyodor Dostoevsky, and Leo Tolstoy, among others."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on written assignments, and modified by discussion group participation."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and weekly discussion groups."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "How to think more clearly;  to see issues from both sides of the case, and why intelligent, well-intentioned people disagree;   to understand how different disciplines conceive of problems;   to have a deeper understanding of choice and the time in which it is made;   to write more clearly and effectively."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No requirements."
+        }
+    ], 
+    "class_num": 24221, 
+    "attributes": "Interdisciplinary Distro - See Rules\n\nLiterature & Fine Arts Distro Area\n\nEthics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "260-0"
+}

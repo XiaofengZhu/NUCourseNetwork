@@ -1,0 +1,31 @@
+{
+    "overview": "Contact the department for further information", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 20737, 
+    "subject": "MUSIC", 
+    "requirements": "Enrollment Requirements: Reserved for Master of Music Students", 
+    "title": "Introduction to Music Bibliography", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David J Hoek", 
+        "phone": null, 
+        "address": "djhoek@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Library Video Theat", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34426, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "440-0"
+}

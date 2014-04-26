@@ -1,0 +1,56 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2029, 
+    "subject": "HISTORY", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar--Non-Western History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Jonathon Glassman writes and teaches about 19th and 20th century Africa, comparative race and slavery, and the intersections between crime and social protest. His most recent book, War of Words, War of Stones: Racial Thought and Violence in Colonial Zanzibar, won the American Historical Association's Martin Klein Prize for the year's best book on African history. Among other awards, he has been the recipient of a Guggenheim Fellowship and two Fulbright grants.", 
+        "name": "Jonathon P Glassman", 
+        "phone": "847/491-8963", 
+        "address": "Harris Hall Room 316"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 418", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Attendance at first class is mandatory."
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Africa/ME, Europe, US"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website:\nMany of the readings will consist of articles and chapters that will be posted online.  In addition, the following titles may be assigned:\nCurtis Keim, Mistaking Africa: Curiosities and Inventions of the American Mind\nH. Rider Haggard, King Solomon's Mines\nAdam Hochschild, King Leopold's Ghost\nJoseph Conrad, Heart of Darkness\nElenore Smith Bowen (Laura Bohannan), Return to Laughter: An Anthropological Novel\nMaya Angelou, All God's Children Need Traveling Shoes"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "A large proportion of the final grade (approx. 35%) will be based on the quality of the student's participation in classroom discussions.  Regular, informed participation is expected, for which it will be necessary to keep up with the weekly assigned readings.  The remainder of the final grade will be based on biweekly short papers on the readings and films (approx. 40%) and a longer final paper (approx. 25%)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar discussions of the assigned texts and joint film screenings."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Attendance at first class is mandatory."
+        }
+    ], 
+    "class_num": 34235, 
+    "attributes": "Attendance at 1st class mandatory\n\nFreshmen/Sophomores Only\n\n", 
+    "catalog_num": "103-6"
+}

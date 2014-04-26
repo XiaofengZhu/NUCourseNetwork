@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 18061, 
+    "subject": "EPI_BIO", 
+    "requirements": null, 
+    "title": "Intermediate Epidemiology", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Lurie Gray Seminar Room", 
+            "section": "20A", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Laura Jarmila Rasmussen-Torvik", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Huether, S.E. and McCance, K.L. Understanding Pathophysiology, 5th ed. Mosby (St. Louis). 2011\n\nGordis, L.  Epidemiology, 4th ed.  Saunders (Philadelphia).  2008"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "After completion of the course, students should be able to:\n\tIdentify the most appropriate study design for a given research question or hypothesis based on the advantages and disadvantage of each design.\n\tList the differences between confounding and effect modification and describe appropriate methods of analysis to account for them.\n\tDescribe the role of matching in case control study design and analysis  \n\tIdentify and describe several types of bias present in epidemiologic studies\n\tDemonstrate the ability to read and critically interpret literature using epidemiologic methods.\n\tDescribe the pathophysiology and basic epidemiology for some of the most common diseases in the United States"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites\na) EPI BIO 301 Introduction to Epidemiology\nb) EPI BIO 302 Introduction to Biostatistics \n\nStudents MUST receive permission to enroll from Professor Kershaw or Rasmussen-Torvik if the two \ncourses listed above have not been completed.\n\nDepartment consent required (permission number)"
+        }
+    ], 
+    "class_num": 13569, 
+    "attributes": null, 
+    "catalog_num": "401-0"
+}

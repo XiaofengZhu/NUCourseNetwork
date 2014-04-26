@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 1649, 
+    "subject": "BUS_INST", 
+    "requirements": null, 
+    "title": "Accounting & Business Finance", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Robin J Bakal", 
+        "phone": null, 
+        "address": "r-soffer@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "**THERE WILL NO LONGER BE A WAIT-LIST FOR THIS COURSE.**"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Accounting: What the Numbers Mean, 10th edition (With Connect)  \nAuthors: David Marshall; Wayne McManus; Daniel Viele;\nISBN-10: 007802529X \nISBN-13: 978-0078025297 \n\nCourse Packet will be available at the bookstore."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: \nECON 201: Intro to Macroeconomics\nECON 202: Intro to Microeconomics"
+        }
+    ], 
+    "class_num": 24140, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "260-0"
+}

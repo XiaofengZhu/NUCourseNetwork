@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 13, 
+    "course_id": 15397, 
+    "subject": "LITARB", 
+    "requirements": "Enrollment Requirements: Pre-requisite: Entrepreneurship Law is a pre-requisite course for Fall and Spring semesters.  Entrepreneurship Law may be taken as a co-requisite only in the Summer term.", 
+    "title": "Clinic: Entrepreneurship Law Center", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Rubloff 827", 
+        "bio": null, 
+        "name": "Stephen F Reed", 
+        "phone": "312/503-0119", 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30152, 
+    "attributes": "Business/Corporate transactions an element\n\nCommercial and Bankruptcy Law Practice Area\n\nProfessional Skills Course\n\nCivil Litigation & Dispute Resolution\n\n", 
+    "catalog_num": "700"
+}

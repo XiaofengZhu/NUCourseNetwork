@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20137, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Words, Networks and the Internet", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appt", 
+        "bio": null, 
+        "name": "Janet B Pierrehumbert", 
+        "phone": "847/491-8058", 
+        "address": "2016 Sheridan Road, Rm 301"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32867, 
+    "attributes": "Formal Studies Distro Area\n\n", 
+    "catalog_num": "336-0"
+}

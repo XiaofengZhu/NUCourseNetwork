@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20094, 
+    "subject": "FN_EXTND", 
+    "requirements": null, 
+    "title": "Financial Plan Development and Presenation", 
+    "section": "46", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-20", 
+    "end_date": "2014-05-29", 
+    "start_time": "17:45:00", 
+    "component": "46", 
+    "school": "UC", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "21:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 39016, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "320-0"
+}

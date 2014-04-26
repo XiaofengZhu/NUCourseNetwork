@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 1402, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Pre-requisite: Students must have completed BIOL_SCI 110-1-2-3; BIOL_SCI 210-1-2-3; or BIOL_SCI 215-0, 217-0 and 222-0 to register for this course.", 
+    "title": "Animal Behavior", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "16:50:00", 
+            "meeting_days": "Fr", 
+            "start_time": "15:30:00"
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Teresa H Horton", 
+        "phone": "847/467-1686", 
+        "address": "Hogan Hall, Room 2-144"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 32980, 
+    "attributes": null, 
+    "catalog_num": "320-0"
+}

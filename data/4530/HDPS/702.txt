@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 702, 
+    "subject": "HDPS", 
+    "requirements": null, 
+    "title": "The Counseling Process:  Theory & Practice", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Tamara A Johnson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G02", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "In this class, we will be learning about the predominant theories and techniques of counseling and psychotherapy, including the histories of their development and their evolution to more contemporary usage. We will discuss and critique the assumptions made by these theories and the benefits and limitations of each approach. Throughout the class, we will use case studies to see how these theories and practices work in action."
+        }
+    ], 
+    "class_num": 23221, 
+    "attributes": "No Freshmen\n\n", 
+    "catalog_num": "301-0"
+}

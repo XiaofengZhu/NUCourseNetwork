@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<!-- saved from url=(0040)http://getbootstrap.com/examples/cover/# -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="http://getbootstrap.com/assets/ico/favicon.ico">
+
+    <title>Wildcat Course Network</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://getbootstrap.com/examples/cover/cover.css" rel="stylesheet">
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script>
+    function myFunction()
+    {
+      var x = document.getElementById("quarter").selectedIndex;
+      var string0 = "/searchid/";
+      var string1 = new String(document.getElementsByTagName("option")[x].value);
+      var string2 = "&";
+      var string3 = new String(document.getElementById("topics").value);
+      var string4 = string0.concat(string1,string2,string3);
+      alert(string4);
+      window.location = string4;
+    }
+      </script>
+
+  <style id="holderjs-style" type="text/css"></style>
+  <style type="text/css"></style>
+
+</head>
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">Wildcat Course Network</h3>
+              <ul class="nav masthead-nav">
+                <li class="active"><a href="./wildcat.html">Home</a></li>
+                <li><a href="./contact.html">Contact</a></li>
+              </ul>
+            </div>
+          </div>
+          
+          <div class="inner cover">
+            <h1 class="cover-heading"></h1>
+              <select class="form-control" id="quarter">
+                  <option value="4550">2014 Summer</option>
+                  <option value="4540">2014 Spring</option>
+                  <option value="4530">2014 Winter</option>
+                  <option value="4520">2013 Fall</option>
+                  <option value="4510">2013 Summer</option>
+                  <option value="4500">2013 Spring</option>
+                  <option value="4490">2013 Winter</option>
+                  <option value="4480">2012 Fall</option>
+                  <option value="4470">2012 Summer</option>
+                  <option value="4460">2012 Spring</option>
+                  <option value="4450">2012 Winter</option>
+                  <option value="4440">2011 Fall</option>
+                  <option value="4430">2011 Summer</option>
+                  <option value="4420">2011 Spring</option>
+                  <option value="4410">2011 Winter</option>
+              </select>
+              <br/>
+              <div class="input-group">
+                <span class="input-group-addon">Topics you are interested : </span>
+                <input type="text" class="form-control" placeholder="" id="topics">
+              </div>
+              <br/>
+              <button type="button" class="btn btn-primary" onclick="myFunction()">Search Now!</button>
+            </p>
+          </div>
+
+          <div class="mastfoot">
+            <div class="inner">
+              <p>Cover template for <a href="http://getbootstrap.com/">Bootstrap</a>, by <a href="https://twitter.com/vijaym123">@vijaym123</a>.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./static/wildcat_files/jquery.min.js"></script>
+    <script src="./static/wildcat_files/bootstrap.min.js"></script>
+    <script src="./static/wildcat_files/docs.min.js"></script>
+  
+
+<iframe width="0" height="0" frameborder="0" src="about:blank" id="GINGER_SOFTWARE_contextMenuIFrame" scrolling="no" style="border: 0px solid; z-index: 2147483647; height: 0px; width: 0px; background-color: transparent;"></iframe><iframe width="0" height="0" frameborder="0" src="about:blank" id="GINGER_SOFTWARE_bubblesIFrame" scrolling="no" style="border: 0px solid; position: absolute; z-index: 2147483647; height: 0px; width: 0px; background-color: transparent;"></iframe><div id="GingerWidgetInfo" style="display:none;">{"version":"0.1.0.402","isExtension":true,"extensionName":"Chrome"}</div></body></html>

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3085, 
+    "subject": "ITALIAN", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 2 - 3PM", 
+        "bio": null, 
+        "name": "Thomas Haskell Simpson", 
+        "phone": "847/467-1987", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-140"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Attendance is mandatory. Attendance at several evening film screenings is also mandatory."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required Class Materials:\nAll students will need to purchase: \nGiovanni Boccaccio, Decameron\nPenguin Classics Edition, translated by G. H. McWilliam\n  ISBN-10: 0140449302   ISBN-13: 978-0140449303\n\nAll other reading materials will be provided through Blackboard"
+        }
+    ], 
+    "class_num": 34084, 
+    "attributes": "Given in English\n\n", 
+    "catalog_num": "105-6"
+}

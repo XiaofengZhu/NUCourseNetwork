@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1539, 
+    "subject": "CLASSICS", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Robert W Wallace", 
+        "phone": "847/491-8042", 
+        "address": "Kresge 1-520, Dept of Classics"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-365", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Electra and Other Plays, ed. David Raeburn (Penguin, 2008) ISBN-13: 978-0140449785.  \n\nThe Three Theban Plays: Antigone; Oedipus the King; Oedipus at Colonus, tr. Robert Fagles (Penguin 1984)  ISBN-13: 978-0140444254\n\nMust be these editions."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades are based on the papers and class participation."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will learn about one of the world's greatest dramatists and the world's first democracy, while improving their skills in writing, critical thinking, and debate."
+        }
+    ], 
+    "class_num": 26089, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "101-6"
+}

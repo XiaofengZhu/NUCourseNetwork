@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 115, 
+    "course_id": 15740, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Language, Politics, and Identity", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Elisabeth M Elliott", 
+        "phone": "847/491-8082", 
+        "address": "1860 Campus Dr., Crowe Hall #4-130"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "1.\tThe Balkans in World History by Andrew Wachtel.  Oxford University Press, 2008. (A short, 176 pages, history of the Balkans; Kindle edition available from Amazon). On reserve (hard copy) in CORE (Reserve) 2nd floor of the library.  (Kindle edition also available for purchase from Amazon).\n2.\tNationalism A Very Short Introduction by Steven Grosby.  Oxford University Press, 2005. On e-reserve for this course (see link in Blackboard; also Kindle edition available from Amazon).\n3.\tThe Balkans: A Short History (Modern Library Chronicles) by Mark Mazower.  Modern Library 2002 (Kindle edition available from Amazon). On reserve (hard copy) in CORE (Reserve) 2nd floor of the library.  (Kindle edition also available for purchase from Amazon)."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. Reading Packet available from Quartet Copies 818 Clark, 847-328-0720\n2. A Concise Historical Atlas of the Balkans. By Hupchick, Dennis P. and Harold E. Cox.  NY:       St. Martin's Press.  Available on Blackboard.  \n3. Readings in \"Assignments\" folder on course's Blackboard (2-3 short articles)."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": ": Blackboard quizzes, two-page linguistic and ethnic biography, group-work, midterm exam and final exam"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture; some group-work during classes with class discussions"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1) Learn about the myths that surround languages, dialects, accents, etc.\n2) Learn about the connection and practice of languages and prejudice\n3) Discover the role that languages can play in identity, ethnicity, and nationalism\n4) Learn about languages and cultures of Southeastern Europe (the Balkans)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Attendance at 1st class is not mandatory."
+        }
+    ], 
+    "class_num": 17040, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "222-0"
+}

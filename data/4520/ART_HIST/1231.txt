@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 119, 
+    "course_id": 1231, 
+    "subject": "ART_HIST", 
+    "requirements": null, 
+    "title": "Introduction to American Art", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 3-420", 
+            "section": "61", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Christine Anne Bell", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course readings will be accessible electronically through the Northwestern Library website."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Midterm, final exam, and 2 short papers (each 4-5 pages). Travel to a local museum or to downtown Chicago will be required for at least one of the short papers."
+        }
+    ], 
+    "class_num": 17280, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nRegistration for discussion section required\n\n", 
+    "catalog_num": "230-0"
+}

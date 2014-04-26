@@ -1,0 +1,60 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3470, 
+    "subject": "BUS_INST", 
+    "requirements": "Enrollment Requirements: Reserved for Juniors & Seniors", 
+    "title": "Professional Linkage Seminar", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jeff A Bail", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. Students will successfully develop tangible solutions to specific, measurable problems faced by community-based nonprofit organizations.\n2. Students will gain an understanding of the basics of the consulting process and how to conduct a professional business relationship.\n3. Through readings, class discussion, and interaction with guest speakers, students will gain an understanding of the social sector and trends that are changing the way nonprofit organizations and other social enterprises pursue their charitable, philanthropic and broader, mission-oriented objectives."
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "\"Made to Stick\" - Chip and Dan Heath \n\n\"The Lean Start-Up\" - Eric Reiss"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "While the class has been designed with a Liberal Arts focus in mind, an understanding of basic accounting is required. Though ideal, it is not necessary to have your own idea for a new business in order to benefit from this class. Reasonable proficiency in Microsoft Excel and PowerPoint (or other presentation software) is strongly recommended."
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "BIP will no longer keep any wait lists in the office or on CAESAR. Any open slots will be at the professor's discretion. First class mandatory. Juniors and Seniors."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Sports Business Journal (student subscription optional, form to be issued class 1)\nVarious Powerpoint Presentations from Class Lectures (sent via NU Blackboard)\nRequired Packette of Articles/Case Studies/Editorial Text (Quartet Copies)\nOngoing Exploration of various Sports-Related Online Web Sites\n(ESPN.com, CNNSI.com, various team/league/event-specific web sites, etc)."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students will be graded in four areas:\n1. Class Participation (20%)\n2. Midterm Exam (30%)\n3. Group Project/Role-Play Exercise (20%)\n4. Final Exam (30%)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Classes will consist of lectures with a significant level of student interaction and participation encouraged throughout the course. Classes will be built around lectures covering all aspects of marketing , Sports Business Journal weekly articles, general discussions on general sports topics that arise each week, case studies, role-play scenarios, videos/DVD's, overheads/slides, and other techniques. Lectures will be designed to provide students with in-depth, real-life knowledge of sports marketing in a stimulating, provocative, high energy class environment. Guest speakers will be participants during the course, as available, and may include sports team executives, sports agency management, sports agents, pro athletes, and/or sports marketers from major Fortune 500 corporations."
+        }
+    ], 
+    "class_num": 23633, 
+    "attributes": "Attendance at 1st class mandatory\n\nJuniors/Seniors Only\n\n", 
+    "catalog_num": "394-0"
+}

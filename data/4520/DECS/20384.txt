@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 20384, 
+    "subject": "DECS", 
+    "requirements": null, 
+    "title": "Risk Lab", 
+    "section": "61", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-23", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "61", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Russell Franklin Walker", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18313, 
+    "attributes": null, 
+    "catalog_num": "920-0"
+}

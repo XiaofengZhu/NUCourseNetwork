@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 18537, 
+    "subject": "KELLG_MA", 
+    "requirements": "Enrollment Requirements: Reserved for students pursuing the Kellogg Undergraduate\nCertificate in Managerial Analytics", 
+    "title": "Operations and Supply Chain Management", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Martin A Lariviere", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 17774, 
+    "attributes": "Department Majors Only\n\n", 
+    "catalog_num": "324-0"
+}

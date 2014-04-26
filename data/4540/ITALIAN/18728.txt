@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 18728, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Business Italian", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wed 9:45 - 10:45AM or by appointment", 
+        "bio": null, 
+        "name": "Daniela Pozzi Pavan", 
+        "phone": "847/467-0646", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-133"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33112, 
+    "attributes": "Prerequisites apply, see description\n\nSpecific requirements in the language\n\n", 
+    "catalog_num": "206-0"
+}

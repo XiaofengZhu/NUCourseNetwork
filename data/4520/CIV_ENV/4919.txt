@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4919, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Inelastic Analysis of Structures", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "z-bazant@northwestern.edu", 
+        "bio": null, 
+        "name": "Zdenek P Bazant", 
+        "phone": "1 847 491 4025", 
+        "address": "TECH A135"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Textbook, authored by the instructor, is sold at discount during the first week of class."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "BASIS OF GRADE  /  Grade based on a written final exam, one quiz, submitted homework assignments and classroom discussions."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures mostly presented on chalkboard with classroom discussion and moderate load of problem solving at home."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Should be a student in Civil Engineering or Mechanical Engineering"
+        }
+    ], 
+    "class_num": 16993, 
+    "attributes": null, 
+    "catalog_num": "422-0"
+}

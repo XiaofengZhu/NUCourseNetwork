@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 20592, 
+    "subject": "LEGAL_ST", 
+    "requirements": null, 
+    "title": "Legal and Constitutional History of the United States", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "T 2:00-4:50pm", 
+        "bio": null, 
+        "name": "Joanna Lynn Grisinger", 
+        "phone": "847 4913987", 
+        "address": "1-111 Crowe Hall"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website Melvin I. Urofsky and Paul Finkelman, Documents of American Constitutional and Legal History, vol. 2 (Oxford University Press, 2007) Coursepack"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Papers: three, 5-6 page papers, 75%, Discussion section: attendance, quality of participation, 25%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and mandatory discussion section"
+        }
+    ], 
+    "class_num": 33084, 
+    "attributes": "Historical Studies Distro Area\n\n", 
+    "catalog_num": "318-1"
+}

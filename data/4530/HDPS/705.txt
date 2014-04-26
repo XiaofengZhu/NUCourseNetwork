@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 705, 
+    "subject": "HDPS", 
+    "requirements": null, 
+    "title": "Group Dynamics", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "2122 Sheridan Rd Classroom 232", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Thomas j Golebiewski", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "2122 Sheridan Rd Classroom 260", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades in this course will be based on:\n 1. Active participation in class and discussion groups (10%); \n 2. Weekly journals (30%); \n 3.  An open book take home midterm exam (10 page maximum) distributed at the end of Meeting 4 and due in class on Meeting 6 (30% of grade); \n 4.   A take home final assignment (15 page maximum) distributed in Meeting 7, and due in class on Meeting 9, (30% of grade). \nPapers will be graded on the following criteria: depth of analysis of material, use of data to support positions, demonstrated understanding of theory and research, ability to apply theory to other situations, organization and clarity of writing. \nUse of APA reference style preferred. A terrific style resource is Hacker, D., A Pocket Style Manual, Boston/NY: Bedford/St. Martin ,2008. \nParticipation in the Tavistock Small Study groups is expected. Students are expected to attend all lectures, discussion meetings, and Tavistock experiential group sessions. Students are expected to comply with all Northwestern academic integrity requirements."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. To define and understand basic concepts and theories of small group processes and social systems structure and processes.\n2. To describe and analyze group processes such as small group development, norms and member roles which emerge in systems in which students are participating.\n3. To develop an understanding of leadership, diversity, and authority issues in groups.\n4. To apply theory, research, and experience to other relevant group and organizational settings."
+        }
+    ], 
+    "class_num": 23019, 
+    "attributes": "No Freshmen\n\n", 
+    "catalog_num": "311-0"
+}

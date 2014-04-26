@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20895, 
+    "subject": "PROJ_PMI", 
+    "requirements": null, 
+    "title": "Intermediate MS Project", 
+    "section": "42", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-10-29", 
+    "end_date": "2013-11-19", 
+    "start_time": null, 
+    "component": "42", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18747, 
+    "attributes": null, 
+    "catalog_num": "216-0"
+}

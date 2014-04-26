@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 48, 
+    "course_id": 18658, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Reading World Literature", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 4-310", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TuTh 10:30 - 11:30AM", 
+        "bio": null, 
+        "name": "Nasrin Qader", 
+        "phone": "847/491-8263", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-129"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texts:\n William Shakespeare Othello\nTayeb Salih Season of Migration to the North\nJoseph Conrad Heart of Darkness\nHerman Melville Benito Sereno\n\"Shahrazad\" A Thousand and One Nights\nAsad Muhammad Harvest of Anger and Other Stories\nJorge Luis Borges \"Garden of Forking Paths,\" \"Zahir\"\nTahar ben Jelloun The Sand Child\nJ. M. Coetzee Waiting for the Barbarians\nC. P. Cavafy, \"Awaiting the Barbarians\"\nFranz Kafka \"The Wall of China,\" \"The Arab and the Jackals\"\n\"The Penal Colony\""
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students will be evaluated based on three papers: 2 short papers (4-6 pages) and a final paper (8-10 pages). These papers must be double-spaced and in Times New Roman 12pt font.  Papers must be original and all citations and borrowings from sources clearly indicated in a bibliography.\n\nShort papers      20% each\nFinal paper         40%\nParticipation       20%"
+        }
+    ], 
+    "class_num": 34119, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "201-0"
+}

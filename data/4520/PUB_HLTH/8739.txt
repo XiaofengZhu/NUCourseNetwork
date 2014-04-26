@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 8739, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Topics in Public Health I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Anagha Ramesh Loharikar", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be able to:\n\tDescribe the primary Chicago health priorities\n\tDiscuss current challenges and future goals in addressing these public health priorities.\n\tList historical Chicago public health events.\n\tUnderstand how public health issues can be addressed through different mechanisms."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Department consent required (permission number)"
+        }
+    ], 
+    "class_num": 13522, 
+    "attributes": null, 
+    "catalog_num": "310-0"
+}

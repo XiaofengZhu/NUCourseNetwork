@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 20765, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: Reserved for Sophomores, Juniors, and Seniors from every undergraduate school only.", 
+    "title": "Innovation and News in Technology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lawrence A Birnbaum", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Sophomore Standing"
+        }
+    ], 
+    "class_num": 17822, 
+    "attributes": null, 
+    "catalog_num": "340-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 1844, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Topics in Combined Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jay A Grossman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 121", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "For students completing the English Literature Major under the requirements prior to Fall 2013, this course fulfills the Literary Theory requirement."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Mostly discussion with some lecture."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Charles Jackson's The Fall of Valor (1946);\nJeb and Dash: A Diary of Gay Life 1918-1945;\nOscar Wilde, The Importance of Being Earnest (1895);\nMoiss Kaufman, Gross Indecency: The Three Trials of Oscar Wilde (1997);\nTony Kushner's Angels in America (1992);\nRat and the Devil: Journal Letters of F. O. Matthiessen and Russell Cheney (1924-45);\nDouglas Crimp's AIDS DemoGraphics (1990);\nFreud's Three Essays on The Theory of Sexuality (1925);\nMichel Foucault's The History of Sexuality: Volume One: An Introduction (1980);\nWhitman's writings both in poetry and prose."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "No exams.  A shorter midterm paper expanded into a larger, research-oriented final paper."
+        }
+    ], 
+    "class_num": 24297, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "385-0"
+}

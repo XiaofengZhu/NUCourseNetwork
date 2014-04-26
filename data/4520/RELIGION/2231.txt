@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 2231, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Christian Ethics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Spring MW 2-3:15", 
+        "bio": null, 
+        "name": "Cristina L.H. Traina", 
+        "phone": "84712938", 
+        "address": "Crowe 4-155"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Helen Prejean, Dead Man Walking,\n\nISBN-10: 0679751319\nISBN-13: 978-0679751311"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Other (if your evaluation method is not listed, choose \"Other\" above and enter further description here):  Journal analyses of readings"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will learn how to recognize, characterize, and describe a variety of Christian approaches to moral thought.  They will also be familiar with contemporary Christian arguments on four important moral issues.  Both skills will enable students to read \"between the lines\" to decipher media presentations of Christian moral positions."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "PREREQUISITES: One course in philosophy or a western religious tradition, or junior standing, or permission of instructor.  \nNo P/N."
+        }
+    ], 
+    "class_num": 16845, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "344-0"
+}

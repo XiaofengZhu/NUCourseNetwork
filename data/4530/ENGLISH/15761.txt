@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 15761, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Advanced Creative Writing: Fiction II", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Fred Shafer is a writer, teacher, and literary editor with a long experience in editing and publishing short stories and novels.", 
+        "name": "Frederick Shafer", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 318", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course reader and handouts will be distributed in class."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "In addition to giving presentations and leading discussions of both published short stories and manuscripts written by the students, the instructor will mark the manuscripts at length, hold two 45-minute meetings with each student about the story in progress, and be available for further conferences."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Each student will refine and extend his or her knowledge of technique in fiction writing, at the same time as gaining experience in carrying a short story through several drafts."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ENGLISH 207 or permission of instructor. Students should have previous creative writing experience in an academic setting. Instructor's consent and confirmation of the prerequisite course or appropriate writing experience is required for enrollment in this course."
+        }
+    ], 
+    "class_num": 35049, 
+    "attributes": null, 
+    "catalog_num": "307-B"
+}

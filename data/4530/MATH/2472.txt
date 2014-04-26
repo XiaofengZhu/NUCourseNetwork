@@ -1,0 +1,53 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 2472, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Foundations of Higher Mathematics", 
+    "section": "81", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute M166", 
+            "section": "81A", 
+            "component": "DIS", 
+            "end_time": "14:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "14:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "81", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ross Walker Sweet", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L158", 
+    "end_time": "14:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "May not be taken for credit after 320-1, 321-1, 330-1 or 331-1 without prior departmental consent."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "An Introduction to Abstract Mathematics   Bond & Keane                            Waveland Press\nISBN  1-57766-539-2"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "240-0"
+        }
+    ], 
+    "class_num": 34172, 
+    "attributes": null, 
+    "catalog_num": "300-0"
+}

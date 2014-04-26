@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 15419, 
+    "subject": "ASIAN_AM", 
+    "requirements": null, 
+    "title": "Professional Linkage Program", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Tatsuyuki Aoki", 
+        "phone": "847/467-7114", 
+        "address": "Kresge Hall 1-435"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 31664, 
+    "attributes": null, 
+    "catalog_num": "394-0"
+}

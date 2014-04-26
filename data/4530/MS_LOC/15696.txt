@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 15696, 
+    "subject": "MS_LOC", 
+    "requirements": "Enrollment Requirements: Reserved for MS_LOC students", 
+    "title": "Creating & Sharing Knowledge", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jeffrey D. Merrell", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall 303", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TEXTBOOKS*:\nHislop, D. (2013). Knowledge Management in Organizations: A Critical Introduction. New York: Oxford University Press. (3rd Ed.)\nISBN-10: 0199691932\nISBN-13: 978-0199691937\n\nCLASS FEES PAID TO DEPARTMENT:\nNone\n\nOTHER MATERIALS: \nHarvard Business Review cases - $9\n\n*MSLOC textbooks not stocked by Norris or Chicago Bookstores.\n\nCosts may change. Updated 12/2013"
+        }
+    ], 
+    "class_num": 23026, 
+    "attributes": null, 
+    "catalog_num": "430-0"
+}

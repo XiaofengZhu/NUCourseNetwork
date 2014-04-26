@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 26, 
+    "course_id": 6992, 
+    "subject": "LAWSTUDY", 
+    "requirements": null, 
+    "title": "Common Law Reasoning", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Grace Dodier", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18064, 
+    "attributes": "LLM Candidates only\n\nRequired for LLM candidates\n\n", 
+    "catalog_num": "910"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 19371, 
+    "subject": "LITARB", 
+    "requirements": null, 
+    "title": "Law, Advocacy & Public Persuasion", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Jason C DeSanto", 
+        "name": "Jason C DeSanto", 
+        "phone": "312/961-2356", 
+        "address": "McCormick 198"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18093, 
+    "attributes": "Professional Skills Course\n\n", 
+    "catalog_num": "681"
+}

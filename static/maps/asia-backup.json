@@ -1,0 +1,43 @@
+{
+  "nodes": {
+    "East Timor": {
+      "borders": 2,
+      "length": 228.0
+    },
+    "Afghanistan": {
+      "borders": 7,
+      "length": 5529.0
+    },
+    "Nepal": {
+      "borders": 2,
+      "length": 2926.0
+    },
+    "Bangladesh": {
+      "borders": 2,
+      "length": 4246.0
+    }
+  },
+  "edges": {
+    
+    "East Timor": {
+      "Afghanistan": {
+        "border": 228
+      }
+    },
+    
+    "Afghanistan": {
+      "Nepal": {
+        "border": 76
+      },
+      "Bangladesh": {
+        "border": 106
+      }
+    },
+    
+    "Nepal": {
+      "East Timor": {
+        "border": 236
+      }
+    }
+  }
+}

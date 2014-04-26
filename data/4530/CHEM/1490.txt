@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 1490, 
+    "subject": "CHEM", 
+    "requirements": null, 
+    "title": "Physical Organic Chemistry", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael R Wasielewski", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG66", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. \"Modern Physical Organic Chemistry\" by Anslyn and Dougherty, Univ. Science Books, Latest Edition\n2. \"Modern Physical Organic Chemistry - Student Solutions Manual\" by Sponsler, Univ. Science Books, Latest Edition"
+        }
+    ], 
+    "class_num": 23816, 
+    "attributes": null, 
+    "catalog_num": "410-0"
+}

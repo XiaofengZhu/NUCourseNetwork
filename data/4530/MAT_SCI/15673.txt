@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 15673, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Materials Selection", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Stephen Howard Carr", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute C115", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Materials Selection in Mechanical Design, by Michael Ashby, 4th edition 978-1856176637"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Take-home Mid term Exam \nHomework and In-Class Miniprojects \nTeam Project Report \nTake-home Final Exam"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Mat Sci 201"
+        }
+    ], 
+    "class_num": 20565, 
+    "attributes": null, 
+    "catalog_num": "318-0"
+}

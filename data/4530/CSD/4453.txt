@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 4453, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Evaluation and Use of Amplification Systems", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "12:30:00", 
+            "meeting_days": "Tu", 
+            "start_time": "11:30:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Pamela Elizabeth Souza", 
+        "phone": "847/491-2433", 
+        "address": "2240 Campus Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2370", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "No P/N allowed"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "READINGS: Text: Mueller, Gustav H.; Hawkins, David B.; and Northern, Jerry L., Probe Microphone Measurements - Hearing Aid Selection and Assessment, Recommended: Sandlin, Robert E. - Editor, Understanding Digitally Programmable Hearing Aids; Studebaker, Gerald A. and Hochberg, Irving. Acoustical Factors Affecting Hearing Aid Performance-Second Edition ;Valente, Michael. Strategies for Selecting and Verifying Hearing Aid Fittings ; selected articles."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The material is normally presented in lecture format.  Some material is available on the WEB.  Students are expected to read specific readings from texts and articles. Students are also required to participate in labs designed to give hands-on experience with hearing aids."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the conclusion of this course, the student will be able to:\n(a) identify the major components of a hearing aid.\n(b) describe the popular signal processing schema used in hearing aids today.\n(c) identify circuits and features appropriate for a client and their hearing loss.\n(d) troubleshoot common complaints of hearing aid users.\n(e) verify the fitting of a hearing aid.\nThe KASA standards partially or fully satisfied by this course are appended."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "621 C-18 or 621 C-23; (or equivalent with permission of instructor)\t"
+        }
+    ], 
+    "class_num": 21419, 
+    "attributes": null, 
+    "catalog_num": "411-0"
+}

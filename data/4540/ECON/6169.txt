@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6169, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Foundations of Corporate Finance Theory", 
+    "section": "12", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "12", 
+    "school": "UC", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Mohyeddin Kassar is a financial economist with more than fifteen years experience. He is currently vice president of research and analysis at Taqwa Trades, Inc., a financial research company. His expertise focuses on risk and financial analyses in the banking, credit card and insurance industries in such firms as Wachovia Bank, HSBC, Allstate, Energy Resource Center and SPSS.", 
+        "name": "Mohyeddin Kassar", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Wieboldt Hall 504", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "CORPORATE FINANCE-W/S+P ACCESS\nREQUIRED PACKAGE \nBy ROSS\nEDITION:   9TH 10 \nPUBLISHER:   MCG\nISBN:   9780077337629"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ECON 281, 310-A, 311."
+        }
+    ], 
+    "class_num": 38677, 
+    "attributes": null, 
+    "catalog_num": "360-CN"
+}

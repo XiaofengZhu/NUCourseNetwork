@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1344, 
+    "subject": "ASTRON", 
+    "requirements": null, 
+    "title": "Extragalactic Astrophysics and Cosmology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M, W, F 3:00-4:00pm (but call ahead for exceptions or if you can't make those times).", 
+        "bio": null, 
+        "name": "Melville P Ulmer", 
+        "phone": "847/491-5633", 
+        "address": "Dearborn Observatory (2131 Tech Drive), Room 3B, Evanston"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "co-taught with Astr 429"
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Observational Cosmology by Stephen Serjeant ISBN: 978-0-521-19231-6\nhardback or ISBN 978-0-521-15715-5 Paperback."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The primary book (required) used and from which lecture, discussion, plus home work problems will be drawn is called Introduction to Cosmology by Barbara Ryden ISBN-10: 0805389121, ISBN-13: 978-0805389128.  Supplementary material outside these books will be provided by the professor."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Three one-hour lectures per week."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Astr 220-0 or permission of the instructor."
+        }
+    ], 
+    "class_num": 17001, 
+    "attributes": null, 
+    "catalog_num": "329-0"
+}

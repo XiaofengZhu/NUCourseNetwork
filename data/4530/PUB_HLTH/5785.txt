@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 5785, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Intermediate Epidemiology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Demetrios Kyriacou", 
+        "phone": "847/220-1988", 
+        "address": "259 E. Erie Street, Suite 100"
+    }, 
+    "term": "2014 Winter", 
+    "room": "McGaw Pavilion 2-322", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Optional:\n\nRothman KJ. Epidemiology, An Introduction (2nd Edition).  Oxford University Press, 2012.\n\nKirkwood BR and Sterne JAC.  Essential Medical Statistics (2nd Edition).  Blackwell Science, 2003."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required: \n\nSzklo M and Nieto FJ. Epidemiology, Beyond the Basics (3rd Edition). Jones & Bartlett, 2012."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "After completion of the course, students should be able to:\n\t\na) \tDescribe concepts of causation of diseases or other health-related events. \nb) \tDefine specific research questions for epidemiologic studies based on present state of knowledge.\nc) \tDescribe the major types of observational epidemiologic study designs compare with RCTs.  \nd) \tSelect the most appropriate study design for specific research question or hypothesis based on the advantages and disadvantage of each design.\ne) \tDefine exposure variables, outcome variables, and covariates. \nf) \tEvaluate accuracy of exposure and outcome measurement instruments.\ng) \tDefine appropriate target, source, and study populations for observational studies.\nh) \tCompute and interpret risk, rate, hazard, and odds ratios, their confidence intervals and tests of significance using classical methods of analysis.\ni) \tDescribe the concepts of selection, misclassification, and confounding biases.  \nj) \tDescribe the differences between confounding and effect modification and apply these concepts to describe the role of variables as potential confounders or effect modifiers. \nk) \tDescribe and utilize appropriate methods of stratified analyses to account for the effects of confounding or effect modification.\nl) \tConduct standard forms of regression modeling methods for epidemiologic and clinical studies.\nm) \tRead and interpret literature using epidemiologic and statistical methods.\nn) \tDesign randomized controlled trials and observational studies that assess the measures of association between specific exposures and disease outcomes.  \no) \tDescribe advanced and novel epidemiologic research methods. \np) \tEvaluate associations based on causal and statistical inference."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites\n\na) \tIntroduction to Epidemiology\nb) \tIntroduction to Biostatistics (Intermediate Biostatistics is highly recommended)\nc) \tStudents MUST receive permission to enroll from Professor Kyriacou if the two courses listed above have not been completed.\n\nPermission number required. Please contact Meera at meera.tavathia@northwestern.edu."
+        }
+    ], 
+    "class_num": 20133, 
+    "attributes": null, 
+    "catalog_num": "422-0"
+}

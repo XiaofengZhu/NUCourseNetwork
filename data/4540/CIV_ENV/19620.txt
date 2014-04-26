@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 102, 
+    "course_id": 19620, 
+    "subject": "CIV_ENV", 
+    "requirements": "Enrollment Requirements: Prerequisite: Students must completed CHEM 172-0 or CHEM 103-0 to register for this course.", 
+    "title": "Earth: A Habitable Planet", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Patricia A Beddows", 
+        "phone": "847.491.7460", 
+        "address": "Tech F285"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34578, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "201-0"
+}

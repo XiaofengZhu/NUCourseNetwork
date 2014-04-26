@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3002, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Reading Literatures in French", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Sylvie Romanowski", 
+        "phone": "847/491-2772", 
+        "address": "1860 S. Campus Drive, Crowe Hall #3-141"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-335", 
+    "end_time": "12:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course packet (Quartet Copies)\nHonor de Balzac, La Fille aux yeux d'or (1835) (Norris University Bookstore)\nAim Csaire, Une Tempte (1969) (Norris University Bookstore)\nMarguerite Duras, L'Amant (1984) (Norris University Bookstore)\nMaxence Fermine, L'apiculteur (2000) (Norris University Bookstore)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class participation (includes Blackboard participation)\t25%\nOral reports\t10%\nEssay 1 \t10%\nEssay 2\t20%\nFinal essay\t25%\nPortfolio\t10%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class discussion, oral reports, short lectures, writing assignments. Conducted entirely in French."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: French 202, AP score of 5, or consent of instructor."
+        }
+    ], 
+    "class_num": 23532, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nAttendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nReading, writing, speaking proficiency\n\n", 
+    "catalog_num": "210-0"
+}

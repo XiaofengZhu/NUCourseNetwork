@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 2233, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Judaism in the Modern World", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Mondays, 11 to 1 pm", 
+        "bio": null, 
+        "name": "Claire E Sufrin", 
+        "phone": null, 
+        "address": "Crowe 4-148"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Haim Potok, My name is Asher Lev\nElie Wiesel, The Town beyond the Wall\nAharon Appelfeld, The healer\nZvi Kolitz, Yosl Rakover talks to God"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "<ln/>"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No requirements."
+        }
+    ], 
+    "class_num": 32835, 
+    "attributes": null, 
+    "catalog_num": "333-0"
+}

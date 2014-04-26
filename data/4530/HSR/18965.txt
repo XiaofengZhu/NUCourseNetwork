@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18965, 
+    "subject": "HSR", 
+    "requirements": null, 
+    "title": "Ethical Issues in Health Services Research", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Elisa J Gordon", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Rubloff Bldg Lakeview Conf Rm", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20155, 
+    "attributes": "Graduate Students Only\n\n", 
+    "catalog_num": "460-0"
+}

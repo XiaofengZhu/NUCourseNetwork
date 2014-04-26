@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3078, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Elementary Italian", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 12 - 1PM", 
+        "bio": null, 
+        "name": "Alexandra Visconti McAdoo", 
+        "phone": "847/491-8271", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-113"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 10732, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "101-1"
+}

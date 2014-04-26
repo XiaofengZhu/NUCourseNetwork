@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 962, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Reserved for students who have taken & passed JOUR 301.", 
+    "title": "Literary Journalism", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David Stephen Rodler Abrahamson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 306", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Recommended but not required works (mostly anthologies) you may want to purchase for your personal use include:\n   Thomas Berner, The Literature of Journalism: Text and Context (1998)\n   Norman Sims, The Literary Journalists\n   Norman Sims, True Stories: A Century of Literary Journalism\n   Gay Talese and Barbara Lounsberry, Writing Creative Nonfiction: The Literature of Reality (1996, out of print)\n   Tom Wolfe and E.W. Johnson, The New Journalism (out of print)\n   Ben Yagoda and Kevin Kerrane, The Art of Fact: A Historical Anthology of Literary Journalism (1997)"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Many of the assigned readings for the course are available in a course workbook, which can be purchased for $40 (cash or check) in Fisk 109.  You will, however, need to purchase the following books, available in paperback, at the University Bookstore:\n   John Hersey, Hiroshima\n   John McPhee, Levels of the Game"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: JOUR 301"
+        }
+    ], 
+    "class_num": 34413, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "375-0"
+}

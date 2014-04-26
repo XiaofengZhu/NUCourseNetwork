@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 15655, 
+    "subject": "LEGAL_ST", 
+    "requirements": null, 
+    "title": "Topics in Legal Studies", 
+    "section": "22", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "22", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Alexander Ross Gourse", 
+        "phone": "TBA", 
+        "address": "Harris Hall TBA"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website. Gary Nash, The Unknown American Revolution: The Unruly Birth of Democracy and the Struggle to create America, 2006; Gordon Wood, The Radicalism of the American Revolution, 1993; Elizabeth Fenn, Pox Americana, 2002; Jack Rakove, Original Meanings, 1996; Thomas Paine, Edward Larkin ed. Common Sense, 2004. Course reader."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Papers: two 4-5 page papers; one 6-8 page paper, quizzes; class participation."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Primarily discussion with some lecture."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "This class is offered through the Center for Legal Studies and is available to all undergraduates."
+        }
+    ], 
+    "class_num": 33429, 
+    "attributes": null, 
+    "catalog_num": "376-0"
+}

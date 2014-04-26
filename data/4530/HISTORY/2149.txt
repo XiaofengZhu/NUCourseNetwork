@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 2149, 
+    "subject": "HISTORY", 
+    "requirements": "Enrollment Requirements: Freshmen may not register for this course.", 
+    "title": "Research Seminar", 
+    "section": "30", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "30", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Carl F. Petry: C. D. McCormick Professor of Teaching Excellence; Hamad ibn Khalifa Professor of Middle East Studies.Research focus on pre-modern Egypt, with emphasis on political economy.  Books: The Civilian Elite of Cairo in the Later Middle Ages (Princeton, 1982); Twilight of Majesty: The Reigns of the Mamluk Sultans al-Ashraf Qaytbay and Qansuh al-Ghawri in Egypt (U. Washington, 1993); Protectors or Praetorians? The Last Mamluk Sultans and Egypt's Waning as a Great Power (S.U.N.Y., 1994). Editor and contributor, vol. 1 of The Cambridge History of Egypt, 640--1517 C.E. (Cambridge University Press,1998). Currently researching monographic study of crime and criminality in medieval Cairo and Damascus. Other teaching interests range from gender relations in the Middle Ages to Revolutionary Egypt under Nasser and Sadat.", 
+        "name": "Carl Forbes Petry", 
+        "phone": "847/491-7448", 
+        "address": "Harris Hall Room 329"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Library 3370", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Asia/Middle East"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nW. Cleveland, A History of the Modern Middle East (survey textbook)\nM. Kerr, The Arab Cold War\nM. Kerr, Rich and Poor States in the Middle East\nJ. Waterbury, The Egypt of Nasser and Sadat\nMost specialized reading for discussion and essay research will be selected from works (many now out of print) either on reserve in the library or photocopied in a course packet. We shall examine several critical biographies of Nasser and Sadat."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students should enroll in either 392 or 395 depending upon which evaluation criteria should apply.\nNo examinations. \nFor 395 registration: A participant's grade will be determined by evaluation of active participation in discussion (50%) and submission of a final analytical/research paper (15-25pp) (50%)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion of topical questions, which will be the basis for choice of the subjects for review/research essays prepared individually by student participants."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No P/N option (ANC grading only)\nAttendance in first class is mandatory (applicable to enrolled, waitlisted and all potential students).  No freshmen in 395. Neither 392 nor 395 may be counted toward WCAS distribution requirements."
+        }
+    ], 
+    "class_num": 34386, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "395-0"
+}

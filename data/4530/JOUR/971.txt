@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 48, 
+    "course_id": 971, 
+    "subject": "JOUR", 
+    "requirements": null, 
+    "title": "Ethics & Law of Journalism", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Craig Llewellyn Lamay", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 311", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "MSJ program only\nprerequisites: none"
+        }
+    ], 
+    "class_num": 22005, 
+    "attributes": null, 
+    "catalog_num": "401-0"
+}

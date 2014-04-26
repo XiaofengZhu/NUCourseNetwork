@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20837, 
+    "subject": "OPNSM", 
+    "requirements": null, 
+    "title": "Analytical Decision Modeling", 
+    "section": "1", 
+    "coursecomponent_set": [
+        {
+            "room": "555 Clark B03", 
+            "section": "1A", 
+            "component": "DIS", 
+            "end_time": "12:20:00", 
+            "meeting_days": "Fr", 
+            "start_time": "11:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "1", 
+    "school": "KGSM", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Chaithanya Bandi", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "555 Clark B03", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 33730, 
+    "attributes": null, 
+    "catalog_num": "450-0"
+}

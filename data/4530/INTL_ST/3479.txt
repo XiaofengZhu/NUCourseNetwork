@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 3479, 
+    "subject": "INTL_ST", 
+    "requirements": null, 
+    "title": "Professional Linkage Program", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Richard Salisbury Williamson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Devereux, S and Sabates-Wheeler R (2006) Transformative Social Protection, IDS in Focus, Social Protection, Issue 1.\n\nJames, Allison and Jenks, Chris, Prout  Alan ( 1999), Theorizing  Childhood\n\nIsabel Ortiz (2007), Social Policy, UNDESA Policy Guidance Notes, UN New York.\n\nJayati Ghosh (2007), Macroeconomic and Growth Policies, UN Department of Economic and Social Affairs (UNDESA), Background Note."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Mary Ann Glendon; A WORLD MADE NEW:  ELEANOR ROOSEVELT AND THE UNIVERSAL DECLARATION OF HUMAN RIGHTS (New York; Random House; 2001)\n\nSamantha Power & Graham Allison (eds); REALIZING HUMAN RIGHTS:  MOVING FROM INSPIRATION TO IMPACT (New York; St, Martin's Press; 2000)\n \nGareth Evans; THE RESPONSIBILITY TO PROTECT:  ENDING MASS ATROCITY CRIMES ONCE AND FOR ALL  (Washington, DC; Brookings Institution Press; 2008)"
+        }
+    ], 
+    "class_num": 24374, 
+    "attributes": null, 
+    "catalog_num": "394-0"
+}

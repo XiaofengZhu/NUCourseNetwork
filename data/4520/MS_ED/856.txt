@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 17, 
+    "course_id": 856, 
+    "subject": "MS_ED", 
+    "requirements": null, 
+    "title": "Methods and Techniques: Secondary Mathematics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Miriam G Sherin", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Ongoing Assignments:\nReaction Papers\nLesson Sketch\nStudent Interviews\nRehearsing the TTLP Protocol\nVisits to Northside College Preparatory High School\n\nShort-term Assignments:\nVignettes of Secondary Mathematics Instruction\nAnalyzing the Cognitive Demand of Mathematics Tasks\nSequencing and Debriefing Student Work\n\nOptional Assignment:\nVideo Club Discussions\n\nFinal grade will be determined based on the following:\nAssignments 33%\nTTLP Rehearsals 33%\nClass Participation 33%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "As part of this class, you will have the opportunity to engage in mathematics, to study video and student work from mathematics classes, and to observe and interact with students from a local high school. Through a variety of class activities, you will rehearse several key aspects of classroom interactions including \"launching a task,\" \"supporting students' explorations,\" and \"debriefing an activity through a whole class discussion.\""
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Course objectives are consistent with the Conceptual Framework of the Teacher Education unit at Northwestern University. The course also explicitly addresses several of the Illinois Professional Teaching Standards (IPTS).\n\n1. To view mathematics teaching as a dynamic activity that requires close attention to students' thinking (CF 1.1; IPTS #3, #7)\n2. To view learning as a process resulting from active engagement with the learning environment (CF 1.4; IPTS #4, #5)\n3. To view mathematics proficiency as requiring both procedural fluency and conceptual understanding (CF 1.4; IPTS #5)\n4. To enhance one's subject matter knowledge and pedagogical content knowledge in order to design and implement effective instruction (CF 1.2; IPTS #2)\n5. To be able to use the classroom a context for reflection and learning (CF 1.2; IPTS #7)\n6. To conduct oneself in a professional and ethical manner in working with students at a school site (CF 3.2; IPTS #9)"
+        }
+    ], 
+    "class_num": 14794, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "457-0"
+}

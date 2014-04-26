@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1770, 
+    "subject": "ENGLISH", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Kathleen Carmichael", 
+        "phone": "847/467-5592", 
+        "address": "Kresge 2-255"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Library 5322", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Readings will be selected from: David Foster Wallace, A Supposedly Fun Thing I'll Never Do Again and selected essays; Amy Tan, The Opposite of Fate; Tracy Kidder, Mountains Beyond Mountains and selected essays; Paul Farmer, selected essays; Bethany McClean, Peter Elkind, The Smartest Guys in the Room (selections); Short pieces by Mark Kramer and others."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "This course requires three papers and periodic writing assignments in the class portfolio (approximately 25 pages total). All papers will be written in stages and revised. Quarter grades will cover writing (approximately 70%) and class participation (30%, including attendance and in-class presentations)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion and workshop"
+        }
+    ], 
+    "class_num": 24141, 
+    "attributes": null, 
+    "catalog_num": "105-6"
+}

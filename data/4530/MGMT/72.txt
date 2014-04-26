@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 72, 
+    "subject": "MGMT", 
+    "requirements": null, 
+    "title": "Business Strategy", 
+    "section": "71", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "71", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael Joseph Moore", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 109", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33517, 
+    "attributes": null, 
+    "catalog_num": "431-0"
+}

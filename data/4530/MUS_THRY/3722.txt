@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3722, 
+    "subject": "MUS_THRY", 
+    "requirements": null, 
+    "title": "Atonal Analysis", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "www.music.northwestern.edu/faculty/profiles/mark-butler.html", 
+        "name": "Mark Jonathan Butler", 
+        "phone": null, 
+        "address": "mark-butler@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 114", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required text:  Joseph Straus, Introduction to Post-Tonal Music, 3rd ed.  (It is necessary to have the 3rd edition; earlier editions will not suffice.)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: For undergraduates, successful completion of the theory core (Mus_Thry 111/211); for graduate students, passage of the diagnostic or successful completion of the theory review course."
+        }
+    ], 
+    "class_num": 22647, 
+    "attributes": null, 
+    "catalog_num": "355-0"
+}

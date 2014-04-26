@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1365, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Annie Margaret Bruns", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Library 3322", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All materials will be posted to Blackboard, and will include readings from:  Jonathan Gottschall, The Storytelling Animal: How Stories Make Us Human, 2012, Kendall Haven, The Science Behind the Startling Power of Story, 2007, B.R. Bickmore and D.A. Grnady, Science as Storytelling, 2007, Lisa Cron, Wired for Story: The writer's guide to using brain science to hook readers from the very first sentence, 2012.  \n\nOther course materials:\nhttp://www.aspenideas.org/session/your-brain-stories-why-you-are-hardwired-think-and-learn-through-storytelling"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Discussion/participation will be evaluated on attendance and discussion of readings in class, as well as productive participation in group work (~10% of their total grade).  \nStudents will also be evaluated on their ability to critique scientific stories they have selected from various sources online (~15%) \nStudents will submit revisions of one of the stories they have found online and will be evaluated on their ability to improve the stories (~10%)\nStudents will research primary scientific findings on which to base their original stories, and will verify their sources.  Demonstration of research depth and variety will be evaluated (~10%)  \nStudents will submit an outline of their first original story (5%)\nStudents will submit first drafts of their original scientific stories for a grade (~10%).  \nStudents will work in small groups (2-3 students) to revise their stories and the group will receive a grade based on overall improvement of the group (~10%)\nStudents will submit a second original story background/outline (5%) and first draft (~10%)\nI will evaluate students' second stories and give feedback, students will be graded on their ability revise these stories after our meeting (~15%)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "In class discussion, peer review of papers, small group work"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "WCAS Freshman Seminar"
+        }
+    ], 
+    "class_num": 34026, 
+    "attributes": null, 
+    "catalog_num": "106-6"
+}

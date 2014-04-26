@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 6177, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Writing Seminar I:", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Dr. Jeanne Herrick, a sociolinguist, is a specialist in intercultural communication. After a career doing sales and marketing in the field of broadcasting for CBS, Dr. Herrick focused on the study of how people from different cultures and language backgrounds can communicate. She continues to conduct research in the area, and has extensive experience working with international students. She is also interested in the use of narrative as a way of making sense of our experiences and the world.  Professor Herrick also teaches in the Engineering Design and Communication Program, in conjunction with McCormick School of Engineering and Applied Science. In this program, she teaches project management, teamwork, and presentations skills, as well as both business and technical writing.  Jeanne loves gardening, traveling, dancing, kayaking in Puget Sound where she has a summer cottage, and is an avid Northwestern basketball fan.", 
+        "name": "Jeanne Herrick", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 112", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings will be from:\n\nChicago Stories: Tales of the City, edited by John Miller.\n\nEthnic Chicago: A Multicultural Portrait edited by Melvin G. Holli and Peter d' A. Jones.\n\nThe House on Mango Street by Sandra Cisneros.\n\nA course pack of reading available at Quartet Copies."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Writing will account for 80% of the course grade, while the remaining 20% will be based on students' demonstrated engagement in the course through participation in class discussions, workshops, and exercises."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The primary mode of teaching will be class discussion and writers' workshop.  Students will be experienced to actively engage with the course material in class discussions, classroom writing activities, and writing and responding to their classmates' writing."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None. Students taking English 110-CN should also review the SCS writing requirements."
+        }
+    ], 
+    "class_num": 35043, 
+    "attributes": null, 
+    "catalog_num": "110-CN"
+}

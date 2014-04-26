@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 1309, 
+    "subject": "ART", 
+    "requirements": null, 
+    "title": "Introduction to Photography", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Pamela Bannos is a Senior Lecturer who has been teaching in the Department of Art Theory and Practice since 1993. She has worked with nearly every photographic process and format from 19th century gum prints to web-based digital works. She has exhibited her work nationally and internationally.", 
+        "name": "Pamela L Bannos", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 3-425", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Bring a 35 mm camera that can be operated manually and 2 rolls of 400 film to the first class. Information on other materials needed will be on the syllabus and reviewed at the first class."
+        }
+    ], 
+    "class_num": 23617, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "150-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6147, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Introduction to Economics I: Macroeconomics", 
+    "section": "12", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "12", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Francisco Azeredo is a financial economist with five years of experience working for leading financial and economic consulting firms in the Chicago area. He consulted on a wide range of high profile cases involving large financial institutions and multinational corporations. His consulting experience includes macroeconomic modeling, analysis of complex financial instruments, interest rate modeling, econometrics analysis for antitrust economics, and predictive analysis. His academic research is at the intersection of macroeconomics and finance. His research findings were recognized by leading financial macroeconomists in the Handbook of the Equity Risk Premium. Francisco taught financial management, macroeconomics, microeconomics, and econometrics at the University of California, Santa Barbara and Riverside. He holds a Ph.D. in Economics from the University of California, Santa Barbara.", 
+        "name": "Francisco E Pavanelli de Azeredo", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students may purchase the eletronic or print version of the book with online access to the EconPortal."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Krugman, Paul and Robin Wells. Macroeconomics. New York: Worth Publishers. ISBN-13: 978-1-4292-8343-4. ISBN-10: 1-4292-8343-2.\n\nEconPortal, the online learning environment for the textbook."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To apply basic principles of economics in analyzing the dynamics of: (1) prices and quantities for goods and services; (2) wages and unemployment; and (3) interest rates, investment and savings in a real-world market economy.\nTo understand and describe the role of the macroeconomic discipline in studying long-term economic growth and business cycle fluctuations.\nTo interpret and intuitively explain key measures of aggregate economic performance such as GDP, unemployment, inflation, interest rates, and monetary aggregates.\nTo understand the role of fiscal policy for ensuring economic stability while maintaining long-term government debt stability, solvency, and fiscal responsibility.\nTo understand the role of monetary policy for sustaining growth and employment, and maintaining price stability in the housing, financial, goods and services, and job markets."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Two years of high school math or MATH 101."
+        }
+    ], 
+    "class_num": 18173, 
+    "attributes": null, 
+    "catalog_num": "201-CN"
+}

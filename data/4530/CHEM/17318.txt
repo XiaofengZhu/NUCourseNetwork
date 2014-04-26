@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 17318, 
+    "subject": "CHEM", 
+    "requirements": null, 
+    "title": "Chemistry of Life Processes", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Thomas V O'Halloran", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M128", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 24257, 
+    "attributes": "Attendance at 1st class mandatory\n\nAuditing not permitted\n\nPrerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "305-0"
+}

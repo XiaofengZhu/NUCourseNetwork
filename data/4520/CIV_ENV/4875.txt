@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4875, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Environmental Transport Processes", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute LG72", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "a-packman@northwestern.edu", 
+        "bio": null, 
+        "name": "Aaron Packman", 
+        "phone": "847/491-9902", 
+        "address": "2145 N. Sheridan / Tech A314"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Recommended Reference Books:\n\n1.  Process Dynamics in Environmental Systems. Walter J. Weber & Francis A. DiGiano, Wiley, 1996. \n2.  Scientific journals relevant to the class in SEL. \n3.  Environmental Systems & Processes, Weber, 2001, Wiley. ISBN 0471405183\n4.  Mixing in Inland and Coastal Waters / Fischer, et al / ISBN-13: 978-0122581502 / 1979 / pbk\t/ Academic Press"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Transport Modeling for Environmental Scientists and Engineers / Mark M. Clark / ISBN-13: 978-0-470-26072-2 / 2009 / 2nd / Wiley"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "BASIS OF GRADE / ***Final Exam  / ***Midterm  / ***Paper (literature review) A particular emphasis is placed on the breadth and depth of the literature review / ***Homework."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS SCHEDULE / Two 1 and 1/2 periods per week. Lab Section Required. Lab Scheduling to be arranged with instructor and class."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Graduate-level students or permission of the instructor. Differential equations and linear algebra."
+        }
+    ], 
+    "class_num": 15853, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "440-0"
+}

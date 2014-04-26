@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 2041, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Middle Eastern/Islamic Civilization", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "University Hall 218", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Carl F. Petry: C. D. McCormick Professor of Teaching Excellence; Hamad ibn Khalifa Professor of Middle East Studies.Research focus on pre-modern Egypt, with emphasis on political economy.  Books: The Civilian Elite of Cairo in the Later Middle Ages (Princeton, 1982); Twilight of Majesty: The Reigns of the Mamluk Sultans al-Ashraf Qaytbay and Qansuh al-Ghawri in Egypt (U. Washington, 1993); Protectors or Praetorians? The Last Mamluk Sultans and Egypt's Waning as a Great Power (S.U.N.Y., 1994). Editor and contributor, vol. 1 of The Cambridge History of Egypt, 640--1517 C.E. (Cambridge University Press,1998). Currently researching monographic study of crime and criminality in medieval Cairo and Damascus. Other teaching interests range from gender relations in the Middle Ages to Revolutionary Egypt under Nasser and Sadat.", 
+        "name": "Carl Forbes Petry", 
+        "phone": "847/491-7448", 
+        "address": "Harris Hall Room 329"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 101", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Asia/Middle East"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nW. Cleveland, A History of the Modern Middle East\nJ. Gulick, The Middle East: An Anthropological Perspective\nJ. Elias, Islam\nJ. Williams, The Word of Islam"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There will be a mid-term and a final examination, together accounting for 80% of final grade; participation in discussion sections accounts for 20%."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and mandatory discussion sections"
+        }
+    ], 
+    "class_num": 34330, 
+    "attributes": "Historical Studies Distro Area\n\nAttendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "270-0"
+}

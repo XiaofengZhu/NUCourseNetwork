@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 17930, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Behavioral Economics", 
+    "section": "67", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": "09:00:00", 
+    "component": "67", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "John McCarthy has been teaching economics courses at Northwestern since 2005. He received his Ph.D. from Loyola University in International Political Economy in 2003. His dissertation, which he completed while working full time, compared countries that opted out of European Monetary Union.  An avid NU golf fan, John has worked in capital markets and investment management for 25 years and is currently Director of Research for a Chicago based investment firm. Prior to investment management, John worked in the financial derivatives industry. John is a Chartered Alternative Investment Analyst, and is a member of Chicago Quantitative Alliance and The Economic Club of Chicago.  In addition to Behavioral Economics, John has also taught International Finance (Econ 362) and Evolution of Global Economy (Econ 322) at Northwestern.", 
+        "name": "John P McCarthy", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 102", 
+    "end_time": "12:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Ariely, Dan. 2008. Predictably Irrational.\n\nThaler, Richard, and Cass Sunstein. 2008.  Nudge.\n\nWilkinson, Nick. 2008. An Introduction to Behavioral Economics."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. An ability to describe and compare major scholarly topics in behavioral economics.\n\n2. The capability to research and share information in a useful way with colleagues.\n\n3. The capacity to think critically and analytically about the assumptions of economic behavior, especially the assumptions of standard economic models compared to behavioral economic models."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ECON 281, 310-A,-B."
+        }
+    ], 
+    "class_num": 35042, 
+    "attributes": null, 
+    "catalog_num": "330-CN"
+}

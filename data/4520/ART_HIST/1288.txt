@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 1288, 
+    "subject": "ART_HIST", 
+    "requirements": null, 
+    "title": "Studies in Baroque Art", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jesus R Escobar", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Brown, Jonathan and John Elliott. A Palace for a King: The Buen Retiro and the Court of Philip IV. Revised and expanded edition. New Haven and London: Yale University Press, 2003.\nLefebvre, Henri. The Production of Space. Trans. Donald Nicholson-Smith. Oxford and Cambridge, Mass.: Blackwell, 1991."
+        }
+    ], 
+    "class_num": 17089, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "440-0"
+}

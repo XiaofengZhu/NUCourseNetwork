@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 1771, 
+    "subject": "ENGLISH", 
+    "requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for DSGN 106-1 01. \nAdd both classes to the shopping cart and submit together for successful registration.", 
+    "title": "Writing in Special Contexts", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Lisa M Del Torto", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 23352, 
+    "attributes": "Engineering Students Only\n\n", 
+    "catalog_num": "106-1"
+}

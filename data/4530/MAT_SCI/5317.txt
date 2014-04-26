@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 5317, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Selected Topics in the Solid State", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Bruce W Wessels", 
+        "phone": null, 
+        "address": "4039 Cook"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M166", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Introduction to Semiconductor Optics, N. Peyghambarian, S. W. Koch, and A. Mysyrowicz (Prentice Hall 1993)."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Optical Processes in Semiconductors, J.I. Pankove. 2nd edition. (Dover 2010) ISBN: 9780486602752"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There will be two hourly exams and a term paper."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The course will involve three hours of lectures per week."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Mat Sci 405 or permission of instructor."
+        }
+    ], 
+    "class_num": 33888, 
+    "attributes": null, 
+    "catalog_num": "452-0"
+}

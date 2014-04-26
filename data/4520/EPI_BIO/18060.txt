@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18060, 
+    "subject": "EPI_BIO", 
+    "requirements": null, 
+    "title": "Basic Probability", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mary Jeanne Kwasny", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Hogg and Tanis. Probability and Statistical Inference, 8th edition. Prentice Hall. Upper Saddle River, NJ. 2010.  ISBN-10: 0-321-58475-9. ISBN_13: 978-0-321-58475-5.\n\nGrinstead and Snell. Introduction to Probability. (Available from the AMS Bookshop under the GNU Free Documentation License (FDL). http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf\n\nHandouts posted on the course website."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This course concentrates on establishing a solid foundation of probability theory and review of calculus and matrix notation so that the theories presented in Statistical Inference can be more readily understood and the students may be able to apply these principles as practicing statistical analysts.\n\nUpon completion of the course, students will be able to: \n\tApply basic probability concepts such as conditional probabilities, independence, Bayes' Rule, and combinations and permutations to calculate probabilities of events of practical interest.\n\tDescribe and apply concepts of discrete and continuous random variables, density functions, joint, marginal, and conditional distributions, and sampling distributions of statistics such as the mean."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Department consent required (permission number)"
+        }
+    ], 
+    "class_num": 13568, 
+    "attributes": null, 
+    "catalog_num": "303-0"
+}

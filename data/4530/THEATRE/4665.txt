@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4665, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Special Topics in History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Elizabeth Won-Kyung Son", 
+        "phone": "847/467-0513", 
+        "address": "Theatre and Interpretation Center, 1949 Campus Drive, Rm. #226, Evanston"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Library 5746", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Partial Listing\nThe Archive and the Repertoire: Performing Cultural Memory in the Americas 978-0822331230\nHearts of Pine: Songs in the Lives of Three Korean Survivors of the Japanese \"Comfort Women\" 978-0199759576\nThe Theatre of Genocide: Four Plays about Mass Murder in Rwanda, Bosnia, Cambodia, and Armenia 978-0299224745\nTheatre as Witness: Three Testimonial Plays from South Africa  978-1840028201\n\nCourse Reader available at Quartet Copies"
+        }
+    ], 
+    "class_num": 21594, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "366-0"
+}

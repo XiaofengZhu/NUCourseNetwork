@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 17709, 
+    "subject": "FN_EXTND", 
+    "requirements": null, 
+    "title": "Extended Program: Retirement Planning and Employee Benefits", 
+    "section": "44", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-10-01", 
+    "end_date": "2013-12-17", 
+    "start_time": null, 
+    "component": "44", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Qureish Esmail", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18666, 
+    "attributes": null, 
+    "catalog_num": "314-0"
+}

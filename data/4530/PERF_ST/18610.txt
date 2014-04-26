@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18610, 
+    "subject": "PERF_ST", 
+    "requirements": null, 
+    "title": "Production Laboratory", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Paul C Edwards", 
+        "phone": "847/491-3171", 
+        "address": "Annie May Swift Hall, Room G03"
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission of instructor.  Permission numbers will be available \nduring the week of School of Communication Pre-Registration."
+        }
+    ], 
+    "class_num": 21528, 
+    "attributes": null, 
+    "catalog_num": "119-0"
+}

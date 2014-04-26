@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 5905, 
+    "subject": "ADVT", 
+    "requirements": null, 
+    "title": "Advertising: Creative", 
+    "section": "14", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-13", 
+    "start_time": null, 
+    "component": "14", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jonathan Lane Richman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Hey Wipple Squeeze This\" by Luke Sullivan - reading."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will leave the sequence with a portfolio of work that is interview ready for getting a job in creative advertising as a copywriter or art director."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "An open mind. Curiousity. Eagerness to learn."
+        }
+    ], 
+    "class_num": 18143, 
+    "attributes": null, 
+    "catalog_num": "311-CN"
+}

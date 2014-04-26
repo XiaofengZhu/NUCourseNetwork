@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 16084, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Studies in Contemporary Philosophy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mark Vinzenz Alznauer", 
+        "phone": "847/491-2559", 
+        "address": "Crowe 3-167"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 224", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1)  Raymond Geuss, The Idea of Critical Theory: Habermas and the Frankfurt School (Cambridge University Press, 1981), ISBN: 0521284228.\n\n2)  Wendy Brown and Ranier Forst, The Power of Tolerance (Verlag Turia, 2013), ISBN: 978-3-85132-731-1.\n\n3) A Course Reader"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "i.) Participation & Attendance (20%): You are allowed up to 2 absences without penalty. Frequent lateness, lack of participation, etc., are also grounds for a grade reduction under this category.  \n\nii.) Weekly Assignment (30%): Every week, you are expected to write a short comment on blackboard prior to the end of the day on Wednesday.  The comment needs to engage either one of the readings from that week or another student's comment.  On average, comments should be around 250 words excluding quotations (or 1 page double spaced).  These will be graded: check plus (for a very good comment); check (for a perfectly adequate comment); and check minus (for a sub-par comment).  Think of these, roughly, as A, B, and C grades.  Keep in mind that a check is the default for a satisfactory comment (neither a sign that you are not doing a good job nor a sign that you have no room to improve).  \n\niii.) Final Paper (50%): The greatest part of your grade for this course will be based on your final paper. The final paper is due on the last day of class. Final papers will also need to be submitted to SafeAssign on the same day."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "In this course, our aim is to understand the basic concepts of critical theory as they are employed in current debates."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "One course in philosophy or instructor permission."
+        }
+    ], 
+    "class_num": 33796, 
+    "attributes": "Juniors/Seniors Only\n\n", 
+    "catalog_num": "318-0"
+}

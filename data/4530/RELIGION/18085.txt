@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 97, 
+    "course_id": 18085, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Religion, Medicine & Suffering in the West", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "University Hall 218", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Robert A Orsi", 
+        "phone": "847 4675175", 
+        "address": "Crowe Hall, 1860 Campus Drive, 4-141"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34251, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "173-0"
+}

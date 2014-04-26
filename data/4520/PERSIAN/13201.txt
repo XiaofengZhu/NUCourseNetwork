@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 11, 
+    "course_id": 13201, 
+    "subject": "PERSIAN", 
+    "requirements": null, 
+    "title": "Persian I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW: 11:00am-12:20pm", 
+        "bio": null, 
+        "name": "Judith M Wilks", 
+        "phone": "8474912767 no voicemail", 
+        "address": "4-331 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All students should have a copy of Elwell-Sutton's Elementary Persian Grammar (Cambridge University Press, 1992; ISBN: 0-521-09206-X), and Abdi Rafiee's Colloquial Persian, including the book and the audio materials (Routledge, Taylor and Francis Group, 2001; ISBN: 978-0-415-44198-8). Most other materials will be supplied. All students should also have access to a computer and printer for Blackboard postings and occasional online assignments."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assessment of progress will be done by means of unit quizzes, homework assignments, a mid-term and a final exam. Class participation and attendance will also be factors in the grade."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The Persian alphabet is used throughout the course for both reading and writing. We will use two textbooks: L.P. Elwell-Sutton's Elementary Persian Grammar, and Abdi Rafiee's Colloquial Persian, including the audio materials for the latter work (CDs and/or cassettes). Classes meet for 3 hours weekly."
+        }
+    ], 
+    "class_num": 11687, 
+    "attributes": null, 
+    "catalog_num": "111-1"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6205, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in Medieval Literature:", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": "09:00:00", 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Dr. Ray Gleason has been teaching medieval literature courses at Northwesterns School of Continuing Studies (SCS) since 1994. Gleason received his Ph.D. from Northwestern University in Old and Middle English Literature and Medieval Semantics in 1997. However, hes a veteran of higher education programs for working adults having received his undergraduate degree in 1974 from the Hunter College School of General Studiesan equivalent program of Northwesterns SCS, and an MA from Northwesterns Master of Arts-English (MAE) program in 1989. Also, Gleason completed his doctoral dissertation while working full time in the telecommunications industry and raising a gaggle of daughters.  Gleason has recently published two books:  A Grunt Speaks: A Devil's Dictionary of Vietnam Infantry Terms (2009) and The Violent Season (2012). Gleason's third book, The Venetian Affair will be published in the Summer of 2014.", 
+        "name": "Raymond E Gleason", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 512", 
+    "end_time": "12:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Lacy, Norris J. and James J. Wilhelm, eds. The Romance of Arthur. 3rd ed.  New York: Routledge, 2013 ISBN: 978-0-415-78289 (pbk).\nBrown, Dan. The Da Vinci Code (Any copy, paper or electronic)\nVarious primary texts posted on a class website provided by the instructor.\nArthurian / Grail films provided by the instructor."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the end of the course, you will be able to:\n-Describe the development of the major Arthurian cycles\n-Identify the major themes and motifs of the Arthurian tradition with emphasis on the Grail\n-Describe the significance of \"Arthur\" in divergent literary traditions\n-Define the major medieval literary genres.\n-Develop an interpretive context for reading medieval literature.\n-Write a clear and concise essay based on literary research."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Previous literature courses are strongly recommended. Students should have fulfilled the SCS writing requirement or taken equivalent writing courses. Ability in academic writing and a foundation in literature and literary theory recommended. A little Latin or Old French won't hurt."
+        }
+    ], 
+    "class_num": 35051, 
+    "attributes": null, 
+    "catalog_num": "324-CN"
+}

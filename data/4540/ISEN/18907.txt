@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 18907, 
+    "subject": "ISEN", 
+    "requirements": null, 
+    "title": "Climate Change and Sustainability: Political and Ethical Dimensions", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Bradley B Sageman", 
+        "phone": "847/467-2257", 
+        "address": "Tech F397/F399."
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 32255, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "230-0"
+}

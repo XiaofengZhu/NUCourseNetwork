@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 5960, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "Human Origins", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Aaron Miller is an anthropologist who studies human biological variation and adaptation.  He has been an instructor at Northwestern since 2007.  His specific research interests are in reproductive ecology, energetics, nutrition, and bio-cultural determinants of health.  His dissertation work was conducted among the Tsimane, an indigenous lowland Bolivian population transitioning from a hunting and gathering lifestyle to one more reliant upon the market.  Most recently he has been doing field work in Indonesia and has been working with colleagues from Duke University to set up a laboratory there.", 
+        "name": "Aaron Allen Miller", 
+        "phone": null, 
+        "address": "Dept of Anthropology 1810 Hinman Room A64"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Relethford, JH. 2013. The Human Species: An Introduction to Biological Anthropology. 9th ed. McGraw-Hill.  ISBN-13: 978-0078034985"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. They will learn the evolutionary and genetic processes that led up to the appearance of Homo sapiens and contributed to the diversity of life as we know it.\n2. They will have an understanding of the comparative primate and fossil evidence for human evolution \n3. They will examine environmental factors influencing human variability \n4. They will have an introductory understanding of the key methodological and theoretical issues in  biological anthropology."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 18145, 
+    "attributes": null, 
+    "catalog_num": "213-CN"
+}

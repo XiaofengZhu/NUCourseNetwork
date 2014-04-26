@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2368, 
+    "subject": "JAPANESE", 
+    "requirements": null, 
+    "title": "Japanese III", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Noriko Taira Yasohama", 
+        "phone": "8474671986", 
+        "address": "4-354 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Kodansha. (2002). Kodansha\\'s Essential Kanji Dictionary. Tokyo: Kodansha International. \nISBN978-4-7770-2891-4 \nMakino, S. & Tsutsui, M. (1995). A Dictionary of Intermediate Japanese Grammar. Tokyo: The \nJapan Times. ISBN978-4-7890-0775-8"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Miura, A. & Hanaoka McGloin, N. (2008). An Integrated Approach to Intermediate Japanese. \nTokyo: The Japan Times. ISBN978-4-7890-1307-9.\nMiura, A. & Hanaoka McGloin, N. (2008). An Integrated Approach to Intermediate Japanese \nWorkbook. Tokyo: The Japan Times. ISBN978-4-7890-1308-6.\nKano, et.al. (1989). Basic Kanji Book, Vol.2. Tokyo: Bonjinsha. ISBN978-4-8935-8119-8\nCourse Packet"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class participation and performance, assignments, quizzes, oral and written examinations, essays, a project."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "This course is conducted in Japanese and most class hours are spent on discussions. A short review of grammar is given in class; however, the students must practice grammar patterns on their own with the textbook, the workbook, and dictionaries. Reading and writing skills are developed through various assignments. Reading materials in the textbook and TV dramas are used for developing skills to describe and summarize stories as well as for discussions on Japanese social and cultural aspects."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Successful completion of 121-3 with grade C- or above or with permission of the instructor (placement test will be given)."
+        }
+    ], 
+    "class_num": 10439, 
+    "attributes": null, 
+    "catalog_num": "211-1"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2332, 
+    "subject": "CHINESE", 
+    "requirements": null, 
+    "title": "Chinese I", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": "MoTuWeThFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jingjing Ji", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-420", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Textbook and Workbook: Modern  Chinese 1A Simplified Characters  \n                                    Publisher: BetterChinese  ISBN:9781606034811"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Lesson preparation, written assignments, oral and written quizzes, and a final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "There will be extensive student-oriented practice in pronunciation, conversations, listening comprehension, and sentence structures in class.\n\nEnglish will be used mainly for instruction on sentence structures and patterns. Interaction between instructor and among students will be in Chinese."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Successful completion of 111-1 or instructor and program coordinator consent."
+        }
+    ], 
+    "class_num": 24259, 
+    "attributes": "Specific requirements in the language\n\n", 
+    "catalog_num": "111-2"
+}

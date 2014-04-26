@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 99, 
+    "course_id": 15432, 
+    "subject": "SESP", 
+    "requirements": null, 
+    "title": "Certificate in Civic Engagement- Capstone Project", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Paul Howard Arntson", 
+        "phone": null, 
+        "address": "Frances Searle, 2240 Campus Drive, Room 1-140"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 36835, 
+    "attributes": null, 
+    "catalog_num": "299-2"
+}

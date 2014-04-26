@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 1, 
+    "course_id": 15604, 
+    "subject": "SHC", 
+    "requirements": null, 
+    "title": "Science in Human Culture Senior Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kearsley A Stewart", 
+        "phone": "847/491-4830", 
+        "address": "1810 Hinman Ave., Room #A54A, EV Campus"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32534, 
+    "attributes": null, 
+    "catalog_num": "398-3"
+}

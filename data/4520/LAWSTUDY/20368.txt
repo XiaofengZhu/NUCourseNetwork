@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 20368, 
+    "subject": "LAWSTUDY", 
+    "requirements": null, 
+    "title": "Western Legal Tradition", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Emily Elizabeth Kadens", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18074, 
+    "attributes": "Perspective Elective\n\nLegal History\n\n", 
+    "catalog_num": "612"
+}

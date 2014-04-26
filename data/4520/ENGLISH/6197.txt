@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 6197, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Advanced Reading and Writing Fiction I", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Fred Shafer is a writer, teacher, and literary editor with a long experience in editing and publishing short stories and novels.", 
+        "name": "Frederick Shafer", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "A course reader, which will be distributed the first night of class, and handouts passed out at each class."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Because the  emphasis of the course is on the process by which stories evolve, students will be evaluated, above all, in terms of the progress and development of the two short stories."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Individual Conferences"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The student will be expected to show progress in finding language, rhythm, technique and structure, in the process of writing a short story."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "This course may not be audited or taken P/N.  The prerequisite is English 207 or consent of instructor. Students should have previous creative writing experience in an academic setting. Instructor's consent and confirmation of the prerequisite course or appropriate writing experience is required for enrollment in this course."
+        }
+    ], 
+    "class_num": 18188, 
+    "attributes": null, 
+    "catalog_num": "307-A"
+}

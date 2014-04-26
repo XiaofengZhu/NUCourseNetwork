@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 125, 
+    "course_id": 16784, 
+    "subject": "MUSIC", 
+    "requirements": "Enrollment Requirements: Co-Requisite: Students must also register for MUSIC 111-1.  Add both classes to the shopping cart and submit together for successful registration.", 
+    "title": "Music Theory Skills Testing", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Susan M. Piagentini", 
+        "phone": "847/491-5704", 
+        "address": "MAB 711 Elgin Rd, Evanston IL"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 14212, 
+    "attributes": "Music Majors Only\n\n", 
+    "catalog_num": "101-1"
+}

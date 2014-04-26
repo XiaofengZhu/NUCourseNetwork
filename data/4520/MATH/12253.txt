@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 12253, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Abstract Algebra", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Santiago Canez joined the Department of Mathematics at Northwestern University as a Postdoctoral Lecturer in Fall 2012. Previously he was a Lecturer at the University of California, Berkeley, where he received his Ph.D. in mathematics from in May 2011. His area of research is differential geometry, and in particular his work deals with geometric structures which arise in physics. Since 2005, Santiago has taught numerous undergraduate mathematics courses covering a wide variety of topics, and has won multiple teaching awards as a result.", 
+        "name": "Santiago Canez", 
+        "phone": "847 4675211", 
+        "address": "Lunt B27"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Abstract Algebra and Solution by Radicals. John and Margaret Maxfield, Dover Publications, 2010\nISBN-10: 0486477231\nISBN-13: 978-0486477237"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The definitions and basic properties of groups and polynomial rings, along with standard examples and computations. Also, the basic formulation and applications of Galois Theory and field extensions."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Math 300 or a similar course dealing with foundational mathematics, or consent of the instructor."
+        }
+    ], 
+    "class_num": 18213, 
+    "attributes": null, 
+    "catalog_num": "330-A"
+}

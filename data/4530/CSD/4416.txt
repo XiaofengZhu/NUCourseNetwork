@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4416, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Neurobiology of Communication", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Charles Larson", 
+        "phone": "847/491-3066", 
+        "address": "Room 3-247, 2240 Campus Drive, Evanston campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 3220", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Course Goals\nDescribe mechanisms of neuron action potential generation and propagation\nDescribe mechanisms of synaptic propagation\nDescribe mechanisms of muscle contraction\nDescribe the mechanisms underlying simple reflexes\nDescribe how the ear transduces sound"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required Text: Bear, M.F., Connors, B.W. and Paradiso, M.S.(2007).  Neuroscience: Exploring the Brain, 3rd Ed.: Baltimore: Lippincott, Williams & Wilkins Publishers."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Upon completion of the course students will be able to:\nDescribe mechanisms of neuron action potential generation and propagation.\nDescribe mechanisms of synaptic propagation.\nDescribe mechanisms of muscle contraction.\nDescribe the mechanisms underlying simple reflexes. \nDescribe how the sensory systems function (i.e., vision, somatosensory and hearing).\nIdentify associated disorders of vision, hearing, motor and cognition that may impact on human communication. \nDiscuss language and associated disorders and their impact on communication functioning."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No prerequisites."
+        }
+    ], 
+    "class_num": 21400, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "202-0"
+}

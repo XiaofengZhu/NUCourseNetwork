@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 3601, 
+    "subject": "MUSIC_ED", 
+    "requirements": null, 
+    "title": "Philosophy of Music Education", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Amy Lynn Becker", 
+        "phone": null, 
+        "address": "amy.becker@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "This course is designed to enable you to: *communicate your philosophy of music education in clear writing and oral discourse *demonstrate knowledge and understanding of various philosophical positions in and related to music education through speech and writing *develop an increased understanding of the ways philosophy can inform practice *demonstrate an understanding of the issues, challenges, and potentials of music education through writings, presentations, and discussions."
+        }
+    ], 
+    "class_num": 36294, 
+    "attributes": "Music Majors Only\n\n", 
+    "catalog_num": "258-0"
+}

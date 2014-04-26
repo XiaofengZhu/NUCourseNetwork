@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 12360, 
+    "subject": "ART_HIST", 
+    "requirements": null, 
+    "title": "Modern Arch", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David T Van Zanten", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Robert Fishman, Urban Utopias of the Twentieth Century\nAlan Colquhoun, Modern Architecture\nNeil Levine, Modern Architecture\nJames Holston, The Modernist City"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Midterm, paper and final examination during examination week."
+        }
+    ], 
+    "class_num": 17087, 
+    "attributes": null, 
+    "catalog_num": "370-0"
+}

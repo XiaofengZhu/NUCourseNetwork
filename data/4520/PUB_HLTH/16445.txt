@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 16445, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Cardiovascular Disease Epidemiology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Donald M Lloyd-Jones", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Limited to 12 students"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Text: Darwin R. Labarthe. Epidemiology and Prevention of Cardiovascular Disease:\nA Global Challenge [Paperback]. Sudbury, MA. Jones and Bartlett Publishers, 2011."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Participation in discussions   \t20%\nLeading of discussion            \t15%\nResearch proposal oral presentation  \t15% \nGrant proposal assignment                  \t 50% \nSpecific Aims (10%) \nFirst Draft (20%) \nFinal Draft (25%)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The student will develop skills of critical reading and will be able to describe and\nevaluate:\n1. Current knowledge related to cardiovascular disease risk factors and outcomes;\n2. Methods used in analyses of associations between risk factors and cardiovascular\ndisease endpoints;\n3. Methods used in screening and diagnosis of cardiovascular disease;\n4. Prevention and treatment of cardiovascular disease;\n5. Special research problems, major research directions, and methodological\nchallenges related to cardiovascular disease epidemiology"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: \nPH 302 or CLIN PSY 426 (Introduction to biostatistics)\nand\nPH 304 (Introduction to epidemiology);\nor\nBy approval of course instructor\n\nDepartment consent required (permission number)"
+        }
+    ], 
+    "class_num": 17494, 
+    "attributes": null, 
+    "catalog_num": "524-0"
+}

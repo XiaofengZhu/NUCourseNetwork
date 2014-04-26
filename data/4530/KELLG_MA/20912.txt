@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 20912, 
+    "subject": "KELLG_MA", 
+    "requirements": "Enrollment Requirements: Reserved for students pursuing the Kellogg Undergraduate\nCertificate in Managerial Analytics", 
+    "title": "Competitive Strategy and Industrial Structure", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Yuval Salant", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "555 Clark B01", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course packet purchased via Study.net.\n\nNo required text book."
+        }
+    ], 
+    "class_num": 34070, 
+    "attributes": null, 
+    "catalog_num": "328-0"
+}

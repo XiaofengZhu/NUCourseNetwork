@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 200, 
+    "course_id": 1903, 
+    "subject": "EARTH", 
+    "requirements": null, 
+    "title": "Earth Science for the 21st Century", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appointment", 
+        "bio": null, 
+        "name": "Steven Dollard Jacobsen", 
+        "phone": "847.467.1825", 
+        "address": "Tech F297"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Letter grade only"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Living with Earth: An Introduction to Environmental Geology,  AGI- American Geological Institute, Travis Hudson \nISBN-13: 9780131424470, copyright 2011, suggested retail price, $108.93"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Weekly quiz worth 10 points each (except the last week). May drop one of the eight. Up to 10 additional points may be earned through class discussion participation. No midterm. A final exam covering all readings, lectures, and discussions will be worth 20 points. Out of 100 points total for the class, weekly quizzes account for 70% of grade (spread out over the entire quarter)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and discussion"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students attending this class will:\n\n1. Obtain fundamental knowledge on subjects including:\nFormation and evolution of the Earth, composition of the Earth, geological hazards, plate tectonics, the rock cycle, the water cycle, oil formation and reserves, fracking, renewable energy, rare Earth elements, nuclear technology and policy, geology of the National Parks, and learn about job and career opportunities in Earth science. \n2. Critically evaluate interpretations of scientific data, especially regarding climate change. \n3. Engage in discussion and debate on topical issues such as peak oil and fracking. \n4. Engage in Q&A with Dr. Mark Peters* on nuclear energy.\t\n* Dr. Peters is Deputy Director of Programs at Argonne National Laboratory, and often testifies before Congress. He is one of the world's leading experts on nuclear technology.\n5. Have the opportunity to hear outside lectures and meet visiting speakers at department colloquia\n\tStudents may earn extra credit for attending and evaluating visiting lectures."
+        }
+    ], 
+    "class_num": 34167, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "101-0"
+}

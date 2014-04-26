@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 2347, 
+    "subject": "SWAHILI", 
+    "requirements": null, 
+    "title": "Swahili II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Mon 12-1, Tues 11-12", 
+        "bio": null, 
+        "name": "Richard Marshall Lepine", 
+        "phone": "8474912765", 
+        "address": "Kresge 4-404 (via 4-400)"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Rosa Mistika,\" by Euphrase Kezilahabi, 1988 edition, University of Dar es Salaam Press, ISBN-13: 978-9976600650"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance in lectures and labs, participation in classroom exercises, performance on homework, quizzes, tests and special research-analysis-presentation projects all count towards the final grade.  Tests and assignments during the course--particularly at midterm--are intended primarily as means of discovering and correcting problem areas.  There is an ongoing assessment of oral proficiency skills in classroom and lab sessions. There is a set of on-line written grammar, vocabulary, and story comprehension final exams as well as a multimedia research presentation project which involves audio file transcription, translation, and analysis."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "There are 150 min./wk. classroom lab sessions--traditionally MWF 11:00-11:50, with alternative or make-up sessions typically on a TTh 2:00-3:20 basis. There is a production of some Swahili-language exercise or research project in every single lab class session. Group class also is where development of oral interactive skills occurs and is assessed, and where many problems and questions related to the e-textbook and Blackboard-based work are addressed. Swahili is the primary medium of instruction."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Five chapters of the Swahili-language novel \"Rosa Mistika,\" Swahili-language films \"Ushirika Ni Umoja,\" \"Kumekucha,\" as well as a number of Swahili-language YouTube movies; specialized vocabulary for health studies; digital audio and movie editing with Quicktime 7 Pro, digital image manipulation with Photoshop, production of multimedia presentations in PowerPoint, blogging and wiki participation in Swahili."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "complete Swahili 121-1 (Fall quarter of second-year Swahili), or the equivalent with instructor consent.  The course may be taken P/N if it is not used to satisfy the WCAS or other School foreign language proficiency requirement."
+        }
+    ], 
+    "class_num": 24301, 
+    "attributes": "Specific requirements in the language\n\n", 
+    "catalog_num": "121-2"
+}

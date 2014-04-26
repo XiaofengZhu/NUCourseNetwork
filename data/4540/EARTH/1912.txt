@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 1912, 
+    "subject": "EARTH", 
+    "requirements": null, 
+    "title": "Earth System History", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Gilbert J Klapper", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Earth System History, Steven M. Stanley, W. H. Freeman, 3rd edition, 2009, ISBN 9781429205207, list $139.95"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "2 - 80 minute lectures per week."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "EARTH 201 or or permission of the instructor."
+        }
+    ], 
+    "class_num": 32683, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "203-0"
+}

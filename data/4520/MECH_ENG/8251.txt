@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 8251, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Engineering Optimization for Product Design and Manufacturing", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Wei Chen", 
+        "phone": "847/491-7019", 
+        "address": "Technological Institute, Rm A216, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Introduction to Optimum Design, Aurora, Elsevier 2004, ISBN 978-0120641550"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grading: Homework (30%), Mid-term (25%), Term project (30%written + 10% presentation), Class participation (5%)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The course is designed to provide engineering students a view of optimization as a tool for engineering decision making.  Students will be given a fundamental introduction to the optimization techniques and an opportunity to learn how to model product design and manufacturing problems and solve them using computer-based (numerical) optimization techniques. Students will be encouraged to learn by doing and relating the course material to their research."
+        }
+    ], 
+    "class_num": 17108, 
+    "attributes": null, 
+    "catalog_num": "441-0"
+}

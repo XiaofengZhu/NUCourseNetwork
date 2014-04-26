@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2337, 
+    "subject": "JAPANESE", 
+    "requirements": null, 
+    "title": "Japanese I", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Junko Sato", 
+        "phone": "8474912762", 
+        "address": "4-352 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Endo-Hudson,M (1994). English Grammar for Students of Japanese. Ann Arbor: The Olivia and Hill Press. ISBN: 0-934034-16-8, $19.95.\n\nMakino, S & Tsutsui M. (1989). Dictionary of Basic Japanese Grammar. Tokyo: The Japan Times. ISBN 4-7890-0454-6, $43.00.\n\nKodansha (2002). Kodansha\\'s Essential Kanji Dictionary. Tokyo: Kodansha. ISBN978-4-7700-2891-4 / 4-7700-2891-1, $39.95."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Main textbook: TBA\nAJALT (2007).  JAPANESE FOR BUSY PEOPLE: Kana Workbook (for the Revised 3rd Edition).  Kodansha International.\nISBN: 978-4-7700-3037-5\n\nCourse Packet: $10.00-15.00"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class participation and performance; assignments; quizzes; oral and written examinations"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class hours are mainly spent on oral development. Written assignments are given for reading and writing development. Students are expected to come fully prepared for each lesson."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 10427, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "111-1"
+}

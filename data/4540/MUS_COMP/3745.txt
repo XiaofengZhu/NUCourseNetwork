@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3745, 
+    "subject": "MUS_COMP", 
+    "requirements": null, 
+    "title": "Advanced Orchestration", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "12:30:00", 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Leon Joseph Hyla", 
+        "phone": null, 
+        "address": "l-hyla@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": "Music Administration Bldg 125", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites:  MUS_COMP 314-1 and MUS_COMP 314-2 or permission of the instructor."
+        }
+    ], 
+    "class_num": 38424, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "314-3"
+}

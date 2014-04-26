@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6668, 
+    "subject": "SOCIOL", 
+    "requirements": null, 
+    "title": "Sociological Theory", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Albert Dale Hunter", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Randall Collins - Four Sociological Traditions. Oxford U. Press. 1994.\nRandall Collins - Four Sociological Traditions: A Reader. Oxford U. Press. 1994.\nPaul Fussell - Class: A Guide Through the American Status System. Touchstone 1992.\nBarbara Ehrenreich - Nickle and Dimed: On (Not) Getting By in America. Holt. 2001/2008\nJoseph Stiglitz - The Price of Inequality. WW Norton. 2013."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There will be three short papers (3-4 pages each) that will allow you to apply your knowledge of theory to aspects of inequality. These will ask you to read an article, analyze it and present it to the class for discussion. There will be two exams (short essay) - a mid-term and a second exam near the end of the course. In addition you will be asked to submit a 1 page reading response highlighting what you think are the key ideas and most interesting points of the week's readings, along with a question for class discussion purposes.  These will be collected as part of your participation grade."
+        }
+    ], 
+    "class_num": 18233, 
+    "attributes": null, 
+    "catalog_num": "306-CN"
+}

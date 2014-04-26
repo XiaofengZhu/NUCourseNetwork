@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4626, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "History of Western Theatrical Practice", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Laura Ann Lodewyck", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Bergen Theate", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Reading List (subject to revision)\n\nCourse Pack\n\nThe Misanthrope by Jean-Baptiste Poquelin Moliere (1666)\nThe Rover by Aphra Behn (1677)\nThe Robbers by Friedrich Schiller (1782)\nNathan the Wise by Gotthold Ephraim Lessing (1783)\nA Doll's House by Henrik Ibsen (1879)\nUbu Roi by Alfred Jarry (1896) \nOn the Harmfulness of Tobacco by Anton Chekhov (1886)\nThe Good Person of Setzuan by Bertolt Brecht (1943)\nKrapp's Last Tape by Samuel Beckett (1958)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assessment will be based on class participation, presentations, and scholarly writing."
+        }
+    ], 
+    "class_num": 21972, 
+    "attributes": null, 
+    "catalog_num": "345-3"
+}

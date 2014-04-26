@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 2588, 
+    "subject": "MMSS", 
+    "requirements": "Enrollment Requirements: Reserved for Math Methods in Social Sciences Students only", 
+    "title": "Social Science Theories & Meth--2nd Yr", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "William P Rogerson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "MMSS students only."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Introduction to Game Theory by Martin Osborne; ISBN: 9780195128956\nGame Theory for Applied Economists by Robert Gibbons; ISBN: 9780691003955"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MMSS 211-1, MMSS 211-2, MMSS 211-3"
+        }
+    ], 
+    "class_num": 23444, 
+    "attributes": null, 
+    "catalog_num": "311-1"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20847, 
+    "subject": "PSYCH", 
+    "requirements": null, 
+    "title": "Stereotyping and Prejudice", 
+    "section": "67", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "67", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Maureen A Craig", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Psychology of Prejudice and Discrimination (Whitley & Kite, 2009, 2nd edition) ISBN 978-0495811282"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be able to critically evaluate the current scientific literature on stereotyping, prejudice, and discrimination.\nStudents will be able to articulate how and why stereotyping and prejudice can occur with and without intent in real-world evaluations and situations. \nBased on current research in stereotyping and prejudice, students will to develop tactics to protect against intergroup bias in interpersonal or institutional settings."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "PSYCH 110 or equivalent."
+        }
+    ], 
+    "class_num": 18235, 
+    "attributes": null, 
+    "catalog_num": "386-CN"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 6959, 
+    "subject": "CONPUB", 
+    "requirements": null, 
+    "title": "Fourteenth Amendment", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wed. 4:30 - 5:30 p.m.", 
+        "bio": null, 
+        "name": "Joyce Anne Hughes", 
+        "phone": "312/503-8373", 
+        "address": "275 McCormick"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30057, 
+    "attributes": "Open to First Year Students\n\nConstitutional Law or Procedure an element\n\n", 
+    "catalog_num": "615"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 1159, 
+    "subject": "ANTHRO", 
+    "requirements": "Enrollment Requirements: Reserved for Anthropology Graduate Students", 
+    "title": "Logic of Inquiry in Anthropology (Cultural)", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jessica R Winegar", 
+        "phone": "847/491-4831", 
+        "address": "1812 Hinman Ave., Room #303, EV Campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "ANTHRO Sem Rm 104 - 1810 Hinmn", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Articles and book chapters, posted to the course website."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Students will attend all meetings and do all readings.  They will team up to co-facilitate 1 course session of their choice.  For 7 sessions of their choice, they will do a 1-page question and analysis paper.  Finally, a cumulative take-home final of 10 pages will be required, which will be based on a pre-distributed set of synthetic questions."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Anthropology graduate students only.  No P/N"
+        }
+    ], 
+    "class_num": 34156, 
+    "attributes": null, 
+    "catalog_num": "401-3"
+}

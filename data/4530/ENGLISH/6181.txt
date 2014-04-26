@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 6181, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Introduction to Literature", 
+    "section": "14", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "14", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Lisa Stolley received her MA and PhD in English with a focus on fiction writing from the Program for Writers at University of Illinois at Chicago. Her fiction has appeared in numerous literary journals and anthologies, including The Hawaii Review, Florida Review, and Scribner's Best of the Fiction Workshops; her work has also received prizes and grants, including one from the Illinois Arts Council.  Professor Stolley writes nonfiction as well; her work has been published in magazines and newspapers, including The Chicago Reader.  In addition to teaching in Northwestern's SCS program, she teaches literature and creative nonfiction/fiction writing at Roosevelt University, where she is on the MFA faculty.  She is currently at work on her second collection of short fiction.", 
+        "name": "Lisa A Stolley", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 516", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Course practices will include reading, writing and testing.  A minimum of three critical essays of at least 750 words each, written outside of class will be required.\n\nEvaluation methods include grading of student essays and in-class writings, as well as considering in-class participation in discussion."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The course will be conducted through lectures, discussions and the use of other appropriate media.  Students will read a variety of short stories and novels and demonstrate competence through papers, quizzes and discussions."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "We will be using an anthology of readings which contains stories, poems, and plays, as well as background and related readings.  We will also use an additional collection of short stories by Sherman Alexie."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The main goals in this course will be  for students to develop a  greater familiarity with poetry, fiction and drama as genres of writing, and to develop an array of  reading strategies for approaching poetry, fiction and drama analytically ."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "English 111 or equivalent."
+        }
+    ], 
+    "class_num": 35045, 
+    "attributes": null, 
+    "catalog_num": "113-CN"
+}

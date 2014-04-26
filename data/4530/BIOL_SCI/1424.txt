@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 55, 
+    "course_id": 1424, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Students must have taken BIOL_SCI 215, 216, 217, 218, 220,221, and 222; or BIOL_SCI 315 to register for this course.", 
+    "title": "Development and Evolution of Body Plans", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Carole B LaBonne", 
+        "phone": "847/491-4165", 
+        "address": "Pancoe Pavilion, Room 3-411"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L251", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "The following textbooks are Recommended: \"Molecular Biology of the Cell\" by Alberts, 5th Edition (2008), Garland Taylor Publishers, ISBN# 0-8153-4105-9 \n\nAND\n\n\"Developmental Biology\" by Gilbert, 9th Edition, Sinauer Publishers, ISBN# 978-0-87893-384-6"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "REQUIRED textbook is \"Principles of Development\" by Wolpert, 4th Edition (2010), Oxford University Press, ISBN# 978-0-1995-5428-7; Papers as assigned."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Weekly homework, papers as assigned, Midterm and Final."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and one-half hour per week optional discussion section."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites:  Biol Sci  215, 216, 217, 218, 220, 221, and 222 OR BIO 315"
+        }
+    ], 
+    "class_num": 23689, 
+    "attributes": null, 
+    "catalog_num": "391-0"
+}

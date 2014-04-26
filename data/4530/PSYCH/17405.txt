@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 17405, 
+    "subject": "PSYCH", 
+    "requirements": null, 
+    "title": "Introduction to Clinical Psychology", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Ben Gorvine is a Senior Lecturer in the Department of Psychology at Northwestern, where he is also currently serving as the assistant chair. He received his Ph.D. in Psychology from the University of Michigan in 2002.  His dissertation work centered on understanding the influences, both positive and negative, that fathers and father figures (i.e., men other than the biological father who may be fulfilling the fathering role) had on their children's socioemotional development, and he continues to have an interest in working with young men around issues of masculinity and parenting.  He worked for a number of years as an affiliate psychotherapist at the Family Institute at Northwestern University, where he saw adults, children, couples, and families. In what used to be his spare time, he is kept happily occupied by his two daughters, Emma (age 14) and Sophie (age 8).", 
+        "name": "Benjamin J Gorvine", 
+        "phone": "847/467-1839", 
+        "address": "Swift 306"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-430", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Pomerantz, A.M. (2011).  Clinical Psychology: Science, Practice & Culture (2nd edition).  Los Angeles: Sage.  ISBN: 978-1-4129-7763-0.\n\nFrank, J.D. & Frank, J.B. (1993).  Persuasion and healing: A comparative study of psychotherapy (3rd ed.).  Baltimore: Johns Hopkins University Press.  ISBN: 0-8018-4636-6."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the end of the course students should:\n-be familiar with the major paradigms within the field of clinical psychology and have an understanding of them in historical context.\n- be familiar with some of the \"sticky issues\" and controversies in the field of clinical psychology, particularly the debate over psychotherapeutic approaches and empirical evidence.\n- be aware of the range of applications of clinical psychology (assessment, psychotherapy, research).\n-be able to critically think about questions in the field of clinical psychology and evaluate the data that are available to answer those questions."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "PSYCH 110 or equivalent. Completion of PSYCH 303 is recommended for students enrolled in PSYCH 306, but not required."
+        }
+    ], 
+    "class_num": 35089, 
+    "attributes": null, 
+    "catalog_num": "306-CN"
+}

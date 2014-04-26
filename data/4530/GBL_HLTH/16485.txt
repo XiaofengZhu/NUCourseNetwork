@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 16485, 
+    "subject": "GBL_HLTH", 
+    "requirements": "Enrollment Requirements: Reserved for students who have a Global Health Studies Minor and are not freshmen.", 
+    "title": "Introduction to International Public Health", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Noelle Sullivan", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35165, 
+    "attributes": "Department Majors/Minors Only\n\n", 
+    "catalog_num": "301-0"
+}

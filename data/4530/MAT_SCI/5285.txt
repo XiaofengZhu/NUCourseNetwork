@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 5285, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Crystallography & Diffraction", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael J Bedzyk", 
+        "phone": "847/491-3570", 
+        "address": "Cook Hall, Room 2045 (2220 Campus Dr.), Evanston, IL 60208-3108"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute A110", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Elements of Diffraction\", B.D. Cullity and S.R. Stock, Prentice Hall (2001)ISBN: 0-201-61091-4 \n\"The Basics of Crystallography and Diffraction\", C. Hammond, Oxford 3rd ed. (2009)\nISBN: 9780199546459"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Prelim Exams: 25%\nHomework 25%\nLabs 30%\nFinal 20%"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "1. Differential and Integral Calculus\n2. Vector Analysis\n3. Complex Analysis (Euler's Formula and the Complex Plane)\n4. Elementary Electricity and Magnetism\n5. Elementary Modern Physics (Atomic Energy Levels)\n6. Atomic Bonding and Coordination"
+        }
+    ], 
+    "class_num": 20350, 
+    "attributes": null, 
+    "catalog_num": "361-0"
+}

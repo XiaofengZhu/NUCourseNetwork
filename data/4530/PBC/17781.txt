@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 9, 
+    "course_id": 17781, 
+    "subject": "PBC", 
+    "requirements": null, 
+    "title": "Quantitative Methods for Ecology & Conservation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Stuart Wagenius", 
+        "phone": "847/835-6978", 
+        "address": "156 PCSC Chicago Botanic Garden, Glencoe"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute MG51", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20114, 
+    "attributes": null, 
+    "catalog_num": "435-0"
+}

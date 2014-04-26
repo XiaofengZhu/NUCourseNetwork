@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18541, 
+    "subject": "IMC", 
+    "requirements": "Enrollment Requirements: Reserved for IMC Certificate Students only.", 
+    "title": "Entertainment Marketing", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Marshall R Kohr", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Counts as an elective toward the IMC certificate"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Reserved for IMC Certificate students only"
+        }
+    ], 
+    "class_num": 15564, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "309-0"
+}

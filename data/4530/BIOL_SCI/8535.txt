@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 150, 
+    "course_id": 8535, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Plant-People Interactions", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Christina T Russin", 
+        "phone": "847/467-4878", 
+        "address": "Hogan Hall, Room 6-110B, 2205 Tech Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 3", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Satisfies WCAS Area 1 Natural Science Distribution Credit, No P/N option for this section"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Levetin, E and K McMahon. 2012. Plants and Society, 6th edition. McGraw-Hill ISBN 978-0-07-352422-1"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on in-class quizzes and other assignments."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture"
+        }
+    ], 
+    "class_num": 23756, 
+    "attributes": "Natural Sciences Distro Area\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "104-0"
+}

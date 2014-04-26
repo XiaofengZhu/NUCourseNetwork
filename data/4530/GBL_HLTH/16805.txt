@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 16805, 
+    "subject": "GBL_HLTH", 
+    "requirements": "Enrollment Requirements: Reserved for students who have a Global Health Studies Minor and are not freshmen.", 
+    "title": "Special Topics in Global Health", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Bechara N Choucair", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This course is offered by departmental permission only."
+        }
+    ], 
+    "class_num": 34406, 
+    "attributes": null, 
+    "catalog_num": "390-0"
+}

@@ -1,0 +1,49 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 17, 
+    "course_id": 2493, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Introduction to the Theory of Numbers", 
+    "section": "61", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 104", 
+            "section": "61A", 
+            "component": "DIS", 
+            "end_time": "12:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "12:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:00:00", 
+    "component": "61", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Matthew David Graham", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 104", 
+    "end_time": "12:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Elementary Number Theory\" (sixth edition) Author: Kenneth H. Rosen\nPublisher: Pearson/Addison-Wesley"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "230"
+        }
+    ], 
+    "class_num": 23435, 
+    "attributes": null, 
+    "catalog_num": "336-1"
+}

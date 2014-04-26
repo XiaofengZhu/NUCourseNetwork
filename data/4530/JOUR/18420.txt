@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18420, 
+    "subject": "JOUR", 
+    "requirements": null, 
+    "title": "How 21st Century Media Work", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Owen R Youngman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Louis Hall 226", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "MSJ Program Only; prerequisites: 2nd quarter.  Q3 requirement course for MSJ Program.  Requirement course for Media Management Sequence."
+        }
+    ], 
+    "class_num": 22011, 
+    "attributes": null, 
+    "catalog_num": "461-0"
+}

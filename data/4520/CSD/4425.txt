@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 4425, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Psychoacoustics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Beverly Ann Wright", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Recommended (books available free on-line through NU Library): \nCochlear Hearing Loss: Physiological, Psychological, and Technical Issues (2nd Edition) Brian C.J. Moore, Wiley, 2007.\nHearing:  An Introduction to Psychological and Physiological Acoustics (5th Edition) Stanley A. Gelfand, Informa Healthcare, 2010.\n\nSupplementary (books on reserve at NU Library):\nAn Introduction to the Psychology of Hearing (6th Edition), Brian C.J. Moore, Emerald Press, Bingley, UK, 2012 [or 5th edition if 6th edition is unavailable].\nFundamentals of Hearing, William A. Yost, Academic Press, 2007.            \nThe Sense of Hearing, Christopher J. Plack, Routledge, 2005."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required: Print outs of lecture slides, available on Blackboard."
+        }
+    ], 
+    "class_num": 14898, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "306-0"
+}

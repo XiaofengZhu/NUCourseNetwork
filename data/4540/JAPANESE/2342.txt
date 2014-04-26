@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2342, 
+    "subject": "JAPANESE", 
+    "requirements": null, 
+    "title": "Japanese II", 
+    "section": "22", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "22", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Noriko Taira Yasohama", 
+        "phone": "8474671986", 
+        "address": "4-354 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32472, 
+    "attributes": "Prerequisites apply, see description\n\nSpecific requirements in the language\n\n", 
+    "catalog_num": "121-3"
+}

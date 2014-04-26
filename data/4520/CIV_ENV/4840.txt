@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 28, 
+    "course_id": 4840, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Theory of Structures I", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute MG28", 
+            "section": "20", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "karen-chou@northwestern.edu", 
+        "bio": null, 
+        "name": "Karen C Chou", 
+        "phone": "847/491-4997", 
+        "address": "2145 N. Sheridan Road  / Tech A220"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No formal textbook required."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS SCHEDULE / Three one-hour lectures and a two-hour Lab Section per week."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Mechanics of Materials: CIV_ENG 216."
+        }
+    ], 
+    "class_num": 15850, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "221-0"
+}

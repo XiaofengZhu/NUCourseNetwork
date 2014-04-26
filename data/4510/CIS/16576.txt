@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 9, 
+    "course_id": 16576, 
+    "subject": "CIS", 
+    "requirements": null, 
+    "title": "Telecommunication Networks", 
+    "section": "50", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-08-29", 
+    "start_time": null, 
+    "component": "50", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John L Sands", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41553, 
+    "attributes": null, 
+    "catalog_num": "313-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18167, 
+    "subject": "MUS_THRY", 
+    "requirements": null, 
+    "title": "Baroque Counterpoint", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Author of numerous books, articles, and reviews in the fields of music theory, music perception, and 18th-century musical style. Serves on the editorial boards of Music Theory Spectrum and the Journal of Music Theory. Former editor, Music Perception. Has served on the executive board of the Society for Music Theory and the editorial board of the Journal of the American Musicological Society. Was Vice President for Music Taxonomy at MoodLogic, Inc., an on-line music company in Silicon Valley, at the peak of the Internet revolution.", 
+        "name": "Robert O Gjerdingen", 
+        "phone": "847/491-5721", 
+        "address": "r-gjerdingen@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 36486, 
+    "attributes": null, 
+    "catalog_num": "318-0"
+}

@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2344, 
+    "subject": "SWAHILI", 
+    "requirements": null, 
+    "title": "Swahili I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Mon 12-1, Tues 11-12", 
+        "bio": null, 
+        "name": "Richard Marshall Lepine", 
+        "phone": "8474912765", 
+        "address": "Kresge 4-404 (via 4-400)"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "none"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Thomas Hinnebusch & Sarah Mirza, Swahili, A Foundation for Speaking, Reading and Writing, University Press of America, 1998 revised edition. ISBN-13: 978-0761809722\n\nTurning Technologies NXT student response system transmitter device, a SRS \"clicker\" ISBN: 1934931454"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance in lectures and labs, participation in classroom exercises, performance on homework, quizzes, tests and special projects will all potentially contribute to developing Swahili language skills. These skills, especially literacy, are periodically assessed, and determine the final course grade. Graded tests and assignments during the course are intended primarily as means of discovering and correcting problem areas, i.e. a poor performance does not carve into stone a bad course grade, but rather leads to the diagnosis and correction of a problem. There is an ongoing assessment of oral proficiency skills in classroom and lab sessions, so absences which impair language acquisition in this skill area also represent missed opportunities to demonstrate assessable oral interactive skills, and consequently affect the final course grade. In addition to numerous but relatively brief assessed written exercises throughout the course, there will be two writing skills tests, one at mid-term and the other at the end of the term. Review classes are held during Reading Week. There is a 2-hour written final test and an on-line audio test during exam week, as well as projects that must be posted to Google Tools and on the course blog and wiki."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Students attend three sessions each week as a group. There are oral, written, audiovisual and computer class exercises, written homework assignments and projects, and regular quizzes and longer tests. Most are Blackboard-based, but in-class quizzes that are PowerPoint-based are used in the SRS system."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "In addition to Fall verb-stem and non-verb-stem predicate material, four more verb tenses (affirmative and negative); all noun-class subject prefixes, object prefixes, adjective prefixes, and possessive prefixes; two of four demonstratives for all noun-classes. In addition to Fall cultural context information derived from the textbook, nine more units of cultural material."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Complete Swahili 111-1 (Fall quarter version of Swahili I, the first ten units of the required course textbook); or the equivalent with the consent of the instructor. Course may be taken P/N if not used to satisfy WCAS or other (Communication, Music, Medill, International Studies, Middle Eastern Studies) language proficiency requirement."
+        }
+    ], 
+    "class_num": 24299, 
+    "attributes": null, 
+    "catalog_num": "111-2"
+}

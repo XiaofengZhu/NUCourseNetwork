@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 3553, 
+    "subject": "MUSIC", 
+    "requirements": null, 
+    "title": "Materials Performance Practice & Pedagogy", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-07-29", 
+    "end_date": "2013-08-02", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Pamela J Hinchman", 
+        "phone": "847/467-1408", 
+        "address": "MAB 711 Elgin Rd, Evanston IL"
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41243, 
+    "attributes": null, 
+    "catalog_num": "430-0"
+}

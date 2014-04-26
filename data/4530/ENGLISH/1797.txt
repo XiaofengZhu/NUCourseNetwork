@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1797, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in Fiction", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rebecca Carol Johnson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-425", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Lawrence Durrell, Justine;\nNaguib Mahfouz, Miramar;\nOrhan Pamuk, The White Castle;\nAhmad Alaidy, Being Abbas El Abd.\n\nA packet of secondary readings will be available at Quartet Printing."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance and robust participation; oral presentation; short essays; longer final essay."
+        }
+    ], 
+    "class_num": 34320, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "313-0"
+}

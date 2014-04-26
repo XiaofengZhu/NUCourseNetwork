@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 18695, 
+    "subject": "VOICE", 
+    "requirements": null, 
+    "title": "Repertoire Studies", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Daily as posted", 
+        "bio": null, 
+        "name": "M Kenneth Smith", 
+        "phone": "847/491-5724", 
+        "address": "MAB 202"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lutkin Hall", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22686, 
+    "attributes": null, 
+    "catalog_num": "493-0"
+}

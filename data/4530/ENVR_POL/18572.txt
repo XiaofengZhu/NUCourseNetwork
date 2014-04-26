@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18572, 
+    "subject": "ENVR_POL", 
+    "requirements": null, 
+    "title": "Special Topics in Environmental Policy and Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Seth B Magle", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Environmental Law and Policy (Concepts and Insights Series)\tJ. Salzman and B.H. Thompson\tISBN-13: 978-1599417714\t2010\t3rd\tFoundation Press"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will understand why major federal environmental laws were enacted, what these laws require and how they are implemented in practice.  Students will be capable of applying this knowledge to situations commonly encountered by environmental professionals."
+        }
+    ], 
+    "class_num": 24209, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "390-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 1685, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Foundations of Corporate Finance Theory", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Masako Ueda", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L361", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Corporate Finance, 2nd edition, by Jonathan Berk, and Peter DeMarzo (ISBN: 978-0136089438)\nTwo Cases (A case is a short reading that describes real business stories. It is usually written by business school professors for classroom use. Students will apply the concepts they learn in the class to these real business issues in order to enforce their learning. Each case is usually $3-$4.)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The course grade will be based upon a combination of problem sets, class participation, a midterm exam, and a final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two weekly lectures including case discussions and occasional review sessions plus problem sets throughout the quarter. The problems will provide practice with the types of calculations and concepts that are important to a proper understanding of the course material. Sample exams will also be provided to help students practice before the actual exam."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ECON 281-0, ECON 310-1 and ECON 311-1, and understanding of basic statistics."
+        }
+    ], 
+    "class_num": 34217, 
+    "attributes": null, 
+    "catalog_num": "360-1"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 2263, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Foundations of Christian Thought I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Richard Kieckhefer", 
+        "phone": "491-2614", 
+        "address": "1860 Campus Drive, Crowe Hall # 4-141"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Saint Augustine, Confessions, trans. R.S. Pine-Coffin (Harmondsworth: Penguin, 1961).\nJulian of Norwich, Showings, trans. Edmund Colledge and James Walsh (New York: Paulist, 1978).\nSt. Athanasius, On the Incarnation, trans. and ed., a religious of C.S.M.V., intro. C.S. Lewis (repr. Crestwood, N.Y.: St. Vladimir&rsquo;s Orthodox Theological Seminary, 1989).\nPseudo-Dionysius, photocopied excerpts from The Divine Names and Mystical Theology.\nSt. Anselm, Basic Writings, trans. S.N. Deane (LaSalle, Ill.: Open Court, 1962).\nIntroduction to St. Thomas Aquinas, ed. Anton C. Pegis (Modern Library). 0075536536"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Criteria for grading:  a combination of class discussion and short written assignments"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "discussion with mini-lectures interespersed"
+        }
+    ], 
+    "class_num": 16843, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "340-1"
+}

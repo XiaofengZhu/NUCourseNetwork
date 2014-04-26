@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 1826, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in Victorian Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jules D Law", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 224", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Charlotte Bront, Jane Eyre; Mary Elizabeth Braddon, Lady Audley's Secret; Robert Louis Stevenson, The Strange Case of Dr. Jekyll and Mr. Hyde; Thomas Hardy, Tess of the D'Urbervilles.\n\nPlease note: students MUST acquire the particular editions ordered for class."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Contribution to class discussion; short response papers; mid-term paper and final paper."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion and occasional lecture."
+        }
+    ], 
+    "class_num": 24296, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "359-0"
+}

@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 20695, 
+    "subject": "YIDDISH", 
+    "requirements": null, 
+    "title": "The Rise and Fall of Modern Yiddish Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Marcus G Moseley", 
+        "phone": "847/467-4712", 
+        "address": "Kresge 2-525"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students will  make  two informal oral presentations.  A paper of at least twenty pages is required at the end of the quarter.  In this paper, students will be asked to integrate the insights they have acquired in the course of the semester to their own scholarly enquiries.  Participation in the seminars plus presentations constitute 40% and the final essay 60% in grading assessment."
+        }
+    ], 
+    "class_num": 34103, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "366-0"
+}

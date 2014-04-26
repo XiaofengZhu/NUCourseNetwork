@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6750, 
+    "subject": "COMM_ST", 
+    "requirements": null, 
+    "title": "Bargaining and Negotiation", 
+    "section": "19", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "19", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Samuel Robert Tepper", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "NEGOTIATION. \nAuthor: LEWICKI \nEdition:6TH 10\nPublisher:MCG\nISBN: 9780073381206"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students' grades in this course will be determined by their performance on a final paper and class participation. The paper will be worth 70% of the grade and class participation will be worth 30%.  \n\nAttendance and Participation:\nActive involvement in the class is essential to making it a useful learning experience.  Attendance is mandatory.  In addition to attending each class session, students are expected to come prepared to discuss the readings assigned for each class (i.e. students are expected to read the assigned readings prior to attending class, including any relevant materials in addition to the text that are assigned).  In-class activities will also count towards the total participation grade."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Both lecture and discussion-based, interactive, with various participatory exercises."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This course aims to help you develop the negotiating skills needed to meet the challenges facing today's executives as well as to cover extant academic research in bargaining and negotiation in general.  The course integrates experiential and intellectual components of negotiation. \n\nFirst, it will help you develop concrete analytical tools with regards to bargaining and conflict in relationships.  Along with this comes learning about your own individual negotiating style.\n\nSecond, this course uses various techniques to help you understand, among other things:\n\n1.\tthe basic elements of negotiation\n2.\tmapping of the agreement zone\n3.\twhen to reach a deal and when to walk away\n4.\thow to overcome impasse\n5.\thow to build ongoing productive relationships through your negotiations\n6.\thow to affect market forces in a positive way and retain corporate and personal equity"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "COMM ST 205"
+        }
+    ], 
+    "class_num": 18171, 
+    "attributes": null, 
+    "catalog_num": "363-CN"
+}

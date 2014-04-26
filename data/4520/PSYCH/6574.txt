@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6574, 
+    "subject": "PSYCH", 
+    "requirements": null, 
+    "title": "Psychopathology", 
+    "section": "66", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "66", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "I am a developmental psychologist, and have training in clinical psychology as well.  My primary interests are decision-making and beliefs, psychology and law, human memory, forensic interviews with children, and the role of gesture in cognition and communication.  I enjoy teaching courses that generate intense discussions and force students to re-examine their own beliefs and behavior. \n\nAt Northwestern, I'm a Senior Lecturer in the Department of Psychology and I'm also the Faculty Master of the Ayers College of Commerce and Industry in the Residential College system.", 
+        "name": "Sara Cantonia Broaders", 
+        "phone": "847/491-3652", 
+        "address": "Swift 242, 2029 Sheridan Road"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Butcher, J.N., Mineka, S., & Hooley, J.M. (2012). Abnormal Psychology (15th ed.). Boston: Allyn & Bacon. ISBN: ISBN 9780205167265"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Providing an introduction to the major categories of maladaptive behavior/psychological distress and related research findings.\nEncouraging thoughtful and critical evaluation of the DSM and other systems of classification.\nExploring theories on the etiology of \"mental illness\" and how these views have changed throughout recent history.\nConsidering ethical, legal, and social issues involved in the diagnosis and treatment of psychological disorders.\nDeveloping critical thinking skills through the study of several controversial issues in abnormal psychology.\nEmphasizing the human face of psychological distress through case studies, readings, and videos."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "PSYCH 110."
+        }
+    ], 
+    "class_num": 18202, 
+    "attributes": null, 
+    "catalog_num": "303-CN"
+}

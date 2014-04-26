@@ -1,0 +1,52 @@
+{
+    "overview": "A Journey From First Rehearsal to Final Performance\nThis freshman seminar is designed for the general campus student. The course is designed to provide opportunities for music aficionados to experience music and music theater events from the inside-out. The only prerequisite for the course is a love of the performing arts! You do NOT have to read, perform, or understand music notation to succeed in this course. However, you have to be prepared to spend a lot of time attending rehearsals and concerts (minimally six hours a week), outside of the two required class sessions.\nInside and outside of classroom sessions, the instructor and invited guests will attempt to nurture a heightened awareness of the challenges that conductors, opera and music theater directors, and musicians/actors face when preparing for a performance. Through a series of observations, presentations, interviews, and interactive discussions/seminars, you will be better prepared to listen, observe, and critically analyze performing arts events on and off campus -- during this academic quarter, and hopefully for the rest of your life.\nAfter Week 1's introduction to the course and the music library, the Week 2 class sessions will concentrate on conducting lessons and video observations of concerts and rehearsals. In these initial sessions, you will learn many of the techniques needed to lead the world's greatest instrumental and choral ensembles (of course, with many additional years of practice).", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3484, 
+    "subject": "GEN_MUS", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Dr. Bernard Dobroski has extensive professional experience as a conductor, performer, music educator, impresario, author, and speaker.  During his tenure as dean of the music school, he partnered with other units of the university to create a number of important interdisciplinary  initiative, including degree programs in music theatre, music and engineering, and music and journalism.", 
+        "name": "Bernard J Dobroski", 
+        "phone": null, 
+        "address": "bjdobroski@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 42", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Additional recommended books, articles, CDs, DVDs and VCRs will be provided by the instructor and placed on reserve in the library.\nRecommended websites for periodic reference and review; Musical America at  http://www.musicalamerica.com and Andante Magazine at http://www.andante.com"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Forney, Kristine and Machlis, Joseph. (2011)  \"The Enjoyment of Music (11th ed)  W.W. Norton & Company (Available in the Norris University Book Store)\nA \"12,\" \"15\" or 17\" conductor's baton. (Available in the Norris University Book Store.)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Specific assignments and projects will be determined after a private conference with Professor Dobroski.\nIn general, evaluation will be based on engagement in the various course components, including: \n\nCompletion of weekly readings, listening assignments, and participation in class discussions to be registered in a course log that will require one 750 word mini-essay each week.(20% of final grade);\nAttendance and a written analysis/critique-reactions of three rehearsals and six concerts (20% of final grade);\nPreparation of a collaborative oral/written presentation on music from the seventeenth, eighteenth, nineteenth, or twentieth century (20%);\nPreparation of program notes for two compositions being performed at a student solo or chamber music recital this academic quarter with the expectation of having to observe one rehearsal and attend the recital of your \"assigned\" student (20%);\nA final research paper and oral presentation on a topic related to a composer or composition being performed by a Bienen School of Music ensemble this quarter (20%).\n\nThe choice of topics and repertoire will be discussed during our individual appointments at the end of Week 1 or the beginning of Week 2. There will be frequent exchanges with the instructor to insure formative and summative evaluative communication through the Winter Quarter.\nAfter meeting with members of the class in private conferences, Dr. Dobroski will re-issue and distribute a revised course schedule."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Course participants, using their required conductor's baton and music CD's will learn a variety of conducting techniques -- mastering beat patterns, the expressive use of the left hand and using the conducting gesture to communicate \"interpretation,\" \"phrasing,\" and \"dynamic shading.\" You may never conduct a major ensemble, but after meeting the requirements of the class you should have the knowledge and understanding to critically analyze conductors during your future career as a member of audiences for classical and popular music concerts."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "For NON Music Majors only."
+        }
+    ], 
+    "class_num": 22555, 
+    "attributes": null, 
+    "catalog_num": "101-6"
+}

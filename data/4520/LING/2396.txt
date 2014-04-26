@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 2396, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Fundamentals of Syntax", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appt", 
+        "bio": null, 
+        "name": "Masaya Yoshida", 
+        "phone": "847/491-8052", 
+        "address": "2016 Sheridan Road, Rm. 106"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "None"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No textbook. The reading materials will be provided electronically."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework and take home Exam"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The past 40 years have seen significant advances in the understanding of the so-called \"locality constraints\" in syntax. A great number of studies have been devoted to understand the nature of syntactic operations and they have been crucially looking at the interaction of these operations with the locality constraints. However, in this direction of research, the nature of islands has been relatively disregarded for a long time. Although Ross's studies have revealed which domains are islands and which are not, the question why islands are islands and non-islands are not islands has remained unanswered except for a few studies (Chomsky 1986, Lasnik & Saito 1992, Rizzi 1991 and others). Even these attempts are facing serious challenges once we start looking at wide varieties of cross-linguistic data. The aim of this course is to learn the basics of transformational generative grammar by looking at locality constraints. In particular we are concerned with questions of what the nature of island constraints is, and what our current understanding of them is."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None, but LING260 is recommended"
+        }
+    ], 
+    "class_num": 10442, 
+    "attributes": "Formal Studies Distro Area\n\n", 
+    "catalog_num": "360-0"
+}

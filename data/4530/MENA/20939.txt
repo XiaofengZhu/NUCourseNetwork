@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20939, 
+    "subject": "MENA", 
+    "requirements": null, 
+    "title": "Seminar in Middle East and North African Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Amina Tawasil's current research focus is on the intersection of women & Islamic education. She completed ethnographic research on seminarian women (zanan-e howzeh) in Tehran to interrogate notions of resistance and empowerment, while attempting to reassess forms of educative settings. She is the recipient of the American Association of University Women fellowship for her dissertation entitled, \"The Howzevi (seminarian) Women of Iran: Constituting and Reconstituting Paths\". She has recently received her Ph.D. in anthropology & education at Teachers College, Columbia U.. She was appointed an Andrew W. Mellon Postdoctoral Fellow in Middle East and North African Studies. Her research interests include labor migration, refugee studies, and human/sex trafficking.\n________________________________________", 
+        "name": "Amina UmAmir Tawasil", 
+        "phone": "847/467-6208", 
+        "address": "515 Clark Street, Room 206"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings for this course will include a reading packet and books such as \"Women with Mustaches and Men without Beards: Gender and Sexual Anxieties of Iranian Modernity\" by Afsaneh Najmabadi, \"The New Arab Man: Emergent Masculinities, Technologies, and Islam in the Middle East\" by Marcia Inhorn and \"Do Muslim Women Need Saving?\" by Lila Abu-Lughod. Substitutions to these books will be similar. A final list of books and articles will be determined closer to the beginning of the quarter."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "readings, discussions, reflection papers, and a final paper"
+        }
+    ], 
+    "class_num": 34231, 
+    "attributes": null, 
+    "catalog_num": "301-2"
+}

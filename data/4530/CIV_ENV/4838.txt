@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 4838, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Mechanics of Materials I", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute AG40", 
+            "section": "20", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "jwrudn@northwestern.edu", 
+        "bio": null, 
+        "name": "John W Rudnicki", 
+        "phone": "847/491-3411", 
+        "address": "Technological Institute, Rm A333, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L361", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Mechanics of Materials Plus Mastering Engineering with Pearson eText--Access Card / Russell Hibbeler / ISBN 978-0133409321\t/ 2013 / edition 9 / Prentice Hall"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Four 50-minute lectures/week; One 2-hour lab/week."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This course provides an introduction to the analysis of stress and strain distributions in engineering materials under different loading conditions. On completion of the course, students should be able to:\n\n1)Calculate stress and strain distributions and maximum stresses and deformations arising from torsion, bending, shear loads, and general transverse loading;\n\n2)Calculate the principal stress state arising from various types of combined loading using Mohr's circle analysis;\n\n3)Understand the geometry, usefulness, and basic analysis of reinforced concrete and flanged rolled-steel beams;\n\n4)Perform basic engineering design by selecting the most economical beam geometry or composition for a given loading condition;\n\n5)Analyze real stress-strain tests performed in the laboratory and present results in an organized report."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prereqs: CIV_ENG 212 or GEN_ENG 205-2"
+        }
+    ], 
+    "class_num": 20776, 
+    "attributes": null, 
+    "catalog_num": "216-0"
+}

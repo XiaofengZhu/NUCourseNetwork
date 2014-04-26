@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 19525, 
+    "subject": "CSD", 
+    "requirements": "Enrollment Requirements: CSD Masters Degree Students", 
+    "title": "Evidence-Based Practice", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Megan York Roberts", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 1441", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Hands-on experience with technology is provided to teach features of AAC systems and promote awareness of the skills needed to use communication aids, strategies and techniques. Case studies are used to promote observation skills and increased awareness of consumers' perspectives.\nTopics include assessment of personal skills and abilities for use of AAC (vision issues, access, level of symbolic representation, etc.); identification of barriers to communication and participation, intervention strategies (including design of communication displays, partner training, etc.), funding and advocacy."
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Additional readings TBA"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Textbooks/Readings\nDollaghan, C. A. (2007).  The handbook for Evidenced-Based Practice in Communication Disorders.\nBrookes: Baltimore, MD\n\nFuchs, D., Mock, D., Morgan, P.L., & Young, C.L. (2003).  Responsiveness-to-Intervention: Definitions, evidence, and implications for the learning disabilities construct.  Learning Disabilities Research & Practice. 18, 157-171.  \n\nMesmer, E.M.,  & Mesmer, H.A.E. (2009).  Response to Intervention (RTI): What teachers of reading need to know.  The Reading Teacher. 62, 280-290.\n\nFriedman, L M., et al. (1998).  Fundamental of Clinical Trials. Springer: New York, NY. [selected chapters will be made available]\n\nRobey, R.R. (2004).  A five-phase model for clinical-outcome research.  Journal of Communication Disorders.  37, 401-411.\n\nHegde, M.N. (2003).  Clinical Research in Communicative Disorders.  Pro-Ed: Austin, TX. [selected chapters will be made available]\n\nThompson, C.K.T.  (2006). Single subject controlled experiments in aphasia: The science and the state of the science.  Journal of Communication Disorders.  39, 266-291.                                             \t\t\t\nRvachew et al. (2004).  Effect of phonemic perception training on the speech production and phonological awareness skills of children with expressive phonological delay.  American Journal of Speech-Language Pathology. 13, 250-263.\n\nKiran et al. (2003).  The role of semantic complexity in treatment of naming deficits: training semantic categories in fluent aphasia by controlling exemplar typicality.  Journal of Speech, Language, and Hearing Research.  46, 773-787."
+        }
+    ], 
+    "class_num": 33970, 
+    "attributes": null, 
+    "catalog_num": "446-0"
+}

@@ -1,0 +1,49 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 75, 
+    "course_id": 20500, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for Chemistry 212-2. \nAdd both classes to the shopping cart and submit together for successful registration.  Students must be registered or completed CHEM 212-2 & 232-1 prior to registering for this course.", 
+    "title": "Organic Chemistry Laboratory II", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute D220", 
+            "section": "11", 
+            "component": "LAB", 
+            "end_time": "18:00:00", 
+            "meeting_days": "Mo", 
+            "start_time": "13:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Derek Ward Nelson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M345", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. \"A Small Scale Approach to Laboratory Techniques\" by Pavia et al., Cengage, 3rd Edition\n2. Turning Point Response Card, Model NXT"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: Grade of C- or better in Chemistry 212-1 and Chemistry 232-1"
+        }
+    ], 
+    "class_num": 26394, 
+    "attributes": null, 
+    "catalog_num": "232-2"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 4673, 
+    "subject": "THEATRE", 
+    "requirements": "Enrollment Requirements: Registration open to MFA Directing & Design Students Only.", 
+    "title": "Text Analysis for Theatrical Production", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David Lawrence Kersnar", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required Texts (list subject to change):\nBall, David. Backwards and Forwards: A Technical Manual for Reading Plays (Southern Illinois Press, 1998). ISBN: 9780809311101\nCourse reader (required; available at Quartet Copies)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Open to theatre majors and minors, sophomores and above. No permission number needed."
+        }
+    ], 
+    "class_num": 14930, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "374-0"
+}

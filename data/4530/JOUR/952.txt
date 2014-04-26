@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 17, 
+    "course_id": 952, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Reserved for students who have taken & passed JOUR 301.", 
+    "title": "Storytelling: Video Reporting, Shooting, & Editing", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Elizabeth Bennett", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "McCormick Tribune 4115-Studio", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This course is reserved for pre-JR students.  For those students who wish to take this course as an elective, available seats may be released to CAESAR registration after pre-JR students have been enrolled. \n\nStudents who are assigned to take this course in a later quarter should NOT register themselves for this course."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "\t\nJOUR 301-0"
+        }
+    ], 
+    "class_num": 22056, 
+    "attributes": null, 
+    "catalog_num": "322-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2335, 
+    "subject": "CHINESE", 
+    "requirements": null, 
+    "title": "Chinese II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoTuWeThFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jili Sun", 
+        "phone": "8474670539", 
+        "address": "4-402 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-335", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "New Practical Chinese Reader Volume II (Beijing Language Institute) Textbook ISBN 7-5619-1129-7\nNew Practical Chinese Reader Volume II (Beijing Language Institute) Workbook ISBN 7-5619-1145-9"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students are evaluated on their communicative skills: speech making, reading and writing, through a variety of forms such as classroom performance and written assignments, oral quizzes, written quizzes, two mid-term exams, an oral presentation and a final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Integrated with Chinese culture, this course is conducted through a communicative/interactive approach involving both students and the instructor. Students have five 50-minute meetings in class per week, and an equivalent amount of time after class might be needed to complete homework or projects. Instruction, discussion, presentation, essay composition, and other class activities are mainly conducted in the target language of Mandarin Chinese."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Successful completion of the First-Year Chinese I sequence, or placement by the coordinator of language instruction. P/N is allowed (but may not be used if the course is used to count toward satisfaction of the WCAS foreign language proficiency requirement)."
+        }
+    ], 
+    "class_num": 24266, 
+    "attributes": "Specific requirements in the language\n\n", 
+    "catalog_num": "121-2"
+}

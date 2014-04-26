@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 4911, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Mechanics of Composite Materials II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "imdaniel@northwestern.edu", 
+        "bio": null, 
+        "name": "Isaac M Daniel", 
+        "phone": "847/491-5649", 
+        "address": "Catalysis Bldg, Rm 326, 2137 Tech Drive, EV CAMPUS"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34183, 
+    "attributes": null, 
+    "catalog_num": "414-2"
+}

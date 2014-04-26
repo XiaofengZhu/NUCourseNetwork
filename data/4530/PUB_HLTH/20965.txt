@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 20965, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Ethics in Public Health Research", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Maureen B Moran", 
+        "phone": "312 5030500", 
+        "address": "680 N. Lake Shore Drive, Suite 1400"
+    }, 
+    "term": "2014 Winter", 
+    "room": "McGaw Pavilion 2-403", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Case Studies in Public Health Ethics, 2nd Edition   Steven S. Coughliln, Ph.D.  American Public Health Association, 2009. ISBN 978 - 0- 89553-194-6."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Through the course sessions and homework assignments, students will:\n\n1)\tactively participate in class discussion,\n2)\tshow respect for different points of view within the context of class discussion,\n3)\tidentify ethical issues in public health and offer alternative approaches to those that are deemed unethical\n4)\tdemonstrate the ability to write and to edit critically,\n5)\tdescribe the characteristics of vulnerable groups, identify public health issues involving vulnerable groups and determine the means by which their rights can to be protected."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission number required. Please contact Meera at meera.tavathia@northwestern.edu."
+        }
+    ], 
+    "class_num": 34802, 
+    "attributes": "See Dept for further info\n\n", 
+    "catalog_num": "442-0"
+}

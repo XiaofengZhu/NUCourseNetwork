@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1987, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "German in the Business World", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesdays 1 to 3 pm and by appointment", 
+        "bio": null, 
+        "name": "Katrin Voelkner", 
+        "phone": "847.328.3471", 
+        "address": "2-560 Kresge Hall"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 31762, 
+    "attributes": "Reading, writing, speaking proficiency\n\n", 
+    "catalog_num": "209-0"
+}

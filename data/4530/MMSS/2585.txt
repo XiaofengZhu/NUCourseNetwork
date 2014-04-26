@@ -1,0 +1,45 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 2585, 
+    "subject": "MMSS", 
+    "requirements": "Enrollment Requirements: Reserved for Math Methods in Social Sciences Students only", 
+    "title": "Social Science Theories & Meth-First Yr", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Harris Hall L07", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Eric Gerald Schulz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Strategy by Joel Watson, 3rd edition, WW Norton & Company, ISBN 978-0-393-91838-0"
+        }
+    ], 
+    "class_num": 23443, 
+    "attributes": null, 
+    "catalog_num": "211-2"
+}

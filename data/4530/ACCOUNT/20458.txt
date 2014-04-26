@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20458, 
+    "subject": "ACCOUNT", 
+    "requirements": null, 
+    "title": "Introduction to Financial Accounting", 
+    "section": "12", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "12", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Allan Richard Drebin", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Current post-baccalaureate students and students-at-large can request a permission number to register by emailing scspostbaccapprovals@northwestern.edu. New post-baccalaureate students will receive a permission number from an SCS academic adviser (via email) when their course plans are approved. All enrolled students will be invited to an online orientation before the start of the quarter that will explain expectations and processes for the course."
+        }
+    ], 
+    "class_num": 35010, 
+    "attributes": null, 
+    "catalog_num": "201-DL"
+}

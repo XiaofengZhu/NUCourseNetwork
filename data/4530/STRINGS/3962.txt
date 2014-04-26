@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 3962, 
+    "subject": "STRINGS", 
+    "requirements": null, 
+    "title": "Applied Viola for Music Majors", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Roland Vamos", 
+        "phone": "847/491-3826", 
+        "address": "REGENSTEIN 60 Arts Circle Dr, Evanston IL"
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22329, 
+    "attributes": null, 
+    "catalog_num": "542-0"
+}

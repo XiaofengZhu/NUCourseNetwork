@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20936, 
+    "subject": "ASIAN_LC", 
+    "requirements": null, 
+    "title": "Japanese Literature in Translation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Phyllis I Lyons", 
+        "phone": "8474912766", 
+        "address": "4-372 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Ihara, Saikaku. Life of an Amorous Woman.\n\nCourse Packet (made available at Quartet Copies)"
+        }
+    ], 
+    "class_num": 34276, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "271-2"
+}

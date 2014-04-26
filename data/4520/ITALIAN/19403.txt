@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19403, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Advanced Italian Cinema: Powers of Form", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TuTh 11 - 12PM", 
+        "bio": null, 
+        "name": "Domietta Torlasco", 
+        "phone": "847/491-8269", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-131"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 17133, 
+    "attributes": "Prerequisites apply, see description\n\nGiven in English\n\n", 
+    "catalog_num": "351-0"
+}

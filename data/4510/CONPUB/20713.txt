@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20713, 
+    "subject": "CONPUB", 
+    "requirements": "Enrollment Requirements: Constitutional Law is a pre-requisite for this course.", 
+    "title": "War and the First Amendment", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-08-16", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Jason C DeSanto", 
+        "name": "Jason C DeSanto", 
+        "phone": "312/961-2356", 
+        "address": "McCormick 198"
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 42088, 
+    "attributes": "Constitutional Law\n\n", 
+    "catalog_num": "712S"
+}

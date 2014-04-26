@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 8, 
+    "course_id": 19946, 
+    "subject": "MUS_TECH", 
+    "requirements": null, 
+    "title": "Studio Techniques for Electroacoustic Music", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Coordinator, Music Technology program. Composer of electroacoustic music, combining lo-tech analog techniques with extensive digital signal processing; specialist in multi-channel audio and spatialization. Composer of acoustic music focusing on extended instrumental techniques, modified conventional instruments, and instruments of the composer's own design and, most recently, combining this approach with real-time electronics and spatialization. Author of articles on musical aesthetics and composition. Residencies at Experimentalstudio SWR in Freiburg, Knstlerhaus Schloss Wiepersdorf, and Sound Traffic Control in San Francisco. Principal teachers were Peter Otto and Roger Reynolds, electronic music and Chaya Czernowin and Chinary Ung, instrumental music.", 
+        "name": "Christopher A Mercer", 
+        "phone": null, 
+        "address": "camercer@hotmail.com"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites:  MUS_TECH 340 and 345 or equivalent experience."
+        }
+    ], 
+    "class_num": 36485, 
+    "attributes": null, 
+    "catalog_num": "350-0"
+}

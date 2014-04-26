@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 144, 
+    "course_id": 5205, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Fluid Mechanics I", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mitra J Hartmann", 
+        "phone": "847/467-4633", 
+        "address": "Technological Institute, Rm B284, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Fundamentals of Fluid Mechanics, 6th Ed., by Munson, Young, Okiishi, Huebsch, Wiley 2009, ISBN 978-0-470-47103-6"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "GEN_ENG 205-4"
+        }
+    ], 
+    "class_num": 33903, 
+    "attributes": null, 
+    "catalog_num": "241-0"
+}

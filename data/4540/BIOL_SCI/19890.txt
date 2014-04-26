@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 19890, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Pre-requisite: Students must have completed MATH 224 and CHEM103 or CHEM 172 to register for this course.", 
+    "title": "Physiological Processes Laboratory", 
+    "section": "60", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "20", 
+            "component": "LEC", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "14:00:00", 
+    "component": "60", 
+    "school": "WCAS", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Tracy M Hodgson", 
+        "phone": "847/491-4823", 
+        "address": "Tech Institute, Room MG77"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 32965, 
+    "attributes": null, 
+    "catalog_num": "222-0"
+}

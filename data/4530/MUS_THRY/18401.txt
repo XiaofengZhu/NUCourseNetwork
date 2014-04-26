@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 18401, 
+    "subject": "MUS_THRY", 
+    "requirements": null, 
+    "title": "Music Cognition", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "MW 11-12 and by appt.", 
+        "bio": "Professor, music theory and cognition program. Research and publications in music cognition focusing on expressive performance, musical communication, and long-term memory for music. President, Society for Music Perception and Cognition. Member, editorial board, Music Perception. Recipient of two Fulbright grants for research in the Netherlands and grants from National Endowment for the Humanities and U.S. Department of Education. Recipient, Bienen School of Music Exemplar in Teaching Award. Also teaches in the cognitive science program.", 
+        "name": "Richard D Ashley", 
+        "phone": "847/491-5720", 
+        "address": "r-ashley@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 37", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "For those wishing a single-volume overview, I recommend <em>(but will not require)</em> Psychology of Music: From Sound to Significance, by Siu-Lan Tan, Peter Pfordresher, and Rom Harre (Psychology Press, 2010)"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "This course focuses on primary readings, mostly published articles. A wide range of articles will be used, from cognitive psychology, music theory, and artificial intelligence.  Both primary and secondary sources will be used.  The typical load should be about 5 articles per week."
+        }
+    ], 
+    "class_num": 35213, 
+    "attributes": "Graduate Students Only\n\n", 
+    "catalog_num": "451-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4889, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Environmental Laboratory", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "yun-wang@northwestern.edu", 
+        "bio": null, 
+        "name": "Yun Wang", 
+        "phone": "847/491-7232", 
+        "address": "2145 N. Sheridan / Tech A222"
+    }, 
+    "term": "2014 Winter", 
+    "room": "2122 Sheridan Rd Classroom 231", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "For the undergraduate section 20, using this textbook:  The Art and Science of Chemical Analysis / Christie G. Enke / ISBN: 978-0471373698 / 2000 / Wiley\n\nFor the graduate section 21, no formal textbook is required."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "5-hour laboratory one day each week."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will attain the following outcomes through objectives listed in brackets: \n\n1  to learn basic chemistry and microbiology laboratory skills used by environmental engineers for assessing the microbial and chemical quality of a water sample \n\n2 to learn how to determine microbial abundance and to apply staining techniques to differentiate microorganisms \n\n3 to learn how to determine concentrations of key chemical species \n\n4 to be able to plan and conduct and experiment\n \n5 to be able to effectively report, analyze and interpret laboratory results"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Section 20, Section for CivEnv Seniors\n\nSection 21, Graduate Student Section"
+        }
+    ], 
+    "class_num": 20503, 
+    "attributes": null, 
+    "catalog_num": "365-0"
+}

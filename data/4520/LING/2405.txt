@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 2405, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Language Typology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appt", 
+        "bio": null, 
+        "name": "Masaya Yoshida", 
+        "phone": "847/491-8052", 
+        "address": "2016 Sheridan Road, Rm. 106"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "None"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No textbook. The reading materials will be provided electronically"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance, Quiz, Homework, and Exams (midterm and final)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "N/A, but LING260 is recommended"
+        }
+    ], 
+    "class_num": 17041, 
+    "attributes": "Formal Studies Distro Area\n\nPrerequisites apply, see description\n\n", 
+    "catalog_num": "341-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 1955, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Beginning German", 
+    "section": "26", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "26", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John Paluch", 
+        "phone": "8474918081", 
+        "address": "2-545 Kresge Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Three ring binder and paper for notes and hand-out materials"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Kontakte 7th edition  McGraw Hill \n\nKontakte Workbook"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be prepared to enroll in a 2-unit intensive course during Spring quarter.  German 101-2 and German 101-3 will be offered together in Spring 2014 as an intensive 2-unit course. Students will have basic conversational skills, be able to ask and answer simple questions about themselves, will be able to describe people and clothing and activities and will have a basic understanding of the following grammatical concepts: present tense, the present perfect tense, the nominative and accusative cases, the use of modal verbs."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "This is a beginning level course. If you have acquired some previous knowledge of German in high school, spoken German at home, or learned German abroad, you are required to take a placement exam. Please consult the university's web page in order to access the test at http://placement-test.mmlc.northwestern.edu or speak with the John Paluch paluch@northwestern.edu."
+        }
+    ], 
+    "class_num": 24568, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "101-1"
+}

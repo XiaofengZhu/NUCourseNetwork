@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20256, 
+    "subject": "SPANPORT", 
+    "requirements": "Enrollment Requirements: Please contact the department of Spanish & Portuguese to request a permission number, spanish-portuguese@northwestern.edu.", 
+    "title": "Studies in Early Modern Literatures and Cultures", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 11:00 - 12:00", 
+        "bio": null, 
+        "name": "Dario Fernandez-Morera", 
+        "phone": "847/491-8281", 
+        "address": "2-148 Crowe"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33412, 
+    "attributes": null, 
+    "catalog_num": "410-0"
+}

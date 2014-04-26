@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18387, 
+    "subject": "DSGN", 
+    "requirements": null, 
+    "title": "Special Topics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John David Hartman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute MG47", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "SYLLABUS<br />\nWEEK 1: Introductory lectures<br />\nWEEK 2: Orientation to data visualization<br />\nWEEK 3: Defining the research direction and production schedule<br />\nWEEK 4-5: Focus on group research/production<br />\nWEEK 6:  Final Production and critique<br />\nEXHIBITION"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Since the class enrollment is by instructor permission, please apply for this course at https://www.surveymonkey.com/s/KH66QZV . You will be sent a permission number for registration if you are accepted into the course.<br />\nFor more information: contact Debbie Labedz, d-labedz@northwestern.edu, Segal Design Institute"
+        }
+    ], 
+    "class_num": 20849, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "395-0"
+}

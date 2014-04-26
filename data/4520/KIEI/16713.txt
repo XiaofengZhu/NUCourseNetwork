@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 16713, 
+    "subject": "KIEI", 
+    "requirements": null, 
+    "title": "Independent Study", 
+    "section": "71", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-10-29", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "71", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Linda L Darragh", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18902, 
+    "attributes": null, 
+    "catalog_num": "499-B"
+}

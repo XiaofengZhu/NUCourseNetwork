@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 4554, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Fluency, Disfluency, and Stuttering", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michelle Anne Jones", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2407", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "The learning objectives for this course are listed on Blackboard.  Students enrolled in the Clinical Master's program in Speech-Language Pathology must demonstrate mastery of each of these learning objectives to successfully complete the course, regardless of overall course average.  Failure to demonstrate mastery of any specific learning objective will necessitate a remediation plan.  Failure to earn a grade of B- or better will necessitate the course be retaken."
+        }
+    ], 
+    "class_num": 33973, 
+    "attributes": null, 
+    "catalog_num": "494-1"
+}

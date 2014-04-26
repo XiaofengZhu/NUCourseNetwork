@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 15319, 
+    "subject": "RTVF", 
+    "requirements": null, 
+    "title": "Foundations of Screenwriting", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Tony Werner is a writer living in Chicago. His plays have been produced or developed at such theatres as Chicago Dramatists, Steep Theatre, Manhattan Repertory Theatre, and Remy Bumppo. He is also a former contributing writer for The Onion.  He is a graduate of Northwestern University's MFA in Writing for the Screen + Stage.", 
+        "name": "Anthony Ross Werner", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 218", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings will likely be based on the following list:\n--Handouts and Blackboard course site postings.\n--Seger, Linda.  Making a Good Script Great.  Third Edition. New York: Silman-James Press: 2011.\nISBN 1935247018"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The student is expected to leave the course with a working knowledge of cinematic storytelling and style."
+        }
+    ], 
+    "class_num": 35092, 
+    "attributes": null, 
+    "catalog_num": "260-CN"
+}

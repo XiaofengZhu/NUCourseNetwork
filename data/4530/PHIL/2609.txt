@@ -1,0 +1,53 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 100, 
+    "course_id": 2609, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Introduction to Moral Philosophy", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Fisk Hall 217", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Mo", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Stephen John White", 
+        "phone": "847/467-6249", 
+        "address": "Crowe Hall, Room 3-220"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 217", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Plato, The Republic\nDavid Hume, An Enquiry Concerning the Principles of Morals\nImmanuel Kant, Groundwork of the Metaphysics of Morals\nJ..J.C  Smart and Bernard Williams, Utilitarianism: For and Against\nJudith Jarvis Thomson, Goodness and Advice"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There will be two papers and two exams."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will \n(1)\tGain an understanding of important issues and theories in moral philosophy.\n(2)\tLearn to interpret and philosophical texts and arguments. \n(3)\tCritically evaluate their own moral convictions.\n(4)\tLearn to construct arguments and clearly explain philosophical ideas in writing."
+        }
+    ], 
+    "class_num": 33815, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "260-0"
+}

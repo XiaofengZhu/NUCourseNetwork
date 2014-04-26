@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3046, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Studies in Literature and Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "Tuesdays & Thursdays 2PM - 3PM (Crowe #1-113)", 
+        "bio": null, 
+        "name": "Michal Peled Ginsburg", 
+        "phone": "8474670958", 
+        "address": "1860 S. Campus Drive, Crowe Hall #1-113"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-420", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Hugo, Les Misrables"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Evaluation will be based on class attendance and participation, one class presentation, and a final paper."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: Senior Status or consent of undergraduate adviser"
+        }
+    ], 
+    "class_num": 23759, 
+    "attributes": "Prerequisites apply, see description\n\nReading, writing, speaking proficiency\n\n", 
+    "catalog_num": "397-0"
+}

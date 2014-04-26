@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 5268, 
+    "subject": "MAT_SCI", 
+    "requirements": "Enrollment Requirements: Reserved for Material Science or Chemical Engineering majors only.", 
+    "title": "Materials Science Principles", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Cook Hall 2-068", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jiaxing Huang", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Materials Science and Chemical Engineering majors only"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "W. D. Callister, \"Materials Science and Engineering: An Introduction,\" 8th edition(Wiley). Textbook only ISBN: 978-0-470-41997-7"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework (15%)\nTwo midterm examinations (25% each)\nFinal examination (35%)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Three lectures and one laboratory session per week."
+        }
+    ], 
+    "class_num": 34277, 
+    "attributes": null, 
+    "catalog_num": "301-0"
+}

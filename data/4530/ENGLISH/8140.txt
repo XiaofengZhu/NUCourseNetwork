@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 8140, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in Renaissance Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kathryn Sydney Evans", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-370", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Work by William Shakespeare, Edmund Spenser, John Milton, Thomas Lodge, Mary Sidney, supplemented by selections from psychoanalysis (Freud, Lacan, Klein) and literary criticism."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "TBA"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and discussion."
+        }
+    ], 
+    "class_num": 24151, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "338-0"
+}

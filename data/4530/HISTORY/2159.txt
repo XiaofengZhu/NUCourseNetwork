@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2159, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "General Field Seminar in American History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "I am an historian of the United States, with particular interests in urbanization, African-American history, and the history of technology.  I have served as director of the American Studies and Urban Studies programs.  My first book was The First Suburbs:  Residential Communities on the Boston Periphery, 1815-1860.  I am currently working on a book about nineteenth-century slums.", 
+        "name": "Henry Claxton Binford", 
+        "phone": "847/491-7262", 
+        "address": "Harris Hall Room 240"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L40", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 26024, 
+    "attributes": "Prerequisites apply, see description\n\nGraduate Students Only\n\n", 
+    "catalog_num": "410-2"
+}

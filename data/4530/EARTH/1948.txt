@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 1948, 
+    "subject": "EARTH", 
+    "requirements": null, 
+    "title": "Advanced Topics", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "axford@northwestern.edu", 
+        "bio": null, 
+        "name": "Yarrow Larue Axford", 
+        "phone": null, 
+        "address": "Technological Institute F394/F395"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings will be provided on Blackboard."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This seminar has three primary objectives: \n1)\tto hone student skills at reading, distilling, discussing, independently analyzing and synthesizing the primary scientific literature;\n2)\tto advance as Arctic scientists by surveying the physical science of Arctic environments: geography, climatology, hydrology, glaciology, limnology, etc.;\n3)\tto gain both long-term and contemporary perspectives on Arctic environmental change by surveying major studies/reviews of Arctic paleoclimate and gaining familiarity with major environmental changes ongoing in the Arctic today."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Open to juniors, seniors and graduate students with instructor permission."
+        }
+    ], 
+    "class_num": 26408, 
+    "attributes": null, 
+    "catalog_num": "450-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 14205, 
+    "subject": "MGMT", 
+    "requirements": null, 
+    "title": "Family Enterprises: Issues and Solutions", 
+    "section": "81", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "81", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John L Ward", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center 101", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33529, 
+    "attributes": null, 
+    "catalog_num": "927-0"
+}

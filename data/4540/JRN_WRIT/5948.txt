@@ -1,0 +1,56 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 5948, 
+    "subject": "JRN_WRIT", 
+    "requirements": null, 
+    "title": "Magazine Article Writing", 
+    "section": "16", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "16", 
+    "school": "UC", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Pierce Hollingsworth, MSJ, is Director, Custom Media Group for Stagnito Communications, a Deerfield-based business magazine publisher. Formerly Pierce was president of The Hollingsworth Group, Inc., a firm specializing in marketing and communication consulting and business development. He launched RealEstateProfiles.com in late 1998 to serve the information and educational needs of real estate professionals. He also continues to write magazine articles, primarily for business magazines, and he served as the 1992 president of the Chicago Society of Business Press Editors. Prior to forming his own company, Hollingsworth was Assistant Professor, Medill School of \nJournalism, NU. His articles have appeared in Inside Chicago, Entrepreneur, Association Management, Folio, Editors Only, The Food Channel, Food Business, Prepared Foods, Refrigerated and Frozen Foods, Meat Processing and others. He was also a regular instructor for Folio Magazine' Face-to-Face national conferences.", 
+        "name": "Pierce Hollingsworth Jr", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Wieboldt Hall 505", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Writers' Digest Writers' Market, 2012 or 2013. Valuable resource if you're planning to market your writing. This is available in most libraries. Check for other reference guides, and the Internet. \n\nThe Elements of Style. Classic handbook, easy to find and good to have as a resource always."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "[Writer's Digest Handbook of Magazine Article Writing (Paperback). \n\nMagazines, various. Find and devour as many as possible. For best results, study magazines that you wouldn't ordinarily buy or read. You will occasionally be asked to buy or find magazines for review purposes."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "GRADING\nGrades are based on averaging all graded class work. Quizzes, in-class assignments, attendance and class participation will have a bearing on the final grade. Major feature assignments will be returned with editing comments, and will be rewritten at the instructor's discretion. These will be weighted to comprise 30% of the final course grade..\n\nDEADLINES\nOther than two major feature pieces, most assignments will be completed in class, or are due during the following class. Exceptions will be noted and explained in advance. \n\nMagazine articles don't get published if they're not on time. You're expected to turn assignments when they are due. Late articles will not be accepted unless an extension is O.K.'d prior to the deadline. Students must develop the \"whatever it takes to get it done\" attitude essential for successful writers working on multiple projects and tight deadlines."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The class meets one night a week, and normally will consume all of its allotted time. Occasionally, in-class assignments may be taken home. Since each class dovetails into the next, with assignments requiring significant time for proper results, missed classes can hurt. Please make sure you arrange to cover any missed assignments or class work. Coverage means making arrangements with a fellow student to obtain missed assignments, and contacting the instructor in advance of the missed class."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Course design stresses the three fundamental aspects of successful magazine\nwriting:\n1. Concept: Here's where we start. Magazine articles must begin with a crisp, compelling, unique, interesting idea. The first phase of the course is to uncover and develop the skills necessary to turn topics and subjects into great story concepts.\n\n2. Development: Once an idea has crystallized, it needs substance. This includes background, research, interviews and the other aspects of investigation that create depth and credibility.\n\n3. Writing: With a winning idea and sufficient resources in place, writing completes the process. And if the first two phases are done well, writing is a lot easier. The course will examine a variety of writing conventions, techniques, styles and devices that add color, depth and personality."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Some writing experience or consent of instructor."
+        }
+    ], 
+    "class_num": 38697, 
+    "attributes": null, 
+    "catalog_num": "380-CN"
+}

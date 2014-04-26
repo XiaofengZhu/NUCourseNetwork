@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 6614, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Elementary French", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "W 2 - 4PM, Fri 12 - 1PM & 2 - 3PM", 
+        "bio": "Dominique Licops has a Licence (B.A) in Germanic Philology from Universit Catholique de Louvain-La-Neuve (Belgium), an M.A. in Literature from Commonwealth Countries from Leeds University (UK), a PhD. in Comparative Literary Studies from Northwestern University, and a graduate certificate in Gender Studies, also from Northwestern University. Her dissertation is a study of metaphors of identity in Caribbean Francophone and Anglophone Literature. She currently teaches a wide range of courses in the French department and for the School of Continuing Studies, and occasionally for the Gender Studies Program. Her main interests are in French and Francophone and post-colonial studies.", 
+        "name": "Dominique Mary Licops", 
+        "phone": "847/491-8258", 
+        "address": "1860 S. Campus Drive, Crowe Hall #3-136"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "These texts are available in a bundle at Norris Bookstore. The bundle includes access to online material:\n\nAnderson, Golato and Blatty, En Avant!, first edition\n\nAnderson, Golato and Blatty, En Avant! WorkBook and Laboratory Manual (WBLM), first ed.  \n\nCourse packet (to be purchased at Quartet Copies, 825 Clark Street)."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance/Participation: You will earn a total of 10 participation points per day (please see the \"participation rubric\"). If you are absent, you will receive a \"0\" as your participation grade for that day. Merci!!"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The aim of all three quarters, French 101-a, 101-b and 101-c is to build skills in speaking, understanding, reading, and writing French through study, practice, and class activities.  Classes will include a variety of activities designed to help students acquire knowledge of basic French vocabulary and structures along with the ability to use what they have learned in situations of communication.  Classes will be conducted exclusively in French except when explanation of administrative information may necessitate the use of English.  Students are expected to study and practice regularly throughout the week (between classes), prepare for the next week's lesson, to participate actively in class activities, to speak only French in class, and to work independently with the En Avant! listening program and the En Avant! Internet activities.  Instructors will not teach grammar explicitly, instead we will practice grammar in communicative class activities.  Please note:  any elaborate grammatical explanations in English will be saved for instructors' office hours."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "FRENCH 101-A is the first quarter of a three-quarter course for students with less than two years of High School French or with no previous study of French."
+        }
+    ], 
+    "class_num": 18194, 
+    "attributes": null, 
+    "catalog_num": "101-A"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 1434, 
+    "subject": "IBIS", 
+    "requirements": "Enrollment Requirements: Open registration is reserved for IBiS Students Only.  All others need permission from the IBiS Office, ibis@northwestern.edu.", 
+    "title": "The Human Proteome: Defining Variation and Modifications of Protein Molecules", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Neil L Kelleher", 
+        "phone": "847/467-4362", 
+        "address": "Silverman 3613"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 24556, 
+    "attributes": null, 
+    "catalog_num": "403-0"
+}

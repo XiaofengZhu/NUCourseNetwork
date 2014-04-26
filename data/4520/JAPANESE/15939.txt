@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 15939, 
+    "subject": "JAPANESE", 
+    "requirements": null, 
+    "title": "Japanese IV: Reading Modern Japanese Literature in Japanese", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Phyllis I Lyons", 
+        "phone": "8474912766", 
+        "address": "4-372 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Photocopied original literary texts, handouts; Nelson, Japanese-English Character Dictionary, 2nd edition"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assignments; class participation and performance; project presentation and/or quizzes and exams."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "311-1 will require the use of English for in- and out-of-class translation."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "These are the class attributes listed in SES:\nLiterature & Fine Arts Distro Area \nPrerequisites apply, see description \nNo P/N option for this section \nCompletion of JAPANESE 211-3 (with grade of C or above) or with permission of the instructor. (Placement test may be given.)"
+        }
+    ], 
+    "class_num": 11321, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nPrerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "311-1"
+}

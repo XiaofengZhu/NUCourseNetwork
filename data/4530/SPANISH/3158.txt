@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3158, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Individual and Society through Written Expression", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Francisco Castro", 
+        "phone": "847/491-8277", 
+        "address": "1-175 Crowe"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 212", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 23908, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "203-0"
+}

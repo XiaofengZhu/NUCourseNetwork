@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4171, 
+    "subject": "PERF_ST", 
+    "requirements": null, 
+    "title": "Topics in Performance Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Carol Simpson Stern", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annie May Swift Hall 103", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "In general, admission will be limited to students completing the SoC Devising and Adaptation Module or one of the three modules offered by Performance Studies."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "E.M. Forster's Where Angels Fear to Tread  and Howards End OR Passage to India.\nVirginia Woolf's Jacob's Room, Mrs. Dalloway, To the Lighthouse, & A Room of One's Own."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "3 graded performances accompanied by 3 graded papers.  Quizzes as needed.\nFinal Examination consists of the final performance and paper.  Attendance is mandatory."
+        }
+    ], 
+    "class_num": 21414, 
+    "attributes": null, 
+    "catalog_num": "330-0"
+}

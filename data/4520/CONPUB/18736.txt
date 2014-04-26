@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 18736, 
+    "subject": "CONPUB", 
+    "requirements": null, 
+    "title": "A New World Order: the Role of the United Nations in Advancing the Rule of Law and Human Rights", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Variable", 
+        "bio": null, 
+        "name": "Stephen P Sawyer", 
+        "phone": "312/503-0719", 
+        "address": "Law School, Rubloff Building, Room 837"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18038, 
+    "attributes": "1 Draft degree req may be met with class\n\n3 draft degree req may be met with class\n\nInternational Law PracticeArea in course\n\n", 
+    "catalog_num": "709"
+}

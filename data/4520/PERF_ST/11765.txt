@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 11765, 
+    "subject": "PERF_ST", 
+    "requirements": null, 
+    "title": "Shakespeare Adaptations", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Paul C Edwards", 
+        "phone": "847/491-3171", 
+        "address": "Annie May Swift Hall, Room G03"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "REQUIRED READING.\nWilliam Shakespeare, King Lear.\nJane Smiley, A Thousand Acres.\nSamuel Beckett, Endgame.\nWTG/Elaine Feinstein, Lear's Daughters.\nExcerpts from the anonymous True Chronicle History of King Leir, Nahum Tate's The History of King Lear, and Christopher Moore's Fool (2009). \nEssays by Stephen Greenblatt, Jan Kott, David Wiles, Ruby Cohn, Susan Bennett, Grigori Kozintsev, Charles Marowitz, and Michael Worton.\n\nREQUIRED VIEWING.\nKing Lear, dir. Grigori Kozintsev (1971).\nKing Lear, dir. Peter Brook (1971).\nThe Dresser, dir. Peter Yates (1983).\nRan, dir. Akira Kurosawa (1984).\nThe King Is Alive, dir. Kristian Levring (2001).\nExcerpts from stage productions and screen adaptations of King Lear, from 1910 to the present."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Two group performances.  One final essay documenting the adaptation of King Lear into the final group performance.  Students are responsible for actively participating in all aspects of class activity.  Attendance is mandatory."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission of instructor: Paul Edwards at edwdoyle@northwestern.edu.  Numbers will be available during the week of SoC Pre-Registration."
+        }
+    ], 
+    "class_num": 17485, 
+    "attributes": null, 
+    "catalog_num": "318-2"
+}

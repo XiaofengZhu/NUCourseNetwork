@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 280, 
+    "course_id": 1339, 
+    "subject": "ASTRON", 
+    "requirements": null, 
+    "title": "Highlights of Astronomy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "David M Meyer", 
+        "phone": "847/491-4516", 
+        "address": "Dearborn Observatory (2131 Tech Drive), Room 6, Evanston"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Cosmos: Astronomy in the New Millenium (4th  Ed.) by Pasachoff & Filippenko"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The course grade will be based on the final (45%) and mid-term (25%) exams,\na paper assignment (20%), and two pop quizzes (10%)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Three lectures per week.  Observing sessions with the Dearborn telescope"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 11392, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "120-0"
+}

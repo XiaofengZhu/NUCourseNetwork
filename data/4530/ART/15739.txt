@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 15739, 
+    "subject": "ART", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Reserved for students must have taken and passed Art 150-0. Students who have not taken the pre-req need permission to enroll.", 
+    "title": "Color Photography", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Pamela Bannos is a Senior Lecturer who has been teaching in the Department of Art Theory and Practice since 1993. She has worked with nearly every photographic process and format from 19th century gum prints to web-based digital works. She has exhibited her work nationally and internationally.", 
+        "name": "Pamela L Bannos", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 3-365", 
+    "end_time": "15:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Student evaluation is based on participation, growth, and the strength of the work produced."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class time is divided between demonstrations of techniques and processes, group discussions, and one-on-one discussions with instructor about works in progress."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "150 Basic Photography or permission of instructor."
+        }
+    ], 
+    "class_num": 33989, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\n", 
+    "catalog_num": "252-0"
+}

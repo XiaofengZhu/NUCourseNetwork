@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 17830, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Theories of Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Susannah Gottlieb", 
+        "phone": "847/491-3091", 
+        "address": "University Hall 321"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 11808, 
+    "attributes": null, 
+    "catalog_num": "410-0"
+}

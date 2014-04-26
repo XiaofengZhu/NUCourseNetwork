@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20283, 
+    "subject": "LEGAL_ST", 
+    "requirements": null, 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "T 2:00-4:50pm", 
+        "bio": null, 
+        "name": "Joanna Lynn Grisinger", 
+        "phone": "847 4913987", 
+        "address": "1-111 Crowe Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\tWilliam Strunk and E.B. White, The Elements of Style, 4th ed. (New York: Longman, 1999)\n\tJo Ann Gibson Robinson, The Montgomery Bus Boycott and the Women Who Started It: The Memoir of Jo Ann Gibson Robinson (Knoxville, TN: University of Tennessee Press, 1987)\n\tAnne Moody, Coming of Age in Mississippi (New York: Delta, 2004) \n\tHenry Hampton and Steve Fayer, Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s through the 1980s (New York: Bantam, 1990)\n\tPrimary sources (by authors including Martin Luther King Jr., John F. Kennedy, and John Lewis), articles, and book chapters will be made available through the Blackboard site for this class."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Active and involved class participation - 20% \nShort weekly papers - 80%\n\nNUMBER OF WRITING ASSIGNMENTS AND THEIR LENGTHS: \nShort (2-3 pp.) weekly papers analyzing assigned readings."
+        }
+    ], 
+    "class_num": 13289, 
+    "attributes": null, 
+    "catalog_num": "101-6"
+}

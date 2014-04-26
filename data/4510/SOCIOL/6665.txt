@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 6665, 
+    "subject": "SOCIOL", 
+    "requirements": "Enrollment Requirements: Leadership and Organization Behavior Students Only", 
+    "title": "Sociology of Organizations", 
+    "section": "25", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-29", 
+    "end_date": "2013-07-27", 
+    "start_time": null, 
+    "component": "25", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michelle Eileen Naffziger", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41570, 
+    "attributes": null, 
+    "catalog_num": "302-CN"
+}

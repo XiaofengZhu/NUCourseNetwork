@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 17710, 
+    "subject": "FN_EXTND", 
+    "requirements": null, 
+    "title": "Extended Program: Estate Planning", 
+    "section": "44", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-07", 
+    "end_date": "2014-03-11", 
+    "start_time": null, 
+    "component": "44", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33918, 
+    "attributes": null, 
+    "catalog_num": "315-0"
+}

@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 19455, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "The Lied", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Specialist in 19th- and 20th-century Italian opera, with articles published on Rossini, Donizetti, Bellini, and Verdi; papers read at national and international conferences on opera and film music history. Research interests in musical aesthetics and the convergence of music with fields such as literature, poetry, and theology. Contributor, New Grove Dictionary of Opera (Macmillan, 1992), Pipers Enzyclopdie des Musiktheaters (Pipers, 1996), New Grove Dictionary of Music and Musicians (Macmillan, 2000). Outstanding Dissertation Award and Excellence in Teaching Award, New York University. Faculty Honor Roll, Northwestern University.", 
+        "name": "Jesse Rosenberg", 
+        "phone": "847/467-2033", 
+        "address": "j-rosenberg1@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": "Music Administration Bldg 125", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "GRADES are determined by a midterm examination (20%), three listening/written assignments (15% each), and a final examination (25%).  Graduate students have the option of undertaking a research project on a Lied-related topic approved by the instructor (25%) in lieu of taking the final examination.  Those students opting for the project must obtain the instructor's approval of the research topic by the time of the midterm and must submit their research paper by the same day that their classmates take the final examination. 10% of the grade will be based on class participation, naturally including attendance (mandatory),  but also including informed participation in class discussion."
+        }
+    ], 
+    "class_num": 38492, 
+    "attributes": null, 
+    "catalog_num": "347-0"
+}

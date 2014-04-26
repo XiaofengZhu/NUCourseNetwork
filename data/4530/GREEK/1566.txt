@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1566, 
+    "subject": "GREEK", 
+    "requirements": null, 
+    "title": "Elementary Greek", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Claudia Zatta", 
+        "phone": "847/467-6976", 
+        "address": "Kresge Hall 1-525"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "No P/N"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Ann Groton, From Alpha to Omega, Focus publishing/R. Pullins Co., ISBN-10: 158510034X"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Greek 101-1."
+        }
+    ], 
+    "class_num": 23338, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "101-2"
+}

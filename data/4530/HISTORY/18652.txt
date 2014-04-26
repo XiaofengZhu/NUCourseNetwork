@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 18652, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "New Lectures in History", 
+    "section": "30", 
+    "coursecomponent_set": [
+        {
+            "room": "Annenberg Hall G28", 
+            "section": "30A", 
+            "component": "DIS", 
+            "end_time": "10:50:00", 
+            "meeting_days": "Fr", 
+            "start_time": "10:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:30:00", 
+    "component": "30", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael J Kramer", 
+        "phone": "847/491-8916", 
+        "address": "1908 Sheridan Road"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 101", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Americas"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nLarry Starr and Christopher Waterman, American Popular Music: From Minstrelsy to MP3, 4th edition (Oxford University Press, ISBN-10: 0199859116; ISBN-13: 978-0199859115.\nSelected articles online.\nListening Mixes online/Music Library.\nVideo/Film Viewings online/Multimedia Center."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Three 5-7 page essays and related essay worksheets; Participation."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and mandatory discussion sections"
+        }
+    ], 
+    "class_num": 24182, 
+    "attributes": "Historical Studies Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "300-0"
+}

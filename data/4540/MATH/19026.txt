@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 19026, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Foundations of Higher Mathematics", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Santiago Canez joined the Department of Mathematics at Northwestern University as a Postdoctoral Lecturer in Fall 2012. Previously he was a Lecturer at the University of California, Berkeley, where he received his Ph.D. in mathematics from in May 2011. His area of research is differential geometry, and in particular his work deals with geometric structures which arise in physics. Since 2005, Santiago has taught numerous undergraduate mathematics courses covering a wide variety of topics, and has won multiple teaching awards as a result.", 
+        "name": "Santiago Canez", 
+        "phone": "847 4675211", 
+        "address": "Lunt B27"
+    }, 
+    "term": "2014 Spring", 
+    "room": "Lunt Hall 107", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "An Introduction to Abstract Mathematics. Bond and Keane\nISBN-10: 1577665392\nISBN-13: 978-1577665397"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students should understand basic concepts such as sets and subsets, functions and equivalence relations, cardinality, and how to form mathematical arguments using these."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MATH 240 or a similar linear algebra course, or consent of the instructor."
+        }
+    ], 
+    "class_num": 38704, 
+    "attributes": null, 
+    "catalog_num": "300-CN"
+}

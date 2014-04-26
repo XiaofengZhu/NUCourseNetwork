@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6359, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Topics in History:", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Tania Munz has taught courses in the history of science, medicine, and technology; environmental history; and Biological Thought and Action (in collaboration with the Program in Biological Sciences at Northwestern). She received her Ph.D. from Princeton in 2007 with a dissertation on the History of Animal Behavior Studies. Her first book, The Dancing Bees: Karl von Frisch and the Discovery of the Honeybee Dance Language, is forthcoming with the University of Chicago Press. She has also published on the History of Biology and Ethology, Science and Film, and the uses of animals in science. She is a lecturer in the Program of Science in Human Culture and an Adviser in Weinberg College of Arts and Sciences, and has taught at Princeton, Sarah Lawrence College, and the University of Chicago. Dr. Munz teaches in the History Department and for the NU Bioscientist Initiative. She has offered courses that span the history of science from the Scientific Revolution to the modern period.", 
+        "name": "Tania Munz", 
+        "phone": "847/491-3525", 
+        "address": "University Hall Room 020"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L06", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Final paper; Class participation. Attendance mandatory unless excused"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and discussion based on close readings of translated primary Arabic and Hebrew sources and selected secondary works."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "James Watson, The Double Helix, any edition."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "-To gain a deeper understanding of some of the remarkable scientific and medical advances of the 18th, 19th, and 20th centuries. \n-To understand how western science, medicine, and technology are deeply embedded in the society and culture of their time and place.  \n-To draw connections between larger historical trends and the development of science, medicine, and technology.\n-To read a broad range of primary and secondary sources and to analyze how arguments about the development of science are constructed from historical sources. \n-To strengthen verbal and written interpretative skills of scientific and historical texts."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students should have fulfilled the SCS writing requirement or taken equivalent writing courses."
+        }
+    ], 
+    "class_num": 35058, 
+    "attributes": null, 
+    "catalog_num": "392-CN"
+}

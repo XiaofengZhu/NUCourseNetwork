@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 16487, 
+    "subject": "GBL_HLTH", 
+    "requirements": "Enrollment Requirements: Reserved for students who have a Global Health Studies Minor and are not freshmen.", 
+    "title": "Global Bioethics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sarah B Rodriguez", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33211, 
+    "attributes": "No Freshmen\n\n", 
+    "catalog_num": "302-0"
+}

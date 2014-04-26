@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1837, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in 20th-Century Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Susannah Gottlieb", 
+        "phone": "847/491-3091", 
+        "address": "University Hall 321"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 101", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Joyce, Dubliners;\nR. Ellmann, James Joyce (Oxford, 1982);\nJoyce, Occasional, Critical, and Political Writing, ed. K. Barry (Oxford, 1991)."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Herman Melville, Bartleby, the Scrivener -- A Story of Wall Street; Edith Wharton, Ethan Frome; Zora Neale Hurston, Their Eyes Were Watching God; John Okada, No-No Boy;\nRalph Ellison, The Invisible Man; Course packet available at Quartet Copies; Three films:  Bartleby, dir.  Jonathan Parker; Ethan Frome, dir. John Madden;  Henry Fool, dir. Hal Hartley."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Three papers (one 3-4 pages;  two 5-6 pages);  in-class presentation;  active class participation."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and discussion."
+        }
+    ], 
+    "class_num": 23369, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "368-0"
+}

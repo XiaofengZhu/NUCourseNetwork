@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 4912, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Theory of Elasticity", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "g-cusatis@northwestern.edu", 
+        "bio": null, 
+        "name": "Gianluca Cusatis", 
+        "phone": null, 
+        "address": "2145 N. Sheridan Road / Tech A125"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG66", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Recommended Reading:  Elasticity: Theory, Applications, and Numerics / 2nd Ed. / M.H. Sadd / Academic Press / 2009 / ISBN-10: 0123744466"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No formal textbook required."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Graduate-level students."
+        }
+    ], 
+    "class_num": 20830, 
+    "attributes": null, 
+    "catalog_num": "415-0"
+}

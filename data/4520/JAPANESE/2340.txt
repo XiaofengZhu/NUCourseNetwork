@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2340, 
+    "subject": "JAPANESE", 
+    "requirements": null, 
+    "title": "Japanese II", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Yumi Shiojima", 
+        "phone": "8474912764", 
+        "address": "4-358 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Kodansha(1996). Kodansha\\'s Furigana English-Japanese Dictionary. Tokyo: Kodansha. \n\nKodansha (1995). Kodansha\\'s Furigana Japanese-English Dictionary. Tokyo: Kodansha\n\nMakino, S & Tsutsui, M. (1989). Dictionary of Basic Japanese Grammar. Tokyo: The Japan Times"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required textbooks and dictionaries:\n\nICU (1996). Japanese for College Students vol. 2 & 3. Tokyo: Kodansha\n\nKodansha (1991). Kodansha\\'s Compact Kanji Guide. Tokyo: Kodansha"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class participation and performance; assignments; quizzes; oral and written examinations; essays."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class hours are spent mainly on oral development, and written assignments are given for reading and writing development. The students are expected to be fully prepared for each lesson; they must read the textbook thoroughly and practice the \"Formation\" and \"Drill\" sections of the textbook with the audio files on Blackboard at home. Computer programs are available for vocabulary, Kanji drills and conjugation exercises. Useful expressions in daily life and social and cultural aspects in modern Japan are introduced through a series of videos. This course is conducted mostly in Japanese."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Successful completion of JAPANESE 111-3 (with grade C- or above) or with permission of the instructor. (Placement test will be given.)"
+        }
+    ], 
+    "class_num": 10430, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "121-1"
+}

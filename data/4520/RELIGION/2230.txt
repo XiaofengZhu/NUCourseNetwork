@@ -1,0 +1,45 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 102, 
+    "course_id": 2230, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Introduction to Islam", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Brannon Dobbs Ingram", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. Brown, New Introduction to Islam. Edition: 2nd 09, Publisher: Wiley, ISBN: 9781405158077\n2. Curtis, Muslims in America. Edition: 09, Publisher: OXF, ISBN: 9780195367560\n3. Sells, Approaching the Qur'an - W/CD or Download, Edition: 2nd 07, Publisher: Caveat PR,\n ISBN: 9781883991692 \n4. Salih, Wedding of Zein and Other Stories. Edition: 20, Publisher: Random, ISBN:9781590173428"
+        }
+    ], 
+    "class_num": 13010, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "250-0"
+}

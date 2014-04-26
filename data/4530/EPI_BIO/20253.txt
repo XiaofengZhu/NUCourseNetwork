@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20253, 
+    "subject": "EPI_BIO", 
+    "requirements": null, 
+    "title": "Statistical Inference and Applied Techniques", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-20", 
+    "start_time": "10:30:00", 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lihui Zhao", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lurie Gray Seminar Room", 
+    "end_time": "12:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Dennis D. Wackerly, William Mendenhall, Richard L. Scheaffer (2008). Mathematical Statistics with Applications, 7th edition. Cengage Learning."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This course is designed to familiarize students with modern statistical inference concepts. Upon completion of this course students should be able to:\n\n1. Use maximum likelihood method and methods of moments to estimate a parameter following a parametric model for practical data.\n2. Explain the concept of unbiasness, consistency, sufficiency, and efficiency.\n3. Apply the large sample properties of maximum likelihood estimator.\n4. Explain the concept of hypothesis testing, Neyman-Pearson Lemma, and the duality of confidence intervals and hypothesis tests.\n5. Perform likelihood ratio, Wald, and score tests, and understand their differences.\n6. Appropriately use Fisher's exact and Chi-square tests for categorical data.\n7. Use some basic nonparametric methods in data analysis\n8. Conduct some basic Bayesian analysis."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites:\nIntroduction to Probability Theory (EPI BIO 303)\n\nPermission number required. Please contact Meera at meera.tavathia@northwestern.edu."
+        }
+    ], 
+    "class_num": 20308, 
+    "attributes": null, 
+    "catalog_num": "403-0"
+}

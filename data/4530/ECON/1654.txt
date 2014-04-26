@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 1654, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Economics of Medical Care", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Frank Limbrock", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 102", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<i>The Economics of Health and Health Care</i> by Folland, Goodman, and Stano, 7th ed, 2012  (ISBN: 978-0132773690)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The grade will be based on problem sets, midterm exams, a final exam and class participation"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures, potential TA section"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Economics 281, 310-1, 310-2"
+        }
+    ], 
+    "class_num": 26430, 
+    "attributes": null, 
+    "catalog_num": "307-0"
+}

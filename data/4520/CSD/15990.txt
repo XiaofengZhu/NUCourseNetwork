@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 15990, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Problem Solving in Patient Management of Dysphagia", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-10-28", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jerilyn A Logemann", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Book #1:\nAuthor:  Logemann, J.A.\nTitle:  Evaluation and Treatment of Swallowing Disorders\nEdition:  2nd (1998)\nPublisher:  Pro-Ed\nISBN:  9780890797280\n\nBook #2:\nAuthor:  Logemann, J.A.\nTitle:  Manual for the Videofluorographic Study of Swallowing\nEdition:  2nd (1993)\nPublisher:  Pro-Ed\nISBN:  9780890795842"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "How Grade is Determined:\nClass discussion on case studies: 50%\nWritten diagnostic reports: 25%\nWritten treatment plans: 25%"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite:CSD 438-1."
+        }
+    ], 
+    "class_num": 14969, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "438-2"
+}

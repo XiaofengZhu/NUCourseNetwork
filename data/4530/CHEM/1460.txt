@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1460, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mark A Ratner", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG76", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Still in formation.  \n\nProbabilities include: M. Shelley, Frankenstein, O. Sacks, Uncle Tungsten,  E. Kolbert, Field Notes from a Catastrophe, G. Whitesides, How to Write a Scientific Article,  R. Hoffmann and C. Djerassi, Oxygen,  A. Smith, The  Wealth of Nations (parts), T. Stoppard, Arcadia,  A.C. Doyle, A Few Stories from Sherlock Holmes,  J.M. Keynes, The General Theory (parts).  C. Darwin, The Origin of Species (parts).  \n\nIn addition, we will read a few scientific articles, and some texts on climate change, energy, and sustainability."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The course will be graded on the basis of writing assignments, discussions, class participation."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion"
+        }
+    ], 
+    "class_num": 24492, 
+    "attributes": null, 
+    "catalog_num": "105-6"
+}

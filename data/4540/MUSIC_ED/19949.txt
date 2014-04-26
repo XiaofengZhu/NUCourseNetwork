@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 19949, 
+    "subject": "MUSIC_ED", 
+    "requirements": null, 
+    "title": "Music and the Academy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Dr. Bernard Dobroski has extensive professional experience as a conductor, performer, music educator, impresario, author, and speaker.  During his tenure as dean of the music school, he partnered with other units of the university to create a number of important interdisciplinary  initiative, including degree programs in music theatre, music and engineering, and music and journalism.", 
+        "name": "Bernard J Dobroski", 
+        "phone": null, 
+        "address": "bjdobroski@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "<em>POSSIBLE ELEMENTS OF THE COURSE EVALUATIVE CONTRACT</em>\n<ul>\n<li>Design a course for a class within your area of concentration, and a second syllabus in an area of secondary interest. Include a full syllabus with the following: course title; description; materials; objectives; evaluation system; project description; list of appropriate readings; and course calendar. In addition, several lesson plans should be completed for each course designed for this contract.</li>\n<li>Write a paper to be submitted to a professional journal or future conference. Include the journal's \"Call for Submission\" guidelines. Prepare a \"Teaching Portfolio.\" </li>\n<li>Review three books on topics related to music in higher education. Prepare a review and presentation for discussion in class.</li>\n<li>Review the National Association of Schools of Music (NASM) Handbook. Prepare a \"quasi\" accreditation analysis of a music unit from a private or public university of your choice.</li>\n<li>Research a school where you are applying (or potentially might apply) and include a brief description (student body size, number of faculty, type of school, etc.) Include the job advertisement. Prepare a cover letter and CV. Propose a teaching/lecture demonstration (outline). Prepare a list of interview questions.</li> \n<li>Prepare a grant proposal, including research foundations and/or agencies who might consider reviewing your ideas. Present a grant prospectus. Prepare appropriate materials to support your grant application, including a budget.</li>\n<li>Pick from a list of topics proposed by Dr. Dobroski to be presented as a lecture to a group of general campus students and prepare to teach the class about this topic. Include appropriate handouts. </li>\n<li>Create a professional <em>curriculum vitae</em> in job-application shape. Compose a cover letter for a job application. Include the job advertisement. </li>\n<li>Observe a \"master\" professor in an applied lesson and/or a class environment. E-mail questions or interview the professor about her/his teaching style and philosophy. (Types of questions to ask and kinds of observations to make will come from class materials). Turn in a brief paper reflecting your observation and/or interviews. </li> \n<li>Interview an associate dean, chairperson, or program coordinator in the Bienen School of Music, as an individual or as a member of one of the assigned class \"teams.\"  Turn in a brief paper reflecting your observations of the interviews. </li>\n<li>Prepare a proposal for a conference or meeting presentation. Follow the guidelines required for the proposal. Include the conference call for proposal guidelines.</li>\n<li>Other projects to be negotiated with Professor Dobroski.</li>\n</ul>"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "<p>An individualized assessment contract will be negotiated during the first two weeks of the quarter to address the creative, pedagogical or scholarly interests of students enrolled in the class. Assignments and projects will be determined after a private conference with Professor Dobroski.</p> <p> Evaluation will be based on engagement in the various course components, several book-report reviews, independent research, the presentation of students' findings to members of the seminar, and/or a final research paper on a topic related to the course subject matter (and preferably with a practical application). <em>For example:</em> a grant proposal, a proposal for a meeting presentation at a professional conference, an article for a publication of your choice, a teaching portfolio, etc.</p><p> There will be frequent exchanges with the instructor to insure formative and summative evaluative communication between students enrolled in the seminar, the instructor, and the guest instructors.</p>"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "<ol>\n<li>Acquire knowledge and understanding of the goals, procedures, expectations, and attitudes of the various constituencies involved in the higher education community (including your own professional organizations).</li>\n<li>Create a teaching portfolio, including course syllabi for your major and minor areas of specialization.</li>\n<li>Understand and demonstrate current philosophies of teaching and learning.</li>\n<li>Observe, analyze, and discuss different methods of college instruction.</li>\n<li>Identify and prepare materials for acquiring a job, for presenting a paper or presentation at a professional conference, and/or for procuring funding in higher education.</li>\n</ol>"
+        }
+    ], 
+    "class_num": 36489, 
+    "attributes": null, 
+    "catalog_num": "401-0"
+}

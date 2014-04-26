@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 19947, 
+    "subject": "MUS_THRY", 
+    "requirements": null, 
+    "title": "Selected Topics in Music Cognition", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 11-12 and by appt.", 
+        "bio": "Professor, music theory and cognition program. Research and publications in music cognition focusing on expressive performance, musical communication, and long-term memory for music. President, Society for Music Perception and Cognition. Member, editorial board, Music Perception. Recipient of two Fulbright grants for research in the Netherlands and grants from National Endowment for the Humanities and U.S. Department of Education. Recipient, Bienen School of Music Exemplar in Teaching Award. Also teaches in the cognitive science program.", 
+        "name": "Richard D Ashley", 
+        "phone": "847/491-5720", 
+        "address": "r-ashley@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 114", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "A wide range of readings will be used, mostly primary literature."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "<p>Evaluation will be based on weekly assignments, class discussion, and a final project to be negotiated with each student.</p><p> Attendance is expected at all class sessions.</p>"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "<p>This course is intended for graduate students in music theory/cognition and other students with substantial background in music analysis. We will deal with a variety of approaches to musical form, beginning with sources in the 17th and 18th centuries, as well as relevant psychological literature.</p><p> Knowledge of French and/or German may be helpful depending on specific questions to be answered in students' own research papers.</p>"
+        }
+    ], 
+    "class_num": 34419, 
+    "attributes": null, 
+    "catalog_num": "336-0"
+}

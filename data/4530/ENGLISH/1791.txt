@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 1791, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Advanced Composition", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Barbara L Shwom", 
+        "phone": "847/491-7690", 
+        "address": "Kresge 2-245"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-315", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Instructor consent is required for registration. The course is most appropriate for juniors and seniors--and for sophomores who have some business or professional communication experience."
+        }
+    ], 
+    "class_num": 26716, 
+    "attributes": null, 
+    "catalog_num": "305-0"
+}

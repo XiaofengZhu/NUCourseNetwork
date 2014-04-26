@@ -1,0 +1,53 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 120, 
+    "course_id": 1095, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "Human Origins", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "ANTHRO Sem Rm 104 - 1810 Hinmn", 
+            "section": "61", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Mo", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Erin B. Waxenbaum is a physical anthropologist with specialization in forensics, human variation, evolution and growth and development.   In addition to Anthropology faculty, Waxenbaum presently serves as a Research Associate at the Field Museum of Nautural History and the Forensic Anthropologist for the Cook County Medical Examiner's Office and DuPage, McHenry and Champaign County Coroner's offices.", 
+        "name": "Erin Beth Waxenbaum Dennison", 
+        "phone": "847/491-4818", 
+        "address": "1810 Hinman Ave., Room #A54B, EV Campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall 107", 
+    "end_time": "12:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "No P/N allowed."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Introduction to Physical Anthropology by Jurmain, Kilgore, Trevathan & Ciochon (14th Edition - ISBN: 978-1-2-8506197-9, 1-2-8506197-7)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Evaluation method: 3 noncumulative exams (75%), discussion section labs write-ups (25%)"
+        }
+    ], 
+    "class_num": 24337, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "213-0"
+}

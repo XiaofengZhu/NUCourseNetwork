@@ -1,0 +1,61 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 2451, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Differential Calculus of Multivariable Functions", 
+    "section": "21", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 105", 
+            "section": "21A", 
+            "component": "DIS", 
+            "end_time": "08:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "08:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "08:00:00", 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Yifei Zhu", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 105", 
+    "end_time": "08:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students may not receive credit for both 230-0 and any of the following: 290-2, 281-1, or 285-2"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Essential Calculus: Early Transcendentals\" Volume 2 by James Stewart  Second Edition"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and discussion sections meet three times a week. Classes are accompanied by discussion sections, which meet one day a week for problem solving and discussion under the supervision of a teaching assistant."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Vectors, dot and cross products, equations of lines and planes, polar, cylindrical, and spherical coordinates, differentiation of vector functions, velocity and acceleration, arc length, parametric surfaces, functions of several variables, partial derivatives, tangent plane and linear approximations, chain rule for partial derivatives, directional derivative and gradient, max-min problems for functions of several variables, Lagrange multipliers."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Math 224-0 or its equivalent"
+        }
+    ], 
+    "class_num": 26515, 
+    "attributes": null, 
+    "catalog_num": "230-0"
+}

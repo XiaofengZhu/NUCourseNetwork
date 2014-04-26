@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 4762, 
+    "subject": "CMN", 
+    "requirements": null, 
+    "title": "Creative Writing for the Media", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Marie E McCullough", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Louis Hall 118", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21640, 
+    "attributes": null, 
+    "catalog_num": "350-0"
+}

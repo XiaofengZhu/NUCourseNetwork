@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 18844, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Public Health Law: Promoting Healthy Youth Development", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Arthur B Elster", 
+        "phone": "312/467-1697", 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "McGaw Pavilion 1-401", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, students will be expected to:\n\n1.\tApply the principles of the U.S. Constitution to public health\n2.\tApply science to develop public policy\n3.\tAnalyze the balance between individual rights and the needs of society when deciding if a legal solution should be applied to solving a public health issue. \n4.\tDescribe the principles of parens patriae and state police powers and how these apply to promoting the public's health. \n5.\tDescribe the evolution of adolescent jurisprudence and apply this to reproductive health rights of adolescents. \n6.\tIdentify and track public health legislation in Illinois\n7.\tUse principles of public health law to address key causes of morbidity and mortality of youth\n8.\tUse principles learned during the course, create and present a persuasive argument supporting a legal or regulatory strategy to promote or protect the health of youth."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission number required. Please contact Meera at meera.tavathia@northwestern.edu."
+        }
+    ], 
+    "class_num": 20115, 
+    "attributes": null, 
+    "catalog_num": "417-0"
+}

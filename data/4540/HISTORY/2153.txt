@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2153, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Thesis Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Amy Beth Stanley", 
+        "phone": "8474676722", 
+        "address": "Harris Hall Room 203"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 31633, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "398-3"
+}

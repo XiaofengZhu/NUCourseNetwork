@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 7015, 
+    "subject": "CONPUB", 
+    "requirements": null, 
+    "title": "Practicum:  Public Interest Law", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "open door policy", 
+        "bio": null, 
+        "name": "Leonard S Rubinowitz", 
+        "phone": "312/503-8381", 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30069, 
+    "attributes": "Registrar enrollment;  not a biddable class\n\nNot a biddable course\n\nRequires Practicum Placement\n\nConstitutional Law or Procedure an element\n\nProfessional Skills Course\n\nCivil Litigation & Dispute Resolution\n\nProcedure Practice Area present in course\n\n", 
+    "catalog_num": "638"
+}

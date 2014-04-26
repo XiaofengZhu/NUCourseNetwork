@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 20916, 
+    "subject": "PROJ_MGT", 
+    "requirements": null, 
+    "title": "Construction Management", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "rjkrizek@northwestern.edu", 
+        "bio": null, 
+        "name": "Raymond John Krizek", 
+        "phone": "847/491-4040", 
+        "address": "2145 N. Sheridan Road / Tech A114"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18940, 
+    "attributes": null, 
+    "catalog_num": "430-0"
+}

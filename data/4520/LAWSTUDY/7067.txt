@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 7067, 
+    "subject": "LAWSTUDY", 
+    "requirements": null, 
+    "title": "American Democracy", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Robert William Bennett", 
+        "phone": "38430", 
+        "address": "Levy Mayer 315"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18059, 
+    "attributes": "1 Draft degree req may be met with class\n\nConsult Professor about writing requirements\n\nPerspective Elective\n\nLegal History\n\nInterdisciplinary Studies present in course\n\n", 
+    "catalog_num": "670"
+}

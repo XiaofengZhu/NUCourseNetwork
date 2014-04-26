@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 1428, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Pre-requisite: Students must be current seniors and have completed BIOL_SCI 390-0 to register for this course.", 
+    "title": "Molecular Genetics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Richard F Gaber", 
+        "phone": null, 
+        "address": "Cook Hall, Room 3-135"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M164", 
+    "end_time": "15:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Class enrollment is limited to Seniors in the Biological Science major; Juniors and all non-Biological Science majors must contact the professor and request permission to enroll; permission is typically granted to juniors only if they cannot take the course in their senior year; NO Sophomores. Unless otherwise directed, please contact the professor for permission numbers or to be placed on the wait list should the class close out."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All materials will be provided by the instructor."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Three midterm exams."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Three 1.25-hr lectures per week. Although the schedule indicates that we will meet from 3 p.m. until 5 p.m. MWF, it is anticipated that class will only infrequently last more than an hour and 15 minutes.  Active participation during in-class discussions is required."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Undergraduates who are in their final (graduating) year at Northwestern are allowed to register for this course. All other students must first obtain the consent of the instructor.  Pre-requisite: BIO 390"
+        }
+    ], 
+    "class_num": 34014, 
+    "attributes": "Prerequisites apply, see description\n\nSeniors Only\n\n", 
+    "catalog_num": "395-0"
+}

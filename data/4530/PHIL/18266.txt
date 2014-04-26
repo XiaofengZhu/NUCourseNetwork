@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 18266, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "The Brady Scholars Program", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kyla Sue Ebels Duggan", 
+        "phone": "847/467-0437", 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-345", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Selected articles will be posted on the course web site."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Several short papers"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Guided discussion"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Develop wisdom about the moral life."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Admission to Brady Scholars Program in Ethics and Civic Life and completion of Phil 273-1."
+        }
+    ], 
+    "class_num": 23993, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "273-2"
+}

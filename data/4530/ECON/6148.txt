@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6148, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Introduction to Economics II: Microeconomics", 
+    "section": "14", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "14", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Mohyeddin Kassar is a financial economist with more than fifteen years experience. He is currently vice president of research and analysis at Taqwa Trades, Inc., a financial research company. His expertise focuses on risk and financial analyses in the banking, credit card and insurance industries in such firms as Wachovia Bank, HSBC, Allstate, Energy Resource Center and SPSS.", 
+        "name": "Mohyeddin Kassar", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 406", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "MICROECONOMICS\nAuthor: PERLOFF\nEdition: 6TH 12\nPublisher:PEARSON\nISBN: 9780131392632"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. Supply and Demand analysis and how the equilibrium occured. \n2. How to apply consumer theory and understand consumer choice. \n3. How to derive the labor supply curve. \n4. Understand the components of the cost function of the firm and its technology.\n5. Understand profit maximization conditions on the short term and long term. \n6. Distinguish the four market structures and the price determination under each structure: perfect competition, monopoly, oligopoly, and monopolistic competition.  \n7. Understand the factors market and its relatiosnhip to welfare. \n8 Understand game theory and its role in noncooperative decision making."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ECON 201-CN"
+        }
+    ], 
+    "class_num": 35040, 
+    "attributes": null, 
+    "catalog_num": "202-CN"
+}

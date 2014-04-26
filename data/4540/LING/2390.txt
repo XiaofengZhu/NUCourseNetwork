@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 2390, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Meaning", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appointment", 
+        "bio": null, 
+        "name": "Brady Z Clark", 
+        "phone": "847/491-5778", 
+        "address": "2016 Sheridan Road, Room 107"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required text: \"Semantics\" by John Saeed, Wiley-Blackwell, 3rd edition, 2009. ISBN 978-1-4051-5639-4."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Quizzes, homework, exams"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures, discussions, group work."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites\nNone."
+        }
+    ], 
+    "class_num": 32691, 
+    "attributes": "Formal Studies Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "270-0"
+}

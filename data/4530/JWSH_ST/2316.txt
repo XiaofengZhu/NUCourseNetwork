@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2316, 
+    "subject": "JWSH_ST", 
+    "requirements": null, 
+    "title": "Representing the Holocaust in Literature and Film", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment only", 
+        "bio": null, 
+        "name": "Phyllis B Lassner", 
+        "phone": "8477337712", 
+        "address": "Kresge 2-250"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course readings and Professor Lassner supply the historical contexts necessary to approach our subject."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Discussion questions and short written reflections will be assigned for each reading and film. Two papers and a midterm exam will focus on understanding the complex problems of representing the Holocaust. Because of the sensitive nature of the subject, an important part of the course is your collaborative effort to facilitate understanding through consistent participation. Therefore, attendance is mandatory except for notification of serious excuses."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and discussion. Students will share their responses in small writing groups and in class discussion."
+        }
+    ], 
+    "class_num": 23639, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "350-0"
+}

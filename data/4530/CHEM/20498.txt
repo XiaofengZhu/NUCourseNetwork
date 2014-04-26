@@ -1,0 +1,49 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 220, 
+    "course_id": 20498, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for Chemistry 172-0. \nAdd both classes to the shopping cart and submit together for successful registration.Students must be registered or completed CHEM 181-0 & 171-0 prior to registering for this course.", 
+    "title": "Accelerated General Physical Chemistry Laboratory", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute HG10", 
+            "section": "21", 
+            "component": "LAB", 
+            "end_time": "16:20:00", 
+            "meeting_days": "Th", 
+            "start_time": "14:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Shelby Hatch", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 3", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Available Through the Department of Chemistry:\n\n1.  Chemistry 182 Laboratory Manual (2014)\n\nItems Below Available Through PLU, the Norris Bookstore, or Third Party Vendors:\n\n2. Laboratory Notebook (with carbonless duplicate pages)\n3. 100% Cotton Laboratory Coat\n4. Laboratory Goggles or Safety Glasses*\n           \n* Safety Glasses Must be Purchased from PLU"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: Grade of C- or better in Chemistry 171-0 and Chemistry 181-0"
+        }
+    ], 
+    "class_num": 26381, 
+    "attributes": null, 
+    "catalog_num": "182-0"
+}

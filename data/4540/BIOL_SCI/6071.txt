@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6071, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "The Human Brain", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "09:00:00", 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Patricia (Patti) Colley started teaching at SCS in 1986 as a graduate student. After completing her BA in Psychology at Wittenberg University, she earned a PhD in Neurosciences from Northwestern in 1989. She pursued her research interests, which have included the electrophysiology and biochemistry of learning and memory and the molecular biology of brain tumors, in both the academic and biotech arenas. Patti continues to teach for SCS as well as other schools in the Chicago area offering classes in biology, neurobiology and psychology.", 
+        "name": "Patricia A Colley", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Wieboldt Hall 413", 
+    "end_time": "12:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Carlson's Physiology of Behavior   ISBN 0-205-46724-5"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, students should:\n1. have a working vocabulary of basic neurobiological terms.\n2. have a general understanding of human brain anatomy, physiology and chemistry.\n3. be able to read and comprehend neurobiological articles (programs) presented in the popular media.\n4. be able to critically evaluate new medical tindings and technologies dealing with the human nervous system."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 38652, 
+    "attributes": null, 
+    "catalog_num": "115-CN"
+}

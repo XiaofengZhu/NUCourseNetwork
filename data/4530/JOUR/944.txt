@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 944, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: This section is currently closed to registration.  Please contact the department directly with any questions.", 
+    "title": "Journalism Residency: News Presentation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Desiree Hanford", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Taken with 345 Teaching Newspaper: Reporting."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "340 Newspaper Editing and Writing AND 341 News and New Media OR 376 Print Media Design."
+        }
+    ], 
+    "class_num": 22050, 
+    "attributes": null, 
+    "catalog_num": "346-0"
+}

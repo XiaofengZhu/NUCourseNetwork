@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 5127, 
+    "subject": "IEMS", 
+    "requirements": null, 
+    "title": "Quality Improvement by Experimental Design", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute C135", 
+            "section": "20", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Bruce E Ankenman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute A110", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33844, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "307-0"
+}

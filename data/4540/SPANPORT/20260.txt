@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20260, 
+    "subject": "SPANPORT", 
+    "requirements": "Enrollment Requirements: Please contact the department of Spanish & Portuguese to request a permission number, spanish-portuguese@northwestern.edu.", 
+    "title": "Topics in Latino/a Literatures & Cultures", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesdays 2-4 pm", 
+        "bio": null, 
+        "name": "Frances R Aparicio", 
+        "phone": "847/467-0891", 
+        "address": "Kresge 1-435"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33411, 
+    "attributes": null, 
+    "catalog_num": "430-0"
+}

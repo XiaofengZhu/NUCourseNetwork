@@ -1,0 +1,56 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 7, 
+    "course_id": 17965, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Quantitative Methods for Ecology and Conservation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Stuart Wagenius", 
+        "phone": "847/835-6978", 
+        "address": "156 PCSC Chicago Botanic Garden, Glencoe"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute MG51", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "There is a steep learning curve for R. It pays to keep up with class from the beginning; you will reap benefits later in the class. At the end of this class you will appreciate R, you may even love it."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Michael J. Crawley. 2005. Statistics: An Introduction using R. ISBN: 978-0-470-02298-6 Wiley. Paperback.\n\nRequired Software: R Free downloads available for Mac, PC, Unix, or Linux computers. \nhttp://www.r-project.org/"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "1. Class participation, 15%--group work, discussion contributions to class web resources, and attendance.\n\n2. Homework 25%--R exercises with class and individual datasets.\n\n3. Mid-term exam, during class, 20%--demonstrate your ability to manage and visualize datasets and conduct appropriate statistical analyses using R.\n\n4. Individual or group project and presentation 40%."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture, Group work, Discussion\n\nProjects: An individual research project will be a main aspect of this class. In consultation with the instructor, you will pick a research question that can be addressed with an original or publicly-available dataset (consider your thesis or research!). During the course, you will conduct an analysis that answers your questions. You will develop a documented, reproducible analysis, and present results to the class. The instructor will facilitate all steps in this process and some homework assignments will be centered on your individual or group dataset."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. Students will gain hands-on experience managing and visualizing datasets, conducting exploratory and formal statistical analyses, and presenting results.\n \n2. Students will use R for all quantitative methods practiced in class and be confident in their ability to use R for their future statistical needs. Students will be able to access and interpret appropriate R-specific help resources freely available online.\n \n3. Students will be familiar with a variety of modern statistical approaches, methods, and techniques useful for analyses in ecology and conservation applications.\n \n4. Students will apply their knowledge of statistical methods and use their skills with R to conduct an analysis of their own dataset, they will develop a documented, reproducible analysis, and present results to class."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites:  210-1, 215 OR ENVR SCI 202; Course in statistics"
+        }
+    ], 
+    "class_num": 24181, 
+    "attributes": null, 
+    "catalog_num": "313-0"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 21060, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "Global Cultures, Global Inequalities", 
+    "section": "16", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "16", 
+    "school": "UC", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Alana Lee Glaser is a PhD candidate in Northwestern Universitys anthropology department, completing her dissertation, \"A 'New Day' for Domestic Workers? Migrant, Minority Womens Caregiving Labor and Cross-race Alliances in New York City\".  Funded by the Wenner-Gren Association for Anthropological Research, Northwestern Universitys Kellogg School of Management, Program of African Studies, and The Graduate School, she conducted two years of ethnographic fieldwork among West African women and their families in New York City. During the same period,  she engaged in institutional participant observation inside the nonprofit organizations Domestic Workers United and Jews for Racial and Economic Justice. The Working-Class Studies Association recently recognized her  with the Young Scholars & Activists Initiative Award.", 
+        "name": "Alana Lee Glaser", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Wieboldt Hall 504", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The only required reading is 'A No Nonsense Guide to Globalization'. Other readings will be on electronic reserve."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will define and explain cultural anthropologydescribing ethnography as a methodology and approach to understanding global inequality. \nStudents will define neoliberal globalizationproviding  examples from course materials of its historical origins and on-the-ground effects. \nStudents will design and evaluate a model humanitarian intervention based on course case studies and discussions. \nStudents will debate and discuss course examples in written and oral assignmentsdemonstrating rigorous, synthetic argumentation and description."
+        }
+    ], 
+    "class_num": 38766, 
+    "attributes": null, 
+    "catalog_num": "212-CN"
+}

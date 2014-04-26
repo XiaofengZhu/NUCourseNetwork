@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 80, 
+    "course_id": 20351, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for Chemistry 101-CN. \nAdd both classes to the shopping cart and submit together for successful registration.", 
+    "title": "General Chemistry Laboratory", 
+    "section": "100", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "100", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lewin T Wint", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18159, 
+    "attributes": null, 
+    "catalog_num": "121-CN"
+}

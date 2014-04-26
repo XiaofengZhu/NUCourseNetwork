@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 17398, 
+    "subject": "MHB", 
+    "requirements": "Enrollment Requirements: Reserved for Medical Humanities and Bioethics Students Only", 
+    "title": "The Practice of Bioethics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Debjani Mukherjee", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Rubloff Building 618", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20100, 
+    "attributes": null, 
+    "catalog_num": "406-0"
+}

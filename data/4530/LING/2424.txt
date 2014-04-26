@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2424, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Syntactic Analysis I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appt", 
+        "bio": null, 
+        "name": "Masaya Yoshida", 
+        "phone": "847/491-8052", 
+        "address": "2016 Sheridan Road, Rm. 106"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No specific textbook.\nResearch papers.\nAll the reading materials will be provided through Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework and exams"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and student presentations."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Learning foundations of theoretical syntax and sentence processing studies."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "360 recommended but not required."
+        }
+    ], 
+    "class_num": 24026, 
+    "attributes": null, 
+    "catalog_num": "460-1"
+}

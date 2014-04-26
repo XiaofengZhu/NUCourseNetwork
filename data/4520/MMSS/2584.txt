@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 2584, 
+    "subject": "MMSS", 
+    "requirements": "Enrollment Requirements: Reserved for Math Methods in Social Sciences Students only", 
+    "title": "Social Science Theories & Meth-First Yr", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Eric Gerald Schulz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Microeconomics by Bernheim & Whinston, ISBN: 007290027x"
+        }
+    ], 
+    "class_num": 10509, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "211-1"
+}

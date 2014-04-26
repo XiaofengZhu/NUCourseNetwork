@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3603, 
+    "subject": "MUSIC_ED", 
+    "requirements": null, 
+    "title": "Music Teacher As Communicator", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Maud Mary Hickey", 
+        "phone": "847/467-4726", 
+        "address": "mhickey@northwestern.edu"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Teaching Method", 
+            "desc": "Along with readings and discussion as course activities, we will take trips to observe in several area schools ."
+        }
+    ], 
+    "class_num": 14155, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "260-0"
+}

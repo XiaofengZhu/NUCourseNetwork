@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 13115, 
+    "subject": "IEMS", 
+    "requirements": null, 
+    "title": "Simulations in Financial Engineering", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jeremy C Staum", 
+        "phone": "847/491-2405", 
+        "address": "2145 Sheridan Road, Technological Institute D235 Evanston, IL 60208-3109"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34920, 
+    "attributes": null, 
+    "catalog_num": "475-0"
+}

@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 15983, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Clinical Externship", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kristine Marie Grohne Riley", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Please note, students may be required to complete additional academic and clinical activities dependent upon their individual training needs as identified by externship preceptors and on-campus faculty and staff."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "At the conclusion of each quarter of Externship, AuD students will complete a self-evaluation of their clinical competence."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "On a quarterly basis AuD students will visit the Evanston campus for participation in (a) a Core meeting with faculty and staff; (b) case and experience-related presentations to the class, faculty, and staff; and (c) a day-long seminar with a visiting scholar.  Visiting scholars will be on campus for a two-day series of meetings, lectures and seminar, typically on a Thursday and Friday.  Details of speakers and dates will be provided."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the Externship, students are expected to consistently demonstrate clinical competence across the scope of audiologic practice with minimal guidance from his/her preceptor(s)."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Doctor of Audiology students register for CSD 580: Clinical Externship during each quarter of their third year.  CSD 580 is a 3.0 unit course which must be taken for a grade."
+        }
+    ], 
+    "class_num": 21706, 
+    "attributes": null, 
+    "catalog_num": "580-2"
+}

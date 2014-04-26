@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 17980, 
+    "subject": "DSGN", 
+    "requirements": null, 
+    "title": "Computer Aided Design: NX", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-02-10", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John B Clauson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute MG47", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33759, 
+    "attributes": null, 
+    "catalog_num": "246-0"
+}

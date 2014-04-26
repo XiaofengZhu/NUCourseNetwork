@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 6496, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Independent Study", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-08-31", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41649, 
+    "attributes": null, 
+    "catalog_num": "399-CN"
+}

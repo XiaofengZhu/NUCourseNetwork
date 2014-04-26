@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 855, 
+    "subject": "MS_ED", 
+    "requirements": null, 
+    "title": "Methods & Techniques: English", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Dagny Dorothy Bloland", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Atwell, N. (1998). In the Middle, second edition. Portsmouth, NH: Boynton/Cook.\nBurke, J. (2001). Illuminating Texts. Portsmouth, NH: Heinemann.\nChristenbury, L. (2006). Making the Journey: Being and Becoming a Teacher of English Language Arts, third edition. Portsmouth, NH: Heinemann.\nFreeman, Y. and Freeman, D. (2009). Academic Language for English Language Learners and Struggling Readers. Portsmouth, NH: Heinemann.\nHaussamen, B. and others. (2003) Grammar Alive! Urbana, Illinois: NCTE\nKajder, S. (2010) Adolescents and Digital Literacies. Urbana, Illinois. NCTE\nProbst, R. (2004) Response and Analysis: Teaching Literature in Secondary School, 2nd edition. Portsmouth, NH: Heinemann\nSmagorinsky, P. (2008) Teaching English by Design. Portsmouth, NH: Heinemann\nWolk, S. What Should Students Read? Phi Delta Kappan 91:7 (2010) (8-16, to be distributed in class)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grading will be based upon:\nSelf-Evaluation and Reflection - reporting of participation, engagement, preparation, and growth\nSample Lessons - (written/demonstrated)\nTalking Points - (written)\nNovel Project in Connection with Technology\nUnit Plan\n\nPlease note that I am under no obligation to grade or accept late work."
+        }
+    ], 
+    "class_num": 14793, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "456-0"
+}

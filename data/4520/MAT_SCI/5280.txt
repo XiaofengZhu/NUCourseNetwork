@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 26, 
+    "course_id": 5280, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Introduction to Modern Ceramics", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Thomas O Mason", 
+        "phone": "847/491-3198", 
+        "address": "Cook Hall 3037"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Fundamentals of Ceramics,\" M. W. Barsoum, ISBN: 978-0750309028\n\"Industrial Ceramics,\" T. O. Mason (electronic version)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Two Midterms: 30% each\nTerm Project: 30%\nHomework: 10%"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MAT SCI 316-1,2 or consent of instructor"
+        }
+    ], 
+    "class_num": 16305, 
+    "attributes": null, 
+    "catalog_num": "341-0"
+}

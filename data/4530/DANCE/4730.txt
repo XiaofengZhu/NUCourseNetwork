@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4730, 
+    "subject": "DANCE", 
+    "requirements": null, 
+    "title": "Jazz II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M/W 10am-12pm, T/Th 2-5pm", 
+        "bio": null, 
+        "name": "Jeffery M Hancock", 
+        "phone": "847/491-3147", 
+        "address": "Dance Offices, Marjorie Ward Marshall Dance Center"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Ballroom", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Very fitted non-restrictive dance clothes, dance shoes-no sneakers"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Each class unit lasts 2 weeks, during which material will be explored and added. You will be videotaped at the end of each unit. This video will be available for online viewing, only to the class."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "An extended knowledge of Jazz dance terminology, an intermediate level ability to organize the body with basic rhythmic and intentional structure, increased ability to focus on and reproduce movement passages in basic Jazz dance, and embody rhythmic structures through isolated  movement,  footwork, and space, increased stretc, and core strength.\nThey will be able to trace the arc of their progress through video viewings, and written reflection."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "The students needs to have placed in the Jazz 2 level, or received permission form the instructor."
+        }
+    ], 
+    "class_num": 21463, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "260-0"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 72, 
+    "course_id": 16423, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Co-Requisite: Students must also register for Chemistry 122-CN.\nAdd both classes to the shopping cart and submit together for successful registration.", 
+    "title": "General Inorganic Chemistry", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Derek Ward Nelson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 3", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All texts are available at the Norris Center Bookstore. TEXT FOR LECTURE: General Chemistry, 10th Edition, by Petrucci, Herring, Madura, and Bissonnette, Pearson Prentice Hall, 2011. Access code for Mastering Chemistry (may be sold with textbook, purchased online, or previous subscriptions are valid for two years.) Used or new books are satisfactory. Student molecular modeling kit is required. Scientific calculator with log capability."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Theories of covalent bonding\nProperties of condensed phases\nStructures of Solids\nProperties of Solutions\nPrinciples of Chemical Equilibrium\nThermodynamics: Entropy and Free Energy\nNuclear chemistry"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "The prerequisite for Chem 102-CN is a grade of C- or higher in CHEM 101-CN or equivalent course, or consent of the instructor. Additionally, one should be familiar with the following mathematics topics because they are used often in the general chemistry sequence: 1) simplifying algebraic expressions, 2) solving first-order equations, 3) manipulating exponents, 4) solving quadratic equations, 5) manipulating logarithms, and 6) linear regression using the model y = mx + b. (Some of these topics are covered in the appendices in the text book)."
+        }
+    ], 
+    "class_num": 35029, 
+    "attributes": null, 
+    "catalog_num": "102-CN"
+}

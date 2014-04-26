@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 969, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: Reserved for Sophomores, Juniors, and Seniors from every undergraduate school only.", 
+    "title": "Special Topics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Susan Yvonne Curtis", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "McCormick Tribune 2131", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "1st class is mandatory"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Students must provide their own DSLR cameras."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Sophomore Standing"
+        }
+    ], 
+    "class_num": 34414, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "390-0"
+}

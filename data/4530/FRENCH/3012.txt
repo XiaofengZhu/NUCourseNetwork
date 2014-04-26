@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3012, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Advanced Grammar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lam-Thao Nguyen", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-420", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TBA"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "French 202-0 or consent of instructor"
+        }
+    ], 
+    "class_num": 26536, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nReading, writing, speaking proficiency\n\n", 
+    "catalog_num": "301-0"
+}

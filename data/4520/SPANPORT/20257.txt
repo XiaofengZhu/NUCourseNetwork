@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20257, 
+    "subject": "SPANPORT", 
+    "requirements": "Enrollment Requirements: Please contact the department of Spanish & Portuguese to request a permission number, spanish-portuguese@northwestern.edu.", 
+    "title": "Studies in 19th Century Literatures & Cultures", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Nathalie Bouzaglou", 
+        "phone": "847/467-1543", 
+        "address": "2-155 Crowe"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 17271, 
+    "attributes": null, 
+    "catalog_num": "415-0"
+}

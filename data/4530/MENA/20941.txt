@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20941, 
+    "subject": "MENA", 
+    "requirements": null, 
+    "title": "Advanced Topics in Middle East & North African Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Daniel Stolz works on the history of science in Islamic societies since the 18th century, with a focus on Egypt and the late Ottoman Empire.  His current book project is a history of astronomy in nineteenth-century Egypt.  The book weaves together the cultural history of new sites of astronomical knowledge, from state observatories to periodicals, with an examination of the continuity of Islamic traditions of astronomy.  Other projects underway include a history of reading science in the Quran, and an article on mechanical timekeeping in eighteenth-century Egypt.", 
+        "name": "Daniel A Stolz", 
+        "phone": "847/467-2670", 
+        "address": "Harris Hall Room 235"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "READING LIST:\nMarwa Elshakry, Reading Darwin in Arabic, 1860-1950 (University of Chicago Press, 2013, ISBN 978-0226001302)\nSherine Hamdy, Our bodies belong to God: organ transplants, Islam, and the struggle for human dignity in Egypt (University of California Press, 2012, ISBN 978-0520271760)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Mid-term and final exams; response papers; participation in discussion."
+        }
+    ], 
+    "class_num": 34233, 
+    "attributes": "Historical Studies Distro Area\n\n", 
+    "catalog_num": "390-4"
+}

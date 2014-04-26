@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 21062, 
+    "subject": "SOCIOL", 
+    "requirements": null, 
+    "title": "Cities in Society", 
+    "section": "14", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "14", 
+    "school": "UC", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Currently a doctoral candidate in Sociology and a graduate certificate candidate in the Gender and Sexuality Studies Program, Theo's research and teaching interests include Community and Urban Sociology, Sociology of Culture, Sociology of Sexualities, Race, Class, and Gender.  His dissertation, Not in My Gayborhood: Gay Neighborhoods and the Rise of the Vicarious Citizen, draws on gay neighborhoods to examine how actors make legitimate claims to ownership in a community without having any residential or material ties to that community. Theo has taught numerous classes in sociology, gender and sexuality studies on the undergraduate and graduate levels at Northwestern, including \"Sexuality and the City\" and a graduate-level seminar on undergraduate teaching.  His teaching has garnered numerous awards from Northwestern's Sociology department.", 
+        "name": "Theodore Charles Greene", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Wieboldt Hall 409", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Jan Lin and Christophere Mele, eds.  The Urban Sociology Reader: Second Edition.  Routledge Press.  ISBN 9780415665315\n\nAdditional readings will be made available on the course's blackboard site."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 38768, 
+    "attributes": null, 
+    "catalog_num": "207-CN"
+}

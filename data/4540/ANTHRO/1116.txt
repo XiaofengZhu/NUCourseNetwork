@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 1116, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "Archaeological Methods Laboratory", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Cynthia Rivera", 
+        "phone": "847/491-4835", 
+        "address": "1812 Hinman Ave., Room #104, EV Campus"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "16:30:00", 
+    "coursedesc_set": [], 
+    "class_num": 33405, 
+    "attributes": null, 
+    "catalog_num": "325-0"
+}

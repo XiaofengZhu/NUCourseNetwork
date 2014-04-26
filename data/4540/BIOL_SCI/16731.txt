@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 16731, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Biology of Aging", 
+    "section": "66", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "66", 
+    "school": "UC", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Dr. John Paul Savaryn received his Ph.D. in 2012 from the Medical College of Wisconsin where he studied the molecular biology of herpesvirus infection. Currently, he is a post-doctoral fellow at Northwestern University where he is using state-of-the-art proteomics technology and live-cell imaging of reporter systems to understand the molecular networks governing promoter activity of Cytomegalovirus. In addition to his research, Dr. Savaryn has a passion for education and is excited to be teaching for the NU School of Continuing Studies.", 
+        "name": "John P Savaryn", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Technological Institute M120", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This course is meant to develop your critical thinking skills in the context of the biology of aging. It will be an interactive, creative, and intellectually challenging course where we learn to think like scientists through the process of evaluating data."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No textbook required. Readings will be made available on Blackboard and will include peer-reviewed scientific literature."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1) Students will be able to evaluate scientific data and draw conclusions supported by the evidence.\n2) Students will be able to identify and describe foundational aspects of cellular and organismal aging."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "BIOL SCI 210-A,-B,-C"
+        }
+    ], 
+    "class_num": 38659, 
+    "attributes": null, 
+    "catalog_num": "327-CN"
+}

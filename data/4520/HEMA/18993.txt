@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 18993, 
+    "subject": "HEMA", 
+    "requirements": null, 
+    "title": "Hospital - Physician- Insurer Relationships and the Response to Healthcare Reform", 
+    "section": "81", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-23", 
+    "end_date": "2013-10-25", 
+    "start_time": null, 
+    "component": "81", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Henry S Allen", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18368, 
+    "attributes": null, 
+    "catalog_num": "920-A"
+}

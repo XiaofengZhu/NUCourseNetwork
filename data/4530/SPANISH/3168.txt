@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 3168, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Literature in Latin America since 1888", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Nathalie Bouzaglou", 
+        "phone": "847/467-1543", 
+        "address": "2-155 Crowe"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 412", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Most of the texts will be available in the following anthology:\n\nGarganigo et al. Huellas de las literaturas hispanoamericanas, 2nd edition."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students must have taken SPAN 220."
+        }
+    ], 
+    "class_num": 24036, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nPrerequisites apply, see description\n\n", 
+    "catalog_num": "261-0"
+}

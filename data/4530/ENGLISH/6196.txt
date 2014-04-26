@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6196, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Introductory Seminar in Reading and Interpretation", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Bill Savage wrote his doctoral dissertation at Northwestern on material culture, hermeneutics and the literary reputation of Nelson Algren; he has taught classes on Chicago writers at Northwestern and the Newberry Library of Chicago for more than fifteen years.  Savage co-edited two editions of Algren's work (the 50th Anniversary Critical Edition of  The Man with the Golden Arm and the Annotated Edition of Chicago: City on the Make) and has published on Algren in scholarly and popular venues.  Besides his position as Senior Lecturer in the English Department, he works as a College Adviser in NU's Weinberg College of Arts and Sciences, and is a Series Editor for the University of Chicago's Chicago Visions + Revisions, a series of nonfiction books about Chicago.  He is a lifelong resident of Chicago's Rogers Park neighborhood, but thinks the South Side is under-rated.", 
+        "name": "William J Savage", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 121", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This class is always a lot of fun to teach and (I hope) to take.  I strive to make it useful in a practical way ( to improve everyone's writing) and in a philosophical way: the material we discuss (American identity, the nature of crime and criminals) applies outside the classroom walls."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Our novels are available at Comix Revolution, 606 Davis Street in downtown Evanston: Twain, Pudd'nhead Wilson; Hawthorne, The Scarlet Letter; Fitzgerald, The Great Gatsby; Chandler, The Big Sleep; Thompson, The Killer Inside Me; Azzarello and Risso, 100 Bullets: First Shot, Last Call; Algren, The Man with the Golden Arm.  \n\nWe will also view three films: The Big Sleep (1946), Thelma and Louise, and Pulp Fiction."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, students will be able to recognize what differentiates a literary argument from a mere description or book report (hint: an argumentative thesis statement); be able to construct a solid literary argument through effective use of evidence and construction of a paper, from word choice up to sentences, paragraphs, and overall argumentative structure.  Students will also be well-versed in the differences between canonical \"Literature\" and popular fictions, different media, and how, as a culture, Americans think about crime and identity."
+        }
+    ], 
+    "class_num": 35048, 
+    "attributes": null, 
+    "catalog_num": "298-CN"
+}

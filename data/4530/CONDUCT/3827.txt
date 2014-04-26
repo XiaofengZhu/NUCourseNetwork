@@ -1,0 +1,31 @@
+{
+    "overview": "<Element DESCRAREA_VALUE at 1c9ffc8>", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3827, 
+    "subject": "CONDUCT", 
+    "requirements": null, 
+    "title": "Seminar in Conducting", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Mallory Beth Thompson", 
+        "phone": "847/491-3412", 
+        "address": "REGENSTEIN 60 Arts Circle Dr, Evanston IL"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Regenstein Hall of Music 011", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22482, 
+    "attributes": null, 
+    "catalog_num": "540-0"
+}

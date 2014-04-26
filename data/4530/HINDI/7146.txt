@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 7146, 
+    "subject": "HINDI", 
+    "requirements": null, 
+    "title": "Hindi II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M 12:00pm-1:00pm", 
+        "bio": null, 
+        "name": "Rami Nair", 
+        "phone": "8474677581", 
+        "address": "4-406 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Intermediate Hindi by Y. Kachru and R., Pandharipande (1996, Motilal Banarsidass Publisher)\nISBN-10: 81-2080-558-5\nISBN-13: 978-8120805583\n\nIntermediate Hindi Reader by Usha R. Jain and K. Schommer (1999, Institute of East Asian Studies Publisher)\nISBN-10: 08-7725-35-1-X\nISBN-13: 978-0877253518\n\nAdvanced Hindi Grammar (2007, Institute of East Asian Studies Publisher)\nISBN-10: 09-4461-34-2-X\nISBN-13: 978-0944613429"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students from Hindi 115-3 are graded based on the quality and punctuality in completion and submission of their movie assignments.\n\nStudents from Hindi 111-3 are graded based on home assignments, weekly quizzes, 3 midterms, attendance and class participation.\n\nGeneral assessment is based on weekly quizzes, attendance, class participation, home assignments, 3 mid-terms and an in class presentation. No final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Textbook, extra materials, movies and word-games."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Successful completion of 121-1 or permission of the instructor."
+        }
+    ], 
+    "class_num": 24329, 
+    "attributes": null, 
+    "catalog_num": "121-2"
+}

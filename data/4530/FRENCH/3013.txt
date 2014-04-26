@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3013, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Advanced Composition", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "M 1 - 3PM & by appointment", 
+        "bio": null, 
+        "name": "Christiane H E Rey", 
+        "phone": "847/467-3881", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-138"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-420", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "READING LIST:\no\tGuide du cours (Quartet Copies) \no\tDenise Rochat, Contrastes, grammaire du franais courant (2nd. ed.), available at Norris \no\tMicro Robert de poche (or a good French-French dictionary), available at Norris \no\tHarper-Collins-Robert (or another large (over 250,000 words) French-English, English-French dictionary), available at Norris"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: French 301 or permission of the instructor\nNote: Students returning from a semester abroad may not take this course for credit (see instructor)."
+        }
+    ], 
+    "class_num": 24439, 
+    "attributes": "Attendance at 1st class mandatory\n\nSpecific requirements in the language\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "302-0"
+}

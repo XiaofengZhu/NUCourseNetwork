@@ -1,0 +1,45 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 18733, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Introduction to Topology", 
+    "section": "81", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 103", 
+            "section": "81A", 
+            "component": "DIS", 
+            "end_time": "14:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "14:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "81", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Eugene Kushnirsky", 
+        "phone": "8474670485", 
+        "address": "Lunt 204"
+    }, 
+    "term": "2014 Winter", 
+    "room": "2122 Sheridan Rd Classroom 231", 
+    "end_time": "14:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Math 321-1"
+        }
+    ], 
+    "class_num": 24192, 
+    "attributes": null, 
+    "catalog_num": "344-1"
+}

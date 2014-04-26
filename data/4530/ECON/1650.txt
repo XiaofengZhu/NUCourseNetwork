@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 180, 
+    "course_id": 1650, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Introduction to Applied Econometrics", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 2-410", 
+            "section": "21", 
+            "component": "DIS", 
+            "end_time": "14:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "14:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "16:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jeffrey Thomas Lewis", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 2", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<i>Intro to Econometrics</i> by Stock and Watson, 3rd Edition.  (ISBN: 978-0138009007)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on problem sets, two midterm exams, and a final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and a TA session"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Econ 201, 202, Stat 210"
+        }
+    ], 
+    "class_num": 23344, 
+    "attributes": null, 
+    "catalog_num": "281-0"
+}

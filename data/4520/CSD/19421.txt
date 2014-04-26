@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 19421, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Language Science", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Frances Searle Building 2370", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Cynthia K Thompson", 
+        "phone": "847/491-2421", 
+        "address": "2240 Campus Drive"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Textbooks:\nHarley, T. A. (2008). The psychology of language: From data to theory (3nd ed). Hove: Psychology Press.\nAltmann, G. T. M. (1997). The ascent of Babel. Oxford: Oxford University Press. (Supplementary; readings from this book will be posted on BlackBoard).\nOther readings: All will be on BlackBoard."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. Describe models and theories of lexical-semantic and syntactic processing.\n2. Describe major psycholinguistic and neuroimaging methods used for studying language processing.\n3. Discuss results of studies underlying psycholinguistic principles and theories of language processing.  \n4. Discuss the relation between the breakdown of neurocognitive mechanisms and specific language impairments."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CSD 392: Language Development and Usage, or equivalent."
+        }
+    ], 
+    "class_num": 17166, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "452-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19976, 
+    "subject": "HINDI", 
+    "requirements": "Enrollment Requirements: Prerequirement: Students must be enrolled in or have taken and passed Hindi 211-2 in order to register.", 
+    "title": "Hindi III: Topics in Intermediate Hindi", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32749, 
+    "attributes": null, 
+    "catalog_num": "211-3"
+}

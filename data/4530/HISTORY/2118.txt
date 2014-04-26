@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 2118, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Modern British History, 1900-History", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "University Library 4770", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "14:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "14:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Raised in Louisville, Kentucky, Deborah Cohen lived on the east and west coasts (to Harvard as an undergraduate and Berkeley for graduate school) before returning in 2010 to the land of muscular modernism and the early dinner hour.  Shes written three books:  the first about the disabled veterans of the first world war in Britain and Germany, the second about the British love affair with their houses, and the last one, published this year, about family secrets (British, not her own). More at www.deborahacohen.com.", 
+        "name": "Deborah Anne Cohen", 
+        "phone": "847/491-4963", 
+        "address": "Harris Hall Room 238"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 121", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Europe"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nHanif Kureishi, Buddha of Suburbia\nGeorge Orwell, Road to Wigan Pier\nJohn Osborne, Look Back in Anger\nRebecca West, Return of the Soldier"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Paper and exam"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and mandatory discussion sections"
+        }
+    ], 
+    "class_num": 34367, 
+    "attributes": "Historical Studies Distro Area\n\n", 
+    "catalog_num": "362-3"
+}

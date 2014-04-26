@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18324, 
+    "subject": "CIS", 
+    "requirements": null, 
+    "title": "System Analysis and Design", 
+    "section": "12", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "12", 
+    "school": "UC", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Jackie Bird has been in IT for 25 years, and has taught at the collegiate level for 20 years.  Her professional experience includes performing in all phases of the SDLC (Systems Development Life Cycle), including development (programming),  analysis and design, project management, QA (testing) and maintenance, working in the financial/banking, trading, manufacturing, health care, telecommunications, benefits/compensation, retailing and educational industries.   She has taught courses in programming (.NET and Java), project management, analysis and design, database design and development (Oracle, SQL Server, Access), enterprise architecture and networking.", 
+        "name": "Jacqueline Ann Bird", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Wieboldt Hall 517", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "SYSTEMS ANALYSIS+DESIGN\nby KENDALL\nEDITION:   9TH 14 \nPUBLISHER:   PEARSON\nISBN:   9780133023442\n\nReadings will be drawn from the textbook with supplemental handouts taken from the IT industry."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on class participation, multiple design artifacts and a final project."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion-based, with introductory lectures."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "This course provides an overview of the systems development lifecycle (SDLC) with an emphasis on developing quality software systems that meet business requirements and goals. Students acquire the basic skill set needed by business analysts in today's complex development environment. Topics covered include detailed presentation of the SDLC stages and associated processes, with an emphasis on requirements analysis, use cases, data and systems modeling tools and techniques, implementation strategies, software quality metrics, and effective management of software projects. Practical applications of theory are discussed for a variety of systems and best practices are emphasized by studying cases from select industries. Students are expected to attend each class, prepare for class by reading the material, complete assignments, and work on a major project as a member of a software project team. May not be audited or taken P/N."
+        }
+    ], 
+    "class_num": 38694, 
+    "attributes": null, 
+    "catalog_num": "370-CN"
+}

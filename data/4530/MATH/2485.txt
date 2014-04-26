@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 2485, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Geometry", 
+    "section": "66", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "66", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Santiago Canez joined the Department of Mathematics at Northwestern University as a Postdoctoral Lecturer in Fall 2012. Previously he was a Lecturer at the University of California, Berkeley, where he received his Ph.D. in mathematics from in May 2011. His area of research is differential geometry, and in particular his work deals with geometric structures which arise in physics. Since 2005, Santiago has taught numerous undergraduate mathematics courses covering a wide variety of topics, and has won multiple teaching awards as a result.", 
+        "name": "Santiago Canez", 
+        "phone": "847 4675211", 
+        "address": "Lunt B27"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 105", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Four Pillars of Geometry. John Stillwell. Springer, 2005\nISBN 978-0-387-25530-9"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students should gain an understanding of basic concepts in Euclidean, projective, and non-Euclidean geometry, as well as the historical process which led from one type of geometry to another. In addition, students should gain some insight into the types of situations where one of these geometries might prove useful."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MATH 230 and 300 or equivalent. Coursework dealing with foundational mathematics is helpful."
+        }
+    ], 
+    "class_num": 35070, 
+    "attributes": null, 
+    "catalog_num": "340-CN"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 15807, 
+    "subject": "ART", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Reserved for students who have taken & passed Art 140. Students who have not taken the pre-req need a permission number to enroll.", 
+    "title": "Intermediate Sculpture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "13:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael J Rakowitz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "15:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 33018, 
+    "attributes": null, 
+    "catalog_num": "240-0"
+}

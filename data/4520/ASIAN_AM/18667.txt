@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 18667, 
+    "subject": "ASIAN_AM", 
+    "requirements": null, 
+    "title": "Asian Americans and Popular Culture", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Parkes Hall 215", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": "Professor Kim is a Charles Deering McCormick University Distinguished Lecturer in Asian American Studies at Northwestern University. Her research focuses on the histories and cultures of contact and migration between Asia and the Americas. She is currently finishing her first book Postcolonial Grief and the Afterlife of the Pacific Wars in the Americas which demonstrates how postcolonial grief and mourning around the Pacific Wars interrupts the formation and consolidation of the U.S. as an imperialist and white supremacist nation-state. The book argues that any struggle for future freedom, justice, and transformative politics in the U.S. has to come to terms with the history of U.S. military violence and colonialism in the Pacific Arena. She is also working on a second book which looks at the relationship between the Mexican Bracero Project and the Internment of Japanese Americans during WWII.", 
+        "name": "Jinah Kim", 
+        "phone": "8474913593", 
+        "address": "Kresge Hall 1-435"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. No-No Boy, John Okada (1978)\n2. Taqwacores, Michael Muhammad Knight (2009) \n3. Rolling the R's, R. Zamora Linmark (1997)\n\nReaders are available for purchase at Quartet Copies, 825 Clark St\n1. Robin Kelley, \"The Riddle of the Zoot Suit\" \n2. Frank Chin, from Aiiiiiiiiieeeeeee\n3. Hisaye Yamamoto, \"Fire in Fontana\"\n4. Franz Fanon, from Black Skins, White Masks\n5. Nitasha Sharma, \"Polyvalent Voices\" (blackboard)\n6. bell hooks, \"The Oppositional Gaze\"\n7. Sonia Shah, ed. from Dragon Ladies: Asian American Feminists Breathe Fire\n8. Richard Fung, \"Looking for My Penis: The Eroticized Asian in Gay Video Porn\" from Q & A: Queer in Asian America\n9. Foucault, from Discipline and Punish\n10. Jane Iwamura, \"The Oriental Monk in American Popular Culture\"\n11. Dick Hebdige, from Subculture: The Meaning of Style\n12. Mimi Nguyen, \"Tales of an Asiatic Geek Girl: Slant from Paper to Pixels\""
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1.\tTo engage the main themes and scholarship in popular cultural studies \n2.\tTo engage the main themes and scholarship in critical race studies\n3.\tTo learn to convey arguments through the digital media format."
+        }
+    ], 
+    "class_num": 17182, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "247-0"
+}

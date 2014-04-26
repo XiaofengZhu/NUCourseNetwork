@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 17337, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Intensive Intermediate French", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Katia Viot-Southard", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-440", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1) <em>Le Franais Internautique: didacticiel en ligne pour tudiants de deuxime anne,</em> The Multimedia Learning Center at Northwestern University. The URL is http://internautique.mmlc.northwestern.edu\n2) Study packet available from Quartet Copies, 825 Clark, Evanston\n\n<strong>This class uses Blackboard. Please regularly consult https://courses.northwestern.edu/</strong>"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class Participation, homework, quizzes, oral exam and four unit tests."
+        }
+    ], 
+    "class_num": 24014, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "125-3"
+}

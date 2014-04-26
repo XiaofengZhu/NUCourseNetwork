@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1530, 
+    "subject": "LATIN", 
+    "requirements": null, 
+    "title": "Introduction to Latin Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 12-2  pm (and by appointment)", 
+        "bio": null, 
+        "name": "Francesca Tataranni", 
+        "phone": "847/491-8029", 
+        "address": "Kresge 1-555"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "IMPORTANT: For all students beginning the study of Latin at the 200-level or lower at Northwestern in September, 2002 or later, the WCAS foreign language requirement must be satisfied with a grade of C- or better in Latin 201-3."
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Recommended: Allen and Greenough's New Latin Grammar, by Anne Mahoney (Focus Publ./R. Pullins Co. 2001) - ISBN-13: 978-1585100279"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required: M. G. Balme, The Millionaire's Dinner Party, adapted from Petronius (Oxford University Press 1974) - ISBN-13: 978-0199120253; Cicero. Pro Caelio, with Introduction and Notes by E. Keitel and J.W. Crawford (Focus Classical Commentary 2010) - ISBN-13: 9781585101382"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "EVALUATION METHOD: Preparation of daily assignments, attendance and class participation, weekly quizzes, final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "TEACHING METHOD: Translation and discussion of daily reading assignments will emphasize grammar and syntax as essential tools for improving the student's ability to translate comfortably and accurately. Important concepts in grammar and syntax will be reviewed as needed."
+        }
+    ], 
+    "class_num": 10171, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "201-1"
+}

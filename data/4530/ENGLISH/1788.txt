@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1788, 
+    "subject": "ENGLISH", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Students who have taken & passed or are currently enrolled in English 210 or 270.", 
+    "title": "Introductory Seminar in Reading & Interpretation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rebecca Carol Johnson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 118", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Teaching Method", 
+            "desc": "Some lecture; mostly close-reading and discussion."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Aphra Behn, Oroonoko; Daniel Defoe, Roxana; Maria Edgeworth, Belinda, Mary Shelley, Frankenstein. A packet of critical essays will be available at Quartet Printing."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance and robust participation, short essays, and one longer final essay."
+        }
+    ], 
+    "class_num": 23671, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "298-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 15714, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Introduction to Stage Management", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:30:00", 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "As posted", 
+        "bio": null, 
+        "name": "Barbara A Butts", 
+        "phone": "847/491-3121", 
+        "address": "1949 Campus Drive, Evanston, IL"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr East Conf", 
+    "end_time": "12:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This course/process requires leadership, bravery, a sense of humor and the desire to support many artists who communicate in their own language.  In addition to class, there is faculty mentorship."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Backstage Guide to Stage Management by Thomas Kelly. ISBN 978-0-8230-2-6\n\nStudents must purchase a three-inch D-ring binder, tabs, and two stopwatches. \n\nProfessional paperwork examples provided by the Instructor online through the NUSM Guide."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be expected to understand and demonstrate the stage managers pre-production, rehearsal, technical, performance and closing process. Students will practice professional models of written and verbal communication."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Meet with the Professor to have a discussion of goals and gain clarity about the practical aspect of stage managing or assistant stage managing a TIC production."
+        }
+    ], 
+    "class_num": 21543, 
+    "attributes": null, 
+    "catalog_num": "249-1"
+}

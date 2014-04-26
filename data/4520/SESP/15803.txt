@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 15803, 
+    "subject": "SESP", 
+    "requirements": null, 
+    "title": "Family Development in a Changing Society", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Deborah L. Puntenney", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Course Packet is available from Quartet Copies on Clark Street. From time to time, additional readings and assignments will be handed out in class."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class attendance and active contribution is required. Class assignments may be turned in late only with permission, and will result in lost points; assignments will not be accepted more than 24 hours late without prior written permission from the professor.\n\nClass attendance and thoughtful, informed participation - 20 points\nInterview assignments - 30 points\nFinal paper - 50 points"
+        }
+    ], 
+    "class_num": 14834, 
+    "attributes": null, 
+    "catalog_num": "319-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 3477, 
+    "subject": "INTL_ST", 
+    "requirements": null, 
+    "title": "Special Topics in International Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M/W 12-1:30pm", 
+        "bio": null, 
+        "name": "Galya Benarieh Ruffer", 
+        "phone": "847/491-3759", 
+        "address": "2010 Sheridan Road"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Problems of Protection: The UNHCR, Refugees, and Human Rights. Niklaus Steiner, Mark Gibney and Gil Loescher, editors (Routledge, 2003)\n\nZolberg, Aristide R., Astri Suhrke, and Sergio Aguayo. 1992. Escape from Violence: Conflict and the Refugee Crisis in the Developing World. Oxford University Press, USA."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "David Hollenbach, editor. 2008. Refugee Rights: Ethics, Advocacy and Africa. Georgetown University Press. 978-1589012028\n\nCaroline Moorhead. 2006. Human Cargo: A Journey Among Refugees. Picadore \n ISBN-13: 978-0312425616\n\nUNHCR. 2012. The State of the World's Refugees 2012: In Search of Solidarity. Oxford University Press, USA (If you don't want to spend the money, you can also access the PDF of the abridged version at: http://www.unhcr.org/cgi-bin/texis/vtx/home/opendocPDFViewer.html?docid=4fc5ceca9&query=the%20state%20of%20the%20world%20refugees\nISBN-13: 978-0199654758\n\n\nRefugee Crises and Human Rights Articles and Book Chapters\n\n1. Umutesi, Marie Beatrice. 2004. Surviving the slaughter: the ordeal of a Rwandan refugee in Zaire. Univ of Wisconsin Press, chapter 3, \"Descent into Hell, pp. 45-88\n\n2. Barbara Harrell-Bond, \"Can Humanitarian Work with Refugees Be Humane?\" Human Rights Quarterly 24 (2002) 51-85.\n\n3. Document. Resolution Adopted by the Human Rights Council, \"Human Rights of Internally Displaced Persons,\" A/HRC/RES/20/9, in International Journal of Refugee Law, Vol. 24 No. 4, pp. 879-884 (Dec. 2012). \n\n4. Jennifer Hyndman, Managing Displacement, ch. 1, \"Scripting Humanitarianism: A Geography of `Refugee' and the Respatializaton of Response,\" pp. 1-28.\n\n5. Black, Richard. 1998. \"Putting Refugees in Camps.\" Forced Migration Review 2:4-7.\n\n6. Crisp, Jeff, and Karen Jacobsen. 1998. \"Refugee camps reconsidered.\" Forced Migration Review 3:27-30.\n\n7. Black, Richard. 1998. \"Refugee camps not really reconsidered: a reply to Crisp and Jacobsen.\" Forced Migration Review 3:31.\n\n8. Raffonelli, Lisa (2004) `With Palestine, against the Palestinians: the warehousing of Palestinians refugees in Lebanon', World Refugee Survey, US Committee for Refugees\n\n9. Smith, Merrill (2004) `Warehousing Refugees: A Denial of Rights, a Waste of Humanity', in World Refugee Survey, US Committee for Refugees.\n\n10. Table 3, Warehoused Refugee Populations, USCR World Refugee Survey 2004\n\n11. Forced Migration Review No. 34 - Adapting to urban displacement\n\n\n12. Guglielma Verdirame & Barbara Harrell-Bond, Rights in Exile, chapter 4, \"Civil and Political Rights, pp. 120-213.\n\n13. Johannes van der Klaauw, \"Refugee Rights in Times of Mixed Migration: Evolving Status and Protection Issues,\" Refugee Survey Quarterly, Vo. 28, No. 4 (2010), pp. 59-86.\n\n14. Susan Martin, \"Rethinking the International Refugee Regime in Light of Human Rights and the Global Common Good,\" in Driven from Home: Protecting the Rights of Forced Migrants. David Hollenbach, editor (Georgetown Univ. Press, 2010), pp. 15-33.\n\n15. Beth Elise Whitaker, \"Changing priorities in refugee protection: the Rwandan repatriation from Tanzania,\" UNHCR Evaluation and Policy Analysis Unit, Working Paper No. 53.\n\n16. Chimni, B.S. (1999) `From Resettlement to involuntary repatriation: towards a critical history of durable solutions to refugee problems', Working Paper No. 2, UNHCR: 1-21.\n\n17. Patricia Weiss Fagen, \"Post-Conflict Reintegration and Reconstruction: Doing it Right Takes a While,\" in Niklaus Steiner, Mark Gibney and Gil Loescher, Problems of Protection, (Routledge, 2003), pp. 197-222."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. To introduce you to the major themes and topics dealing with human rights issues and forced migration studies. \n2. To provide you with analytical tools to examine and appreciate the experiences of refugees and other forcibly displaced populations. \n3. To provide you with the opportunity to focus on the experiences and responses of host communities and the international community.\n4. Learn about and critically assess the organizational structure of human rights protection as a tool for addressing forced migration\n5. To be introduced to the methodology and tools of human rights documentation, practice interview and assessment techniques and simulate a response to a refugee crisis.\n6. To help you appreciate and critically analyze multiple perspectives on the themes and topics.\n7. To encourage you to develop your own understanding on who to protect, the challenges of protection and promote human rights and social justice.\n8. To help you communicate your ideas, both oral and written, clearly and with confidence."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 32386, 
+    "attributes": null, 
+    "catalog_num": "390-0"
+}

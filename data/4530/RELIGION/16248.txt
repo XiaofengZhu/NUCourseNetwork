@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 16248, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Religion and Film", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appointment only", 
+        "bio": "Sara Anson Vaux speaks and publishes on the multiple facets of religion and film, as expressed in movies apparently as disparate as Robert Bressons Diary of a Country Priest, Andrei Tarkovskys Stalker, the Dardenne brothers Le Fils (The Son), Clint Eastwoods Mystic River, and Richard Linklaters Before Midnight. Recently, she has authored The Ethical Vision of Clint Eastwood, Film and Catholicism, and articles on Bressons films. Her current writing centers on the use of food to advance a films narrative. Her film interests span France, Germany, the US, Poland, Turkey, and Iran.", 
+        "name": "Sara A Vaux", 
+        "phone": "847/491-2617", 
+        "address": "1940 Sheridan - Office of Fellowships"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "TBD"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Ethical Vision of Clint Eastwood. (Eerdman, 2012)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Careful film analysis: argumentation through use of evidence from the film text; openness to multiple expressions of religious faith and belief in a movie absent widely accepted \"markers\" of sanctity; use of the meal in visual narrative to deepen perceptions and understanding of the spiritual in rituals of daily life; greater knowledge of non-western film cultures."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Open registration up to 20. No freshmen. Some knowledge of film language helps."
+        }
+    ], 
+    "class_num": 23727, 
+    "attributes": null, 
+    "catalog_num": "371-0"
+}

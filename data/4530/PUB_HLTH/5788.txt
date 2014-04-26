@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 6, 
+    "course_id": 5788, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Health Services Research Design & Analysis Strategies: Technology Assessment", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joseph M Feinglass", 
+        "phone": "312/503-6443", 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34810, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "435-0"
+}

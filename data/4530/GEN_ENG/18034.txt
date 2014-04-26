@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18034, 
+    "subject": "GEN_ENG", 
+    "requirements": null, 
+    "title": "Engineering Dialog III", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Matthew A Grayson", 
+        "phone": "847/491-8137", 
+        "address": "TECH 2145 Sheridan Rd L387"
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21039, 
+    "attributes": null, 
+    "catalog_num": "195-3"
+}

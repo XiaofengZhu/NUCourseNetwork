@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20346, 
+    "subject": "PSYCH", 
+    "requirements": null, 
+    "title": "Introduction to Neuroscience", 
+    "section": "15", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "15", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "James Ward Antony", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Neuroscience, Fifth Edition by Purves et al., ISBN-10: 0878936955"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "-Gain an understanding of nervous system function from neuron to brain and how it gives rise to behavior\n-Use evidence from primary papers on memory to deduce what is known, how it is known, what it implies, and how it may be interpreted differently\n-Enhance the ability to communicate scientific reasoning\n-Become familiar with the frontiers of research in cognitive neuroscience and its potential application in daily life"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "An introductory class in biology is strongly recommended."
+        }
+    ], 
+    "class_num": 18204, 
+    "attributes": null, 
+    "catalog_num": "212-CN"
+}

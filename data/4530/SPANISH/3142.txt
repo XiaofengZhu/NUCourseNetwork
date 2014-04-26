@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3142, 
+    "subject": "SPANISH", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Emily A Maguire", 
+        "phone": "847/491-2340", 
+        "address": "2-144 Crowe"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-301", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 26651, 
+    "attributes": "Given in English\n\n", 
+    "catalog_num": "105-6"
+}

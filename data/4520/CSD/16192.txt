@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 16192, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Otoacoustic Emissions: Theory and Practice", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jonathan H Siegel", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Course Info: https://courses.northwestern.edu/webapps/login"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Robinette and Glattke- Otoacoustic Emissions: Clinical Applications 2nd edition- available\nat Norris"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: CSD 423 or equivalent."
+        }
+    ], 
+    "class_num": 15218, 
+    "attributes": null, 
+    "catalog_num": "427-0"
+}

@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 1933, 
+    "subject": "EARTH", 
+    "requirements": null, 
+    "title": "Radiogenic Isotope Geochemistry", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Andrew Darin Jacobson", 
+        "phone": "847/491-3132", 
+        "address": "Tech F396/F398"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "P/N option not allowed."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Isotopes:  Principles and Applications, Faure and Mensing, 3rd ed., 2004, ISBN # 0471384372 (Wiley). Publisher's price $175."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Problem sets; Research paper; In-class presentations; Midterm and final examinations."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Three 60 minute lectures per week."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CHEM 103; or consent of instructor."
+        }
+    ], 
+    "class_num": 17156, 
+    "attributes": null, 
+    "catalog_num": "313-0"
+}

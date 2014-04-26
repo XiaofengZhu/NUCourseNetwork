@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 5063, 
+    "subject": "EECS", 
+    "requirements": null, 
+    "title": "Solid State Electronic Devices", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Matthew A Grayson", 
+        "phone": "847/491-8137", 
+        "address": "TECH 2145 Sheridan Rd L387"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 16430, 
+    "attributes": null, 
+    "catalog_num": "384-0"
+}

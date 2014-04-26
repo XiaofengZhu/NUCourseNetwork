@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2274, 
+    "subject": "RELIGION", 
+    "requirements": "Enrollment Requirements: Registration is restricted to Junior or Senior Religion Majors only.", 
+    "title": "Senior Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sarah McFarland Taylor", 
+        "phone": "847 4914361", 
+        "address": "Crowe hall, 4-144"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Advanced senior Religious Studies majors, who meet department requirements for honors consideration and with the permission of the instructor."
+        }
+    ], 
+    "class_num": 10412, 
+    "attributes": "No P/N option for this section\n\nJuniors/Seniors Only\n\n", 
+    "catalog_num": "396-1"
+}

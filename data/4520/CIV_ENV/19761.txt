@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19761, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Architectural Engineering and Design I: Fundamentals", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Laurence O Booth", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Innovator's DNA:  Mastering the Five Skills of Disruptive Innovators / Jeff Dyer, Hal Gregersen, Clayton Christensen\t/ ISBN 978-1422134818\t/ 2011 / 1st\t/ Harvard Business Review Press"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two 2-hour sessions per week."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "For engineering jrs/srs only"
+        }
+    ], 
+    "class_num": 16403, 
+    "attributes": null, 
+    "catalog_num": "385-1"
+}

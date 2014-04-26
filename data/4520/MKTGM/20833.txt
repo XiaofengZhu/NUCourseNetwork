@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20833, 
+    "subject": "MKTGM", 
+    "requirements": null, 
+    "title": "Marketing Management", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "555 Clark B01", 
+            "section": "1A", 
+            "component": "DIS", 
+            "end_time": "12:20:00", 
+            "meeting_days": "Fr", 
+            "start_time": "11:00:00"
+        }
+    ], 
+    "start_date": "2013-09-23", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Alice Marie Tybout", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18463, 
+    "attributes": null, 
+    "catalog_num": "430-0"
+}

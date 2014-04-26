@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2532, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Differential Geometry and Topology", 
+    "section": "41", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "41", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Valentino Tosatti", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 101", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Riemannian Geometry\"\nAuthor: Petersen\nPublisher: Springer"
+        }
+    ], 
+    "class_num": 23804, 
+    "attributes": null, 
+    "catalog_num": "440-2"
+}

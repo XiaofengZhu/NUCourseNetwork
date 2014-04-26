@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 18216, 
+    "subject": "CLASSICS", 
+    "requirements": null, 
+    "title": "Classics and the Cinema", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": "09:00:00", 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "B.A. Honors, University College, Dublin, Ireland,  Near Eastern / Semitic Languages\nM.A., Ph.D., Northwestern University, Classics : [Greek and Latin Languages and Literature]\nTeaching currently :   The Departments of Classics / Classical Studies\nThe School of Continuing Studies, Northwestern University\nThe Summer School, Northwestern University\nLoyola University Chicago,  DePaul University of Chicago", 
+        "name": "Edith Pennoyer Livermore", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 507", 
+    "end_time": "16:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Ancient World in the Cinema\nAuthor: SOLOMON \nEdition:REV 01\nPublisher:TRILITERAL\nISBN: 9780300083378\n\nClassics on Screen\nAuthor: BLANSHARD \nEdition:2012\nPublisher:INTL PUB M\nISBN: 9780715637241"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To become conversant with the stories of the great Classics of our Western World, with the linguistic and cultural heritage they embody, as manifested in a variety of cinematic representations : historical, dramatic, lyrical, mythic.\n\nTo become more mindful, through the aesthetics of these films drawn from the lore of Antiquity, of the enduring human experience which has inspired, and is conserved by, contemporary -- timeless -- Soul."
+        }
+    ], 
+    "class_num": 35036, 
+    "attributes": null, 
+    "catalog_num": "245-CN"
+}

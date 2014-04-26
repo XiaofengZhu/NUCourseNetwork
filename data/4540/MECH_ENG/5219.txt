@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 34, 
+    "course_id": 5219, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Stress Analysis", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sridhar Krishnaswamy", 
+        "phone": "847/491-4006", 
+        "address": "Catalysis Bldg, Rm 323, 2137 Tech Drive, EV CAMPUS"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33905, 
+    "attributes": null, 
+    "catalog_num": "362-0"
+}

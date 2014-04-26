@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2999, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Writing Workshop", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "Monday & Wednesday 11AM - 12PM & by appointment", 
+        "bio": null, 
+        "name": "Aude Raymond", 
+        "phone": "847/467-3929", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-125"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 213", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "The final grade will be based on class participation, homework, compositions, quizzes and progress."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "A collaborative workshop, with written and oral activities organized around communicative strategies."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "French 201, AP score of 4, or department placement (125-3 with consent of coordinator)"
+        }
+    ], 
+    "class_num": 26533, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nSpecific requirements in the language\n\n", 
+    "catalog_num": "202-0"
+}

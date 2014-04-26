@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 1119, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "Peoples of the World", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Amanda Patricia Terc", 
+        "phone": "847/491-4844", 
+        "address": "1812 Hinman, Room 301"
+    }, 
+    "term": "2014 Winter", 
+    "room": "ANTHRO Sem Rm B07 - 1810 Hinmn", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "A course packet, 75 percent of which will be available by PDF or electronic course reserve if students prefer. Packets available at Quartet Copies."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No P/N allowed."
+        }
+    ], 
+    "class_num": 24530, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "330-0"
+}

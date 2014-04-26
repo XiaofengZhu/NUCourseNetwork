@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 3073, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Independent Reading", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "W 2 - 4PM, Fri 12 - 1PM & 2 - 3PM", 
+        "bio": "Dominique Licops has a Licence (B.A) in Germanic Philology from Universit Catholique de Louvain-La-Neuve (Belgium), an M.A. in Literature from Commonwealth Countries from Leeds University (UK), a PhD. in Comparative Literary Studies from Northwestern University, and a graduate certificate in Gender Studies, also from Northwestern University. Her dissertation is a study of metaphors of identity in Caribbean Francophone and Anglophone Literature. She currently teaches a wide range of courses in the French department and for the School of Continuing Studies, and occasionally for the Gender Studies Program. Her main interests are in French and Francophone and post-colonial studies.", 
+        "name": "Dominique Mary Licops", 
+        "phone": "847/491-8258", 
+        "address": "1860 S. Campus Drive, Crowe Hall #3-136"
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 25443, 
+    "attributes": "Graded P/N\n\n", 
+    "catalog_num": "498-0"
+}

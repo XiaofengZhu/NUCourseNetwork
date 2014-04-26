@@ -1,0 +1,45 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 5203, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Experimental Engineering", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "20", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Malcolm Angus MacIver", 
+        "phone": "847/491-3540", 
+        "address": "Technological Institute, Rm D157, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "MECH_ENG 220, 241, ME 233 and CIV_ENG 216"
+        }
+    ], 
+    "class_num": 33899, 
+    "attributes": null, 
+    "catalog_num": "224-0"
+}

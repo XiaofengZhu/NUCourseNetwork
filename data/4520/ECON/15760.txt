@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 15760, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "International Finance", 
+    "section": "14", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "14", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Alexander Taylor James", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "ECON 281, 310-A,-B, or equivalent."
+        }
+    ], 
+    "class_num": 18175, 
+    "attributes": null, 
+    "catalog_num": "362-CN"
+}

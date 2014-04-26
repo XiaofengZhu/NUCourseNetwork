@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6312, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "History of the United States", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "I am a sixth year graduate student in history interested in poverty and welfare in urban American immigrant communities.  My dissertation focuses on settlement houses in Depression-era Chicago.", 
+        "name": "Abigail Patricia Trollinger", 
+        "phone": null, 
+        "address": "1800 Sherman Ave, Suite 106"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L28", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "In this course we grapple with crucial historical questions. How and why did American power in the world expand over the course of the twentieth century? What did this expansion mean for ordinary Americans? How did Americans negotiate their relationship with the federal government in the twentieth century? How did Americans make claims to citizenship and social and economic, as well as political, inclusion? Underlying all of these questions is the relationship between policy and public demand. In this class we examine a period marked by federal expansion and social movements, so we will, again and again, wrestle with the issue of who, exactly, determines national character and priorities."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 35057, 
+    "attributes": null, 
+    "catalog_num": "210-B"
+}

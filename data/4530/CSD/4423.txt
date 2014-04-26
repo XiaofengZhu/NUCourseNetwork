@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4423, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Statistics in Communication Sciences and Disorders", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Anthony Joseph Shook", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 3220", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Articles and readings will be provided via blackboard.\nRequired software:  \nSPSS Statistics Standard GradPack 21 or 22. Students can purchase a 6-month license; SPSS is also installed on every public PC in the library and computer labs.\n \nThis is a great guide to use for designing studies and to use to help understand statistical and methodological issues: http://www.sgul.ac.uk/depts/chs/chs_research/stat_guide/guide.cfm\n \nAnother useful web resource on statistics is an on-line statistics textbook called Hyperstat: \nhttp://davidmlane.com/hyperstat/index.html"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There will be several quizzes and a final project.  Weekly labs or homework assignments will may require utilizing statistical software to conduct appropriate procedures.  A critique (on methodological and statistical grounds) of a journal article will also be required."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The course will be a combination of lecture and discussion."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1) to know the various experimental designs and methodologies commonly used in CSD;\n2) to be able to identify appropriate and inappropriate uses of statistics;\n3) to be able to calculate and interpret descriptive statistics, including measures of dispersion and central tendency;\n4) to be able to calculate and interpret a range of parametric statistical tests;\n5) to be able to calculate and interpret a range of nonparametric statistical tests;\n6) to be able to utilize SPSS statistical software to conduct statistical calculations;\n7) to be good consumers of the scientific literature by being able to identify strengths and weaknesses in data presentation, statistics employed and conclusions drawn in published research"
+        }
+    ], 
+    "class_num": 21451, 
+    "attributes": "Formal Studies Distro Area\n\n", 
+    "catalog_num": "304-0"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 3222, 
+    "subject": "SLAVIC", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Elisabeth M Elliott", 
+        "phone": "847/491-8082", 
+        "address": "1860 Campus Dr., Crowe Hall #4-130"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Short papers:  30% (all short papers with grades of B+ or lower may be re-written for a higher grade)\nLong paper:  30% \nParticipation/Attendance:  20%\nPresentation:  20%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion and some group work on questions and issues with follow-up discussion; 1 short presentation by students based on their final paper topic."
+        }
+    ], 
+    "class_num": 12123, 
+    "attributes": null, 
+    "catalog_num": "105-6"
+}

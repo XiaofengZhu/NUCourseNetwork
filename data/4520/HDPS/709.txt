@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 709, 
+    "subject": "HDPS", 
+    "requirements": null, 
+    "title": "Special Topics in HDPS", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Solomon Cytrynbaum", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "TOPICS AND READINGS\n\nNote: Starred (*) readings are assigned and required; others are recommended (Rx), or optional.  Required readings included in the photocopied course package are designated (K).  Several topics and optional readings will not be covered in detail in class, but they may be useful for exams or future interest."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Berzoff, J. et al.  Inside out and outside in.  Northvale, NJ: Aronson, 2011 edition. \n\nErchak, G.M.  The anthropology of self and behavior. New Brunswick: Rutgers University Press, 1992.\n\nSt. Clair, M. Object relations and self psychology. Belmont, C.A. Wadsworth, 2004.\n\nTwenge, J. Generation me. New York: Free Press, 2006.\n\nTwenge, J and Campbell, W. K. The Narcissism Epidemic, New York, Free Press, 2009.\n\nBennett et.  al. Assessing and managing risk in psychological practice. Rockville, MD.: The Trust, 2006.\n\t\nMost of the books recommended for purchase and several others listed below will be available for loan in the CPSY Office.\n\t\nA package of handouts and of required non-text readings (K) may be purchased at cost from Quartet Copies located at 825 Clark Street in Evanston. This coursepack and other relevant readings will also be available on Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "1. Presentation/Summaries of Readings\n\nWorking in teams of 2-4, students will prepare an oral presentation and written summary of selected readings on different course topics. Presentations will be made and written summaries distributed to all students and staff when scheduled in the course outline. Students will sign up for these presentations in the first class.  Guidelines will be provided.\n\n2. Examinations\n \nA take-home midterm examination will be distributed in class. A take-home final examination will be distributed in class. Exams are to be typed double-spaced in APA format.  More information will be forthcoming.  \t\n\n3. Grading Practices\n\nGrading will be based on class and discussion group participation, the quality of oral presentations and written summaries (10%), the midterm (40%) and final exams (50%). Exams will be graded using the following criteria:   \n\n1)  completeness, quality, and accuracy of the review and interpretation of relevant theory and research;  \n2)  demonstrated capacity to evaluate existing literature critically;\n3)  application of theories and concepts drawn from lectures and readings; \n4)  effort to advance creatively beyond existing knowledge (for example, by offering a novel integration or interpretation, by raising important questions for future research, or by carrying out a particularly thoughtful critique); \n5) if appropriate, application of theory and concepts to experiential data or a case study; and  \n6) clarity and quality of writing and organization, and the use of APA format.\n\nClarity and quality of written expression is important: academic and professional writing, at a minimum, should be cogent and clear, and need not be dull.  Strunk and White's The Elements of Style (Macmillan, Third edition, 1979) is a small gem that repays frequent reading. Students should use APA reference style. A copy of the APA Reference Manual can be found in the Counseling Office or purchase Hacker, D. A Pocket Style Manual, Boston/New York: Bedford/St. Martins, 2011 which is a terrific reference guide. Another resource: NU's College of Arts and Sciences sponsors a student-run consulting service for papers and exams, The Writing Place (491-7414), which is housed at the Main Library.\t\n\nIncompletes are strongly discouraged.\n\n4. Course Evaluation\n\t\nThoughtful student feedback can be very helpful in planning future versions of the course.  Therefore, students will have the opportunity and will be expected to evaluate the course systematically at the end of the quarter using a form that will be distributed."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "1. Lecture\n\nStudents will participate in regular weekly lecture/seminar class sessions to discuss theory, case material, and research. Students will be encouraged to relate these theoretical viewpoints and research findings to relevant experiential and clinical data.  Students will  present selected relevant readings as a team at least once during the quarter.  Details will be announced during the first class.\n\n2.  Discussion\n\nStudents will participate in a discussion group led by TA's which meets after the weekly lecture.  These sessions will include literature-focused discussions, review of case material, and review sessions before exams.  Details regarding weekly topics and formats will be forthcoming from the TA's.\n\n3.  Study Groups\n\nStudents are strongly encouraged to form study groups to jointly review key readings and to prepare for the examinations.  Experience indicates that 4-5 person groups that meet weekly seem to be most successful."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. To familiarize students with basic dynamic, clinical, counseling and social systems perspectives on individual personality development and functioning, pathology as well as interpersonal relationships and systems structure and process. Conceptualizations that attempt to link biological intrapsychic, interpersonal, contextual and social realities will be highlighted. Persistent dilemmas and recent research and developments in clinical/counseling will be explored.\n\n2. To enhance students' capacity to knowledgeably reflect upon and critically evaluate existing dynamic/clinical/counseling/social systems theory and research, in order to (a) develop their own creative and integrated views on personality and social psychological dynamics; (b) articulate relevant research questions; and (c) contribute critically to scholarly knowledge."
+        }
+    ], 
+    "class_num": 14783, 
+    "attributes": "No P/N option for this section\n\nPermission of department\n\n", 
+    "catalog_num": "351-0"
+}

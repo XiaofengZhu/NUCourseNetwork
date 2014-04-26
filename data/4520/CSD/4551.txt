@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 4551, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Articulation and Phonological Disorders in Children", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Frances Searle Building 1441", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Paula Regan McGuire", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Transcription Project: 80% accuracy required to demonstrate competence.\n\nAll assignments must be typed.\nClient's rights to confidentiality must be respected.\nTherapy session observers are to be quiet and respectful.\n\nADDITIONAL READING ASSIGNMENTS WILL BE MADE AVAILABLE FOR ALL UNITS"
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Bernthal, J.E., Bankson, N.W., Flipsen, P. (2013). Articulation and Phonological Disorders: Speech Sound Disorders in Children, 7e. Allyn & Bacon. ISBN 0132612631.\n\nWilliams, A.L., McLeod, S., McCauley, R.J. (2010). Interventions for Speech Sound Disorders. Paul H. Brookes Publishing. ISBN 1598570188."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Bauman-Waengler, J. (2011). Articulatory and Phonological Impairments: A Clinical Focus, 4e. Pearson. ISBN: 9780132563567\n\nBleile, K. (2006). The Late Eight. Plural Publishing. ISBN 1597560820.\n\nSecord, W.A. (2007). Eliciting Sounds: Techniques and Strategies for Clinicians, 2e. Thomson. ISBN 1401897258."
+        }
+    ], 
+    "class_num": 15284, 
+    "attributes": null, 
+    "catalog_num": "491-1"
+}

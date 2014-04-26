@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4943, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Transportation Systems Analysis I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "y-nie@northwestern.edu", 
+        "bio": null, 
+        "name": "Yu Nie", 
+        "phone": "847/467-0502", 
+        "address": "2145 N. Sheridan Road / TECH A328"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG76", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Modelling Transport / Ortuzar, J de D.  and Willumsen, L.G. / ISBN 0471861103 / 2001 / 3rd / Wiley"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No formal textbook."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two 2-hour lectures/week"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "IEMS 310 (Operations Research)  or equivalent background"
+        }
+    ], 
+    "class_num": 20872, 
+    "attributes": null, 
+    "catalog_num": "471-1"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 18654, 
+    "subject": "LITARB", 
+    "requirements": null, 
+    "title": "Pre-Trial Advocacy", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael P Mayer", 
+        "phone": "312/558-7883", 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18101, 
+    "attributes": "Professional Skills Course\n\nCivil Litigation & Dispute Resolution\n\n", 
+    "catalog_num": "616"
+}

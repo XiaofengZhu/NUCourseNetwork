@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2325, 
+    "subject": "ARABIC", 
+    "requirements": null, 
+    "title": "Arabic I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lynn Ellen Whitcomb", 
+        "phone": "8474912770", 
+        "address": "4-321 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Al-Kitaab fii Tacallum al-cArabiyya\nA Textbook for Beginning Arabic: Part One\nThird Edition (July 2011)\nKristen Brustad, Mahmoud Al-Batal, and Abbas Al-TonsiGeorgetown University Press \nISBN: 978-1589017368"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: ARABIC 111-1"
+        }
+    ], 
+    "class_num": 24235, 
+    "attributes": "Specific requirements in the language\n\n", 
+    "catalog_num": "111-2"
+}

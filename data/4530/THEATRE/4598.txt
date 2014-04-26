@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4598, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Acting I-Principles of Characterization", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tues/Thurs 3-5", 
+        "bio": null, 
+        "name": "Sandra U Marquez", 
+        "phone": null, 
+        "address": "TIC, 1949 Campus Drive, Evanston, IL  60208"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Struble", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "-Audition, Michael Shurtleff\nISBN-10: 0553272950\nISBN-13: 978-0553272956\n\n-Towards A Poor Theater, Jerzy Grotowski\nISBN-10: 0878301550\nISBN-13: 978-0878301553\n\n-Nine Short Stories, J. D. Salinger\nISBN-10: 9780316767729\nISBN-13: 978-0316767729\n\n-On the Technique of Acting, Michael Checkov\nISBN-10: 0062730371\nISBN-13: 978-0062730374"
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "Consent of instructor."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Performance and critique."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The objectives of this class \n1) Help the student develop awareness of all aspects of being human, including but not limited to, impulse, feeling and action.\n2) Introduce the student to basic concepts in creating a role through the exploration of the actor.\n3) Introduce the student to the basic concepts of acting within the framework of a scene.\n4) Develop the student's connection to the world around him/her in order to bring that awareness to his/her artistic endeavors."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Theatre 140-1,2 (or equivalent).\nPermission number. The nine-quarter acting sequence is carefully designed so that the lessons of each course provide the skills and experience needed for success in the following quarter. Should a student miss any individual quarter, for whatever reason, permission to continue the sequence is at the sole discretion of the instructor."
+        }
+    ], 
+    "class_num": 21404, 
+    "attributes": "Graded P/N\n\n", 
+    "catalog_num": "243-2"
+}

@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 90, 
+    "course_id": 1416, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Pre-requisite: BIO 210-3 OR 215,216,217,218,220,221 and 222", 
+    "title": "Immunobiology", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute M164", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "19:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "19:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Nicole Liadis", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Pancoe Building Abbott Aud", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Immune System, Third Edition, 2009, Peter Parham, Garland Science Publishing, Taylor & Francis Group ISBN: 9780815341468"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Three midterm tests will each constitute 1/3 of the final grade."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two weekly lectures"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: Biol Sci 210-1,2,3 OR 215, 216, 217, 218, 220, 221, and 222."
+        }
+    ], 
+    "class_num": 26355, 
+    "attributes": "Registration for discussion section required\n\nPrerequisites apply, see description\n\n", 
+    "catalog_num": "355-0"
+}

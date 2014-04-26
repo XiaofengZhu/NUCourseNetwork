@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3425, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Topics in Gender and Sexuality Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Elias Dylan Cosenza Krell", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Psychology 110, Introduction to Psychology."
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "PREREQUISITE: An open mind. It is also highly recommended (although not required) that students have taken History 210-1,2 Gender and Sexuality Studies 220 or 230"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "READING LIST:\nStryker, Susan. Transgender History. 2008\nRoyster, Francesca. Sounding Like a No-No. 2013\nFeinberg, Leslie. Trans Liberation. 1998 \n\nVIEWING:\nRiot Acts: Flaunting Gender Deviance in Music Performance (2011)\nKate Bornstein: A Queer and Pleasant Danger (2013)\nStill Black (2008)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "COURSE GRADES WILL BE BASED UPON INFORMED AND ACTIVE PARTICIPATION, COMPLETION OF THREE SHORT PAPERS AND ONE IN-CLASS PRESENTATION"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "LECTURE, DISCUSSION, STUDENT PRESENTATION"
+        }
+    ], 
+    "class_num": 24502, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "390-0"
+}

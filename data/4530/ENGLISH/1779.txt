@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 120, 
+    "course_id": 1779, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "English Literary Traditions", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "University Hall 118", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "10:50:00", 
+            "meeting_days": "Fr", 
+            "start_time": "10:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Vivasvan Soni", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 217", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 33993, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "210-1"
+}

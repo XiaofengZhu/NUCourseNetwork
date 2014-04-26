@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 15223, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Seminar: Advanced Topics in Management of Hearing Impairment", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Pamela Elizabeth Souza", 
+        "phone": "847/491-2433", 
+        "address": "2240 Campus Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2378", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "REQUIREMENTS:\nAbstracts\nAnnotated bibliography        \nLecture reports\nCase Study Presentation\nFinal Exam"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<ul>\n<li>Weinstein, B. (2000). Geriatric Audiology. New York: Thieme.</li>\n<li>Kricos, P. & Lesner, S. (1995). Hearing Care for the Older Adult: Audiologic Rehabilitation. Boston:Butterworth-Heineman.</li>\n</ul>"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the conclusion of this course, participants will be able to describe:\n1.\tIssues in aging impacting the older adult's self-management of hearing loss;\n2.\tChanges in quality of life relating to hearing loss and approaches to hearing loss management;\n3.\tConsiderations in clinical management of hearing impairment in older adults;\n4.\tThe influence of older adult hearing loss on speech perception and understanding;\n5.\tPersonal adjustment to hearing loss;\n6.\tHearing aid and other prosthetic solutions to hearing loss; and\n7.\tManagement of common co-existing conditions: tinnitus and dizziness."
+        }
+    ], 
+    "class_num": 21452, 
+    "attributes": null, 
+    "catalog_num": "467-0"
+}

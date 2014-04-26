@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6864, 
+    "subject": "CIS", 
+    "requirements": null, 
+    "title": "Special Topics in Computer Science", 
+    "section": "36", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "36", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Dan Baumgartner is an independent management consultant with over 30 years of business process management and information technology work experience in a variety of companies. Dans career spans various leadership roles in management and information technology consulting services.  He has proven expertise and significant experience with improving business processes, developing IT strategies and plans, leading the implementation of IT solutions to address business issues, and selecting/implementing enterprise-wide software applications.  In addition, Dan has managed client business analysts, functional managers and software development resources to transform the business and implement the desired business solution.  Dan was a partner in several large management consulting firms.  Dan holds a MM  NU Kellogg School of Management, and a BS in Computer Science NU McCormick School of Engineering and Applied Science.", 
+        "name": "Daniel C Baumgartner", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "LOOP10: 210 S Clark St, Floor1", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Business Process Management  Practical Guidelines to Successful Implementations, John Jetson and Johan Nelis; Second Edition 2008 published by Elsevier Ltd.; ISBN-13: 978-0-7506-8656-3; ISBN-10: 0-7506-6921-7"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "-What is a process\n-What is Business Process Management\n-How to apply the BPM implementation framework\n-Using a process modeling tool\n-Insight into how to apply learnings in real-world scenarios"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Some business/work experience."
+        }
+    ], 
+    "class_num": 35062, 
+    "attributes": null, 
+    "catalog_num": "395-CN"
+}

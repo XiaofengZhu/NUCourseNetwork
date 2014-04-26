@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4910, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Mechanics of Composite Materials I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "imdaniel@northwestern.edu", 
+        "bio": null, 
+        "name": "Isaac M Daniel", 
+        "phone": "847/491-5649", 
+        "address": "Catalysis Bldg, Rm 326, 2137 Tech Drive, EV CAMPUS"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L168", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Engineering Mech of Composite Materials / Daniel, I. and Ishai, O. / 2005 / 2nd / Oxford / ISBN 978-0195150971"
+        }
+    ], 
+    "class_num": 20329, 
+    "attributes": null, 
+    "catalog_num": "414-1"
+}

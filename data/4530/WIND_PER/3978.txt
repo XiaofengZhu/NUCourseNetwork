@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 3978, 
+    "subject": "WIND_PER", 
+    "requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only", 
+    "title": "Applied Trumpet for Music Majors", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Robert James Sullivan", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22345, 
+    "attributes": "Freshmen Only\n\n", 
+    "catalog_num": "121-0"
+}

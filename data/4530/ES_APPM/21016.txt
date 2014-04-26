@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 21016, 
+    "subject": "ES_APPM", 
+    "requirements": null, 
+    "title": "Applied Differential Equations", 
+    "section": "80", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-13", 
+    "end_date": "2014-05-03", 
+    "start_time": null, 
+    "component": "80", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "William L Kath", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Online Distance Learning", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35475, 
+    "attributes": null, 
+    "catalog_num": "250-SN"
+}

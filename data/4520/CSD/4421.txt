@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4421, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Anatomy and Physiology of the Peripheral Hearing Mechanism", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jonathan H Siegel", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Course Info: https://courses.northwestern.edu/webapps/login"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Text: J.O. Pickles, An Introduction to the Physiology of Hearing (2nd ed.)\n\nPublisher: \tEmerald Group Pub Ltd\tISBN-10: \t0120885212\nISBN-13: \t9780120885213"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: junior standing or above, 202, 307, or permission of instructor."
+        }
+    ], 
+    "class_num": 14897, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "302-0"
+}

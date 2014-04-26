@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 3623, 
+    "subject": "MUSIC_ED", 
+    "requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only", 
+    "title": "Student Teaching in the Elementary School: Instrumental", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Amy Lynn Becker", 
+        "phone": null, 
+        "address": "amy.becker@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35855, 
+    "attributes": null, 
+    "catalog_num": "385-0"
+}

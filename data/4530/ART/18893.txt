@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18893, 
+    "subject": "ART", 
+    "requirements": null, 
+    "title": "Studio Practice", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Inigo Manglano-Ovalle", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 3-301", 
+    "end_time": "15:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 24191, 
+    "attributes": "Attendance at 1st class mandatory\n\nDepartment Majors Only\n\nJuniors Only\n\n", 
+    "catalog_num": "280-0"
+}

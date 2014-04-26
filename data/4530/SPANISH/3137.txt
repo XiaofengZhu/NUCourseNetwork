@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 14, 
+    "course_id": 3137, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Elementary Spanish", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-345", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Any questions, please contact course coordinator  Sue Pechter:  s-pechter@northwestern.edu"
+        }
+    ], 
+    "class_num": 23540, 
+    "attributes": "Attendance at 1st class mandatory\n\nOne Addtl hour or more TBA\n\nPrerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "101-2"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 2391, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Formal Analysis of Words & Sentences", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appt", 
+        "bio": null, 
+        "name": "Masaya Yoshida", 
+        "phone": "847/491-8052", 
+        "address": "2016 Sheridan Road, Rm. 106"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework, mid-term and final exams"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture"
+        }
+    ], 
+    "class_num": 32506, 
+    "attributes": "Formal Studies Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "260-0"
+}

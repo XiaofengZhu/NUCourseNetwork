@@ -1,0 +1,31 @@
+{
+    "overview": "<em>Passions and Devotional Music</em> <p>This course focuses on how Western European and American \"art\" musics of the seventeenth century function as rhetorical discourse: in other words, how \"baroque\" musical thought and composition communicate texts dramatically and persuasively.</p> <p>This quarter, special emphasis will be directed toward rhetoric in polyphonic settings of the biblical Passions, from both the Catholic and Protestant traditions, in a long seventeenth century that extends from the Council of Trent to J. S. Bach, as well as to other genres of devotional music such as chorales and villancicos</p> <p>Specific class discussion and individual research into Passions repertoires - which coincides with and complements B.C.E. performance selections - will be situated within a broader context of styles and issues in seventeenth-century choral music, including study of Monteverdi, Schtz, and Spanish composers.</p><p>Students will tackle articles from scholarly journals, primary sources, debate the concept of \"baroque\" within the frame of cultural studies, and engage the uses of choral music in a period of religious renewal and strife. In so doing, they will gain working knowledge of the period as a whole as well as a specific and understudied repertoire.</p>", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3658, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Topics in 17th Century Music", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Specialist in 16th- through 18th-century musics of Latin America and Iberia in global contexts, and 20th-century Britain. Articles and reviews published in Eighteenth-Century Music, Sanctorum, Revista Portuguesa de Musicologia, Journal of the Society for American Music,Heterofona, BoletnMsica (Havana) and The Courtesan's Arts: Cross-Cultural Perspectives. Dissertation <cite>The Italianized Frontier: Music at Durango Cathedral, Espaol Culture, and the Aesthetics of Devotion in Eighteenth-Century New Spain</cite> received the 2006 Wiley Housewright Award from the Society for American Music. Mexico City Regional Coordinator for Musicat, the Seminario Nacional de Msica en la Nueva Espaa y el Mxico Independiente (National Seminar on the Music of New Spain and Independent Mexico) at the Universidad Nacional Autnoma de Mxico (UNAM). Monograph Music and Devotion in New Spain under contract with Oxford University Press.", 
+        "name": "Drew Edward Davies", 
+        "phone": "847/467-3367", 
+        "address": "dedavies@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 114", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22987, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "352-0"
+}

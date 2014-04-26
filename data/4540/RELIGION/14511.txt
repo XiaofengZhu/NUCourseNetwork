@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 14511, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Topics in American Religion", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sarah McFarland Taylor", 
+        "phone": "847 4914361", 
+        "address": "Crowe hall, 4-144"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Joseph P. Chinnici and Angelyn Dries, eds. <i>Prayer and Practice in the American Catholic Community </i>(Orbis)\n\nSister Karol Jackowski, <i>For Ever and Ever</i>\n\nJames J. Kavanaugh, <i>A Modern Priest Looks at His Outdated Church</i>\n\nJohn O&rsquo;Malley, S.J., <i>Stephen Schloesser, and others, Vatican II: Did Anything Happen?</i>"
+        }
+    ], 
+    "class_num": 32404, 
+    "attributes": null, 
+    "catalog_num": "369-0"
+}

@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 15484, 
+    "subject": "MS_LOC", 
+    "requirements": "Enrollment Requirements: Reserved for MS_LOC students", 
+    "title": "Building Transformational Client Relationships", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Cecelia Burokas currently enjoys her work as an independent consultant in strategic planning, change management, and learning and development with small businesses and not-for-profit organizations. Previously she was Consulting Practice Leader for the Council for Adult and Experiential Learning, Senior Consultant with Hewitt Associates' Organizational Effectiveness practice (clients included AT&T, Chevron, Ford, RR Donnelley/Bright Sun Printing in Shenzhen China and Sears Canada), and Senior Vice President, Learning and Development with Talman Home Federal Savings. She also teaches in Northwestern's MS in Learning & Organization Change Program.\nCecelia earned her BA from Vassar College and MAT from Reed College. She has served on a number of not-for-profit boards including nandanse, Gang of Toes, and Community TV Network.  She loves/hates the Cubs, observes bird behavior, and studies dance and metalsmithing.", 
+        "name": "Cecelia A Burokas", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G02", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TEXTBOOKS*:\nBlock, P. (2011). Flawless Consulting: A Guide to Getting Your Expertise Used, Third Edition. Washington D.C.: Pfeiffer.\nISBN-10: 0470620749\nISBN-13: 978-0470620748\n\nMaister, D. H., Green, C. H., & Galford, R. M. (2001 or 2002). The Trusted Advisor. New York: Free Press.\nISBN-10: 0743212347\nISBN-13: 978-0743212342\n\nReynolds, G. (2011). Presentation Zen: Simple Ideas on Presentation Design and Delivery (2nd Edition) (Voices that Matter).  Berkeley, CA: New Riders Press  \nISBN-10: 0321811984 \nISBN-13: 978-0321811981\n\nCLASS FEES PAID TO DEPARTMENT:\nCommunication Styles Assessment - $140\n\nOTHER MATERIALS: \nNone\n\n*MSLOC textbooks not stocked by Norris or Chicago Bookstores.\n\nCosts and materials may change. Contact department directly for the most recent assigned materials before purchasing anything. Updated 12/2013"
+        }
+    ], 
+    "class_num": 23068, 
+    "attributes": null, 
+    "catalog_num": "451-0"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 28, 
+    "course_id": 8731, 
+    "subject": "NUIN", 
+    "requirements": null, 
+    "title": "Fundamentals of Neuroscience", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "View Class Details for Room", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Charles J Heckman II", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 13467, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "401-1"
+}

@@ -1,0 +1,49 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 2474, 
+    "subject": "MATH", 
+    "requirements": "Enrollment Requirements: Registration restricted to Undergraduate students only", 
+    "title": "Real Analysis", 
+    "section": "71", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 107", 
+            "section": "71A", 
+            "component": "DIS", 
+            "end_time": "13:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "13:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "71", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Isaac Kornfeld", 
+        "phone": "8474671634", 
+        "address": "Lunt B5"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-410", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "An Introduction to Analysis, 4th ed, William R. Wade, ISBN: 978-0132296380, Pearson"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "234, 240, 300, or 291-1,2,3"
+        }
+    ], 
+    "class_num": 23433, 
+    "attributes": null, 
+    "catalog_num": "320-2"
+}

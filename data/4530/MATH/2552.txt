@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 2552, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Representation Theory", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Nir Avni", 
+        "phone": "847 4915575", 
+        "address": "Lunt Hall Rm. 213"
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34195, 
+    "attributes": null, 
+    "catalog_num": "478-0"
+}

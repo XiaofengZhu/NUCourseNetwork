@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 4886, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Environmental Microbiology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "l-marcelino@northwestern.edu", 
+        "bio": null, 
+        "name": "Luisa A Marcelino", 
+        "phone": "847.491.4035", 
+        "address": "2145 N. Sheridan Road / Tech A218"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Being ordered for purchase at Norris Bookstore\n\nBrock Biology of Microorganisms / Madigan and Martinko / ISBN 978-0321649638 /2010 /13th / Benjamin Cummings Pearson"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "BASIS OF GRADE /  homework, quiz, group project, midterm, final."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS SCHEDULE / Two 1.5 hour lecture periods per week,  homework , group projects, no laboratory."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, students will: \n1 Become familiar with the science of microbiology and its significance in everyday life\n\n2 Learn and understand basic principles of microbiology (cell structure and function, microbial and\nmetabolic diversity, microbial growth and growth control)\n\n3 Become familiar with methods for the characterization of microbial communities\n\n4 Understand what the science of epidemiology is about\n\n5 Understand and give examples of interactions of microorganisms with their environment\n\n6 Apply microbiology to environmental engineering problems\n\n7 Have practiced team work\n\n8 Have become effective in critical thinking and communication through group projects"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None; however, it is recommended that students enroll also in CEE 365 -- Environmental Laboratory"
+        }
+    ], 
+    "class_num": 16333, 
+    "attributes": "Juniors/Seniors Only\n\n", 
+    "catalog_num": "361-1"
+}

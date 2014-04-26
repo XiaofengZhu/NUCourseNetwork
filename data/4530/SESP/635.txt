@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 635, 
+    "subject": "SESP", 
+    "requirements": null, 
+    "title": "Human Development: Adulthood and Aging", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Regina Lopata Logan", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall 345", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Vaillant, G.E. (2002). Aging Well.  Boston: Little, Brown.\nCourse packet available at Quartet Copies.\nSeveral psychological measures must be purchased in class."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There are one exam, one application paper, one short policy brief and a final paper/project (consisting of an interview and case study analysis.) The final project serves as a cumulative final exam. If you turn in the exam or application paper late, your work will be graded down one half grade per day late. However, an unexcused absence on the day the exam or paper is due will result in your exam or paper being graded down one full grade per day (or portion of a day) late. The only acceptable excuse for a late exam/paper or absence on the day the exam or paper is due is illness. I reserve the right to ask for medical verification. As mentioned above, attendance and active participation are required and will make a difference in your final grade. NOTE: FINAL PAPER MAY NOT BE LATE."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The focus of this course is the application of theory to real life. Although I will give weekly lectures, my teaching methods include discussion and interactive exercises. We'll have debates, conduct surveys, take personality and related inventories, have a panel presentation, go on field trips, watch videos, and listen to specialists present guest lectures. In order for you to succeed, you must come to class and you must be prepared. I expect you to read what is assigned for every class and complete any measure (questionnaire) handed out in advance of the class for which the readings and/or other homework are assigned."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. to understand the life span perspective and major controversies in human development\n2. to understand Erik Erikson's model of psychosocial development, focusing on adulthood stages\n3. to understand Urie Bronfenbrenner's ecological model of  human development\n4. to understand the major life events and life tasks in adulthood\n5. to discuss selected social policy issues affecting older adults\n6. to become familiar with empirical research"
+        }
+    ], 
+    "class_num": 23021, 
+    "attributes": null, 
+    "catalog_num": "203-0"
+}

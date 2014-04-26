@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 1228, 
+    "subject": "ART_HIST", 
+    "requirements": null, 
+    "title": "Introduction to African Art", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Harris Hall L06", 
+            "section": "61", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Leslie Meredith Wilson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 17051, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nRegistration for discussion section required\n\n", 
+    "catalog_num": "220-0"
+}

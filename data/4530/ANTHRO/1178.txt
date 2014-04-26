@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 1178, 
+    "subject": "ANTHRO", 
+    "requirements": "Enrollment Requirements: Reserved for Anthropology Graduate Students", 
+    "title": "Bridging Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Helen B Schwartzman", 
+        "phone": "847/491-4824", 
+        "address": "1810 Hinman Ave., Room #202, EV Campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "ANTHRO Sem Rm 104 - 1810 Hinmn", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 34154, 
+    "attributes": null, 
+    "catalog_num": "496-0"
+}

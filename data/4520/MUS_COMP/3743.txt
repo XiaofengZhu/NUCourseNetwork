@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3743, 
+    "subject": "MUS_COMP", 
+    "requirements": null, 
+    "title": "Instrumentation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Leon Joseph Hyla", 
+        "phone": null, 
+        "address": "l-hyla@northwestern.edu"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "MUSIC 211-3 or consent of instructor."
+        }
+    ], 
+    "class_num": 17434, 
+    "attributes": null, 
+    "catalog_num": "314-1"
+}

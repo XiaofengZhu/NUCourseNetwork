@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 15070, 
+    "subject": "CHINESE", 
+    "requirements": null, 
+    "title": "Chinese IV:  Modern Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Wen-pin Hsieh", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-335", 
+    "end_time": "16:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"China's Peril and Promise: An Advanced Reader\" by Chih-ping Chou, published by Princeton University Press. ISBN 0-691-02884-2"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance 10%, 1st Paper 20%, 2nd Paper 20%, 3rd Paper 20%. 1st Oral 15%, 2nd Oral 15%"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "3rd year Chinese, pass a placement test, or consent of instructor"
+        }
+    ], 
+    "class_num": 24277, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "311-2"
+}

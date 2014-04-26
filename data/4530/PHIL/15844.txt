@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 15844, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Seminar in German Philosophy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "17:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mark Vinzenz Alznauer", 
+        "phone": "847/491-2559", 
+        "address": "Crowe 3-167"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-425", 
+    "end_time": "20:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Christoph Menke is Professor of Practical Philosophy within the Cluster of Excellence \"The Formation of Normative Orders\" and in the department of Philosophy at Goethe University, Frankfurt am Main. . From 1999 to 2009 he taught at the University of Potsdam and from 1997 to 1999 at the New School for Social Research, New York. He is the author of Force:  A Fundamental Concept of Aesthetic Anthropology (Fordham University Press, 2012), Power of Judgment:  A Debate on Aesthetic Critique ((Sternberg Press, 2010) Tragic Play: Irony and Theater from Sophocles to Becket (Columbia University Press 2009),   Reflections of Equality (Stanford University Press, 2006), and Sovereignty of Art: Aesthetic Negativity in Adorno and Derrida (MIT Press, 1998). He has previously  held visiting positions  at the University of Chicago , Columbia University, and at Johns Hopkins University. He is a member of the editorial boards of Constellations: An International Journal of Critical and Democratic Theory, Philosophy and Social Criticism, and the editorial committee of the European Journal of Philosophy.\n\nHis further publications in German include Die Kraft der Kunst (Suhrkamp 2013),  Recht und Gewalt (August, 2012),   Philosophie der Menschenrechte. Zur Einfhrung (Junius, 2007)  and Tragdie im Sittlichen : Gerechtigkeit und Freiheit nach Hegel (Suhrkamp, 1996). \n\nHis co-edited volumes include: Kreation und Depression: Freiheit im gegenwrtigen Kapitalismus (co-edited with Julian Rebentisch, 2012); Theodor W. Adorno : Negative Dialektik (Akademie, 2006, co -edited with Axel Honneth); Menschenrechte und Bioethik (Wissenschaftsverlag, 2004, co-edited with  Eckart Klein); Philosophie der Dekonstruktion : zum Verhltnis von Normativitt und Praxis (co-edited with Andrea Kern, Suhrkamp, 2002),  and Zur Verteidigung der Vernunft gegen ihre Liebhaber und Verchter (co-edited with Martin Seel, Suhrkamp, 1993)."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Course Reader contains selected readings."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Writing Assignment"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture/Discussion"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission Required"
+        }
+    ], 
+    "class_num": 33764, 
+    "attributes": "Graduate Students Only\n\n", 
+    "catalog_num": "414-0"
+}

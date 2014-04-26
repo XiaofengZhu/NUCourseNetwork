@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4903, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Community-based Design I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "k-gray@northwestern.edu", 
+        "bio": null, 
+        "name": "Kimberly A Gray", 
+        "phone": "847/467-4252", 
+        "address": "2145 N. Sheridan Road / TECH A322"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute A230", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Must have Prof Kimberly Gray's permission (k-gray@northwestern.edu), and obtain a Permission Number for CAESAR Registration from the Janet Soule, Academic Coordinator, j-soule@northwestern.edu"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "K Grade (continuing) assigned 1st quarter.  ABC letter grade assigned only on completion of both quarters of Community-based Design CIV_ENG 398-1,2"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Junior or Senior standing in civil or environmental engineering."
+        }
+    ], 
+    "class_num": 33752, 
+    "attributes": null, 
+    "catalog_num": "398-1"
+}

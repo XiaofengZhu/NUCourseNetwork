@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 1864, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in Medieval Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Barbara Jane Newman", 
+        "phone": "847/491-5679", 
+        "address": "University Hall 215"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Allison Residential Comm 1021", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Literary texts will include natural history (Physiologus, Albertus Magnus), illuminated bestiaries, beast fables (Marie de France) and beast epic (Renard the Fox), saints' lives, werewolf tales, debate poems, and manuals of the hunt.  We will also read lyric poems about beasts, such as the famous \"Pangur Ban,\" and selected Canterbury Tales such as \"The Nun's Priest's Tale\" and the apocryphal \"Cattes Tale.\" Critical and theoretical readings may include Lorraine Daston, ed., Thinking with Animals; Susan Crane, Animal Encounters: Contacts and Concepts in Medieval Britain; Carolynn Van Dyke, ed., Rethinking Chaucerian Beasts; Joyce Salisbury, The Beast Within; David Salter, Holy and Noble Beasts; Dominic Alexander, Saints and Animals in the Middle Ages; and Bruce Holsinger, \"Of Pigs and Parchment: Medieval Studies and the Coming of the Animal.\"  Finally, we will read some historical essays on specific animal matters, such as the training of falcons, deer parks and deer poaching, animal trials, and pigs in the antisemitic imagination."
+        }
+    ], 
+    "class_num": 26530, 
+    "attributes": null, 
+    "catalog_num": "422-0"
+}

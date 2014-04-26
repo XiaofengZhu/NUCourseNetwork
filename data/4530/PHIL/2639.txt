@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2639, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Studies in African American Philosophy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Charles W Mills", 
+        "phone": "847/491-2551", 
+        "address": "Kresge 3-210"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 223", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Lewis R. Gordon, An Introduction to Africana Philosophy, ISBN: 0521675464"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Two essays"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, students should have become acquainted with some of the central figures and some of the distinguishing themes of African-American Philosophy."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Department Permission"
+        }
+    ], 
+    "class_num": 33776, 
+    "attributes": "Juniors/Seniors Only\n\n", 
+    "catalog_num": "367-0"
+}

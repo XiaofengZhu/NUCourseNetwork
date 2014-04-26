@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6251, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in American Literature:", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Charles S Yarnoff", 
+        "phone": "8474914965", 
+        "address": "Kresge 2-220"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students will have the option to revise their midterm exam essay and course paper to improve the grade."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The readings will likely include the following:\nToni Morrison, Song of Solomon, Vintage, 978-1400033423.\nMaxine Hong Kingston, The Woman Warrior, Vintage, 978-0679721888.\nThomas Pynchon, The Crying of Lot 49, Harper Perennial, 978-0060913076.\nMarilynne Robinson, Housekeeping, Picador, 978-0312424091.\nTim O'Brien, The Things They Carried, Mariner, 978-0618706419.\nBobbie Ann Mason, Harper Perennial, 978-0060835170.\nDenis Johnson, Jesus' Son, Picador, 978-0312428747.\nRaymond Carver, Where I'm Calling From, Vintage, 978-0679722311."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will gain an understanding of the thematic concerns in American literature  since 1965.\nStudents will gain an understanding of the continuities and changes in artistic techniques used by writers during this period.\nStudents will develop their ability to write papers on literature."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students should have fulfilled the SCS writing requirement or taken equivalent writing courses."
+        }
+    ], 
+    "class_num": 18189, 
+    "attributes": null, 
+    "catalog_num": "378-CN"
+}

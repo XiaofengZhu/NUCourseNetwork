@@ -1,0 +1,49 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2460, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "MENU: Linear Algebra and Multivariable Calculus", 
+    "section": "41", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 103", 
+            "section": "41A", 
+            "component": "DIS", 
+            "end_time": "10:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "10:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "41", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Santiago Canez joined the Department of Mathematics at Northwestern University as a Postdoctoral Lecturer in Fall 2012. Previously he was a Lecturer at the University of California, Berkeley, where he received his Ph.D. in mathematics from in May 2011. His area of research is differential geometry, and in particular his work deals with geometric structures which arise in physics. Since 2005, Santiago has taught numerous undergraduate mathematics courses covering a wide variety of topics, and has won multiple teaching awards as a result.", 
+        "name": "Santiago Canez", 
+        "phone": "847 4675211", 
+        "address": "Lunt B27"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 107", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Vector Calculus\" 3rd Edition\nAuthor: Susan Colley\nPublisher: Prentice Hall\nISBN: 0131858742"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "290-1"
+        }
+    ], 
+    "class_num": 23830, 
+    "attributes": null, 
+    "catalog_num": "290-2"
+}

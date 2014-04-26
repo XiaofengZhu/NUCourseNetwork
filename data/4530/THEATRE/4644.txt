@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 9, 
+    "course_id": 4644, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Topics in Stagecraft", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jessica Margaret Thebus", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 115", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Consent of instructor."
+        }
+    ], 
+    "class_num": 21524, 
+    "attributes": "Attendance at 1st class mandatory\n\nGraduate Students Only\n\n", 
+    "catalog_num": "353-0"
+}

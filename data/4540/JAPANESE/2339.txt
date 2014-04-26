@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2339, 
+    "subject": "JAPANESE", 
+    "requirements": null, 
+    "title": "Japanese I", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Junko Sato", 
+        "phone": "8474912762", 
+        "address": "4-352 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32631, 
+    "attributes": "Prerequisites apply, see description\n\nSpecific requirements in the language\n\n", 
+    "catalog_num": "111-3"
+}

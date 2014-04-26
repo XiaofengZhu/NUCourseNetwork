@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4932, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Soil Mechanics I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "r-finno@northwestern.edu", 
+        "bio": null, 
+        "name": "Richard J Finno", 
+        "phone": "1 847 491 5885", 
+        "address": "TECH A128"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "List provided first day of class."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework assignments, Mid-Term Exam, Final Exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and discussion."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CE250-0, Introductory Soil Mechanics."
+        }
+    ], 
+    "class_num": 16477, 
+    "attributes": null, 
+    "catalog_num": "450-1"
+}

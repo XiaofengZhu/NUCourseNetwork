@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 18818, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Women in Medieval Society", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "University Library 4670", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Fr", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "I am a cultural historian who tends to work on spirituality/Sexuality/and Gender. At present I am writing a book on the church and its attitude toward scandal. In my spare time, I write fiction and Dream about dancing The Argentine Tango.  (But rarely manage to get on the dance Floor.) I have 3 dogs  each more neurotic than the other. I dont think it is all my fault: they are rescues who were set in their ways when I got them. It is possible that I made them worse, however.", 
+        "name": "Dyan H Elliott", 
+        "phone": "847/491-7652", 
+        "address": "Harris Hall Room 337"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M164", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Europe"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nAmt, Emilie. Women's Lives in Medieval Europe: A Sourcebook. 2d ed. New York: Routledge, 2001. 978-0415466837(paper) \nBirgitta of Sweden: Life and Selected Writings (Classics of Western Spirituality). Ed. Marguerite Harris, et al. NY: Paulist Press, 1989; 978-0809131396\nMarie de France. Lais of Marie de France. Penguin, 1986. 2d ed. 1999. ISBN-13: 978-0140447590 \nShahar, Shulamith. The Fourth Estate: The History of Women in the Middle Ages. Rev. Ed. New York: Routledge, 2003. 0415308518"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "2 papers (ca. 5 pp); 2 exams"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and mandatory discussion sections"
+        }
+    ], 
+    "class_num": 34363, 
+    "attributes": "Historical Studies Distro Area\n\n", 
+    "catalog_num": "331-0"
+}

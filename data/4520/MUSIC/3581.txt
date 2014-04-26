@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 3581, 
+    "subject": "MUSIC", 
+    "requirements": null, 
+    "title": "DM Continuation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "James F Giles", 
+        "phone": "847/491-5733", 
+        "address": "MAB 711 Elgin Rd, Evanston IL"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 13743, 
+    "attributes": null, 
+    "catalog_num": "519-0"
+}

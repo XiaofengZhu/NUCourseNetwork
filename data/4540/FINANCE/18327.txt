@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18327, 
+    "subject": "FINANCE", 
+    "requirements": null, 
+    "title": "Financial Markets and Institutions", 
+    "section": "12", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "12", 
+    "school": "UC", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "William J Arndt", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "University Hall 121", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [], 
+    "class_num": 38687, 
+    "attributes": null, 
+    "catalog_num": "363-CN"
+}

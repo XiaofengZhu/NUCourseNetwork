@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 2545, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Stochastic Analyses", 
+    "section": "81", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "81", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Elton Hsu is a Professor of Mathematics in the Department of Mathematics of Northwestern University. His main research interests are probability theory and stochastic analysis and their applications in pure and applied mathematics. He has taught financial mathematics at both undergraduate and graduate levels for many years.", 
+        "name": "Elton P Hsu", 
+        "phone": "8474918541", 
+        "address": "Lunt 205"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 103", 
+    "end_time": "14:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 34194, 
+    "attributes": null, 
+    "catalog_num": "455-1"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 15048, 
+    "subject": "MGMT", 
+    "requirements": null, 
+    "title": "Corporate Governance", 
+    "section": "61", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-02-08", 
+    "start_time": null, 
+    "component": "61", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Donald P Jacobs", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "View Class Details for Room", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34962, 
+    "attributes": null, 
+    "catalog_num": "913-A"
+}

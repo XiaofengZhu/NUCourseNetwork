@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 1966, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Introduction to Literature: 1945-today", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Mon 1-2 pm and Wed 2-3 pm and by appointment", 
+        "bio": "Franziska Lys (PhD Northwestern University) works in the area of second language acquisition and computer assisted language instruction and learning.  She is the author of several textbooks and scholarly articles; has produced four films; and has developed interactive online learning environments for teaching language. For her work, she has received grants from Northwestern and from national and international organizations in Switzerland, Lichtenstein, and in the Federal Republic of Germany. You can contact Franziska Lys at: flys@northwestern.edu or visit her personal website for more information.", 
+        "name": "Franziska B Lys", 
+        "phone": "8474918298", 
+        "address": "Crowe Hall 2-101"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Class Reader will be Provided."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Essays: Students are required to write three essays of increasing complexity and length during the quarter (2 pages; 2-3 pages; and 3-4 pages).  Students will be provided with a selection of essay questions, through which students can show their mastery of key concepts of the course and can develop written analytic skills in the target language. Essays are written in a series of drafts and are presented for peer review, in addition to the instructor's final evaluation. Through a variety of exercises, students are guided in editing and critiquing each other's work. Students thus exchange ideas on the development of a thesis, the manner in which the argument unfolds, the close analysis of particular passages in the text and the overall structure and organization of the essay, in addition to refining grammar and language skills.  The objective of these exercises is not only to improve language skills but also to improve the students' overall writing and analytic skills within the context of a wide-ranging study of post-war German literature.\n\nQuizzes: The two quizzes are presented in the middle and the end of the quarter, and test whether the student has satisfactorily integrated knowledge generated through the course reading and class discussions.  In each quiz, students are asked to identify short citations drawn from the stories read during the quarter, and specify how the quotation expresses one of the main ideas, or demonstrates one of the primary stylistic attributes, of the text from which it is drawn.  In addition, students will answer a more complex question posed about a specific text (for example: describe the use of irony; identify primary motifs; etc.).  Although evaluated primarily for content, the quizzes also serve to test language skills, in that the students must respond spontaneously by writing in the target language in a limited amount of time."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The course will be conducted in German.  Through class discussion, group exercises and written work, strong emphasis will be placed on encouraging students to express their ideas in German about the texts being read.  Peer-review writing sessions and instructor feedback allow students to work creatively on improving their written language skills."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The goals of this course are two-fold: to introduce students to a specific period in German literary history (roughly 1945-2013) through engagement with a specific genre; and to reinforce students' language skills in reading, writing, and speaking.\n\na.\tThrough specific focus on the short story, one of the dominant genres of recent German literary history, students are introduced to some of the major stylistic trends, themes, questions, and motifs of the post-war era. We will examine the development not only of different prose styles, but also an evolution in the themes, issues and questions the literature explores.  The short story genre is particularly well-suited to a course conceived as one of the first literature classes students take in the target language not only because of its relative brevity, but also because of the direct manner in which it employs language and narrative perspective.  \n\nb.\tIn 200-level courses, students are still working to perfect their language skills, and therefore, this course also serves to strengthen speaking, reading and writing skills through a variety of exercises and approaches.  Each class meeting is speaking intensive, with students given ample opportunity to ask and answer questions. Additionally, small group exercises are developed in which 2-3 students work through a particular passage or series of questions together before presenting them to the group."
+        }
+    ], 
+    "class_num": 34208, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nReading, writing, speaking proficiency\n\n", 
+    "catalog_num": "221-3"
+}

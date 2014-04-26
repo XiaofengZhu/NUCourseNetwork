@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 20520, 
+    "subject": "EECS", 
+    "requirements": null, 
+    "title": "Intermediate Topics in Electrical Engineering and Computer Science", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Tech Institute CG50 - EECS T-L", 
+            "section": "21", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Brenna Dee Argall", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute CG50 - EECS T-L", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21321, 
+    "attributes": null, 
+    "catalog_num": "295-0"
+}

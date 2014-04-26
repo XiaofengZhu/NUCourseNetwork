@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 28, 
+    "course_id": 6081, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Human Anatomy", 
+    "section": "15", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "15", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Vivian Noble has been teaching at SCS for almost a decade now, and really likes the challenge and fun that comes with teaching continuing ed students.  She also teaches anatomy at several local medical schools and physical therapy programs.", 
+        "name": "Vivian E Noble", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 413", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "paper proposal 5% of final grade and rough draft 5% of final grade"
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "An atlas of anatomy is also suggested but not required."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "HUMAN ANATOMY. Author: MARIEB. Edition: 6TH 11. Publisher:  PEARSON. ISBN: 9780321616111"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course the student will have a fundamental grasp of the basics of human anatomy."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "BIOL SCI 165, 170, or equivalent course. Completion of lower division biology is very helpful.  Upper division readiness is understood."
+        }
+    ], 
+    "class_num": 35025, 
+    "attributes": null, 
+    "catalog_num": "313-CN"
+}

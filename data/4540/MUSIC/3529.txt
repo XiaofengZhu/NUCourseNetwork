@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 3529, 
+    "subject": "MUSIC", 
+    "requirements": null, 
+    "title": "World Music Cultures", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Inna I Naroditskaya", 
+        "phone": "847/467-2034", 
+        "address": "in-narod@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "<p>Workload for the class consists of reading journals due in advance of each class, quizzes, and a final examination. There will be occasional visits from guest musicians and frequent in-class performance among the students and instructor.</p>"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Required for, and limited to, all undergraduates in the Bienen School of Music."
+        }
+    ], 
+    "class_num": 36189, 
+    "attributes": null, 
+    "catalog_num": "213-0"
+}

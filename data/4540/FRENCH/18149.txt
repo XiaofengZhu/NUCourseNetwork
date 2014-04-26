@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 18149, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Proust", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "Tuesdays & Thursdays 2PM - 3PM (Crowe #1-113)", 
+        "bio": null, 
+        "name": "Michal Peled Ginsburg", 
+        "phone": "8474670958", 
+        "address": "1860 S. Campus Drive, Crowe Hall #1-113"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 33078, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "374-0"
+}

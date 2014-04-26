@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 18322, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Human Physiology 1", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Lucia Simo is a medical scientist MD/PhD at the crossroads between neuroscience, medicine, and the humanities/ethics. She was awarded with a Fulbright Fellowship to study brain theory and computational neuroscience in the Center for Neural Engineering at the University of Southern California. Her current research is in brain networks involved in visuomotor learning, timing, and attention using fMRI methodologies as well as the control of arm posture and movement after stroke, in collaboration with the robotics laboratory at the Rehabilitation Insittute of Chicago. She enjoys working with people of diverse backgrounds from the hard sciences to the humanities, practices Iyengar yoga, enjoys cooking, music, has a teenage daughter and a lot of patience!", 
+        "name": "Lucia S Simo", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Text will likely be the following:\n\nHuman Physiology (Media Update): an integrated approach by  Dee Silverthorn, copyright 2010, 5th edition OR  copyright 2009, 4th edition;   Publisher: Benjaming Cummings/Pearson\nISBN: 13 978-0-321-55139-9  (4th ed)\nISBN: 13 978-0-321-55980-7 (5th ed)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students  learn about the  dynamics between the body systems that support the life of the organism and the impact of the environment on such dynamics.  Importantly, they learn how to manage large quantities of different types (and levels) of information and how to prepare/present a  disease project."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "BIOL SCI 210-C or equivalent."
+        }
+    ], 
+    "class_num": 18756, 
+    "attributes": null, 
+    "catalog_num": "335-A"
+}

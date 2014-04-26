@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 16075, 
+    "subject": "DSGN", 
+    "requirements": null, 
+    "title": "Interdiscipinary Design Projects II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Barbara L Shwom", 
+        "phone": "847/491-7690", 
+        "address": "Kresge 2-245"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Ford Eng Design Cntr G-211", 
+    "end_time": "12:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 20707, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "384-2"
+}

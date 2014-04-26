@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6663, 
+    "subject": "SOCIOL", 
+    "requirements": null, 
+    "title": "Sociological Analysis", 
+    "section": "12", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "12", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Mary Beth Finch has been teaching courses at Northwestern since 2009. She is currently a PhD candidate in the Sociology Department.  Her research focuses on economics and morality.  She is currently working on a project about Fair Trade and the motivations of ethical consumers.  Her general teaching philosophy is that education is about learning what questions to ask.", 
+        "name": "Mary Beth Finch", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 504", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Methodological Thinking by Donileen Loeske: ISBN 9781412997201. \n\nMore Damned Lies and Statistics by Joel Best: ISBN 9780520238305  (this text is required reading but it is available electronically through the NU library)."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "-Develop an appropriate research question.\n-What research methods are appropriate for answering what types of questions.\n-Assess the methodological choices of other researchers.  \n-Design a research study\n-Conduct research using a variety of methods"
+        }
+    ], 
+    "class_num": 35094, 
+    "attributes": null, 
+    "catalog_num": "226-CN"
+}

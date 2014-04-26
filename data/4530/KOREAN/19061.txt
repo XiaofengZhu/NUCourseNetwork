@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 19061, 
+    "subject": "KOREAN", 
+    "requirements": null, 
+    "title": "Korean I - Accelerated", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Hye-Ryeong Baek", 
+        "phone": "8474912767 no voicemail", 
+        "address": "4-366 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Integrated Korean: Beginning I (978-0-8248-3440-1), Beginning II (978-0-8248-3515-6)\nIntegrated Korean Workbook: Beginning I (978-0-8248-3450-0), Beginning II (978-0-8248-3516-3)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be given based on weekly tests, quizzes, assignments, oral tests and final exam scores."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "After the instructor's lecture, students will practice speaking using the vocabulary and grammar patterns they have learned in class, and elaborate on the conversation. Class participation is very important.\n\nVarious readings and video presentations will improve student reading and comprehension."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Completion of Fall Quarter Korean 115-1, or by instructor permission."
+        }
+    ], 
+    "class_num": 24304, 
+    "attributes": null, 
+    "catalog_num": "115-2"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 3643, 
+    "subject": "MUSIC_ED", 
+    "requirements": null, 
+    "title": "Professional Practicum", 
+    "section": "22", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "22", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Janet R Barrett", 
+        "phone": "847/467-1258", 
+        "address": "j-barrett3@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 36311, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "441-0"
+}

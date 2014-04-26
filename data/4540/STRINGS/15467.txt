@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 15467, 
+    "subject": "STRINGS", 
+    "requirements": null, 
+    "title": "Lute and Guitar History and Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "15:00:00", 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Anne E Waller", 
+        "phone": "847/491-4768", 
+        "address": "REGENSTEIN 60 Arts Circle Dr, Evanston IL"
+    }, 
+    "term": "2014 Spring", 
+    "room": "Regenstein Hall of Music 212", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 38411, 
+    "attributes": null, 
+    "catalog_num": "575-3"
+}

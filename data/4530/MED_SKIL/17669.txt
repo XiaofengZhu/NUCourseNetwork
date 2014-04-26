@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 17669, 
+    "subject": "MED_SKIL", 
+    "requirements": null, 
+    "title": "Mediation Skills Training", 
+    "section": "42", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-02-17", 
+    "end_date": "2014-02-21", 
+    "start_time": "08:00:00", 
+    "component": "42", 
+    "school": "UC", 
+    "meeting_days": "MoTuWeThFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Thomas F Gibbons", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 33738, 
+    "attributes": null, 
+    "catalog_num": "100-0"
+}

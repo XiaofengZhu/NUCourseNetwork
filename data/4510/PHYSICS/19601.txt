@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 19601, 
+    "subject": "PHYSICS", 
+    "requirements": "Enrollment Requirements: Co-requisite: Students must also register for Physics 130-A OR 135-A. Add both classes (130-A/135-A & 136-A) to the shopping cart and submit together for successful registration.", 
+    "title": "Physics Laboratory", 
+    "section": "38", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-08-31", 
+    "start_time": null, 
+    "component": "38", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M, T, W  2:00 - 3:00", 
+        "bio": "Art Schmidt joined the Northwestern faculty in 1984 and has been teaching in the School of Continuing Education for almost as many years. He got his PhD at the University of Notre Dame in Nuclear Physics in 1974. He won Distinguished teaching Award in the then University College in 1999. He is the Director of the Undergraduate Laboratories for the Department of Physics and Astronomy and the Lecture Demonstrator. He also teaches Introductory College physics in the Weinberg School of Arts and Science and won the Arts and Science Alumni Teaching Award in  2000 and made the Associated Student Government Outstanding Teacher List in 2002 and 2003.  Art enjoys small boat sailing and canoeing, drawing in charcoal or pen and ink, plays guitar and flies R/C model planes.", 
+        "name": "Arthur Gerard Schmidt", 
+        "phone": "847/491-7477", 
+        "address": "Technological Institute (2145 Sheridan Road), Room F-226, Evanston"
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41701, 
+    "attributes": null, 
+    "catalog_num": "136-C"
+}

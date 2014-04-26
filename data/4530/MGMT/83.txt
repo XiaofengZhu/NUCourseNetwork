@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 83, 
+    "subject": "MGMT", 
+    "requirements": null, 
+    "title": "Strategy and Organization", 
+    "section": "61", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "61", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jin Li", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center G03", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33523, 
+    "attributes": null, 
+    "catalog_num": "452-0"
+}

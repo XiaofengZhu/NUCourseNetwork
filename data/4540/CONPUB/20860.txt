@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20860, 
+    "subject": "CONPUB", 
+    "requirements": "Enrollment Requirements: In order to enroll in Constitutional Design in the Muslim World II, CONPUB 725, the student must complete Constitutional Design in the Muslim World I, CONPUB 724", 
+    "title": "Constitutional Design in the Muslim World II", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kristen A Stilt", 
+        "phone": "tba", 
+        "address": "tba"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30172, 
+    "attributes": "3 draft degree req may be met with class\n\nPerspective Elective\n\nComparative Law Practice Area in course\n\nConstitutional Law\n\n", 
+    "catalog_num": "725"
+}

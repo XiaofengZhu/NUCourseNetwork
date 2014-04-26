@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 21013, 
+    "subject": "PHIL_NP", 
+    "requirements": null, 
+    "title": "Nonprofit Governance, Mission and Strategic Planning", 
+    "section": "42", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-02", 
+    "start_time": "18:00:00", 
+    "component": "42", 
+    "school": "UC", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "21:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 37550, 
+    "attributes": null, 
+    "catalog_num": "325-0"
+}

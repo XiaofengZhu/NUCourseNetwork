@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 3699, 
+    "subject": "MUS_TECH", 
+    "requirements": null, 
+    "title": "Composing With Computers", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Coordinator, Music Technology program. Composer of electroacoustic music, combining lo-tech analog techniques with extensive digital signal processing; specialist in multi-channel audio and spatialization. Composer of acoustic music focusing on extended instrumental techniques, modified conventional instruments, and instruments of the composer's own design and, most recently, combining this approach with real-time electronics and spatialization. Author of articles on musical aesthetics and composition. Residencies at Experimentalstudio SWR in Freiburg, Knstlerhaus Schloss Wiepersdorf, and Sound Traffic Control in San Francisco. Principal teachers were Peter Otto and Roger Reynolds, electronic music and Chaya Czernowin and Chinary Ung, instrumental music.", 
+        "name": "Christopher A Mercer", 
+        "phone": null, 
+        "address": "camercer@hotmail.com"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "INSTRUCTOR PERMISSION REQUIRED."
+        }
+    ], 
+    "class_num": 14232, 
+    "attributes": "No P/N option for this section\n\nPermission of Instructor\n\n", 
+    "catalog_num": "340-0"
+}

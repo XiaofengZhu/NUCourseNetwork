@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 13, 
+    "course_id": 1561, 
+    "subject": "CLASSICS", 
+    "requirements": null, 
+    "title": "Topics in Greco-Roman Civilization", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Melissa Ann Bailey", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "555 Clark B01", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "For undergraduates, Philosophy or Latin or Greek or Classics major or minor, or permission of instructor."
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "Some background in Classics or Art History is preferable."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Fall of Rome: And the End of Civilization.  Bryan Ward-Perkins.  Oxford University Press.  2006.\n ISBN-10: 0192807285 \nISBN-13: 978-0192807281\n\nThe World of Late Antiquity.  Peter Brown. W.W. Norton & Company.\nISBN-10: 0393958035 \nISBN-13: 978-0393958034\n\nImperial Rome and Christian Triumph.  Jas Elsner.  Oxford: Oxford University Press.\nISBN-10: 0192842013 \nISBN-13: 978-0192842015"
+        }
+    ], 
+    "class_num": 24432, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo prerequisite in the language\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "390-0"
+}

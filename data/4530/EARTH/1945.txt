@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 1945, 
+    "subject": "EARTH", 
+    "requirements": null, 
+    "title": "Advanced Topics in Geophysics", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "T, Th 2-3PM", 
+        "bio": null, 
+        "name": "Donna M Jurdy", 
+        "phone": "847/491-7163", 
+        "address": "Tech F496-F497"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34187, 
+    "attributes": null, 
+    "catalog_num": "438-0"
+}

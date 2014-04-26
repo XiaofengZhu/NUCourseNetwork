@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3246, 
+    "subject": "SLAVIC", 
+    "requirements": null, 
+    "title": "Russian for Advanced and Native Speakers", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Natalia Malinina", 
+        "phone": "847/491-8252", 
+        "address": "Crowe Hall 4-129 1860 Campus Dr"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required readings posted on Blackboard"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Quizzes\nMidterm and Final exams\nShort weekly essays with re-write (for a higher grade) option."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Consent of language coordinator."
+        }
+    ], 
+    "class_num": 17002, 
+    "attributes": null, 
+    "catalog_num": "304-1"
+}

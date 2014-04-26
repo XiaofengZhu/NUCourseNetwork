@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 5208, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Theory of Machines - Design of Elements", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Qian Wang", 
+        "phone": "847/467-7510", 
+        "address": "Technological Institute, Rm A219, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Fundamentals of Machine Elements, Hamrock, B., Jacobson, B., and Schmid, S., McGraw-Hill, 2007, ISBN 978-0073341583; 0073341584."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ME 240 or CIV_ENG 216"
+        }
+    ], 
+    "class_num": 33904, 
+    "attributes": null, 
+    "catalog_num": "315-0"
+}

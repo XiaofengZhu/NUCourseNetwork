@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 19385, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Differential Geometry", 
+    "section": "81", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "81", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Aaron Charles Naber", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 102", 
+    "end_time": "14:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 26524, 
+    "attributes": null, 
+    "catalog_num": "445-2"
+}

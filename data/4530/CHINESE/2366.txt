@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2366, 
+    "subject": "CHINESE", 
+    "requirements": null, 
+    "title": "Chinese III", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Chin-Hung Chang", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L05", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Developing Chinese Fluency Intermediate-Advanced, Textbook and Workbook\n\nAuthor:  Phyllis Zhang\nPublisher:  Cengage Learning\nISBN: 978-981-4272-83-4"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Essays and assignments (20%), weekly quizzes (15%), midterm exam (20%), skit and oral presentation (15%), final exam (25%) and class attendance and participation (5%)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "tudents will build the core vocabulary, expressive power and paragraph fluency by reading and completing the situational tasks. Chinese is the main means of communication and discussion on related topics."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the end of the course, students are expected to be able to write familiar subject matters in Chinese, carry on a conversation with a Mandarin speaker on situations or topics, and articulate ideas, opinions and arguments in connected discourse at paragraph length."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Chinese II; P/N is allowed."
+        }
+    ], 
+    "class_num": 24274, 
+    "attributes": null, 
+    "catalog_num": "211-2"
+}

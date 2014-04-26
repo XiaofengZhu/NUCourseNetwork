@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 15914, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in Theory & Criticism:", 
+    "section": "15", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "15", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rachel Kathleen Watson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students should have fulfilled the SCS writing requirement or taken equivalent writing courses before enrolling in this course."
+        }
+    ], 
+    "class_num": 18190, 
+    "attributes": null, 
+    "catalog_num": "383-CN"
+}

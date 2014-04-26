@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 6506, 
+    "subject": "PHYSICS", 
+    "requirements": "Enrollment Requirements: Co-requisite: Students must also register for PHYSICS 136-C. \nAdd both classes to the shopping cart and submit together for successful registration.", 
+    "title": "General Physics II", 
+    "section": "23", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-08-31", 
+    "start_time": null, 
+    "component": "23", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Deborah Anne Brown", 
+        "phone": "847/467-5789", 
+        "address": "Technological Institute Building (2145 Sheridan Road), Room F-220, Evanston, IL"
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41694, 
+    "attributes": null, 
+    "catalog_num": "135-C"
+}

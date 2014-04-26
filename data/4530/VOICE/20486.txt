@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20486, 
+    "subject": "VOICE", 
+    "requirements": null, 
+    "title": "Freshman Practicum", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Pamela J Hinchman", 
+        "phone": "847/467-1408", 
+        "address": "MAB 711 Elgin Rd, Evanston IL"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 114", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22952, 
+    "attributes": null, 
+    "catalog_num": "100-0"
+}

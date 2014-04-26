@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 5221, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Finite Elements for Stress Analysis", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "w-liu@northwestern.edu", 
+        "bio": null, 
+        "name": "Wing K Liu", 
+        "phone": "847/491-7094", 
+        "address": "Technological Institute, Rm A326, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "A First Course in Finite Elements, Ted Belytschko and Jacob Fish, John Wiley, 2007, ISBN 0470035803."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "As structures and mechanisms grow more complex, so do the demands put on material from which they are built. Without thorough understanding of the stress imposed on the structure, and exact computation, these structures would never be possible. This course will familiarize students with the basic concepts of finite-element method for stress analysis, and computer implementation. The course will focus on topic specific programming and usage of commercial codes popular in the industry."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: MATH 234 or CIV_ENG 216."
+        }
+    ], 
+    "class_num": 17511, 
+    "attributes": null, 
+    "catalog_num": "327-0"
+}

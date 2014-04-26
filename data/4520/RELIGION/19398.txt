@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19398, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Topics in United States Catholicism", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Katherine Anne Dugan", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "We will have a printed course pack, with possible additional readings posted on the course Blackboard site."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "<ln/>"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "<ul>\n<li>Identify and analyze major \"hot-button\" issues (e.g. birth control, same-sex marriage, women's roles) in American Catholicism by understanding what makes them contentious. </li>\n<li>Compare and contrast the varieties of American Catholicism.</li>\n<li>Synthesize and reflect on course readings and discussions through a final paper.</li>\n<li>Summarize six major historical moments of American Catholicism as context of contemporary American Catholicism.</li>\n</ul>"
+        }
+    ], 
+    "class_num": 16849, 
+    "attributes": "Historical Studies Distro Area\n\nInterdisciplinary Distro - See Rules\n\nEthics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "385-0"
+}

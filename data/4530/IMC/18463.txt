@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 18463, 
+    "subject": "IMC", 
+    "requirements": "Enrollment Requirements: Registration is reserved for students who have completed IMC 303-0 or JOUR 301-0", 
+    "title": "Message Strategy and Persuasive Communications", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Robert L Conrad", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "McCormick Tribune 3119", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22029, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "305-0"
+}

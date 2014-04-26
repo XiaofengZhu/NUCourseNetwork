@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 12064, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Special Topics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Amanda R Dehnert", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Bergen Theate", 
+    "end_time": "14:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Art of the Turnaround:  Creating and Maintaining Healthy Arts Organizations\nBy Michael Kaiser\nISBN  978-1-58465-735-4\n\nThe Commercial Theater Institute Guide to Producing Plays and Musicals \nEdited by Frederic  B. Vogel and Ben Hodges    \nPublished by Applause Theatre & Cinema Books, 2006\nISBN  978-1-55783-652-6\n\nIntroduction to Leadership: Concepts and Practice, 2nd Edition (IL)                                                                                                                                  By Peter G. Northouse\nPublished by Sage Publications (US), 2012\nISBN  978-1-4129-8952-7\n\nTheatre Management:  Producing and Managing the Performing Arts                                                         By David M. Conte and Stephen Langley    \nPublished by EntertainmentPro, 2007\nISBN  978-0-89676-256-5"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Schedule an interview with the Instructor and get a permission number."
+        }
+    ], 
+    "class_num": 21595, 
+    "attributes": null, 
+    "catalog_num": "330-0"
+}

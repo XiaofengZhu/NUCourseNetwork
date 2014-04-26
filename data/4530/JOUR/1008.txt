@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 29, 
+    "course_id": 1008, 
+    "subject": "JOUR", 
+    "requirements": null, 
+    "title": "Urban Issues Reporting", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": "WeTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Stephan W Garnett", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "JOUR 421-0 Urban Issues Seminar required as a companion course."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MSJ program only.  Prerequisites: Journalism Methods. Q2 requirement course."
+        }
+    ], 
+    "class_num": 22066, 
+    "attributes": null, 
+    "catalog_num": "421-1"
+}

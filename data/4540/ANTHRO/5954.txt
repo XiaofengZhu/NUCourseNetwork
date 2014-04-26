@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 5954, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "The Evolution of Social Behavior", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "My research and teaching focus primarily on the ways in which human social behavior and culture are shaped by biological evolution.  Most of the courses I teach focus heavily on this topic.  Critics of this kind of use of evolutionary theory often suggest that applying evolutionary theory to the study of human behavior discourages altruistic and moral behavior.  This has led me to look into and write about the evolutionary foundations of morality and of religion.  I am convinced that a well-informed appreciation of the biological foundations of morality can enhance our ability to deal with moral issues.  I have been teaching anthropology for over 40 years, and, in the 1960s and 1970s, I did field research among the Turkmen of northern Iran.  In the 1960s and the 1970s, I made three trips to Iran and spend a total of 44 months living in that country.", 
+        "name": "William George Irons", 
+        "phone": "847/467-6221", 
+        "address": "555 Clark., Room 126, EV Campus"
+    }, 
+    "term": "2014 Spring", 
+    "room": "ANTHRO Sem Rm 104 - 1810 Hinmn", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This course will take biological evolution as a fact and will not address the question of the evidence for evolution which is overwhelming.  Rather the question addressed will be how much of human social behavior can be explained in terms of evolution."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Five books and a few essays will be required readings; the required essays will be on Blackboard.  Quartet Copies will have a course pack consisting of the Power-Point presentation used for lectures.  Taking notes on lectures and discussion in this course pack is strongly recommended."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of this course, students should have a general understanding of several theories concerning the ways in which natural selection shapes human social behavior.  This will include an understanding of kin selection, sexual and social selection, the evolution of elaborate sociality in the human descent line, and the development of language and culture as means of achieving elaborate social cooperation.  Students should also have an appreciation of the naturalistic fallacy and the broader question of the social and political implications of evolutionary research."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "This is an introductory course.  There no prerequisites."
+        }
+    ], 
+    "class_num": 38648, 
+    "attributes": null, 
+    "catalog_num": "105-CN"
+}

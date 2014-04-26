@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2155, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Seminar in Historical Analysis", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "I am a professor of modern Japanese history at NU.  I work on the 20th century: I've written two books on economic ideas and economic policy in postwar Japan, edited five books that compare war remembrance in Japan, including the distinctive memories of Okinawans, to remembrance in the United States, Germany, and elsewhere, and am now working on a book about the different ways that people tried to create new institutions in postwar Japan that would prevent another disaster on the scale of their truly awful war.", 
+        "name": "Laura E Hein", 
+        "phone": "847/491-3408", 
+        "address": "Harris Hall Room 325"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L40", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nJohn Gillis, ed. Commemorations\nArt Spiegelman, MAUS\nLaura Hein and Mark Selden Living with the Bomb\nChristian Appy Patriots."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Papers, presentations, discussion"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar"
+        }
+    ], 
+    "class_num": 24218, 
+    "attributes": "No P/N option for this section\n\nGraduate Students Only\n\n", 
+    "catalog_num": "405-0"
+}

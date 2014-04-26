@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19518, 
+    "subject": "KOREAN", 
+    "requirements": null, 
+    "title": "Korean III: Topics in the News", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesday 12:00-1:00", 
+        "bio": null, 
+        "name": "Eunmi Lee", 
+        "phone": "8474671323", 
+        "address": "4-370 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33034, 
+    "attributes": null, 
+    "catalog_num": "215-3"
+}

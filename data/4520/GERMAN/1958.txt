@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1958, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Intermediate German", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Monday and Wednesdays 2:00 - 3:00 PM and by appointment", 
+        "bio": null, 
+        "name": "Ingrid Zeller", 
+        "phone": "847.491.8290", 
+        "address": "2-530 Kresge Hall, 1880 Campus Drive"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1 course packets to be purchased at Quartet Copy at the beginning of the quarter."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Continued development of all language skills. The students will gain insight into contemporary Germany and perspective on German history. Students will increase their linguistic proficiency and their cultural literacy."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "German 101-3 or equivalent"
+        }
+    ], 
+    "class_num": 10326, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "102-1"
+}

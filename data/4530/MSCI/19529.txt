@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19529, 
+    "subject": "MSCI", 
+    "requirements": null, 
+    "title": "Survey of Nanomaterials-Nanochemistry", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Gayle E Woloschak", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "McGaw Pavilion 2-403", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35173, 
+    "attributes": null, 
+    "catalog_num": "308-0"
+}

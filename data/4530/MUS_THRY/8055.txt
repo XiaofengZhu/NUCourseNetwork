@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 8055, 
+    "subject": "MUS_THRY", 
+    "requirements": null, 
+    "title": "Figured Bass", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Author of numerous books, articles, and reviews in the fields of music theory, music perception, and 18th-century musical style. Serves on the editorial boards of Music Theory Spectrum and the Journal of Music Theory. Former editor, Music Perception. Has served on the executive board of the Society for Music Theory and the editorial board of the Journal of the American Musicological Society. Was Vice President for Music Taxonomy at MoodLogic, Inc., an on-line music company in Silicon Valley, at the peak of the Internet revolution.", 
+        "name": "Robert O Gjerdingen", 
+        "phone": "847/491-5721", 
+        "address": "r-gjerdingen@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 125", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Basic keyboard skills will be helpful. This class is highly recommended if you intend to take \"Baroque Counterpoint\" in the spring term."
+        }
+    ], 
+    "class_num": 22810, 
+    "attributes": null, 
+    "catalog_num": "317-0"
+}

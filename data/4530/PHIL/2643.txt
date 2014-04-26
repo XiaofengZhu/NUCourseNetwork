@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2643, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Professional Linkage Program", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John B Laing", 
+        "phone": "847/491-2558", 
+        "address": "Kresge 3-230"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 213", 
+    "end_time": "17:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Ethical Issues in Business: A Philosophical Approach\", ed. Thomas Donaldson and Patricia H. Warhane, ISBN-10: 0131846191;  ISBN-13 978-0-13-184619-7; (8th Edition)\nClassroom handouts (will be made available on Blackboard.)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "In-class team presentation (25%)\nPaper on a topic of the student's choosing (25%) \nFinal exam (25%)\nContribution to discussion (25%)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and Discussion"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Seniors can register without permission number. \nJuniors and below, please email John Laing (j-laing@northwestern.edu) for approval.\nOnce approved, email confirmation to Jasmine Bomer (j-bomer@northwestern.edu) for a permission number."
+        }
+    ], 
+    "class_num": 26596, 
+    "attributes": "Juniors/Seniors Only\n\n", 
+    "catalog_num": "394-0"
+}

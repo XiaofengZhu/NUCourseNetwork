@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 5269, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Thermodynamics of Materials", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "20", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Erik Luijten", 
+        "phone": "847/491-4097", 
+        "address": "3011 Cook Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Thermodynamics in Materials Science,\" 2nd Ed., Robert DeHoff, (Taylor and Francis, 2006), ISBN:978-0849340659"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework (10%), lab (5%), Two Midterms (25% each), and Final Exam (35%)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Three lectures, one problem-solving session per week, weekly laboratory."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Chem 103 or 172; Math 230; Phys 135-1"
+        }
+    ], 
+    "class_num": 15868, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "314-0"
+}

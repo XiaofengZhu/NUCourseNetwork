@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 17269, 
+    "subject": "CIS", 
+    "requirements": null, 
+    "title": "Information Security", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Faisal O Akkawi", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "SECURITY+ GDE.TO NETWORK SECURITY FUND.\nBy CIAMPA\nEDITION:   4TH 12 PUBLISHER:   CENGAGE L\nISBN:   9781111640125"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The course will be balanced between lecture, discussion, case analysis, application, and problem-solving."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CIS 313 or equivalent."
+        }
+    ], 
+    "class_num": 18166, 
+    "attributes": null, 
+    "catalog_num": "345-CN"
+}

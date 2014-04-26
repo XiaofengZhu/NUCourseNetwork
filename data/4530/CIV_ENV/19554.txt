@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19554, 
+    "subject": "CIV_ENV", 
+    "requirements": "Enrollment Requirements: Reserved for Engineering Juniors or Seniors.", 
+    "title": "Architectural Engineering and Design II: Intermediate", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Laurence O Booth", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 101", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Steve Jobs\t/ Walter Isaacson / ISBN 978-1451648546 / 2013 / Simon & Schuster"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Junior standing in engineering and 385-1.   By permission number only."
+        }
+    ], 
+    "class_num": 20848, 
+    "attributes": null, 
+    "catalog_num": "385-2"
+}

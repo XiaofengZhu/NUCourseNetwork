@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 2649, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Proseminar (1St-Yr Philosophy Grad Students Only)", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Fabrizio Cariani", 
+        "phone": "847/491-2555", 
+        "address": "Crowe 3-171"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Library 3-746 - Sem", 
+    "end_time": "18:30:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All readings will be posted on Blackboard. No books are required."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Study Questions/Problem Sets, Final Paper (Multiple Revisions)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Teaching method:\nDiscussion-based, with possible student presentations."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "- Acquire knowledge of foundational works in the Philosophy of Language.\n- Improve their ability to conceive, compose and revise professional-quality writing in philosophy."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "For first year Philosophy PhD candidates only"
+        }
+    ], 
+    "class_num": 33768, 
+    "attributes": "Graduate Students Only\n\n", 
+    "catalog_num": "401-1"
+}

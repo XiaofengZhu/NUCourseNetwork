@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 1407, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Pre-requisite: Students must have completed BIOL_SCI 210-3, BIOL_SCI 217-0, BIOL_SCI 302-0 or BIOL_SCI 311-0 to register for this course.", 
+    "title": "Neurobiology of Learning and Memory", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "14:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Catherine S Woolley", 
+        "phone": "847/491-3025", 
+        "address": "Pancoe - Room 2-407"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 31070, 
+    "attributes": null, 
+    "catalog_num": "326-0"
+}

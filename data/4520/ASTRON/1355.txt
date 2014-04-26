@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1355, 
+    "subject": "ASTRON", 
+    "requirements": null, 
+    "title": "Extragalactic Astrophysics and Cosmology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M, W, F 3:00-4:00pm (but call ahead for exceptions or if you can't make those times).", 
+        "bio": null, 
+        "name": "Melville P Ulmer", 
+        "phone": "847/491-5633", 
+        "address": "Dearborn Observatory (2131 Tech Drive), Room 3B, Evanston"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 17003, 
+    "attributes": null, 
+    "catalog_num": "429-0"
+}

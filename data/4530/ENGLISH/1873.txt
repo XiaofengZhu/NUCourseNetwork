@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 1873, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in American Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John Alba Cutler", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Allison Residential Comm 1021", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Readings might include selections from the following: Gilroy, The Black Atlantic; Edwards, The Practice of Diaspora; Clark Hine, Keaton, and Small, eds., Black Europe and the African Diaspora; Jackson, Geographies of the Haitian Diaspora; Wekker, The Politics of Passion: Women's Sexual Culture in the Afro-Surinamese Diaspora; Patton and Snchez-Eppler, eds., Queer Diasporas; Vargas, Never Meant to Survive: Genocide and Utopias in Black Diaspora Communities; Romn and Flores, eds., The Afro-Latin@ Reader: History and Culture in the United States; Braziel and Mannur, eds.,Theorizing Diaspora: A Reader; Brah, Cartographies of Diaspora; Jayasuriya and Pankhurst, eds. The African Diaspora in the Indian Ocean; Cohen, Global Diasporas: An Introduction."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texts will include selections from the journals mentioned above and secondary readings in print culture theory and the sociology of literature, as well as the following books (all available either online, in special collections, or in course readers): Amiri Baraka, The Dutchman and Black Art; Gwendolyn Brooks, In the Mecca; Sonia Sanchez, We a Badddd People; Alurista, Floricanto en Aztln; Victor Hernandez Cruz, Snaps; Leslie Silko, Laguna Woman, and Peter Blue Cloud, Alcatraz is Not an Island."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission of department required"
+        }
+    ], 
+    "class_num": 24034, 
+    "attributes": null, 
+    "catalog_num": "471-0"
+}

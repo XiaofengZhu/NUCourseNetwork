@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 5232, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Engineering Design", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael Joseph Beltran", 
+        "phone": "847/467-1995", 
+        "address": "Technological Institute, Rm AG28, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Ford Eng Design Cntr ITW 1350", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Machine shop training: all students are required to complete a 6-hour machine shop training course, if they have not previously done so.\nMock-up prototype: each team prepares a mockup of their design early in the design process.\nCAD: each team prepares CAD drawings of their design using SolidWorks, Pro/Engineer, or UniGraphics.\nFunctional prototype: each team builds a fully functioning prototype of their design."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Product Design and Development, Ulrich and Eppinger, 5th Edition, McGraw-Hill, ISBN 978-007-3404776"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assignments/evaluations may include prototypes, oral presentations, interim reports, final reports, and quizzes or exams."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Senior standing"
+        }
+    ], 
+    "class_num": 20344, 
+    "attributes": null, 
+    "catalog_num": "398-0"
+}

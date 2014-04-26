@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19547, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Theology and the Study of Religion", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Th. 10:30 am-12.30 pm", 
+        "bio": null, 
+        "name": "Christine M Helmer", 
+        "phone": "847 4912616", 
+        "address": "Crowe Hall, 1860 Campus Drive, 4-148"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Friedrich Schleiermacher, On Religion, trans. Crouter, Cambridge (978-0-521-47975-2)\nRudolf Otto, The Idea of the Holy, Oxford (9780195002102)\nErnest Troeltsch, The Absoluteness of Christianity, Westminster (9780664230166)\nLudwig Feuerbach, The Lectures on the Essence of Religion, Prometheus (9781591022138)\nMax Weber, The Protestant Ethic and the Spirit of Capitalism, Oxford (9780199747252)\n\nHard copies of texts required, no e-formats."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be able to 1) outline the argument in major texts in the history of the study of religion; 2) analyze these texts in view of their theological ideas, questions, and concepts; 3) construct ways to productively relate the modern study of religion to theology."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Upper level undergraduate student with knowledge of the study of religion or philosophy. Graduate students in religion, theology, history, German or philosophy."
+        }
+    ], 
+    "class_num": 34533, 
+    "attributes": null, 
+    "catalog_num": "470-0"
+}

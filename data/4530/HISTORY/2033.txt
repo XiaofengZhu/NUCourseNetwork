@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 2033, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "History of the United States, Reconstruction to the Present", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "University Hall 412", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "11:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "11:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Kathleen Belew (Ph.D., Yale University, 2011) specializes in the history of the United States after the Vietnam War, examining the wars long aftermath on the American home front. She teaches courses on the American Vigilante, Histories of Violence in the United States, the Vietnam War, and comparative race and racism. Originally from Colorado, Belew earned her B.A. in Comparative History of Ideas from the University of Washington in 2005, where she was named Deans Medalist in the Humanities. She has also taught at Yale University, Rutgers University, and the School of the Art Institute of Chicago. Her second project, a long cultural history of the American vigilante from early America to the present, emphasizes the constitutive power of violence in nation-building. She is affiliated with the Northwestern American Studies Program.", 
+        "name": "Kathleen C Belew", 
+        "phone": "847/467-2305", 
+        "address": "Harris Hall Room 242"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G15", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Americas"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nEric Foner, Give Me Liberty! An American History, Third Seagull Edition, Volume 2 (ISBN-10: 0393911918, ISBN-13: 978-0393911916)\nPeggy Pascoe, What Comes Naturally: Miscegenation Law and the Making of Race in America (Oxford: Oxford University Press, 2009) (ISBN-10: 0199772355; ISBN-13: 978-0199772353)\nArticles and primary sources posted to Blackboard"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Participation: 15%, Midterm Exam: 20%, Take-Home Assignments: 35%, Final Exam: 30%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and mandatory discussion sections"
+        }
+    ], 
+    "class_num": 34299, 
+    "attributes": "Historical Studies Distro Area\n\nAttendance at 1st class mandatory\n\nRegistration for discussion section required\n\n", 
+    "catalog_num": "210-2"
+}

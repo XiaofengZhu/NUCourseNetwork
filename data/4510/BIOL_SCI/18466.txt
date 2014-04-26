@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18466, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Microbiology", 
+    "section": "28", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-26", 
+    "end_date": "2013-08-14", 
+    "start_time": null, 
+    "component": "28", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Dorina Veliceasa", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "PRESCOTT'S MICROBIOLOGY\nBy WILLEY\nEDITION:   9TH 15 \nPUBLISHER:   MCG\nISBN:   9780073402406"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "BIOL SCI 210-A, -B, -C, or equivalent basic familiarity with biology and evolution."
+        }
+    ], 
+    "class_num": 42064, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "328-CN"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 75, 
+    "course_id": 5228, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Intro to Dynamic Systems", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "James Edward Colgate", 
+        "phone": "847/491-4264", 
+        "address": "Technological Institute, Rm B225, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Textbook:\nSystem Dynamics, 4th edition, 2006, Karnopp, Margolis, Rosenberg, Wiley, ISBN 978-0-4-7170965-7, 978-0-4-7170965-4"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "<p>Many engineering components can be described in terms of energy. Resistors and dashpots dissipate energy. Springs, masses, capacitors, and inductors store energy but do not generate it or dissipate it. Still other components such as gears, levers and motors convert energy from one form to another. In this course you will learn how complex engineering systems can be described in terms of small number of basic energetic components. ME 390 considers especially the dynamic behavior of engineering systems, including descriptors such as time constants, natural frequency and damping ratio, and frequency response.</p>\n\nMinisyllabus:\n\nModels, dynamics, simulation<br/>\nBond graphing<br/>\nEnergy storages, Energy sources<br/>\nLaplace Transforms<br/>\nFirst and Second order response<br/>\nBode plots"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: GEN_ENG 205-4"
+        }
+    ], 
+    "class_num": 15856, 
+    "attributes": "Prerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "390-0"
+}

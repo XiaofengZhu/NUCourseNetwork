@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 16458, 
+    "subject": "THEATRE", 
+    "requirements": "Enrollment Requirements: Reserved for Theatre Majors and Minors", 
+    "title": "Theatre Sound", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joshua Edward Horvath", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 15030, 
+    "attributes": "No P/N option for this section\n\nDepartment Majors Only\n\n", 
+    "catalog_num": "263-0"
+}

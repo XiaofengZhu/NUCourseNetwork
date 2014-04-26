@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 11297, 
+    "subject": "CHEM", 
+    "requirements": null, 
+    "title": "Nanopatterning: Top-down meets Bottom-up", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "20", 
+            "component": "LAB", 
+            "end_time": "17:00:00", 
+            "meeting_days": "TuTh", 
+            "start_time": "14:00:00"
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "13:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Teri Wang Odom", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 33315, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "360-0"
+}

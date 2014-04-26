@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 5775, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Environmental Health Sciences", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Peter Orris", 
+        "phone": "312/413-0105", 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "McGaw Pavilion 1-401", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required text: Robert H. Friis, Essentials of Environmental Health, 2nd ed. Jones and Bartlett Learning, 2012. Two copies of the text will be made available on reserve at (TBA).\n\nSupplemental: Additional reading materials will be assigned for each topic and posted on BlackboardTM one week prior to class."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. Students will be able to describe, contrast, and compare the central issues, essential scientific components, and strategies for controlling health impacts from major environmental hazards.\n\n2. Students will be able to conduct basic analyses using the principles of toxicology, exposure assessment, and epidemiology.\n\n3. Students will be able to describe ways that scientific studies can determine and quantify relationships between environmental exposures and health.\n\n4. Students will be able to explain the systematic approach to the assessment of risk and the setting of priorities for, and management of, risks associated with the environment."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission number required. Please contact Meera at meera.tavathia@northwestern.edu."
+        }
+    ], 
+    "class_num": 20294, 
+    "attributes": null, 
+    "catalog_num": "303-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 8, 
+    "course_id": 20264, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Research Methods for Gender & Sexuality Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mary J Weismantel", 
+        "phone": "847/491-4822", 
+        "address": "1812 Hinman Ave., Room #105, EV Campus"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 13032, 
+    "attributes": null, 
+    "catalog_num": "396-0"
+}

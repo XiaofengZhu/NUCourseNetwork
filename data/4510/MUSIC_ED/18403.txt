@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18403, 
+    "subject": "MUSIC_ED", 
+    "requirements": null, 
+    "title": "Music in the Interdisciplinary Curriculum", 
+    "section": "26", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-07-12", 
+    "start_time": null, 
+    "component": "26", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Janet R Barrett", 
+        "phone": "847/467-1258", 
+        "address": "j-barrett3@northwestern.edu"
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41810, 
+    "attributes": null, 
+    "catalog_num": "345-0"
+}

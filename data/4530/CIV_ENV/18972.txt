@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 18972, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Public & Environmental Health", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "l-marcelino@northwestern.edu", 
+        "bio": null, 
+        "name": "Luisa A Marcelino", 
+        "phone": "847.491.4035", 
+        "address": "2145 N. Sheridan Road / Tech A218"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L160", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Brock Biology of Microorganisms / Madigan and Martinko / ISBN 978-0321649638 / Dec 2010 / 13th edition / Benjamin Cummings"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "An overall course grade will be calculated from scores using the scheme below:\n\n1. Homework (15%) (late penalty 20%/day);\n2. In class participation (including group projects) (15%);\n3. Written and Oral presentation of the group term project (25%);\n4 Quiz (15%);\n5. Final (30%)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two (1h 20m) lecture periods per week, bi-weekly assignments, several group projects with oral presentation, one written group term project with oral presentation, no laboratory."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "OBJECTIVES OF THE COURSE:\n\n1.Understand the science of epidemiology and discuss major infectious diseases, clinical presentation, epidemiology, and treatment; their development and transmission in the environment; limitations and challenges in controlling/eradicating disease; and global surveillance and intervention programs.\n\n2.Understand the major technological breakthroughs that have successfully been used to prevent the spread of infectious diseases, including vaccination, social public health programs, effective surveillance and outbreak management schemes, drinking water treatment, and sanitation.\n\n3.Understand causes of disease emergence and re-emergence, including both purely biological factors such as mutation and factors related to human population dynamics, land development, and spatial organization of modern human societies.\n\n4.Understand the effects of human perturbations on the structure and function of natural ecosystems, including effects associated with reduction of habitat, fragmentation of ecosystems, alteration of flow regimes and water chemistry, and global climate change.\n\n5.Propose solutions for the Millennium Global Health Challenges: 1) improve existent vaccines and develop new vaccines; 2) control insects that transmit agents of disease; 3) improve drug treatment of infectious diseases 4) cure latent and chronic infections; 5) measure disease and health status accurately and economically in poor countries.\n\n6.Propose sustainable solutions for integrated management of water and food supplies, protection of human health, and preservation of natural ecosystems.\n\n7.Develop critical thinking and communication skills through execution of group projects."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CIV_ENV 361-1 Environmental Microbiology, or equivalent background in microbiology or\nbiology and/or chemistry/ biochemistry"
+        }
+    ], 
+    "class_num": 20828, 
+    "attributes": null, 
+    "catalog_num": "361-2"
+}

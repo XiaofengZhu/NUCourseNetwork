@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 655, 
+    "subject": "SESP", 
+    "requirements": null, 
+    "title": "Methods of Observing Human Behavior", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lilah Devra Shapiro", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G02", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students are required to digitally record interviews and provide electronic copies of those interviews. This is best accomplished using a digital voice recorder. Students are highly recommended to purchase their own recorder, or to have more than one per group. Smart phone technology is sufficient for the tasks included in this course. There are also digital recorders specifically reserved for this class in the Student Services office. It is the responsibility of the student to ensure that they have chosen a device from which files can be exported. The teaching staff will not listen to interviews still on devices that do not have this capability."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At some point in their careers, most SESP graduates will be called upon to carry out applied research, to design needs assessments for new services, to conduct focus groups, to evaluate existing programs, to write grant proposals, to obtain funding for new programs and to make policy or program recommendations. Students who master the concepts and skills taught in this qualitative methods course will be better prepared to perform these tasks."
+        }
+    ], 
+    "class_num": 23015, 
+    "attributes": null, 
+    "catalog_num": "372-0"
+}

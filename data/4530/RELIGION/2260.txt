@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2260, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Topics in Buddhism", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment.", 
+        "bio": "Antonio Terrone, Ph.D. is a Lecturer in Asian Religions in the Department of Religious Studies at Northwestern University. Interested in the history and religious practices of Tibetan Buddhism, he is currently writing about the phenomenon of Buddhist scriptural revelation among Tibetan Tantric visionaries in China. Dr. Terrones other research interests include religion and politics in Asia, religious and ethnic policy in the Peoples Republic of China, and Islam, identity, and nationalism among the Uyghurs, an ethnic nationality of Xinjiang in Western China.", 
+        "name": "Antonio Terrone", 
+        "phone": "8474915488", 
+        "address": "Crowe Hall 4-133"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "<br/>"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1) The Analects (Penguin Classics) [Paperback] By D.C Lau, Penguin Classics; 1st edition (September 3, 1998) - 978-0140443486\n\n2) Tao Te Ching: A New English Version (Perennial Classics) [Paperback] By Stephen Mitchell, Harper Perennial Modern Classics; First Edition edition (September 5, 2006) - 978-0061142666\n\n3) The Platform Sutra: The Zen Teaching of Hui-neng [Paperback] -  By Red Pine, Counterpoint (November 28, 2008) - 978-1593761776\n\n4) The Life of Milarepa (Penguin Classics) by Tsangnyon Heruka, Andrew Quintman and Donald S. Lopez Jr. (Aug 31, 2010) - 978-0143106227"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No registration requirements, but prior coursework in Buddhism or gender studies is helpful.\n<br/>"
+        }
+    ], 
+    "class_num": 24559, 
+    "attributes": null, 
+    "catalog_num": "319-0"
+}

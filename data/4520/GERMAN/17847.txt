@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 17847, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Focus Reading: Perspectives on German Life and Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John Paluch", 
+        "phone": "8474918081", 
+        "address": "2-545 Kresge Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Reader Available for purchase in the department."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Fairy tales, historical documents, commentaries and short historical summaries form the basis for classroom discussion and activities. Using discussion activities, students will work co-operatively to understand texts and work to articulate their interpretation of these texts as reflections of historical, political and social currents in Germany."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Using the Grimm fairy tales as a foundation for discussion and examination of 19th century German culture, students will acquire greater fluency in spoken German and write both creative and critical texts."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite:  Completed German 102-3 or permission of the instructor."
+        }
+    ], 
+    "class_num": 12654, 
+    "attributes": "Reading, writing, speaking proficiency\n\n", 
+    "catalog_num": "201-0"
+}

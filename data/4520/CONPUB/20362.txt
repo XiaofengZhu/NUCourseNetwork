@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 20362, 
+    "subject": "CONPUB", 
+    "requirements": null, 
+    "title": "Reforming the Law of Evidence of Tanzania I", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ronald J Allen", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18045, 
+    "attributes": "1 Draft degree req may be met with class\n\n3 draft degree req may be met with class\n\nConstitutional Law or Procedure an element\n\nInternational Law PracticeArea in course\n\n", 
+    "catalog_num": "717"
+}

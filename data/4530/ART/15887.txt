@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 15887, 
+    "subject": "ART", 
+    "requirements": null, 
+    "title": "Basic Photography I", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Pamela Bannos is a Senior Lecturer who has been teaching in the Department of Art Theory and Practice since 1993. She has worked with nearly every photographic process and format from 19th century gum prints to web-based digital works. She has exhibited her work nationally and internationally.", 
+        "name": "Pamela L Bannos", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Evaluation of student performance is based on attendance, participation, ability to absorb and implement information through assignments, and a final project."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class sessions are devoted to lecture/demonstrations and group critiques that address both technique and content. Students work during class sessions as well as independently and students should be prepared to work in the photo lab outside of scheduled class meeting times."
+        }
+    ], 
+    "class_num": 35019, 
+    "attributes": null, 
+    "catalog_num": "150-CN"
+}

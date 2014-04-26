@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 949, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: This section is currently closed to registration.  Please contact the department directly with any questions.", 
+    "title": "Media Presentation: Video Producing for Broadcast & the Web", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lawrence L Stuelpnagel", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "McCormick Tribune 4115-Studio", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This course is reserved for pre-JR students.  Available seats may be released to CAESAR registration after pre-JR students have been enrolled, for those students who wish to take this course as an elective.   \n\nStudents who are assigned to take this course in a later quarter should NOT register themselves for this course."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: JOUR 301"
+        }
+    ], 
+    "class_num": 22055, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "312-0"
+}

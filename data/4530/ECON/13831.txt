@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 13831, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Political Economics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Bruno H Strulovici", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-415", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<i>Analyzing Politics, Rationality, Behavior and Institutions</i> by K.A. Shepsle and M.S. Bonchek, 2nd Edition (ISBN: 978-0393935073)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There will be weekly problem sets, a midterm and a final exam, respectively representing 25%, 30%, and 45% of the final grade."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures. Depending on enrollment, TA sessions"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Economics 281, 310-1, 310-2."
+        }
+    ], 
+    "class_num": 34100, 
+    "attributes": null, 
+    "catalog_num": "335-0"
+}

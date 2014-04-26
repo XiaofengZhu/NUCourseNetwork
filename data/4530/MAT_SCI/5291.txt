@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 5291, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Honors Project in Materials Science", 
+    "section": "12", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "12", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "R P H Chang", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Please contact the Materials Science department office for a permission number."
+        }
+    ], 
+    "class_num": 21269, 
+    "attributes": "Juniors/Seniors Only\n\n", 
+    "catalog_num": "394-0"
+}

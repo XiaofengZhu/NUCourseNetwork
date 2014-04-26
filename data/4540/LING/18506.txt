@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 18506, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Language Evolution", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appointment", 
+        "bio": null, 
+        "name": "Brady Z Clark", 
+        "phone": "847/491-5778", 
+        "address": "2016 Sheridan Road, Room 107"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33120, 
+    "attributes": "Natural Sciences Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "243-0"
+}

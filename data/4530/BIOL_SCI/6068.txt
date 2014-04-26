@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6068, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Genetics and Evolution", 
+    "section": "16", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "16", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Dr. Lutze has been teaching in the School of Continuing Studies at Northwestern since 1993. She teaches Concepts of Biology and Evolution and Genetics. She completed her doctoral studies in the Biopsychology program at the University of Chicago. Her graduate research included studies on the genetics of color vision and clinical vision research. Dr. Lutze also teaches in the Natural Sciences Department and the School of Professional Studies program at Loyola University and in the Biology Department at DePaul University. She specializes in teaching science classes for non-science majors. Dr. Lutze is currently participating in vision research program at The University of Illinois at Chicago (UIC).  Dr. Lutze also does language editing of scientific manuscripts for non-native speakers.", 
+        "name": "Margaret Burgett Lutze", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 413", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "INTRODUCTION TO BIOLOGICAL EVOLUTION\nBy KARDONG\nEDITION:   2ND 08 PUBLISHER:   MCG\nISBN:   9780073050775"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will have an understanding of the cellular basis of life, genetics and the scientific evidence for evolution."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 35020, 
+    "attributes": null, 
+    "catalog_num": "164-CN"
+}

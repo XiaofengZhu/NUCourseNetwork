@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 18460, 
+    "subject": "PBC", 
+    "requirements": null, 
+    "title": "Critical Topics in Ecology and Conservation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment only", 
+        "bio": null, 
+        "name": "Krissa A Skogen", 
+        "phone": "847/835-6919", 
+        "address": "Chicago Botanic Garden, 1000 Lake Cook Road, Glencoe"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 13594, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "451-0"
+}

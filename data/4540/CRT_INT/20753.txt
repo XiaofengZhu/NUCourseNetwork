@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20753, 
+    "subject": "CRT_INT", 
+    "requirements": null, 
+    "title": "Internal Audit Knowledge Elements", 
+    "section": "43", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-04-01", 
+    "end_date": "2014-06-03", 
+    "start_time": "18:00:00", 
+    "component": "43", 
+    "school": "UC", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "19:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 39019, 
+    "attributes": null, 
+    "catalog_num": "203-0"
+}

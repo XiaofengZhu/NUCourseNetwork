@@ -1,0 +1,61 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 11917, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Pre-requisite: Students must have completed BIOL_SCI 325-0 and have declared a concentration in physiology to register for this course.", 
+    "title": "Physiology Laboratory", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute MG82", 
+            "section": "61", 
+            "component": "LAB", 
+            "end_time": "16:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "13:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Tracy M Hodgson", 
+        "phone": "847/491-4823", 
+        "address": "Tech Institute, Room MG77"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute MG28", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Biological Sciences majors with a concentration in Physiology are given priority for enrollment in this course. This is a REQUIRED class for graduation for those Biological Sciences majors with a concentration in Physiology."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No book is assigned for this class. Readings and lab exercises will be distributed."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Individual lab reports, lab group oral reports, and one data analysis/experimental design exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "2-3 lectures and one (1) 4-hour lab period per week."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: BIO 325-0"
+        }
+    ], 
+    "class_num": 23616, 
+    "attributes": null, 
+    "catalog_num": "358-0"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4455, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Evaluation and Treatment of Central Auditory Processing Disorders", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jeanane Marie Ferre", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "The schedule and topics in this course may be modified at the instructor's discretion.\nThe students must abide by the NWU statement on Academic Honesty and Student Conduct as outlined by University and Departmental documents. Academic dishonesty includes, but is not limited to cheating on an exam (e.g., copying others' answers, using a crib sheet) or plagiarism of a paper or exercise (e.g., taking material from readings without citation, copying another student's work). Failure to maintain academic integrity on an assignment will result in a loss of credit for that assignment, at a minimum.  \n\nIn compliance with equal access laws, the instructor is available to discuss appropriate academic accommodations that may be required by students with disabilities. Please make these requests during the first week of the quarter, except in unusual circumstances, so that arrangements can be made."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the end of this course, students will be able to: \n1) identify neuroanatomical landmarks of the central auditory nervous system IV B-4)\n2) describe key neurophysiological bases of central auditory processing (IV B-8)\n3) list and define known central auditory processes (IV B-8)\n4) describe components of typical central auditory evaluation (IV D-6, D-7)\n5) implement a screening program for central auditory dysfunction (IV C-3, C-4)\n6) administer and score typical central auditory function tests (IV D-6, D-7)\n7) interpret test results using a deficit-specific model (IV D-12)\n8) describe general principles of management of central auditory disorders (IV B-2,  B-3,E-2, E-5)\n9) make useful recommendations for deficit-specific management (IV B-2, D-16)\n10) report evaluation findings and recommendations to parents and other professionals (IV C-1, D-1, D-13, D-16, E-1, E-3, E-6)"
+        }
+    ], 
+    "class_num": 17165, 
+    "attributes": null, 
+    "catalog_num": "424-0"
+}

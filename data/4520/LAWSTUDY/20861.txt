@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 20861, 
+    "subject": "LAWSTUDY", 
+    "requirements": null, 
+    "title": "Colloquium: Legal Theory", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joshua Seth Kleinfeld", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18456, 
+    "attributes": "Consult Professor about writing requirements\n\nPerspective Elective\n\nLaw and Philosophy\n\n", 
+    "catalog_num": "702"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6583, 
+    "subject": "PSYCH", 
+    "requirements": null, 
+    "title": "Topics in Psychology", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Marcia F Grabowecky", 
+        "phone": "847/467-3044", 
+        "address": "306 Cresap"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-410", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Psychological Testing and Assessment:  An Introduction to Tests and Measurement, 8th edition  (Cohen, Swerdlik, & Sturman; 2013; McGraw Hill Publishers); \n\nExercises in Psychological Testing and Assessment by Ronald Jay Cohen, 7th edition, 2009."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course the student will be expected to achieve the following objectives: (1) develop an understanding of evil both from an historical viewpoint and current views of evil (2) comprehend Zimbardo's Stanfored Prison experiment in its basic dimensions (3) critique the findings of the Zimbardo Stanford Prison experiment (4) evaluate Zimbardo's assessment of the Stanford Prison experiment (5) articulate a personal theory of evil as it relates to the student's life."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "EVOLUTION + GENETICS FOR PSYCHOLOGY\nBy NETTLE\nEdition 09\nPublisher: OXFORD\nISBN: 9780199231515"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "PSYCH 110 or equivalent."
+        }
+    ], 
+    "class_num": 35090, 
+    "attributes": null, 
+    "catalog_num": "314-CN"
+}

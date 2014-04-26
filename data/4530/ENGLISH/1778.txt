@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 1778, 
+    "subject": "ENGLISH", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Students must have taken & passed English 206-0 to enroll.", 
+    "title": "Reading and Writing Fiction", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Shauna Seliy", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 118", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Selected short stories, essays on craft, and the work of the other students."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Evidence given in written work and in class participation of students' growing understanding of fiction; improvement will count for a great deal with the instructor in estimating achievement."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion of readings and principles; workshop of student drafts."
+        }
+    ], 
+    "class_num": 23366, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "207-0"
+}

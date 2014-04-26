@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 15937, 
+    "subject": "TURKISH", 
+    "requirements": null, 
+    "title": "Turkish I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW: 11:00am-12:20pm", 
+        "bio": null, 
+        "name": "Judith M Wilks", 
+        "phone": "8474912767 no voicemail", 
+        "address": "4-331 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "All students should also have access to a computer and printer for Blackboard postings and occasional online assignments."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TEXTBOOKS:  Suzan zel, Elementary Turkish: A Communicative Approach. Unpublished work. This will be available as a course packet from Quartet copies. The text may also be purchased from the author through the instructor in pdf format. Accompanying audio materials available at: http://languagelab.bh.indiana.edu/~celtie/. From the CeLTIE page, click on \"Recorded Materials\", then on \"Alphabetical Listing\", then on \"Turkish\", then on \"Basic\", then on \"Turkish 1: A Communicative Approach - S. Ozel\". This will take you to the listing of the recorded audio exercises from her text, which we will be using in class and for homework assignments. All students should also have access to a computer and printer for Blackboard postings and occasional online assignments.\n\nADDITIONAL REFERENCES: Redhouse English-Turkish/Turkish-English Dictionary. Redhouse Yaynevi, 2002.  Redhouse Yeni Szl: ngilizce-Trke / Trke-ngilizce, SEV Matbaaclk ve Yaynclk, 1997."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Periodic quizzes, written homework assignments, a mid-term exam and a final exam are given."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lessons are based on Suzan zel's (as yet unpublished) Elementary Turkish Grammar. Copies will be available in course packet form. Audio materials based on zel's work are also available. Practical examples of how the language is used (excerpts from literature, journalism, songs, etc.) are brought in as warm-up exercises to be done as a group. The goal is to transition gradually to using Turkish as the language of instruction."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: Completion of Fall quarter elementary Turkish, or permission of the instructor."
+        }
+    ], 
+    "class_num": 34227, 
+    "attributes": null, 
+    "catalog_num": "111-2"
+}

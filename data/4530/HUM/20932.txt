@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 20932, 
+    "subject": "HUM", 
+    "requirements": null, 
+    "title": "Media Theory", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 4-310", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "James J. Hodge (Ph.D. University of Chicago) is an Assistant Professor in the department of English and the Alice Kaplan Institute for the Humanities. He specializes in new media studies, especially digital media aesthetics. He also researches and teaches courses in critical theory, cinema and media studies, media theory and history, electronic literature, animation, experimental film and media, and science and technology studies.\n\nBefore coming to Northwestern, Hodge was a Postdoctoral Associate at Duke University in association with a Mellon-funded Sawyer Seminar entitled \"Phenomenology, Minds, and Media.\" He received his BA from Oberlin College and his MA from the University of California, Santa Barbara.", 
+        "name": "James Joseph Hodge", 
+        "phone": "847 4915675", 
+        "address": "University Hall Room 408"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Walter Benjamin, <em>The Work of Art in the Age of its Technological Reproducibility, and \nOther Writings on Media,</em> ISBN-13: 978-0674024458\nFriedrich Kittler, <em>Gramophone, Film, Typewriter,</em> ISBN-13: 978-0804732338\nLev Manovich, <em>The Language of New Media,</em> ISBN-13: 978-0262632553\nMarshall McLuhan, <em>Understanding Media: The Extensions of Man,</em> ISBN-13: 978-0262631594\nW. J. T. Mitchell and Mark B. N. Hansen, <em>Critical Terms for Media Studies,</em> ISBN-13: 978-0226532554"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "20% of grade: Short Essay (1 page, single-spaced) \n20% of grade: Short Essay (3 pages, double-spaced) \n10% of grade: Final Essay Proposal (1 page, double-spaced) \n25% of grade: Final Essay (5 pages, double-spaced) \n25% of grade: Final Exam (short answers)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture course (two 80-minute meetings per week) with required discussion section (one 50-minute meeting per week)."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1.\tRead deeply in the major texts on media in 20th and 21st century theoretical discourse \n2.\tExamine key terms and concepts in media theory\n3.\tAnalyze media from a historical perspective\n4.\tIdentify and contest arguments in media theory\n5.\tExamine artworks (art, literature, cinema, digital art) as catalysts for theoretical inquiry"
+        }
+    ], 
+    "class_num": 34245, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "225-0"
+}

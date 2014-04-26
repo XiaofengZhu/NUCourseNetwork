@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 19422, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Overview of Language Disorders", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Amy Elizabeth Booth", 
+        "phone": "847/467-0331", 
+        "address": "2240 Campus Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 1441", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students enrolled in CSD 453 are required to:  (1) attend all classes (2) complete all assignments on time and (3) take examinations as scheduled. Students are not entitled to make-up assignments or to grades of Incomplete unless the instructor has approved such arrangements in advance."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Will be posted on Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grading: Performance will be determined on the basis of 2 exams (80%) and written responses to the readings and in-class activities (20%)."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Objectives (numbers in parentheses reflect ASHA standards addressed):\n<ol> \n<li>Define language delay and language disorder, with special emphasis on negative examples (e.g., L2 acquisition, variations in dialect)  (III-C)</li>\n<li>Describe the (expressive and receptive) language development characteristic of language disorders throughout the lifespan  (III-C)</li>\n<li>Identify factors known to increase the risk of language impairment (including genetic predisposition, prenatal insult, and postnatal experience), and consider etiological theories for a variety of disorders of language  (III-C)</li>\n<li>Specify other broad domains of development (e.g., social, sensory-motor, cognitive), and their relationship to language skills, in language disorders across the lifespan  (III-C)</li>\n<li>Compare and contrast theoretical perspectives regarding the primary deficits underlying language disorders  (III-C)</li>\n<li>Review behavioral, neuro-anatomical, physiological, and genetic research relevant to characterizing language disorders and adjudicating among alternative theoretical explanations thereof  (III-C, III-F)</li>\n<li>Specify commonalities and differences across language (and other related) disorders in order to highlight issues in the differential diagnosis  (III-C)</li>\n<li>Specify established and theoretical subtypes within diagnostic categories of language disorder  (III-C)</li>\n<li>Highlight medical, psychological & social problems commonly comorbid with language disorders (III-C)</li>\n</ol>"
+        }
+    ], 
+    "class_num": 21561, 
+    "attributes": null, 
+    "catalog_num": "453-0"
+}

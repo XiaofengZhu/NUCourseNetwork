@@ -1,0 +1,49 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 2499, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "MENU: Abstract Algebra", 
+    "section": "41", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 101", 
+            "section": "41A", 
+            "component": "DIS", 
+            "end_time": "10:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "10:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "41", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael R. Stein", 
+        "phone": "8474915524", 
+        "address": "Lunt 308"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 104", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Abstract Algebra, 3rd ed, Dummit and Foote, ISBN:978-0471433347, Wiley"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "permission of the department"
+        }
+    ], 
+    "class_num": 23715, 
+    "attributes": null, 
+    "catalog_num": "331-2"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "<Element DESCRAREA_VALUE at 1c834d0>", 
+    "topic": null, 
+    "seats": 27, 
+    "course_id": 3814, 
+    "subject": "CONDUCT", 
+    "requirements": "Enrollment Requirements: Registration is reserved for Music Majors/Minors.  Non-music students should register for the corresponding GEN_MUS course under the same catalog number.  Specific questions should be directed to the Music department.", 
+    "title": "Choral Organizations for Music Majors", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Donald John Nally", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 109", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22942, 
+    "attributes": null, 
+    "catalog_num": "364-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 20595, 
+    "subject": "IEMS", 
+    "requirements": "Enrollment Requirements: Registration is reserved for students who have completed IEMS 393-1.", 
+    "title": "Industrial Engineering Design Project", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mark W Werwath", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG66", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33847, 
+    "attributes": null, 
+    "catalog_num": "393-2"
+}

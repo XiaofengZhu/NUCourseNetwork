@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 280, 
+    "course_id": 1335, 
+    "subject": "ASTRON", 
+    "requirements": null, 
+    "title": "Modern Cosmology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Michael F Smutko", 
+        "phone": "847/491-4568", 
+        "address": "Dearborn Observatory (2131 Tech Drive), Room 9A, Evanston"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Singh, \"Big Bang\", 4th Estate/Harper \nCollins, 2004, ISBN 0-00-716220-0"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Hawley & Holcomb, \"Foundations of Modern Cosmology\", \nOxford, 2nd edition, ISBN 0-19-853096-X"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Exams: Two exams plus a final\nQuizzes: Best 2 of 3 quizzes"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 23813, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "101-0"
+}

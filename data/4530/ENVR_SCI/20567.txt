@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 20567, 
+    "subject": "ENVR_SCI", 
+    "requirements": null, 
+    "title": "Special Topics in Environmental Sciences", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Parkes Hall 215", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Louise Egerton-Warburton", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Class notes and articles (in PDF format) provided on the Blackboard site."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Lab reports, individual project report and presentation"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "One-hour tutorial, three hour lab"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: 210-1, 215 or ENVR SCI 202"
+        }
+    ], 
+    "class_num": 34199, 
+    "attributes": null, 
+    "catalog_num": "390-0"
+}

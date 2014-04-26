@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 20266, 
+    "subject": "GBL_HLTH", 
+    "requirements": "Enrollment Requirements: Reserved for Juniors & Seniors", 
+    "title": "Global Health in Human History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Erin B. Waxenbaum is a physical anthropologist with specialization in forensics, human variation, evolution and growth and development.   In addition to Anthropology faculty, Waxenbaum presently serves as a Research Associate at the Field Museum of Nautural History and the Forensic Anthropologist for the Cook County Medical Examiner's Office and DuPage, McHenry and Champaign County Coroner's offices.", 
+        "name": "Erin Beth Waxenbaum Dennison", 
+        "phone": "847/491-4818", 
+        "address": "1810 Hinman Ave., Room #A54B, EV Campus"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 13231, 
+    "attributes": "Historical Studies Distro Area\n\nInterdisciplinary Distro - See Rules\n\nNatural Sciences Distro Area\n\nNo Freshmen\n\n", 
+    "catalog_num": "308-0"
+}

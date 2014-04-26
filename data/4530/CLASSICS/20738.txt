@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20738, 
+    "subject": "CLASSICS", 
+    "requirements": null, 
+    "title": "Archaeology of Ancient Mediterranean", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Taco Tjitte Terpstra", 
+        "phone": null, 
+        "address": "Kresge 1-515"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-435", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Joanne Berry: The Complete Pompeii (London 2007) ISBN 978-0-500-05150-4"
+        }
+    ], 
+    "class_num": 34116, 
+    "attributes": "Historical Studies Distro Area\n\nInterdisciplinary Distro - See Rules\n\nLiterature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "310-0"
+}

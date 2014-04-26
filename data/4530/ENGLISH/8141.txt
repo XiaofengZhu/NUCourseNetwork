@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 8141, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Research Seminar for Literature Majors", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Helen F Thompson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 218", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Daniel Defoe, A Journal of the Plague Year (1722) (Penguin 9780140437850);\nJonathan Swift, Gulliver's Travels (1726) (Oxford 0199536848);\nMary Shelley, Frankenstein (1818) (Broadview Press 15548111031);\nCharles Darwin, The Origin of Species (1859) (excerpts:  will be made available by professor);\nSamuel Butler, Erewhon (1872) (Penguin 0140430571);\nThomas Hardy, Two on a Tower (1882) (Penguin 104043536);\nRobert Louis Stevenson, Dr. Jekyll and Mr. Hyde (1886) (Broadview Press 9781551116556);\nArthur Conan Doyle, The Sign of the Four (1890) (Broadview Press 9781551118376);\nH. G. Wells, The War of the Worlds (1898) (Broadview Press 9781551113531);\nMargaret Atwood, The Year of the Flood (2010) (Anchor 0307455475)."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "TBA"
+        }
+    ], 
+    "class_num": 34033, 
+    "attributes": "Attendance at 1st class mandatory\n\nJuniors/Seniors Only\n\n", 
+    "catalog_num": "397-0"
+}

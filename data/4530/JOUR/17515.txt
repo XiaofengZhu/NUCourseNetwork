@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 108, 
+    "course_id": 17515, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: Reserved for Medill Freshmen & Sophomores", 
+    "title": "Multimedia Storytelling", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "McCormick Tribune 2101", 
+            "section": "20A", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sarahmaria Aurora Gomez", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "McCormick Tribune Forum", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Required for first-year Medill students"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will practice applying news judgment in an ethical context. They will also demonstrate a practical understanding of what is appropriate for the platform and the audience by coming up with and executing story ideas for print, video, visual presentations and digital packages in group and individual stories using still photography, audio, video, flash and other digital tools. \nStudents are expected to report outside of the lab and off campus taking advantage of many reporting opportunities in the area. Video production is introduced with the expectation that students will grow toward proficiency and mastery of the use of video in news throughout the quarter and beyond. More advanced writing techniques and complex story structure are expected of students who will spend longer periods of time on individual and group stories in order to polish the content with a goal of publication."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: JOUR 201-1\n\nPlease select a new lab instructor for 201-2 to optimize your exposure to different editorial approaches and to increase your networking possibilities at Medill and beyond."
+        }
+    ], 
+    "class_num": 22002, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "201-2"
+}

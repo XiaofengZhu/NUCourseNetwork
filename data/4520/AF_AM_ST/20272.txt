@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 20272, 
+    "subject": "AF_AM_ST", 
+    "requirements": null, 
+    "title": "Literatures of the Black World", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michelle Maria Wright", 
+        "phone": "8474675414", 
+        "address": "1860 Campus Dr. Crowe 5-129"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 13315, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "211-0"
+}

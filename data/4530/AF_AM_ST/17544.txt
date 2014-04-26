@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 17544, 
+    "subject": "AF_AM_ST", 
+    "requirements": null, 
+    "title": "Independent Study", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John Richard Iton", 
+        "phone": null, 
+        "address": "1860 Campus Dr Crowe 5-139"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 23857, 
+    "attributes": null, 
+    "catalog_num": "490-0"
+}

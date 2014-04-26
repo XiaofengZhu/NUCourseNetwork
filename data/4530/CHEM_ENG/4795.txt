@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 4795, 
+    "subject": "CHEM_ENG", 
+    "requirements": "Enrollment Requirements: Prerequisite: Students must have completed MATH 220, 224, 230, and 234 to register for this course.", 
+    "title": "Probability and Statistics for Chemical Engineering", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Neda Bagheri", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG66", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20784, 
+    "attributes": null, 
+    "catalog_num": "312-0"
+}

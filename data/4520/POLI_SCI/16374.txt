@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 16374, 
+    "subject": "POLI_SCI", 
+    "requirements": null, 
+    "title": "Urban Politics", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Thomas Ogorzalek is an Assistant Professor in the Department of Political Science, where his research and teaching focus on urban politics, race, and American political history. His dissertation, \"Cities on the Hill: Urban Politics in National Institutions,\" analyzes how cities pursue crucial policy goals in national politics, and how local politics affect that process. He is interested, broadly, in the \"unexpected\" effects of institutions, and in political geography. Professor Ogorzalek received his MA from the New School for Social Research and a PhD from Columbia University in New York, and previously worked for the National Association of Housing and Redevelopment Officials.", 
+        "name": "Thomas Kenneth Ogorzalek", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings will likely include The Urban Politics Reader (Routledge Urban Reader Series), edited by Strom and Mollenkopf; and a course packet of selected additional readings."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, students will gain insights into key dynamics affecting city politics, about the tensions between democracy and governance, and better grasp analytical approaches to political processes and institutions. They will be able to apply these insights to a contemporary political situation or conflict."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No prerequisites."
+        }
+    ], 
+    "class_num": 18209, 
+    "attributes": null, 
+    "catalog_num": "221-CN"
+}

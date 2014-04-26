@@ -1,0 +1,31 @@
+{
+    "overview": "<Element DESCRAREA_VALUE at 1ca5ef0>", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 3833, 
+    "subject": "CONDUCT", 
+    "requirements": null, 
+    "title": "DM Final Document", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Mallory Beth Thompson", 
+        "phone": "847/491-3412", 
+        "address": "REGENSTEIN 60 Arts Circle Dr, Evanston IL"
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22241, 
+    "attributes": null, 
+    "catalog_num": "595-0"
+}

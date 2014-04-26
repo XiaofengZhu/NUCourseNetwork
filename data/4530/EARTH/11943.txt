@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 88, 
+    "course_id": 11943, 
+    "subject": "EARTH", 
+    "requirements": null, 
+    "title": "Climate Catastrophes in Earth History", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute F285", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Matthew T Hurtgen", 
+        "phone": "847.491.7539", 
+        "address": "Tech F392"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Earth System, The, 3/E\nLee R. Kump, Pennsylvania State University\nJames F. Kasting, Pennsylvania State University\nRobert G. Crane, Pennsylvania State University\nISBN-13:  9780321597793-Suggested retail price: $128.80"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "\t\nExercises, quizzes, mid-term and final exams."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 34169, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "105-0"
+}

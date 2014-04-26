@@ -1,0 +1,61 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 16060, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Introduction to Pragmatism", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Harris Hall L28", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Axel Mueller", 
+        "phone": "8474912558\t", 
+        "address": "Kresge 3-230"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-410", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Requirements: Attendance is absolutely mandatory. Discussion section required. Written work."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Pragmatism: The Classic Writings, edited by H.S. Thayer, Indianapolis: Hackett 1981.\nFurther readings in Course Reader."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "One short paper (Midterm, ca. 1600 words), ca. 35% of final grade.\nOne final paper (~3500 words), ca. 45% of final grade.\nParticipation in Discussion and Lecture 20%."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and Discussion sections.\n\nAttendance in Lecture and Discussion absolutely mandatory."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "In this course, students will get a competent knowledge of the basic texts in the pragmatist philosophical literature from Peirce to Putnam.\nStudents will acquire an enhanced sensitivity for method, logical analysis of theoretical and practical complexes and their connection, as well as an increased expertise in the close written and oral analysis of complex thoughts and textual sources. \nOne of the central aims will be, following the central topic of pragmatist thought, to offer students a complete reflective awareness of the structure of problem-solving behavior in cognitive, scientific, ethical and cultural affairs, and to train them in applying this competence to cases."
+        }
+    ], 
+    "class_num": 33835, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "216-0"
+}

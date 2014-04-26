@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1931, 
+    "subject": "EARTH", 
+    "requirements": null, 
+    "title": "Global Tectonics", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "n/a", 
+        "bio": null, 
+        "name": "Emile A Okal", 
+        "phone": "+1 847 491 3194", 
+        "address": "Tech F492/F493"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Class notes handed out; Additional readings."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "EARTH 202 (or equivalent), Math 217, and Physics 135-2; or permission of instructor."
+        }
+    ], 
+    "class_num": 32684, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "320-0"
+}

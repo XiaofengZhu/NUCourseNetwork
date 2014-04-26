@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 4871, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Fluid Mechanics II", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "mark-clark@northwestern.edu", 
+        "bio": null, 
+        "name": "Mark M Clark", 
+        "phone": "847/467-4540", 
+        "address": "2145 N. Sheridan Road / TECH A321"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34052, 
+    "attributes": null, 
+    "catalog_num": "340-0"
+}

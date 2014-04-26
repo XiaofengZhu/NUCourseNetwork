@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4901, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Transportation System Operations", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "y-nie@northwestern.edu", 
+        "bio": null, 
+        "name": "Yu Nie", 
+        "phone": "847/467-0502", 
+        "address": "2145 N. Sheridan Road / TECH A328"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "REFERENCES: 1. Calos F. Daganzo. (1997) Fundamentals of transportation and traffic operations, Elsevier Science, New York. \n2. Fred L. Mannering, Walter P. Kilareski and Scott S. Washburn. (2005) Principles of Highway Engineering and Traffic Analysis, John Wiley & Sons, Inc. \n3. James H. Banks. (2002) Introduction to Transportation Engineering, Second Edition, McGraw-Hill."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "For purchase at Norris Bookstore;   Principles of Highway Engineering and Traffic Analysis / Fred L. Mannering et al / ISBN 978-1118120149/ 2012 / 5th / Wiley"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "1. Homework and projects: Homework will be assigned on a regular basis. A course project will be assigned that involves traffic simulation code development and a related case study. \n\n2. Exams: There will be one in-class mid-term exam. The exam will be closed-book but you may bring one 8-1/2 by 11 inch sheet of paper to the exam. No final exam will be given. \n\n3. Grading: The final grade will be assigned on the following basis: \nHomework\nMid term exam\nCourse project\n\n4. Late submissions: Students are expected to submit their homework and project reports in time. Late homework will not be accepted unless it is the result of an officially excused absence. \n\n5. Working Together: Working together on homework is accepted. However, students are expected to write up their own versions of solutions. Students are required to form teams to do the course project. A team may not have more than two members who will submit a joint project report and receive the same grade. Working together on exams, of course, is forbidden. \n\n6. Calculator: Students may use a graphing calculator on exams and homework. Students may not use laptop computers and/or any machine with symbolic manipulation capabilities on exams."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS/LAB SCHEDULE / The class meets twice a week for a 2-hr lecture."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Intended for upper level undergraduate and graduate students. Basic knowledge of calculus and statistics. Knowledge of MATLAB is desirable, but not required."
+        }
+    ], 
+    "class_num": 16402, 
+    "attributes": null, 
+    "catalog_num": "376-0"
+}

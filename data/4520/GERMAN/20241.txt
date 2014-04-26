@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 80, 
+    "course_id": 20241, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Berlin and the Culture of Democracy", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Fisk Hall 114", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Mondays 1-3 PM", 
+        "bio": null, 
+        "name": "Anna Maree Parkinson", 
+        "phone": "847/467-5173", 
+        "address": "2-111 Crowe Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "David Clay Large, Berlin. Basic Books. 2001. ISBN: 046502632X\n\nOther texts tbd. Many texts will be available via Blackboard or as handouts."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "-\tAcquire knowledge of twentieth-century German (central European) history, beginning with the years immediately preceding WWI and ending with contemporary Berlin\n-\tGain familiarity with the study of the metropolis and the idea of cosmopolitanism\n-\tExplore changing ideas about gender and sexuality (and their representations) in the urban context of twentieth century Berlin\n-\tLearn about the history of minority communities in Berlin, especially Jewish and Turkish \n-\tBecome cognizant of the changes in literary culture from the turn of the twentieth century to recent postmodernism\n-\tExperience the change in the media landscape with the development of modern technologies of reproduction via photography, sound recordings, and films associated with Berlin"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No registration requirements."
+        }
+    ], 
+    "class_num": 13065, 
+    "attributes": "Historical Studies Distro Area\n\nInterdisciplinary Distro - See Rules\n\nLiterature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "230-0"
+}

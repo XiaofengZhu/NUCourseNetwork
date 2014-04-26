@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 19644, 
+    "subject": "HEMA", 
+    "requirements": null, 
+    "title": "Health Care Quality", 
+    "section": "81", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-05-05", 
+    "end_date": "2014-06-07", 
+    "start_time": "18:30:00", 
+    "component": "81", 
+    "school": "KGSM", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Bruce A Boissonnault", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Jacobs Center G03", 
+    "end_time": "21:30:00", 
+    "coursedesc_set": [], 
+    "class_num": 37635, 
+    "attributes": null, 
+    "catalog_num": "922-B"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18505, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Materials & Methods in Construction", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "rjkrizek@northwestern.edu", 
+        "bio": null, 
+        "name": "Raymond John Krizek", 
+        "phone": "847/491-4040", 
+        "address": "2145 N. Sheridan Road / Tech A114"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute A230", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21335, 
+    "attributes": null, 
+    "catalog_num": "503-0"
+}

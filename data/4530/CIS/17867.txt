@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 17867, 
+    "subject": "CIS", 
+    "requirements": null, 
+    "title": "Business Continuity and Disaster Recovery", 
+    "section": "50", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": "09:00:00", 
+    "component": "50", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Erich J Spengler", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": "12:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 34857, 
+    "attributes": null, 
+    "catalog_num": "455-0"
+}

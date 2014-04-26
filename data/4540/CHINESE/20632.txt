@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20632, 
+    "subject": "CHINESE", 
+    "requirements": null, 
+    "title": "Chinese II", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Chyi Chung is a distinguished senior lecturer of Weinberg College of Arts and Sciences at Northwestern University. She was born in Taiwan, grew up in Honduras and has lived in Chicago for 20 years. She teaches Spanish, Chinese and Hispanic culture at Northwestern since 1997. She won several teaching awards: the Northwestern University Weinberg Alumni Teaching Award in 0910, the School of Continuing Studies Distinguished Teaching Award 0809, the Faculty Honor Roll by the Associated Student Government 0607 and 0304. She also involved in projects: Editorial Advisory Board (McGraw-Hill and Beijing Foreign Language Teaching and Research Press), Chinese Link (Pegasus), IPad Project, Chinese Pinyin Program, Online Spanish Placement Exam, Intergaltico (Northwestern University), Lexitown (the Illinois State Board of Education), Internet-based Interactive Foreign-Language Learning (the Andrew W. Mellon Foundation).", 
+        "name": "Chyi Chung", 
+        "phone": "8474918130", 
+        "address": "CROWE 1860 Campus Dr 1-159 EV2161"
+    }, 
+    "term": "2014 Spring", 
+    "room": "MMLC 1-375 - Kresge", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "For each lesson, students will study the new vocabulary items, grammar notes and sentence patterns, and will learn to use them in different life-like situations. Students will be actively engaged in the learning process through various kinds of in-class exercises, which include vocabulary dictations, pattern drills, listening comprehension exercises, reading practice, situational dialogue, role-play, and language games, etc."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Textbook: Modern Chinese 1st ed, Better Chinese LLC"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "While students of Intermediate Chinese need to continue to build their mastery of commonly used vocabulary and grammatical structures, this course also focuses on the building of students' abilities in the four skills of listening, speaking, reading and writing as they can reach the intermediate level of competence."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Chinese 121-A,-B or equivalent. Chinese II courses are suggested to be taken in sequence."
+        }
+    ], 
+    "class_num": 38666, 
+    "attributes": null, 
+    "catalog_num": "121-C"
+}

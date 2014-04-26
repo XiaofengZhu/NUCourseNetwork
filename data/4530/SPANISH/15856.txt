@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 15856, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Language in Context: Contemporary Spain", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Asha Nagaraj", 
+        "phone": "847/491-8127", 
+        "address": "1-205 Kresge"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-435", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "If you have questions regarding the course contact Elena Lanza e-lanza@northwestern.edu"
+        }
+    ], 
+    "class_num": 24289, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "199-0"
+}

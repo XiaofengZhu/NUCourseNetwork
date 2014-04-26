@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6438, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Differential Calculus of One Variable Functions", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Amy Alznauer has a M.S. in mathematics from the University of Illinois in Champaign-Urbana and an M.F.A. in writing from the University of Pittsburgh. She has taught mathematics full-time at Penn State University, where she helped start the Women in Engineering calculus program, and at DePaul University, where she taught both undergraduate and graduate math courses.  She is currently working on a book about the Indian mathematician Srinivasa Ramanujan.", 
+        "name": "Amy Beth Alznauer", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Stewart, Essential Calculus, Early Transcendentals, Second edition.\nThomson-Brooks/Cole, Volume 1, Customized for Northwestern.\nTexas Instrument graphing calculator suggested."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The definition of a function; trigonometric, exponential, logarithmic and inverse functions; graphs, limits, continuity; derivative of a function; product, quotient and chain rule; implicit differentiation; linear approximation and differentials; related rates; mean value theorems; curve plotting; optimization problems; Newton's method; and antiderivatives"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Three years of high school math, including trigonometry, or MATH 113."
+        }
+    ], 
+    "class_num": 18210, 
+    "attributes": null, 
+    "catalog_num": "220-CN"
+}

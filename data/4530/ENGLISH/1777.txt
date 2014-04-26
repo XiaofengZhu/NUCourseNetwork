@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 17, 
+    "course_id": 1777, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Reading & Writing Poetry", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rachel J Webster", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G29", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "An Anthology, a critical guide, 206 Reader prepared by the instructor, and the work of the other students."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Evidence given in written work and in class participation of students' understanding of poetry; improvement will count for a great deal with the instructor in estimating achievement."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion; one-half to two-thirds of the classes will be devoted to discussion of readings and principles, the other classes to discussion of student poems."
+        }
+    ], 
+    "class_num": 24399, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\nNo Freshmen\n\nNo Seniors\n\n", 
+    "catalog_num": "206-0"
+}

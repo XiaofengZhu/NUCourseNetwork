@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 16276, 
+    "subject": "COMM_ST", 
+    "requirements": null, 
+    "title": "Special Topics", 
+    "section": "19", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "19", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Samuel Robert Tepper", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 506", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This course will provide students with a variety ways to access course concepts, though independent reading and writing, lecture, discussion, and group activities. Course readings will include theoretical material and primary sources, including historical newspaper articles. Because the field of social media studies is relatively new, students will have ample opportunities to share their own experiences with media technology."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Regular attendance at class meetings is crucial, as this course is participation-intensive. Regular participation in classroom discussion and classroom activities is expected, as is completion of all readings as assigned."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Upon completion of this course, students will:\n\n1. comprehend and appreciate a variety of communication theories in real-world contexts\n2. synthesize these communication theories into spoken, written, and visual form\n3. have knowledge of representation in films, and the subsequent implications for communication and relationships\n4. hypothesize and deconstruct how narrative films affect and influence perceptions of communication\n5. understand and analyze narrative films as they affect their own individual communication and communicative behaviors"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TO SELL IS HUMAN\nBy PINK\nEDITION:   12 \nPUBLISHER:   PENG USA\nISBN:   9781594487156"
+        }
+    ], 
+    "class_num": 35039, 
+    "attributes": null, 
+    "catalog_num": "395-CN"
+}

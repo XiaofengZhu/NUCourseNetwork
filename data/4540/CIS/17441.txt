@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 17441, 
+    "subject": "CIS", 
+    "requirements": null, 
+    "title": "Tools and Technologies of the World Wide Web", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "09:00:00", 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Awny Alnusair received a Ph.D. in Computer Science from The University of Wisconsin-Milwaukee and a M.S in Computer Science from Illinois Institute of Technology. He is a frequent contributor to various technical publications in his research areas which include program comprehension, software reuse, information retrieval, programming languages, and the semantic web. Awny enjoys teaching both undergraduate and graduate students. Since 1999, he has been teaching courses on different topics of computer science including object-oriented software development, software engineering, web programming and design, and database design and administration. Awny has also been working in the IT industry and consulting for various companies. His industry experience is mainly focused on software development, web programming, systems analysis, and software quality assurance.", 
+        "name": "Awny M Alnusair", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Wieboldt Hall 415", 
+    "end_time": "16:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required Textbook: \nThere is one required textbook for this course. Reading assignments will be given from the required textbook. From time to time, other reference materials will be used to cover topics that are not present in the required textbook.\n1- Internet & World Wide Web: How to Program, 5th Edition, P. J. Deitel and H. M. Deitel; Prentice Hall, 2012. (ISBN: 0132151006)\n\nRecommended Supplemental Textbook:\n1- Web Development & Design Foundations with HTML5, 6th edition. T. Felke-Morris. Addison Wesley, 2013. (ISBN: 0132783398)\n\nSoftware: \nText Editor such as the freeware Notepad++ or TextPad for Windows or TextWrangler for Mac\nAdobe Dreamweaver\nExchanger XML Lite from Cladonia"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. Use HTML5 concepts and format to mark Web page components without resorting to Web authoring tools.\n2. Use CSS concepts and format to describe Web page presentation without resorting to tools.\n3. Use JavaScript programming techniques to create interactive and dynamic Web pages.\n4. Understand event handling concepts and use event handling techniques to create dynamic Web pages.\n5. Develop facility with XML document format and validation\n6. Understand the concepts of Document Object Model (DOM), XML, AJAX, and Web services introduced in the class."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Previous programming experience is recommended but not required"
+        }
+    ], 
+    "class_num": 38692, 
+    "attributes": null, 
+    "catalog_num": "130-CN"
+}

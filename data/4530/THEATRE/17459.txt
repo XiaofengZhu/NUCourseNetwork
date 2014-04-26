@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 17459, 
+    "subject": "THEATRE", 
+    "requirements": "Enrollment Requirements: Reserved for Theatre Majors and Minors", 
+    "title": "Introduction to Theatre Design", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Theater Int Cntr Design w/Tabl", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Daniel S Ostling", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall B17", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34819, 
+    "attributes": null, 
+    "catalog_num": "201-0"
+}

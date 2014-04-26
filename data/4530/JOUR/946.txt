@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 946, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Reserved for students who have taken & passed JOUR 301.", 
+    "title": "Media Presentation: Magazine", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David Stephen Rodler Abrahamson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 306", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This course is reserved for pre-JR students.  \n\nStudents who are assigned to take this course in a later quarter should NOT register themselves for this course. \n\nAvailable seats may be released to CAESAR registration after pre-JR students have been enrolled, for those students who wish to take this course as an elective."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "AP Stylebook"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "JOUR 301-0"
+        }
+    ], 
+    "class_num": 22052, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "311-0"
+}

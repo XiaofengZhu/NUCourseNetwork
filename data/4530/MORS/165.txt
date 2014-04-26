@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 165, 
+    "subject": "MORS", 
+    "requirements": null, 
+    "title": "Negotiations", 
+    "section": "61", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:30:00", 
+    "component": "61", 
+    "school": "KGSM", 
+    "meeting_days": "MoTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Victoria Husted Medvec", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center 2245", 
+    "end_time": "12:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 33564, 
+    "attributes": null, 
+    "catalog_num": "470-0"
+}

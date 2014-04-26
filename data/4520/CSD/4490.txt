@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 4490, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Diagnostic & Remedial Approaches for Children With Learning Problems", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Doris J Johnson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "BROAD GOALS:\nTo gain an understanding of learning disabilities and the heterogeneity within the population.\n\nTo become familiar with the symptomatology across the life span.\n\nTo become familiar with general theoretical perspectives which are used in the field.\n\nTo understand the principles of assessment and differential diagnosis.\n\nTo understand several theoretical constructs (schema) on which diagnosis and intervention can be based.  Emphasis will be given to clinical teaching.\n\nTo become familiar with areas of learning that should be considered in a psychoeducational evaluation and to understand types of assessment that can be used for eligibility and intervention.\n\nTo become aware of relationships between various learning problems and clusters of disorders that co-occur.\n\nTo be able to generate hypotheses about the meaning of success and error patterns within each area of achievement.\n\nTo understand principles, procedures, and techniques for instruction and accommodations that may be needed for specific types of learning disabilities.\n\nTo understand the types of services and delivery systems used in schools.\n\nTo understand the need for various types of progress monitoring.\n\nTo understand possible long-term needs and outcomes, including risk and resilience."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings are available at Quartet Copies, 825 Clark Street in Evanston"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "OBJECTIVES:\n\n1.\tTo be able to summarize the symptoms of LD that one might observe across the life span.\n\n2.\tTo be able to list and discuss the significance of several components of the LD definition.\n\n3.\tTo be able to compare and contrast a discrepancy model with other approaches used to \tidentify children and adults with learning disabilities.\n\n4.\tTo be able to do an analysis of tasks and tests using the theoretical constructs discussed in \tclass.\n\n5.\tTo be able to define and summarize several principles of clinical teaching and other types of instruction (e.g. Direct Instruction).\n\n6.\tTo be able to list types of accommodations that can be provided.\n\n7.\tTo be able to summarize instructional principles for various types of learning disabilities.\n\n8.\tTo be able to summarize results of long-term studies."
+        }
+    ], 
+    "class_num": 14904, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "376-0"
+}

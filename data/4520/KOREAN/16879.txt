@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 16879, 
+    "subject": "KOREAN", 
+    "requirements": null, 
+    "title": "Korean II - Accelerated", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesday 12:00-1:00", 
+        "bio": null, 
+        "name": "Eunmi Lee", 
+        "phone": "8474671323", 
+        "address": "4-370 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Textbook: New Sogang Korean Student's Book 4A\nISBN: 978 89 957826 20"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be given based on vocabulary quizzes and lesson tests, assignments, attendance and performance, final project, and final examination."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "This class is conducted exclusive in Korean and grammar instruction will be minimal. It provides with various activities such as watching a Korean film or drama.  Students will be doing extensive writing practice, reading authentic materials and watching videos and learning many cultural aspects of Korea."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students should be able to read easy text and to conduct a basic conversation."
+        }
+    ], 
+    "class_num": 11649, 
+    "attributes": null, 
+    "catalog_num": "125-1"
+}

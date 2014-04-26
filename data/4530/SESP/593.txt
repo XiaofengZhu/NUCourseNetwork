@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 593, 
+    "subject": "SESP", 
+    "requirements": null, 
+    "title": "Honors Thesis", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Penelope L Peterson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall 301", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "APA Style Manual, 6th Edition.\nThe APA Style Manual is available at most large bookstores, including Norris."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "You will be evaluated based on your participation in the seminar, the quality of your research proposal, final written thesis, and poster presentation. You will get a single cumulative grade at the end of Spring quarter. Your thesis advisor, second reader, Penelope, and Eleanor will evaluate your proposal. Submission of an acceptable proposal by December 2nd is a prerequisite for continuing on in the Honors Program into Winter quarter. You may decide at any time during Fall quarter that you do not wish to continue in the program and make seek approval to withdraw. Your final thesis will also be evaluated by your advisor, your second reader, and by Penelope and Eleanor."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To help you learn how to conduct social science research through the experience of designing, conducting, and reporting the results of your own research project, from start to finish. \n\nTo familiarize you with the culture and practice of the conduct and reporting of research so that you will become an educated consumer of research.\n\nTo give you an opportunity to participate in scholarly inquiry and research so that it might inform your later career decisions as you think about the possibility of going onto graduate school."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: senior status; 3.5 cumulative GPA by the end of winter quarter of the junior year; recommendation for the honors program from SESP 391 instructor(s); consent of program director."
+        }
+    ], 
+    "class_num": 23014, 
+    "attributes": null, 
+    "catalog_num": "398-0"
+}

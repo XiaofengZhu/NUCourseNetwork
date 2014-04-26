@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2375, 
+    "subject": "JAPANESE", 
+    "requirements": null, 
+    "title": "Japanese IV: Japanese Essay Writing", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Yumi Shiojima", 
+        "phone": "8474912764", 
+        "address": "4-358 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Makino, S. & Tsutsui, M. (1995). A Dictionary of Intermediate Japanese Grammar. Tokyo: The Japan Times. (ISBN: 978-4-7890-0775-7)"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Japanese for International College/Graduate Students 2: Composition. Tokyo: Alc, Inc. (ISBN: 978-4-7574-0500-4)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Multiple drafts and final papers, Writing portfolio, Class participation and performance"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "This course is conducted only in Japanese.\n\nThe students will be introduced to three types of writing samples (narrative, descriptive, and persuasive) and will practice their writing skills through various steps: \n1) Learning how to differentiate three writing styles (polite, plain and expository forms), \n2) Trying different types of pre-writing brainstorming activities to find the most effective strategies for themselves, \n3) Identifying and improving their own writing processes through a writing portfolio, \n4) Learning to identify errors in language use, \n5) Learning to self-correct errors.\n\nThe instructor will help the students through these processes with oral and written feedback. The instruction of writing will be supplemented by the review of grammar, vocabulary, and expressions, as well as writing clinics."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The course aims to bring students' writing proficiency to the advanced level of the ACTFL proficiency guidelines, using narrative, descriptive, and persuasive essays."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students must pass 211-3 with C- or above, or must be placed into the class by the departmental placement test."
+        }
+    ], 
+    "class_num": 24315, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "314-1"
+}

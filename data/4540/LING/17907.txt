@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 17907, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Language and Sexuality", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appt", 
+        "bio": null, 
+        "name": "Gregory L Ward", 
+        "phone": "847/491-7020", 
+        "address": "2016 Sheridan Road, Rm 203"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32507, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "327-0"
+}

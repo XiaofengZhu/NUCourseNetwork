@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4150, 
+    "subject": "PERF_ST", 
+    "requirements": null, 
+    "title": "Adapting Narrative for Group Performance", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Paul C Edwards", 
+        "phone": "847/491-3171", 
+        "address": "Annie May Swift Hall, Room G03"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annie May Swift Hall 103", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "In Spring 2010, the 224 \"Adapting Narrative\" course changed its structure to anticipate inclusion in a proposed undergraduate \"module\" in devising and adaptation. One change is the inclusion of first-year MFA students in the Theatre Directing Program, who work with groups of actors in the final performance for 224. The second change is an increased emphasis on audio-visual design, which utilizes the lighting and sound equipment in the AMS Krause Studio. Beginning in Winter 2014, the third major performance (employing a \"Jokerized\" narrator) has been eliminated, and will be replaced by workshops on designing QLab audio (which must be used for the second major performance composition)."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "--Paul Edwards, 224 Handbook, rev. 2011 (on course website)\n--Robert Breen, selections from Chamber Theatre (on course website)\n--Peter Brook, The Empty Space (at Norris)\n--Shapard and Thomas, eds., Sudden Fiction (at Norris)\n--selected essays and stories (on course website)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students read and discuss a group of core texts, participate in a variety of in-class exercises, and complete essay and performance assignments. Typically a student collaborates in the adaptation, rehearsal, and performance of two major scenes (midterm and final). Two essays (in place of midterm and final exams) relate to problems in transforming the literary text into a performance text, and in performing narrators and narration. In addition, each student regularly posts informal written critiques of in-class performances to the course website. Attendance is mandatory. Outside-of-class rehearsal, negotiated by members of small groups, is mandatory.\n\nGRADING.\nOutcome-based rather than bell-curve based."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Approx. 24. E-mail a request for permission directly to instructor, at the beginning of SoC pre-registration, at: edwdoyle@northwestern.edu. Majors in departments other than Theatre and Performance Studies are most welcome.\n\nPERFORMANCE STUDIES MAJORS / DEVISING AND ADAPTATION MODULE MEMBERS.\nSpaces will be held for all Performance Studies majors (for whom the course is a requirement) provided that they request the course by the beginning of SoC pre-registration week. \nSpaces will be held for all students \"registered to complete\" the Devising and Adaptation Module (for whom the course is a requirement) provided that they request the course by the beginning of SoC pre-registration week."
+        }
+    ], 
+    "class_num": 21530, 
+    "attributes": "Attendance at 1st class mandatory\n\nPermission of department\n\n", 
+    "catalog_num": "224-0"
+}

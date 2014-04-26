@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3418, 
+    "subject": "GNDR_ST", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Amy Ruth Partridge", 
+        "phone": "847.491.5872", 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Movie lovers are warmly welcomed, but be prepared to analyze closely and to interpret films in complex ways!"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Articles collected in a course packet, available for purchase at Quartet Copies\n\nFilms viewed in part or in whole will include box-office smashes (Jaws, Star Wars), Oscar champs (Rocky, Annie Hall, The Deer Hunter), popular character studies (Alice Doesn't Live Here Anymore, Taxi Driver, Dog Day Afternoon, Coming Home), landmark documentaries (Harlan County U.S.A., Word Is Out), independent films directed by men (Eraserhead, Killer of Sheep) and by women (Hester Street, Girlfriends), and boundary-pushing films from outside the U.S. (Jeanne Dielman, a nearly-wordless three-hour epic about a middle-class housewife living alone; That Obscure Object of Desire, in which two actresses play the same role at different points in the movie, but no one notices; and Xala, in which an African politician with many wives seeks a witch doctor's cure for his impotence)."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Graded and ungraded writing assignments; heavy emphasis on group participation (listening, responding, etc.)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Interactive seminar discussions; screening and reading assignments; writing and peer-editing activities"
+        }
+    ], 
+    "class_num": 12137, 
+    "attributes": null, 
+    "catalog_num": "101-6"
+}

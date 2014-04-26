@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 3194, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Special Topics in the Literatures of Latin America and/or Spain", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Nathalie Bouzaglou", 
+        "phone": "847/467-1543", 
+        "address": "2-155 Crowe"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-301", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 24483, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "395-0"
+}

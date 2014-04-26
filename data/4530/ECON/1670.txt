@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 1670, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Western Economic History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joel Mokyr", 
+        "phone": "847/467-2739", 
+        "address": "Harris Hall Room 315"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-415", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\t\n1. <i>The Origins of the Twenty-First Century</i> by Gabriel Tortella, 2009 (ISBN: 978-0415459822)\n2. <i>An Economic History of 20th-Century Europe</i> by Ivan Berend, 2006  (ISBN: 978-0521672689)\n3. <i>The Cambridge Economic History of Europe, Vol. 2: 1870 to Present</i>, Bradberry and O'Rourke, editors, 2010 (ISBN: 978-0521708395)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There will one mandatory midterm exam, and an inclusive final examination. The midterm will cover all reading materials and lecture material of weeks 1-4. Students who score in the top 33% in the midterm will have the option of writing a paper in lieu of the exam. The topic and methodology have to be approved by the T.A. for the course, and the paper has to be submitted by the day of the final."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "There will be two lectures a week. The lecture material and readings should be viewed as largely complementary, since the lectures will explain and often dispute the readings, hence both lecture materials and readings will be necessary to pass the course with a good grade because they are complements, not substitutes.\n<br><u>Note</u>: all powerpoint notes, graphs and tables shown in class will be made available on the Blackboard site for this course following the lectures."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "310-1 and 311 are required"
+        }
+    ], 
+    "class_num": 24022, 
+    "attributes": null, 
+    "catalog_num": "324-0"
+}

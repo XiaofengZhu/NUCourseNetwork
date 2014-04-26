@@ -1,0 +1,56 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 1147, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "Topics In Anthropology", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Stefan Henning", 
+        "phone": "847/491-7044", 
+        "address": "Anthropology Dept., 515 Clark, Room #202 EV Campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall B17", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "NB.  There are no `required texts' (things you must buy) for this class.  Much of the reading above is from Carver and Klapste (eds). What follows are further references to explore, and places to start in your research on individual assignments.\n\nIt's also a good idea to get hold of maps of Europe and of the British Isles, and post them up, to improve your geographical knowledge.\n\nFun Stuff\n\nContemporary authors:  Chaucer, Langland, Lisle and Paston letters\n\nMovies/TV series:\nReturn of Martin Guerre (based on a great book by Natalie Zemon Davies)\nPillars of the Earth (lots of inaccuracy, but great fun)\nName of the Rose (based on a great book by Umberto Eco)\nVarious medieval vids set to 80s pop:  http://www.youtube.com/user/historyteachers?ob=0&feature=results_main\n\nVarious other videos on Youtube:\nTerry Jones' Medieval Lives (particularly The Peasant)\nHow to Build a Cathedral\nTime Team videos\n\nZombies!\nhttp://news.discovery.com/history/zombie-skeletons-ireland-grave-110916.html"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Informal lectures with powerpoint presentations.  Student in-class presentations."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No P/N allowed. Undergrads only."
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "No final exam. Co-listed w/ Asian_ST 390-3."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Four of the five books we read in this course are available electronically through Northwestern's NUcat website. All of the required books are on reserve in the main library and available for purchase at Norris Books: Xin LIU. 2000. In One's Own Shadow. An Ethnographic Account of the Condition of Post-reform Rural China. Jun JING. 1996. The Temple of Memories. History, Power, and Morality in a Chinese Village. Erik MUEGGLER. 2001. The Age of Wild Ghosts. Memory, Violence, and Place in Southwest China. Li ZHANG. 2001. Strangers in the City. Reconfigurations of Space. Power, and Social Networks Within China's Floating Population. Ann ANAGNOST. 1997. National Past-times. Narrative, Representation, and Power in Modern China."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Paper, final;\nClass participation;\nExams."
+        }
+    ], 
+    "class_num": 26046, 
+    "attributes": null, 
+    "catalog_num": "390-0"
+}

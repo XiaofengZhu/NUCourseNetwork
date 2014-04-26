@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6797, 
+    "subject": "RTVF", 
+    "requirements": null, 
+    "title": "Issues in Radio/Television/Film", 
+    "section": "66", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "66", 
+    "school": "UC", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Roberta M Stack", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Louis Hall 119", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings will be distributed in class.  Films will be streamed via Blackboard site."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Gain perspective on technical developments and philosophical movements of historic and current media culture."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "RTVF 220 Analyzing Media Texts, or previous 300-level film or media studies course."
+        }
+    ], 
+    "class_num": 38723, 
+    "attributes": null, 
+    "catalog_num": "398-CN"
+}

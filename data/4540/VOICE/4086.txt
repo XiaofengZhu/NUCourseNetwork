@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 4086, 
+    "subject": "VOICE", 
+    "requirements": null, 
+    "title": "Opera Workshop for Seniors", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Philip A Kraus", 
+        "phone": "847/491-7575", 
+        "address": "MAB 711 Elgin Rd, Evanston IL"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 36270, 
+    "attributes": null, 
+    "catalog_num": "352-3"
+}

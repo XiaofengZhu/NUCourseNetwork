@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 1925, 
+    "subject": "EARTH", 
+    "requirements": "Enrollment Requirements: 2nd Year ISP Students", 
+    "title": "Physics of the Earth", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "ISP Sem Rm 203 - 616 Noyes St", 
+            "section": "20", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Craig R Bina", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Fundamentals of Geophysics 2nd Edition, 2007, W. Lowrie, Cambridge University Press\nISBN-13: 9780521675963, publisher's price $85."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework, quizzes, midterm and final exams."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures, class discussions."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Second-year standing in ISP, or equivalent background in physics and mathematics and permission of ISP director; no previous geological science required."
+        }
+    ], 
+    "class_num": 10301, 
+    "attributes": "No P/N option for this section\n\nISP Students Only\n\n", 
+    "catalog_num": "350-0"
+}

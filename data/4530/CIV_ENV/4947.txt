@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 4947, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Travel Demand Analysis & Forecasting I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Andreas Rolf Frei", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L160", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Modelling Transport / Juan de Dios Ortuzar and Luis G. Willumsen / ISBN 978-0470760390 / 2011 / 4th edition / Wiley"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Intermediate calculus."
+        }
+    ], 
+    "class_num": 20763, 
+    "attributes": null, 
+    "catalog_num": "480-1"
+}

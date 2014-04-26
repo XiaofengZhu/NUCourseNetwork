@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1398, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Pre-req: Students must  have taken Biol_Sci 240 to register for this course.", 
+    "title": "ISP Neurobiology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Indira M Raman", 
+        "phone": "847/467-7912", 
+        "address": "Cook Hall, Room 2-131"
+    }, 
+    "term": "2014 Winter", 
+    "room": "ISP Sem Rm 203 - 616 Noyes St", 
+    "end_time": "14:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "ISP STUDENTS ONLY."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Neuroscience, 5th Edition edited by Purves, Augustine, Fitzpatrick, Hall, LaMantia, and White. Published by Sinauer. ISBN: 978-0-87893-695-3"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework, oral presentation, midterm and final examinations"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and discussions"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ISP students only. Pre-req: BIO 240-0"
+        }
+    ], 
+    "class_num": 34022, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "311-0"
+}

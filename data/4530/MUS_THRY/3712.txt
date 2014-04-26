@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3712, 
+    "subject": "MUS_THRY", 
+    "requirements": null, 
+    "title": "Analytical Techniques", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Vasileios Byros", 
+        "phone": "72032", 
+        "address": "MAB 26"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 114", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 22974, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "321-0"
+}

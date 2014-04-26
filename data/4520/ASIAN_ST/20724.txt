@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20724, 
+    "subject": "ASIAN_ST", 
+    "requirements": null, 
+    "title": "Advanced Topics in Asian Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Peter Shen", 
+        "phone": "646/248-1881", 
+        "address": "Harris 231"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Michael Berry, Speaking in Images: Interviews with Contemporary Chinese Filmmakers (New Work: Columbia Up, 2005)\n\nChris Berry and Mary Farquhar, China on Screen: Cinema and Nation (New York: Columbia UP, 2006)"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "David Bordwell and Kristin Thompson, Film art: An introduction (New York: McGraw-Hill, 2010)  ISBN-13: 978-0071220576"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grading Policy:\nAttendance: 10%\nClass Participation: 20%\nIn-class Presentation: 10%\nFirst-paper:  10% (4-5)\nSecond Paper: 20% (6-7)\nFinal Paper: 30% (10-12)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, students should are expected to: 1) Develop the ability to discuss and write critically and knowledgeably about contemporary Chinese cinema in relation to a set of terms often identified as \"contextual\" (i.e., history, politics, social, and culture) 2) Demonstrate a high-degree of proficiency to articulate (orally and written) the art of cinema that take into account the formal or aesthetic elements (camera, editing, sound, lighting etc); 3) Reach a proficiency in understanding the themes and concern of contemporary urban Chinese-language cinema, how it is significant in inter and intra geopolitical terms, i.e., its relation to the local and the global."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "The course is designed for students interested in contemporary China and the art of cinema. Students are not expected to have any prior knowledge of the Chinese language though they will learn the basics of Chinese pronunciation and proper names. All lectures, discussions, readings, and written assignments will be in English. The films screened are in Chinese and will have English subtitles."
+        }
+    ], 
+    "class_num": 17217, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "390-6"
+}

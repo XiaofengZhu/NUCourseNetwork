@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20028, 
+    "subject": "KIEI", 
+    "requirements": null, 
+    "title": "NUvention: Web", 
+    "section": "61", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "61", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael A Marasco", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center 1246", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34507, 
+    "attributes": null, 
+    "catalog_num": "950-0"
+}

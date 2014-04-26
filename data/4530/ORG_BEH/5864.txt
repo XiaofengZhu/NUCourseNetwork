@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 5864, 
+    "subject": "ORG_BEH", 
+    "requirements": null, 
+    "title": "Organizational Change", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": "09:00:00", 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Aleen Marcia Bayard", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 406", 
+    "end_time": "12:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be expected to identify and discuss in relation to specific cases and their own organizational experiences:\n\n-Processes of organizational change\n-Drivers and barriers to organizational change\n-How change models apply to a variety of organizations and situations.\n-How individuals in organizations affect and are affected by change."
+        }
+    ], 
+    "class_num": 35074, 
+    "attributes": null, 
+    "catalog_num": "310-CN"
+}

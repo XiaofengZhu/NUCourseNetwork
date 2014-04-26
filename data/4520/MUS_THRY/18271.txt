@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 18271, 
+    "subject": "MUS_THRY", 
+    "requirements": null, 
+    "title": "Introduction to Research Methods in Music Theory and Cognition", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "www.music.northwestern.edu/faculty/profiles/mark-butler.html", 
+        "name": "Mark Jonathan Butler", 
+        "phone": null, 
+        "address": "mark-butler@northwestern.edu"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "The course will be directed toward graduate students in the Music Theory and Cognition program, although other students with a strong interest in music theory are welcome provided that they have sufficient background and skills to engage with high-level scholarship in this area. Passage of the music theory diagnostic or successful completion of the theory review course is a prerequisite. Students wishing to enroll in the course should contact the professor to discuss suitability (mark-butler@northwestern.edu)."
+        }
+    ], 
+    "class_num": 17440, 
+    "attributes": null, 
+    "catalog_num": "405-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 5212, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Computer Integ Manuf: Automation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kornel Ehmann", 
+        "phone": "847/491-3263", 
+        "address": "Technological Institute, Rm A215, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34858, 
+    "attributes": null, 
+    "catalog_num": "340-3"
+}

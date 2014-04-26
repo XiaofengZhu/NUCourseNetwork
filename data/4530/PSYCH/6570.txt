@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6570, 
+    "subject": "PSYCH", 
+    "requirements": null, 
+    "title": "Developmental Psychology", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": "09:00:00", 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Joan Ingram received her Ph.D. in Clinical Psychology from Northwestern University in 1986. She has been teaching undergraduate psychology courses at Northwestern (School of Continuing Studies) since 1983. A practicing clinical psychologist for the past 19 years, she has been involved in providing clinical services, training and community education in for ethnically diverse and primarily low-income clients (from infancy through adulthood) with problems ranging from severe psychopathology to developmental disabilities.", 
+        "name": "Joan Ingram", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 504", 
+    "end_time": "16:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Siegler, R., DeLoache, J., & Eisenberg, N. (2010).  How Children Develop, 3rd edition.  Worth Publishers.  ISBN: 1-4292-1790-1"
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "Please contact instructor by email with any questions about this course.  j-ingram@northwestern.edu"
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Siegler, Robert, DeLoache, Judy and Eisenberg, Nancy  How Children Develop, Third Edition.  Worth Publishers, 2011.  ISBN 1-4292-1790-1"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The student will gain a broad understanding of biological, cognitive, sociocultural and systems perspectives on child development as well as applications and policy implications of knowledge about child development.  The student will have a greater ability to understand and critically evaluate scientific research in developmental psychology,  as well as enhanced  critical thinking skills regarding potential applications of research findings."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "PSYCH 110 or equivalent."
+        }
+    ], 
+    "class_num": 35087, 
+    "attributes": null, 
+    "catalog_num": "218-CN"
+}

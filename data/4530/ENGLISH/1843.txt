@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 1843, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in American Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Wanalee Ocasia Romero", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 212", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Washington Irving, The Legend of Sleepy Hollow (1820);\nEdgar Allan Poe, \"The Fall of the House of Usher\" (1839), \"The Masque of the Red Death\" (1842), \"The Tell-Tale Heart\" (1843);\nNathaniel Hawthorne, The House of the Seven Gables (1851);\nCharlotte Perkins Gilman, \"The Yellow Wallpaper\" (1892);\nHenry James, The Turn of the Screw (1898)."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "In class discussion, online discussion board, two short essays, and one informal presentation of an informational text about the gothic mode selected from a list provided."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar discussion."
+        }
+    ], 
+    "class_num": 23673, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "378-0"
+}

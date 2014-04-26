@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 75, 
+    "course_id": 16421, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Biochemistry and Molecular Biology", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Thomas A Volpe", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 4", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1.  Pratt and Cornely, Essential Biochemistry, 2nd edition, Wiley 2011. Custom BIOL_SCI 210-B version ISBN 9781119936404 or original version ISBN 9780470504772.\n2. Essential Cell Biology by Alberts et al., 4th Edition, 2013, Garland Publishers ISBN: 9780815344544"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be able to apply their understanding of fundamental biochemcial principles to explain and predict a wide range of biological phenomena, e.g. blood pH regulation,  oxygen transport, muscle function, drug design, and metabolism."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: grades of C- or higher in both BIOL SCI 210-A and CHEM 210-A."
+        }
+    ], 
+    "class_num": 35022, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "210-B"
+}

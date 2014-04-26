@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4613, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Acting II: Analysis and Performance", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mary Margaret Poole", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Wallis", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Attendance is mandatory."
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Shakespeare Lexicon And Quotation Dictionary in two volumes, Alexander Schmidt\nISBN-13:978-0-486-22726-9\n\n-The Elizabethan World Picture, E.M.W. Tillyard\n-Shakespeare's Theatre, Peter Thompson\n-Skakespeare Aloud, E. S. Brubaker"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "-MacBeth, Romeo & Juliet, Hamlet, Measure for Measure, Much Ado About Nothing, A Midsummer Night's Dream, Richard III, Othello, Antony & Cleopatra, Julius Caesar.  Recommended Publishers: Arden, Folger, Riverside.\n\n-Playing Shakespeare, John Barton"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission # required.\nDepartment Majors Only"
+        }
+    ], 
+    "class_num": 21408, 
+    "attributes": "Graded P/N\n\n", 
+    "catalog_num": "341-2"
+}

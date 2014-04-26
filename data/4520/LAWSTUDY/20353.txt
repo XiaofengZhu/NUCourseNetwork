@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 20353, 
+    "subject": "LAWSTUDY", 
+    "requirements": "Enrollment Requirements: Communication and Legal Reasoning I and II are pre-requisites for this course.", 
+    "title": "Advanced Legal Writing: Argument, Advocacy, Drafting", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Helene S Shapo", 
+        "phone": null, 
+        "address": "McCormick 178"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18058, 
+    "attributes": "3 draft degree req may be met with class\n\nProfessional Skills Course\n\n", 
+    "catalog_num": "620A"
+}

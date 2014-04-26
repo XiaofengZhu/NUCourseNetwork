@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18514, 
+    "subject": "EARTH", 
+    "requirements": null, 
+    "title": "Biogeochemistry", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "As arranged (n-blair@northwestern.edu)", 
+        "bio": null, 
+        "name": "Neal E Blair", 
+        "phone": "847/491-8790", 
+        "address": "TECH A228"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Biogeochemistry: An Analysis of Global Change, 3rd Edition; Schlesinger and Bernhardt\nISBN-10: 0123858747 | ISBN-13: 978-0123858740"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and discussion, problem sets and a final paper and presentation."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "1 quarter of chemistry plus 1 quarter of geoscience, environmental science, or biology. Taught with CIV ENV 317; students may not earn credit for both courses."
+        }
+    ], 
+    "class_num": 35114, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "317-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 19366, 
+    "subject": "DANCE", 
+    "requirements": "Enrollment Requirements: Reserved for Dance majors only.", 
+    "title": "Senior Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M/W 10am-12pm, T/Th 2-5pm", 
+        "bio": null, 
+        "name": "Jeffery M Hancock", 
+        "phone": "847/491-3147", 
+        "address": "Dance Offices, Marjorie Ward Marshall Dance Center"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35460, 
+    "attributes": null, 
+    "catalog_num": "395-3"
+}

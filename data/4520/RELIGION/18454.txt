@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 18454, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Themes in Comparative Religion", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tuesday 3.30-5.00", 
+        "bio": null, 
+        "name": "Mira Balberg", 
+        "phone": "847/467-1746", 
+        "address": "Crowe Hall 4-137"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<ul>\n<li>Caroline Walker Bynum, <i>Wonderful Blood: Theology and Practice in Late Medieval Northern Germany and Beyond</i> (University of Pennsylvania Press, 2007) 978-0812220193</li>\n<li>Rene Girard, <i>Violence and the Sacred, trans. Patrick Gregory</i> (Baltimore: John Hopkins University Press, 1979). 978-0801822186</li>\n<li>Moshe Halbertal, <i>On Sacrifice</i> (Princeton: Princeton University Press, 2012). 978-0691152851</li>\n<li>Jon D. Levinson, <i>The Death and Resurrection of the Beloved Son: The Transformation of Child Sacrifice in Judaism and Christianity</i>(New Haven: Yale University Press, 1995) 978-0300065114</li>\n<li>Jon Pahl, <i>Empire of Sacrifice: The Religious Origins of American Violence</i> (New York: NYU Press, 2012). 978-0814768952</li>\n<li>John Stratton Hawley (ed.), <i>Sati, the Blessing and the Curse: The Burning of Wives in India</i> (New York: Oxford University Press, 1994). 978-0195077742</li>\n</ul>"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "<ln/>"
+        }
+    ], 
+    "class_num": 16851, 
+    "attributes": null, 
+    "catalog_num": "482-0"
+}

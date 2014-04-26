@@ -1,0 +1,45 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 42, 
+    "course_id": 2449, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Differential Calculus of One-Variable Functions", 
+    "section": "41", 
+    "coursecomponent_set": [
+        {
+            "room": "2122 Sheridan Rd Classroom 260", 
+            "section": "41A", 
+            "component": "DIS", 
+            "end_time": "10:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "10:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "41", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sara William Lapan", 
+        "phone": null, 
+        "address": "Locy 201"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M177", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "James Stewart, \"Essential Calculus: Early Transcendentals\" Volume 1 2nd Edition"
+        }
+    ], 
+    "class_num": 26787, 
+    "attributes": "Formal Studies Distro Area\n\n", 
+    "catalog_num": "220-0"
+}

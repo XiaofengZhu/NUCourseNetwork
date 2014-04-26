@@ -1,0 +1,31 @@
+{
+    "overview": "<em>Europop</em> <p>Discover French chanteurs and chanteuses, among them the American/French \"Black Pearl\" Josephine Baker.  Move with Italian disco; \"with a little help from friends\" join the British invasion of the 1960s; feel the patriotic mass vibe of Soviet songs and post-Soviet riots, embraced or imprisoned; learn the voices of today's rebellions, violence, and war.  And afterwards, in the second half of the class, enjoy the media glitz and political gambling of the Eurovision song contest - a major institution of Western popular entertainment, competition, diplomacy, and commercialism. </p>", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 19443, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Topics in Popular Music", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Inna I Naroditskaya", 
+        "phone": "847/467-2034", 
+        "address": "in-narod@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Library Video Theat", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 34519, 
+    "attributes": null, 
+    "catalog_num": "333-0"
+}

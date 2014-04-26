@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 92, 
+    "course_id": 4783, 
+    "subject": "GEN_ENG", 
+    "requirements": null, 
+    "title": "Engineering Analysis  II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Yonggang Huang", 
+        "phone": "847/467-3165", 
+        "address": "Technological Institute, Rm A116, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M345", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20318, 
+    "attributes": null, 
+    "catalog_num": "205-2"
+}

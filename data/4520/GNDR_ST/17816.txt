@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 17816, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Gender, Sexuality, and Popular Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lorena Alvarado", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "(needed by 9/20) Lipkin, Elline. Girls Studies (Berkeley, CA:  Seal Press, 1999). ISBN: 978-1-58005-248-1\n \n(needed by 9/29) Brumberg, Joan Jacob. The Body Project:  An Intimate History of American Girls (NY: Random House, Vintage Books, edition, 1997). ISBN: 0-679-73529-1\n \n(needed by 10/20) Pascoe, C. J. Dude, Youre a Fag:  Masculinity and Sexuality in High School (Berkeley, CA:  Univ. of California Press, 2007).  ISBN: 978-0-520-25230-1\n \n(needed by 10/27) Bettie, Julie. Women without Class:  Girls, Race, and Identity (Berkely, CA:  Univ. of California Press, 2003).  ISBN: 0-520-23542-8"
+        }
+    ], 
+    "class_num": 17128, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "371-0"
+}

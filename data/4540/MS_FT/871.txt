@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 871, 
+    "subject": "MS_FT", 
+    "requirements": "Enrollment Requirements: Reserved for Marital and Family Therapy Students Only", 
+    "title": "Legal, Ethical and Professional Issues in Marital and Family Therapy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rocco A Cimmarusti", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 37142, 
+    "attributes": "Department Majors Only\n\n", 
+    "catalog_num": "428-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 19536, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Mathematical Methods in Finance", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Elton Hsu is a Professor of Mathematics in the Department of Mathematics of Northwestern University. His main research interests are probability theory and stochastic analysis and their applications in pure and applied mathematics. He has taught financial mathematics at both undergraduate and graduate levels for many years.", 
+        "name": "Elton P Hsu", 
+        "phone": "8474918541", 
+        "address": "Lunt 205"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 105", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "The student should know how to use Microsoft Excel."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Lecture notes will be available online. No textbooks are required. Recommended readling list will be announced during the meeting of the course."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the of this course the student will be a good understanding of how mathematics can be applied to financial problems. In particular, he or she will know how volatility (market uncertainly) is modeled by random walks and Brownian motion."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MATH 240. A good knowledge of calculus (completion of first-year calculus), some basic linear algebra, and one-quarter course on probability theory are recommended."
+        }
+    ], 
+    "class_num": 35071, 
+    "attributes": null, 
+    "catalog_num": "366-A"
+}

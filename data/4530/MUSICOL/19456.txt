@@ -1,0 +1,44 @@
+{
+    "overview": "<em>Bel Canto Opera</em> <p>This course is designed to provide a window on the world of early 19th-century Italian opera: composers, librettists, singers, impresarios, performance practice, and generic and stylistic conventions.  Representative operas by the three outstanding composers of the period (Gioachino Rossini, Gaetano Donizetti, and Vincenzo Bellini) will be studied from different angles, reinforced through a variety of reading, listening, and viewing assignments.  \"Minor\" composers such as Giovanni Pacini and Saverio Mercadante will also be considered, and perhaps reevaluated.</p><p>The aim overall is to make possible a critical examination of the term \"Bel Canto\" (\"beautiful singing\") by which this repertoire is often designated, with its implicit suggestion that these operas are primarily conceived as demonstrations of vocal beauty and ability.</p> <p>A knowledge of Italian will be helpful but not essential.</p>", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 19456, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Bel Canto Opera", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Specialist in 19th- and 20th-century Italian opera, with articles published on Rossini, Donizetti, Bellini, and Verdi; papers read at national and international conferences on opera and film music history. Research interests in musical aesthetics and the convergence of music with fields such as literature, poetry, and theology. Contributor, New Grove Dictionary of Opera (Macmillan, 1992), Pipers Enzyclopdie des Musiktheaters (Pipers, 1996), New Grove Dictionary of Music and Musicians (Macmillan, 2000). Outstanding Dissertation Award and Excellence in Teaching Award, New York University. Faculty Honor Roll, Northwestern University.", 
+        "name": "Jesse Rosenberg", 
+        "phone": "847/467-2033", 
+        "address": "j-rosenberg1@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 125", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "ATTENDANCE IS REQUIRED at one of the performances of The Barber of Seville at the Lyric Opera of Chicago during the month of February 2014."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "STUDY MATERIALS will be made available via our Blackboard site. These include scores, sound recordings, video recordings, and readings."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "GRADES are determined by a take-home midterm examination (20 pts), three written/listening assignments (15 pts each, see syllabus for dates), and a take-home final examination (25 pts).  10% of the grade will be based on class participation, naturally including attendance, but also including informed participation in class discussion."
+        }
+    ], 
+    "class_num": 34998, 
+    "attributes": null, 
+    "catalog_num": "348-0"
+}

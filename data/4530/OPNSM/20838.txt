@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20838, 
+    "subject": "OPNSM", 
+    "requirements": null, 
+    "title": "Operations Management", 
+    "section": "1", 
+    "coursecomponent_set": [
+        {
+            "room": "555 Clark B03", 
+            "section": "1A", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Robert Louis Bray", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "555 Clark B03", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33732, 
+    "attributes": null, 
+    "catalog_num": "430-0"
+}

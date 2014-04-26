@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4887, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Environmental Engineering Applications I : Air and Land", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Harish G Rao", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Recommended reading:  \nEnvironmental Engineering Science / Nazaroff, W and Alvarez-Cohen / ISBN 0-471-14494-0 / 2000 / 1st / Wiley\nAir Pollution:  Its Origin and Control / Wark,Warner & Davis / 3rd ed / ISBN 9780673994165 / Prentice Hall"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Air Pollution Control: A Design Approach / C. David Cooper and F.C. Alley / ISBN 978-1-57766-678-3 / Waveland Press, Inc. / 2010 / 4fh edition"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "BASIS OF GRADE / \n*** Two Midterms @ 25% each \n*** Final Exam @ 35% \n*** Homework @ 15 %"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "LECTURE SCHEDULE / Three 1-hour lectures per week."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students successfully completing the course will be able to: \n\n1.  Identify pollutants regulated under the Ambient Air Quality Standards and one or more standards for each; \n2.  Express concentrations in ppmv and g/m3 at various temperatures and pressures; \n3.  Determine the geometric mean and standard deviation of particle size distribution data, and calculate the count median and mass median diameters; \n4.  Model air quality using box, plume and puff models; \n5.  Identify regulatory measures and strategies affecting air quality and emission control; \n6.  Analyze the performance of common emission control systems; \n7.  Identify and describe the basic concepts of land pollution engineering; \n8.  Describe the basic factors and equations governing flow and pollution transport in groundwater; \n9.  Apply basic land pollution concepts to estimate remediation standards."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Junior standing in engineering or science."
+        }
+    ], 
+    "class_num": 15636, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "363-0"
+}

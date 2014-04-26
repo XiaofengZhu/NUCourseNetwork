@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 16641, 
+    "subject": "ENVR_SCI", 
+    "requirements": null, 
+    "title": "The Health of the Biosphere", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "20", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Joseph S Walsh", 
+        "phone": "847/491-5098", 
+        "address": "Hogan Hall, Room 6-110A"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Ecology  / Michael Cain, William Bowman, Sally Hacker / ISBN 978-0878936007 / 2011 / 2nd / Sinauer Assoc., Sunderland, MA"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Two problem sets (10% each); a group project (30%); two midterm exams (25% each)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two lectures per week with a To Be Arranged Discussion section."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Introduce the concept of the ecological niche, and the limits on the distribution and abundance of populations.  Develop the basic mathematical tools for understanding models of population growth, sustainable harvest, extinction of fragmented populations, and spread of diseases.  Explore the concept of the biological community and the role of biological diversity in healthy ecosystem functioning."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CHEM 103 or equivalent"
+        }
+    ], 
+    "class_num": 23765, 
+    "attributes": "Natural Sciences Distro Area\n\nPrerequisites apply, see description\n\n", 
+    "catalog_num": "202-0"
+}

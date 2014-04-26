@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 15995, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Implantable Devices", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Tina M Grieco-Calub", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2378", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Niparko J.K. (2009). Cochlear Implants, Principles & Practices. Philadelphia, PA: Lippincott Williams & Wilkins.\nWolfe J. and Schafer E.C. (2010). Programming Cochlear Implants. San Diego, CA: Plural Publishing."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Gifford, R.H. (2013). Cochlear Implant Patient Assessment: Evaluation of Candidacy, Performance, and Outcomes. San Diego, CA: Plural Publishing."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class discussion"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "<ul>\n<li>Identify the hardware of the implantable auditory prostheses, understand their function, and use the devices according to manufacturers' specifications and recommendations (A24)</li>\n<li>Identify candidacy criteria for cochlear implants and other implantable devices used in children and adults (C9, D1)</li>\n<li>Identify the critical components of a rehabilitative management plan for individuals with hearing loss who do not benefit from traditional hearing aid amplification (D2a-d, D5, F1)</li>\n<li>Discuss relevant literature in the field of implantable devices (F2)</li>\n<li>Discuss current issues facing clinicians and researchers who work with either individuals with implantable devices or technical aspects of the device itself.</li>\n</ul>"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Currently enrolled in the Doctor of Audiology program or by instructor permission."
+        }
+    ], 
+    "class_num": 21435, 
+    "attributes": null, 
+    "catalog_num": "407-0"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 1983, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Jews and Germans: An Intercultural History II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Mondays, 1-2 PM", 
+        "bio": null, 
+        "name": "Peter D Fenves", 
+        "phone": "847/491-8245", 
+        "address": "Crowe 2-107"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course package, Blackboard documents, and a book by Sigmund Freud, Civilization and its Discontents"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "- Learn about the history of Jews in Germany, 1750-1933\n - Become knowledgeable about major figures in German-Jewish literature\n - Become knowledgeable about major German-Jewish thinkers of modernity\n - Become knowledgeable about major German-Jewish scientists"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "NO REQUIREMENTS"
+        }
+    ], 
+    "class_num": 34210, 
+    "attributes": "Historical Studies Distro Area\n\nInterdisciplinary Distro - See Rules\n\nLiterature & Fine Arts Distro Area\n\nEthics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "234-2"
+}

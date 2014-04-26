@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 300, 
+    "course_id": 1659, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Macroeconomics", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute MG28", 
+            "section": "21", 
+            "component": "DIS", 
+            "end_time": "11:50:00", 
+            "meeting_days": "Mo", 
+            "start_time": "11:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Mark Witte is a Distinguished Senior Lecturer and the Director of Undergraduate Studies for economics at Northwestern.  While completing his Ph.D., Mark worked as a researcher for the Federal Reserve.  His specialties are macroeconomics, public finance, and environmental economics.  He often teaches Introduction to Macroeconomics as well as upper-level classes in his specialities, and enjoys teaching 311 because it helps him be ready for his role as coach of Northwestern's Federal Reserve Challenge Team.", 
+        "name": "Mark P Witte", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Leverone Auditorium Owen Coon", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. <i>Macroeconomics</i>, by Robert J. Gordon, 12th edition (ISBN: 978-0138014919)\n<u>note</u>:  Students are strongly encouraged to get the e-book version of the text.  \n<br>2. <i>After the Music Stopped</i> by Alan S. Blinder, 2013 (ISBN: 978-1594205309)\n<br>3. Readings and notes at: http://bit.ly/Econ311-notes"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework/problem sets, two midterms, final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and TA sessions."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites include Introductory Macroeconomics and Introductory Microeconomics, basic algebra, simple differential calculus, and graphing. Some use of spreadsheets such as Excel will be required on some homework, but training will be available."
+        }
+    ], 
+    "class_num": 23626, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "311-0"
+}

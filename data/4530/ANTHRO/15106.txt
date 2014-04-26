@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 15106, 
+    "subject": "ANTHRO", 
+    "requirements": "Enrollment Requirements: Registration is reserved for Anthropology Majors and Minors or Anthropolgy Graduate Students.", 
+    "title": "Methods in Human Biology Research", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Aaron Miller is an anthropologist who studies human biological variation and adaptation.  He has been an instructor at Northwestern since 2007.  His specific research interests are in reproductive ecology, energetics, nutrition, and bio-cultural determinants of health.  His dissertation work was conducted among the Tsimane, an indigenous lowland Bolivian population transitioning from a hunting and gathering lifestyle to one more reliant upon the market.  Most recently he has been doing field work in Indonesia and has been working with colleagues from Duke University to set up a laboratory there.", 
+        "name": "Aaron Allen Miller", 
+        "phone": null, 
+        "address": "Dept of Anthropology 1810 Hinman Room A64"
+    }, 
+    "term": "2014 Winter", 
+    "room": "ANTHRO Lab A58 - 1810 Hinmn", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "No P/N."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Coursepack of selected journal articles & book chapters."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class participation, lab write-ups, research proposal.  Due to the time-intensive nature of laboratory activities, class attendance will be critical to success in this course and make-ups will only be available under extraordinary circumstances."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Enrollment is by permission only, with priority given to anthropology majors pursuing the Concentration in Human Biology. Contact our DUS, Prof. Helen Schwartzman at hsjsls@northwestern.edu for permission to enroll."
+        }
+    ], 
+    "class_num": 24531, 
+    "attributes": "Department Majors Only\n\nJuniors/Seniors Only\n\n", 
+    "catalog_num": "386-0"
+}

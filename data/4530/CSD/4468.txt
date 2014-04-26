@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4468, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Seminar: Experiemental and Theoretical Apsects of Audiology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mario Alfredo Ruggero", 
+        "phone": "847/491-3180", 
+        "address": "Room 2-244, 2240 Campus Drive, Evanston campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "CSD Sem Rm B302 - Frances Srle", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Articles for review are chosen on a weekly basis to keep abreast of current developments in the field."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades for the course will be assigned based on (at least) two presentations during the quarter (80%) and summary statements of other papers (20%) discussed during the quarter.\n\nPresentations: The primary articles for the presentations can be chosen by the presenter but have to be approved by the instructors. The presenter is expected to use relevant literature outside of the chosen article(s) to provide a brief but comprehensive background of the subject matter. The presenter is also expected to relate the results of the article(s) under discussion with other relevant literature.\n\nGrades will be based on the how well the student places the topic in the context of the literature and the quality of the presentation. Grades will be assigned based on the evaluations of all instructors.\n\nSummary statements: Students will write summary statements (not exceeding 650 words) of each paper discussed during the quarter. These statements will be submitted electronically to all instructors. Grading of these statements will be based on accurate interpretation of the theoretical issues of the paper and critical examination of the methods and results."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will know the fundamental bases of cellular, mechanical, and neural function of the auditory periphery. Students will also know about the general methods used in auditory psychophysics, biophysics, and physiology. Students will understand the background, material, methods, and results of the paper discussed during the quarter."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission of the instructors."
+        }
+    ], 
+    "class_num": 21921, 
+    "attributes": null, 
+    "catalog_num": "516-0"
+}

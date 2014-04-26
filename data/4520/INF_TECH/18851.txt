@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 18851, 
+    "subject": "INF_TECH", 
+    "requirements": null, 
+    "title": "The Law of Information Technology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-10-29", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Peter Charles DiCola", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 16656, 
+    "attributes": null, 
+    "catalog_num": "455-0"
+}

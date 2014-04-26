@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1622, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Special Topics in Theory: Critical Theory", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tues 2:00 - 4:00 pm", 
+        "bio": null, 
+        "name": "Jorg Kreienbrock", 
+        "phone": "847/491-5788", 
+        "address": "Kresge 2-550"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Authors that will be discussed in class include but are not limited to: Livy, Gottfried Wilhelm Leibniz, Immanuel Kant, Georg Friedrich Wilhelm Hegel, Thomas Carlyle, Robert Musil, Jorge Luis Borges, Philipp K. Dick, William Gibson, Robert Harris, Philipp Roth, Christoph Ransmayr. \nTexts will be available on blackboard."
+        }
+    ], 
+    "class_num": 24436, 
+    "attributes": null, 
+    "catalog_num": "383-0"
+}

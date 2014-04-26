@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4753, 
+    "subject": "DANCE", 
+    "requirements": null, 
+    "title": "Special Topics in Dance Research", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Elliot Gordon Mercer", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 412", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Arbeau, Thoinot. Orchesography. Trans. Mary Stewart Evans. Mineola: Dover Publications, 1967.\nISBN: 0486217450\n\nHalprin, Anna. Moving Toward Life: Five Decades of Transformational Dance. Ed. Rachel Kaplan. Hanover: Wesleyan University Press, 1995. ISBN: 0819562866\n\nHutchinson Guest, Ann. Choreo-Graphics: A Comparison of Dance Notation Systems from the Fifteenth Century to the Present. London: Routledge, 1998. ISBN: 9057000032\n\nCourse Reader\n     \nStudents should be prepared for each class with a course notebook, white paper (either loose or bound), pen, pencil, red pen/pencil, eraser, and ruler. These tools are indispensible to the writing and editing of dance notation."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of this course students will be proficient at examining dance visually and structurally as well as theoretically. Students will be able to think critically about the lineage of western dance practices, using both scholarly research and performance documentation as evidence to support their own historical claims and personal artistic choices. This class will also prepare interested students for continued work with dance scores, either through the formal study of a notation system or the creative application of dance scoring methods and methodologies to future academic and professional work."
+        }
+    ], 
+    "class_num": 21565, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "335-0"
+}

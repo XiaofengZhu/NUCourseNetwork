@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 14, 
+    "course_id": 3532, 
+    "subject": "MUSIC", 
+    "requirements": "Enrollment Requirements: Restricted to Music Undergrads/Grads", 
+    "title": "Aural Skills VI", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Robert Andrew Reinhart", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35839, 
+    "attributes": null, 
+    "catalog_num": "226-3"
+}

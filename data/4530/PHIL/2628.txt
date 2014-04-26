@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 2628, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Philosophy of Language", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": "by appt", 
+        "bio": null, 
+        "name": "Gregory L Ward", 
+        "phone": "847/491-7020", 
+        "address": "2016 Sheridan Road, Rm 203"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Swift Hall 107", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Text (Reference by Barbara Abbott. 2010. Oxford University Press; ISBN #978-0-19-920345-1) and an on-line course reading packet."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Several reaction papers and a term paper on a topic chosen in consultation with the instructor."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion format with some lecture. Each student will lead 1-2 class discussions."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To understand current theoretical issues in reference specifically and, more broadly, the philosophy of language, with the goal of explaining the basic principles of reference, i.e. how speakers can refer to the same object in real time using different linguistic expressions, and how the same linguistic expression can be used to refer to different objects on different occasions."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "PREREQUISITES: a course in linguistic meaning (e.g., LING 270, 370, 372), a course in the philosophy of language (e.g., PHIL 353), or permission of Instructor. ATTENDANCE AT FIRST CLASS MANDATORY."
+        }
+    ], 
+    "class_num": 26589, 
+    "attributes": null, 
+    "catalog_num": "353-0"
+}

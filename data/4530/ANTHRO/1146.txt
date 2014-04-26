@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 23, 
+    "course_id": 1146, 
+    "subject": "ANTHRO", 
+    "requirements": "Enrollment Requirements: Reserved for Anthropology majors and minors.", 
+    "title": "Ethnographic Methods and Analysis", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "18:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "My interests in time stem from a 1992-95 study in The Gambia (West Africa) on womens efforts to control the intervals between childrens births.  In this study, my own assumptions about how time works in the body, especially in reproduction and aging, were suddenly dismantled.  The experience has made me go back to some of the classic literature in anthropology for insights into my own society -- how we have come to assign views of time in certain ways.", 
+        "name": "Caroline H Bledsoe", 
+        "phone": "847/491-4825", 
+        "address": "1810 Hinman Ave., Room 201, EV Campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 223", 
+    "end_time": "21:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 26045, 
+    "attributes": "Department Majors/Minors Only\n\n", 
+    "catalog_num": "389-0"
+}

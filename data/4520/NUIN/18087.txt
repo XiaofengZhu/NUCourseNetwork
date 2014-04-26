@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18087, 
+    "subject": "NUIN", 
+    "requirements": "Enrollment Requirements: Registration is restricted to NUIN students who have completed NUIN 401-1.", 
+    "title": "Great Experiments in Cellular Neurophysiology", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Indira M Raman", 
+        "phone": "847/467-7912", 
+        "address": "Cook Hall, Room 2-131"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 13585, 
+    "attributes": null, 
+    "catalog_num": "411-2"
+}

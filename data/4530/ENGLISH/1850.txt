@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1850, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Theory and Practice of Poetry", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-02-10", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rachel J Webster", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Allison Residential Comm 1021", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 34028, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "393-T"
+}

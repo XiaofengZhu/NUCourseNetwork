@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2356, 
+    "subject": "HINDI", 
+    "requirements": null, 
+    "title": "Hindi I", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M 12:00pm-1:00pm", 
+        "bio": null, 
+        "name": "Rami Nair", 
+        "phone": "8474677581", 
+        "address": "4-406 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Practical Hindi-English Dictionary by M. Chaturvedi and B.N. Tiwari (South Asia Books Publisher, 1992)\nISBN: 81-214-0536-X\n\nRajpal English-Hindi Dictionary by Hardev Bahri (1999, available through Amazon)\nISBN-10: 81-7028-100-8\nISBN-13: 9788170281009"
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Introduction to Hindi Grammar by U.R. Jain (University of California Institute of East Publisher)\nISBN: 09-446-1325-X/9780944613252"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Introduction to Hindi Grammar by Usha R. Jain. Hindi Dictionary by Rupert Snell."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assessment is based on weekly (pop) quizzes, attendance, classroom participation, home assignments, 3 midterms and an oral interview. No final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Textbook, word games, videos, in-class materials and handouts."
+        }
+    ], 
+    "class_num": 24328, 
+    "attributes": null, 
+    "catalog_num": "111-2"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 5295, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Senior Project in Materials Science and Engineering", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kathleen A. Stair", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute C115", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "The ACS Style Guide: A Manual for Authors and Editors , Janet S. Dodd, Ed.; American Chemical Society: Washington , D.C, 1986. On reserve.\nWeb resource on technical writing: http://www.writing.eng.vt.edu/csp.html"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The grade will be based on the biweekly progress reports, presentations and participation in class, end of quarter write-up, final presentation and thesis and overall research effort. Grades are determined jointly by Dr. Stair and the research advisor, as follows: \nParticipation in weekly meetings & progress reports (10%) \nOverall Research Effort (20%) \nFinal Oral Presentation (30%) \nFinal Written Report (40%)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Senior standing in materials science program"
+        }
+    ], 
+    "class_num": 20352, 
+    "attributes": null, 
+    "catalog_num": "396-2"
+}

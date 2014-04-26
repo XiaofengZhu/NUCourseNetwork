@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 36, 
+    "course_id": 20728, 
+    "subject": "MORS", 
+    "requirements": null, 
+    "title": "Leader as Coach (PT)", 
+    "section": "71", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-08-30", 
+    "start_time": null, 
+    "component": "71", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Brenda Ellington Booth", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 42164, 
+    "attributes": null, 
+    "catalog_num": "937-0"
+}

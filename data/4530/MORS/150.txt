@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 150, 
+    "subject": "MORS", 
+    "requirements": null, 
+    "title": "Management Communications", 
+    "section": "91", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "91", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Karen S Van Camp", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center G43", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33553, 
+    "attributes": null, 
+    "catalog_num": "450-0"
+}

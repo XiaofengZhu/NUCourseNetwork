@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20749, 
+    "subject": "MOB_APP", 
+    "requirements": null, 
+    "title": "Application Design for Android", 
+    "section": "47", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-11", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "47", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David A Randolph", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": "13:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 34527, 
+    "attributes": null, 
+    "catalog_num": "305-0"
+}

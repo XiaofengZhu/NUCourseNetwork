@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 2213, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Divisional Seminar in American History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Fr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "I have been teaching about this period for a long time (since before taking a Yale PhD in 1975), from about every conceivable angle; it's been the focus of parts of my scholarship (for example, In the Shadow of War: The United States Since the 1930s (1995); and I lived through it.  My most recent book is Gay Artists in Modern American Culture: An Imagined Conspiracy (2007). In line with my career-long interest in cheerful matters, my current scholarly project is titled \"Go Directly to Jail: The Punitive Turn in American Life\"about the growth of mass incarceration and other punitive practices in the US since the 1960s.", 
+        "name": "Michael S Sherry", 
+        "phone": "847/491-7356", 
+        "address": "Harris Hall Room 207"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-310", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 23861, 
+    "attributes": "Permission of department\n\n", 
+    "catalog_num": "585-0"
+}

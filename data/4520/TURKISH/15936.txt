@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 15936, 
+    "subject": "TURKISH", 
+    "requirements": null, 
+    "title": "Turkish I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW: 11:00am-12:20pm", 
+        "bio": null, 
+        "name": "Judith M Wilks", 
+        "phone": "8474912767 no voicemail", 
+        "address": "4-331 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Redhouse English-Turkish/Turkish-English Dictionary. Redhouse Yaynevi, 2002. Robert Underhill, Turkish Grammar. MIT Press, 9th printing, 2001. Redhouse Yeni Szl: ngilizce-Trke /  Trke-ngilizce, SEV Matbaaclk ve Yaynclk, 1997."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Suzan Ozel, Elementary Turkish: A Communicative Approach. Unpublished work, available as a course packet from Quartet Copies for $63.50. Accompanying audio materials available at: \n\nhttp://languagelab.bh.indiana.edu/online.html  \n\nAll students should also have access to a computer and printer for occasional online assignments and Blackboard access."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Periodic quizzes, written homework assignments, a mid-term exam and a final exam are given. Class participation counts as a significant portion of the grade."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lessons are based on Suzan Ozel's (as yet unpublished) Elementary Turkish Grammar. Copies will be available in course packet form. Audio materials based on Ozel's work are also available. Practical examples of how the language is used (excerpts from literature, journalism, songs, etc.) are brought in as warm-up exercises to be done as a group. The goal is to transition gradually to using Turkish as the language of instruction."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 16966, 
+    "attributes": null, 
+    "catalog_num": "111-1"
+}

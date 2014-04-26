@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 8, 
+    "course_id": 20731, 
+    "subject": "MENA", 
+    "requirements": null, 
+    "title": "Seminar in MENA Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Brannon Dobbs Ingram", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Rel 250 (Introduction to Islam) or permission of instructor"
+        }
+    ], 
+    "class_num": 17291, 
+    "attributes": null, 
+    "catalog_num": "301-1"
+}

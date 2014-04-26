@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 19171, 
+    "subject": "CIS", 
+    "requirements": null, 
+    "title": "Web Application Development", 
+    "section": "55", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "19:00:00", 
+    "component": "55", 
+    "school": "UC", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Atef J Bader", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "21:30:00", 
+    "coursedesc_set": [], 
+    "class_num": 38919, 
+    "attributes": null, 
+    "catalog_num": "419-DL"
+}

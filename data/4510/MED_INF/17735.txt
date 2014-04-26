@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 17735, 
+    "subject": "MED_INF", 
+    "requirements": "Enrollment Requirements: Reserved for MMI Distance Learning", 
+    "title": "Medical Technology Acquisition and Assessment", 
+    "section": "55", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-09-01", 
+    "start_time": null, 
+    "component": "55", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sameer Badlani", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 42104, 
+    "attributes": null, 
+    "catalog_num": "408-DL"
+}

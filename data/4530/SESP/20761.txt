@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 20761, 
+    "subject": "SESP", 
+    "requirements": null, 
+    "title": "Practicum: Social Policy", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "View Class Details for Room", 
+            "section": "21", 
+            "component": "LAB", 
+            "end_time": "20:00:00", 
+            "meeting_days": "MoTuWeTh", 
+            "start_time": "08:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jennifer L Hirsch", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G22", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34293, 
+    "attributes": null, 
+    "catalog_num": "388-0"
+}

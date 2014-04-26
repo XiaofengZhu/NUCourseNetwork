@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 56, 
+    "course_id": 1911, 
+    "subject": "EARTH", 
+    "requirements": null, 
+    "title": "Earth's Interior", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute MG51", 
+            "section": "20", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appointment", 
+        "bio": null, 
+        "name": "Suzan van der Lee", 
+        "phone": null, 
+        "address": "Tech F494"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No textbook required."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Problem sets (20%), midterm (40%), final (40%)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two 1 1/2-hour lectures per week, One 1-hour discussion section."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Math 224,  Physics 135-1, and Chemistry 101  or equivalents, or consent of the instructor."
+        }
+    ], 
+    "class_num": 34177, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "202-0"
+}

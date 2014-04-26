@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 1719, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Theory and Practice of Public Finance", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lee M Lockwood", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center 3204", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 34105, 
+    "attributes": null, 
+    "catalog_num": "436-1"
+}

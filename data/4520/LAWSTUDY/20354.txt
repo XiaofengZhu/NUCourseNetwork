@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 20354, 
+    "subject": "LAWSTUDY", 
+    "requirements": null, 
+    "title": "Lawyer Memoirs", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Steven Lubet", 
+        "phone": "312/503-6605", 
+        "address": "Rubloff 853"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18070, 
+    "attributes": "1 Draft degree req may be met with class\n\n3 draft degree req may be met with class\n\nLegal Profession/Professional Regulation\n\n", 
+    "catalog_num": "647A"
+}

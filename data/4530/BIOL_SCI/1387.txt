@@ -1,0 +1,61 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1387, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Students must have taken CHEM 212-1, BIOL_SCI 240, and have ISP standing to register for this course.", 
+    "title": "ISP Biochemistry", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "2122 Sheridan Rd Classroom 231", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "10:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "10:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Stanley Malvin Ming-Him Lo", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L170", 
+    "end_time": "15:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Attendance of discussion sections is required"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Pratt and Cornely, Essential Biochemistry, 3rd edition, Wiley 2013: ISBN : 978-1-118-44168-8.  \n\nhttp://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002534.html"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework assignments, quizzes, examinations, and projects"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures, in-class activities, discussion sections, projects"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: Chemistry 212-1 and ISP Standing"
+        }
+    ], 
+    "class_num": 26364, 
+    "attributes": "ISP Students Only\n\n", 
+    "catalog_num": "241-0"
+}

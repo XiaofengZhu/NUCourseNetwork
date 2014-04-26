@@ -1,0 +1,36 @@
+{
+    "overview": "<em>Notation and Editing</em><p>This course is intended to help graduate students in music academic fields, and DMA students with an interest in creating original performing or scholarly editions for their instrument, begin to think about what constitutes a primary musical document, the utility of multiple versions or editions of a single piece or repertory, and the interplay between oral and written transmission of music in successive performances and in scholarship.</p><p>Students will work with editorial and other scholarly and practical issues surrounding musical works as they are found in performance, in libraries, in all sorts of archives...and submitted to publishers and as musical examples in academic books and in articles.</p> <p>Scholarly methodologies will be drawn from all areas of musical inquiry, from critical theory, and from the growing area of textual histories and cultures. Each student will produce an original edition of a particular work or linked set of works as a project.</p>", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 19470, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Notation and Editing", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Specialist in Renaissance and baroque musical-cultural relations, gender and feminist theory, European iconography, music as related to visual art and the early history of science. Recipient of major fellowships and research grants, including American Council of Learned Societies, British Academy, Mary Ingraham Bunting Institute (Radcliffe College/Harvard University), and National Endowment for the Humanities. Author, Music in English Children's Drama of the Later Renaissance (Gordon and Breach, 1992), Music in English Life and Thought 1550-1650 (forthcoming); editor, Music, Sensation and Sensuality (Routledge, 2002), editor, Music and the Sirens (Indiana University Press, 2006). Author of numerous articles and reviews in books and such journals as Journal of the American Musicological Society, Modern Philology, Music and Letters, and Renaissance Quarterly.", 
+        "name": "Linda P Austern", 
+        "phone": "847/491-5705", 
+        "address": "l-austern@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 43", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Graduate standing in the Bienen School of Music"
+        }
+    ], 
+    "class_num": 35253, 
+    "attributes": null, 
+    "catalog_num": "460-0"
+}

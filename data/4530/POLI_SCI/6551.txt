@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 6551, 
+    "subject": "POLI_SCI", 
+    "requirements": null, 
+    "title": "Political Research Seminar", 
+    "section": "14", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "14", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Jeff Rice has been associated with African Studies at Northwestern since he rceived the first Undergraduate Certificate (in African Studies) in 1972.  His work is primarliy on the relationship between pre-coloinal African poitical institutions and the effects of colonialism on those institutions and that process' implications for state failure in the late 20th and early 21st century.", 
+        "name": "Jeffrey Rice", 
+        "phone": "847/491-8916", 
+        "address": "1908 Sherman Ave"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 507", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texts :\n\nPiss `Em All Off:And Other Practices of the Effective Citizen, Keylog, 978-0-9829575-0-9.\n\nFull Disclosure: The Perils and Promise of Transparency [Paperback]\nArchon Fung (Author), Mary Graham (Author), David Weil (Author)  \nPublisher: Cambridge University Press; Reprint edition (July 21, 2008) \nISBN-10: 0521699614 \nISBN-13: 978-0521699617\n \nOpen Government: Collaboration, Transparency, and Participation in Practice [Paperback]\nDaniel Lathrop (Author), Laurel Ruma (Author) \nPublisher: O'Reilly Media; 1 edition (February 23, 2010) \nISBN-10: 0596804350 \nISBN-13: 978-0596804350\n\nAlso selected excerpts provided in PDF format on Blackboard"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Through lectures and the accompanying texts, as well as a rare opportunity to work hand in hand with staff from the Chicago Inspector General's Office, students will come away at course end with a clear definition of transparency in government and how that transparency leads to civic engagement and a mitigation of corruption."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 35084, 
+    "attributes": null, 
+    "catalog_num": "395-CN"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6076, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Concepts of Biology", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": "Laura Panko is a Lecturer in Biology and undergraduate adviser in the Weinberg College of Arts and Sciences.  She has worked at Northwestern since Fall of 2004. Courses she has taught at Northwestern include freshman seminars, Topics in Evolutionary Biology, and Evolutionary Processes. She earned her bachelor's degree in Biology from Cornell University, and her doctorate in Vertebrate Paleontology from the University of Chicago. Laura's paleontology interests focus on the origins of mammals and birds.", 
+        "name": "Laura J Panko", 
+        "phone": "847/491-8914", 
+        "address": "1908 Sheridan Road"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M152", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This class is designed for non-science majors."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings will likely include: \"Biology: Life on Earth, ninth edition,\" 2011 by Teresa Audesirk, Gerald Audesirk, and Bruce E. Byers.  Published by Benjamin Cummings (and imprint of Pearson).  ISBN-13: 978-0-321-59847-9. \n\nStudents who wish to use alternate study materials are encouraged to contact the instructor for guidance."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, students will have an understanding of core concepts in biology that will help them engage in a range of issues of modern life, from personal nutrition to the ecological consequences of invasive species.  This course can be taken as a stand-alone science class or as  preparation for future coursework in the biological or health sciences."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No course prerequisites; open to all students with an interest in the topic but little biology background."
+        }
+    ], 
+    "class_num": 35021, 
+    "attributes": null, 
+    "catalog_num": "170-CN"
+}

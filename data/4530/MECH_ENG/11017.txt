@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 46, 
+    "course_id": 11017, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Introduction to Mechatronics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kevin M Lynch", 
+        "phone": "847/467-5451", 
+        "address": "Technological Institute, Rm B221, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 4", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "READING: Introduction to Mechatronics and Measurement Systems, Second Edition, D. G. Alciatore and M. B. Histand, McGraw-Hill, 2003, ISBN 0-07-240241-5. \n\nOther Sources: \n\nThe Art of Electronics, second edition, P. Horowitz and W. Hill, Cambridge University Press, 1989, ISBN 0-521-37095-7. \n\nMechatronics: Electronic Control Systems in Mechanical and Electrical Engineering, second edition, W. Bolton, Addison Wesley Longman, 1999, ISBN 0-582-35705-5. \n\nMobile Robots: Inspiration to Implementation, second edition, J. Jones, A. Flynn, and B. Seiger, AK Peters, 1999, ISBN 1-56881-097-0. \n\nMechanical Devices for the Electronics Experimenter, B. Rorabaugh, TAB Books (Division of Mc-Graw Hill), 1995, ISBN 0-07-053547-7."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Labs, Quizzes, Homework and Final Project."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: MECH_ENG 233, EECS 221 or consent of instructor."
+        }
+    ], 
+    "class_num": 20444, 
+    "attributes": null, 
+    "catalog_num": "333-0"
+}

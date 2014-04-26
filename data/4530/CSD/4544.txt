@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 4544, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Craniofacial Anomalies and Syndromes", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mary O'Gara", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2370", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<ol>\n<li>The Clinician's Guide to Treating Cleft Palate Speech\nBy Sally J. Peterson-Falzone, PhD, Judith Trost-Cardamone, PhD, Michael P. Karnell, PhD and Mary A. Hardin-Jones, PhD\nPaperback , Reference  \nImprint: Mosby \nISBN: 978-0-323-02526-3 \nCopyright: 2006</li>\n\n<li>Cleft Palate Speech, 4th Edition\nBy Sally J. Peterson-Falzone, PhD, Mary A. Hardin-Jones, PhD and Michael P. Karnell, PhD\nHardcover \nImprint: Mosby \nISBN: 978-0-323-04882-8 \nCopyright: 2010</li>\n</ol>"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: CSD 301."
+        }
+    ], 
+    "class_num": 21558, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "433-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 356, 
+    "subject": "HEMA", 
+    "requirements": null, 
+    "title": "Health Policy", 
+    "section": "81", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-23", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "81", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Edward F X Hughes", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18365, 
+    "attributes": null, 
+    "catalog_num": "441-0"
+}

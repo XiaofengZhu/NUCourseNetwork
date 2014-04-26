@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 3090, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Intensive Italian", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 12 - 1PM", 
+        "bio": null, 
+        "name": "Alexandra Visconti McAdoo", 
+        "phone": "847/491-8271", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-113"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<ul><li><em>Italian Espresso 2</em> Alma Edizioni Firenze</li>\n<li><em>Italian Espresso 2</em> Alma Edizioni Firenze (and workbook)</li></ul>"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grade will be based on attendance, class performance, homework, presentations, quizzes and a final project."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Italian 133-1 & Italian 134-1\n\n<strong>Students MUST register for BOTH Italian 133-2 and Italian 134-2.</strong>"
+        }
+    ], 
+    "class_num": 23539, 
+    "attributes": "Prerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "134-2"
+}

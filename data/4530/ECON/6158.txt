@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6158, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Macroeconomics", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Mark Witte is a Distinguished Senior Lecturer and the Director of Undergraduate Studies for economics at Northwestern.  While completing his Ph.D., Mark worked as a researcher for the Federal Reserve.  His specialties are macroeconomics, public finance, and environmental economics.  He often teaches Introduction to Macroeconomics as well as upper-level classes in his specialities, and enjoys teaching 311 because it helps him be ready for his role as coach of Northwestern's Federal Reserve Challenge Team.", 
+        "name": "Mark P Witte", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 101", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "You will be expected to follow the economic news because this class covers events that are unfolding in real time.\n\nFurther information about the class can be found on my webpage:\nhttps://sites.google.com/site/markwitteeconomics/home/economics-311-intermediate-macroeconomics"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Textbook:  Robert J. Gordon, Macroeconomics, 12th edition, 2012, ISBN 0-13-801491-4\nAlan S. Blinder, After the Music Stopped, 2013, ISBN 978-1-59420-530-9\nOther class readings, posted online"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be expected to understand how the interaction of the goods market and the money/asset markets can lead to possible multiple equilibria in macroeconomics, how the economy can get stuck in bad ones, and how it may be possible to make matters better...or worse.  Students will understand the measurement of price level changes, labor market variables, productivity, and the macroeconomic imbalances that can exist with the government budget and for assets and trade flows between nations in world markets.  Students will understand the monetary and financial systems and how they contributed to our current situation, both in the US and Europe.  Students will also understand the determinants of long run economic growth, and its implications."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ECON 201, 202, and MATH 220, or equivalent. Basic algebra and graphing. There will be some use of spreadsheets like Excel for the problem sets, but instruction will be available."
+        }
+    ], 
+    "class_num": 35041, 
+    "attributes": null, 
+    "catalog_num": "311-CN"
+}

@@ -1,0 +1,53 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 150, 
+    "course_id": 1787, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Introduction to 20th-Century American Literature", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Harris Hall L06", 
+            "section": "61", 
+            "component": "DIS", 
+            "end_time": "12:50:00", 
+            "meeting_days": "Fr", 
+            "start_time": "12:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Andrew Way Leong", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 217", 
+    "end_time": "12:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Likely to include As I Lay Dying (Faulkner), Passing (Larsen), Miss Lonelyhearts (West), American Pastoral (Roth), Paradise (Morrison), Angels in America, Part One: Millennium Approaches (Kushner), plus poems and shorter works by Willa Cather, Marita Bonner, Langston Hughes, Marianne Moore, Allen Ginsberg, and Gwendolyn Brooks."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Two formal essays (about 5pp.), reading quizzes, and a final exam, plus participation in discussion sections and occasionally in lecture."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two lectures per week, plus a required discussion section."
+        }
+    ], 
+    "class_num": 34001, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "273-0"
+}

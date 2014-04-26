@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20781, 
+    "subject": "PROJ_PMI", 
+    "requirements": null, 
+    "title": "Agile Project Management", 
+    "section": "47", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-10-12", 
+    "end_date": "2013-10-26", 
+    "start_time": null, 
+    "component": "47", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 17877, 
+    "attributes": null, 
+    "catalog_num": "350-0"
+}

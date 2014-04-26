@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20248, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Research Practicum in Communication Sciences and Disorders", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Charles Larson", 
+        "phone": "847/491-3066", 
+        "address": "Room 3-247, 2240 Campus Drive, Evanston campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21922, 
+    "attributes": null, 
+    "catalog_num": "398-0"
+}

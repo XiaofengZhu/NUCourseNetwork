@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20745, 
+    "subject": "MOB_APP", 
+    "requirements": null, 
+    "title": "Application Design and Prototyping", 
+    "section": "45", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-08", 
+    "end_date": "2014-02-12", 
+    "start_time": null, 
+    "component": "45", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33920, 
+    "attributes": null, 
+    "catalog_num": "301-0"
+}

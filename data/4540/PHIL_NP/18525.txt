@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18525, 
+    "subject": "PHIL_NP", 
+    "requirements": null, 
+    "title": "Financial Management of Nonprofits", 
+    "section": "46", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-04-10", 
+    "end_date": "2014-04-11", 
+    "start_time": "09:00:00", 
+    "component": "46", 
+    "school": "UC", 
+    "meeting_days": "ThFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 37549, 
+    "attributes": null, 
+    "catalog_num": "320-0"
+}

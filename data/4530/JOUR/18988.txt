@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18988, 
+    "subject": "JOUR", 
+    "requirements": null, 
+    "title": "Producing a News Website", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jill Braverman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall B11", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "MSJ Program Only; prerequisites: JOUR 407-0 or JOUR 405-0.  Q3 requirement course for Interactive Publishing concentration."
+        }
+    ], 
+    "class_num": 35204, 
+    "attributes": null, 
+    "catalog_num": "470-0"
+}

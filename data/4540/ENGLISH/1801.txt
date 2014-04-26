@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 1801, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Chaucer", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "13:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Barbara Jane Newman", 
+        "phone": "847/491-5679", 
+        "address": "University Hall 215"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 33259, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "323-1"
+}

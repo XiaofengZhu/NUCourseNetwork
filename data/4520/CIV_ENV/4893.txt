@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 4893, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Aquatic Chemistry", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute MG28", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "jf-gaillard@northwestern.edu", 
+        "bio": null, 
+        "name": "Jean-Francois Gaillard", 
+        "phone": "1 847 467 1376", 
+        "address": "TECH A234"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Principles and Applications of Aquatic Chemistry /  F. M. Morel and J. G. Hering / Wiley Interscience / 1993, 0-471-54896- /  revised edition."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "BASIS OF GRADE / Final exam, Midterm, Homework"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS SCHEDULE / Three 1-hr Lectures with one 1 and 1/2 hour required Discussion Section per week.\nCOMPUTER USAGE / MATLAB and the Geochemist's Workbench."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Upon completion of this course students will be able to: \n\n1.  Understand the tableau method for solving equilibrium problems.\n2.   Use a computer program to find the solution of chemical equilibrium problems. \n3.   Derive and use chemical thermodynamics laws & principles to determine how equilibrium properties vary with T and P. \n4.  Determine the pH of a wide variety of complex, i.e., multiple acid/base species, aqueous solutions and understand in details the carbonate system.\n5.  Compute the chemical speciation of metals in complex aqueous systems. \n6.   Determine the composition of natural waters at equilibrium with various mineral phases."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CHEM 342-1"
+        }
+    ], 
+    "class_num": 16026, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "367-0"
+}

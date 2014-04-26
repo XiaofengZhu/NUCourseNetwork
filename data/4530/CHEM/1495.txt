@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 1495, 
+    "subject": "CHEM", 
+    "requirements": null, 
+    "title": "Advanced Organic Chemistry", 
+    "section": "10", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute BG70", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": "16:50:00", 
+            "meeting_days": "Mo", 
+            "start_time": "14:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "10", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Andrew Wayne Ott", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L170", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 34111, 
+    "attributes": null, 
+    "catalog_num": "415-0"
+}

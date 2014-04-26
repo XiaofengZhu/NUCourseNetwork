@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 1042, 
+    "subject": "GEN_LA", 
+    "requirements": null, 
+    "title": "Student Organized Seminar-P/N Required", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Mark Sheldon is Assistant Dean in Weinberg College and holds a PhD in Philosophy. He is a member of the Philosophy Department on the Evanston campus, as well as the Medical Humanities and Bioethics Program at the Feinberg School of Medicine.  He does ethics consultations at Rush University Medical Center, and his primary area of research interest is pediatrics.", 
+        "name": "Mark P Sheldon", 
+        "phone": "847/491-2548", 
+        "address": "Kresge 3-260"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35313, 
+    "attributes": "Graded P/N\n\nPermission of School\n\n", 
+    "catalog_num": "298-0"
+}

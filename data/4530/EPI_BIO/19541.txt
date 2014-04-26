@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 6, 
+    "course_id": 19541, 
+    "subject": "EPI_BIO", 
+    "requirements": null, 
+    "title": "Statistical Consulting", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Kwang-Youn A Kim", 
+        "phone": "312/503-4741", 
+        "address": "680 N. Lake Shore Drive, Suite 1400"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lurie Gray Seminar Room", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Recommended textbooks:\n\n1. Cabrera, Javier and McDougall, Andrew. Statistical Consulting. 2001. (optional)\n2. Derr, Janice. Statistical Consulting: A Guide to Effective Communication, 1st Edition. 2000. (optional) \n3. Spurrier, John D. The Practice of Statistics: Putting the Pieces Together, 1st Edition. 1999. (optional)"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required Software:\n\nR (preferred), SAS, or Stata"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This course is designed to provide students the opportunity to engage in statistical consultation, work on collaborative projects and meet with investigators with real scientific problems. Upon completion of the course students should be able to:\n\n1. Generate statistical reports that are reproducible.\n2. Summarize data using descriptive statistics and graphical representation.\n3. Perform sample size and power analysis by hand and with a statistical software package.\n4. Identify appropriate study design, sample size and statistical analysis.\n5. Translate scientific questions into statistical framework.\n6. Communicate effectively during a 30-45 min of 1-1 consulting.\n7. Write reports describing results of a study or of a consulting session.\n8. Describe statistical results in non-technical terms."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites:\n1. EpiBio 302 - Introduction to Biostatistics\n2. EpiBio 402 - Intermediate Biostatistics\n3. Computing experience with R, SAS, or Stata (R preferred)\n\nPermission number required. Please contact Meera at meera.tavathia@northwestern.edu."
+        }
+    ], 
+    "class_num": 20136, 
+    "attributes": null, 
+    "catalog_num": "560-0"
+}

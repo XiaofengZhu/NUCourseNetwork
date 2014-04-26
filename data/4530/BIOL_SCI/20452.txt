@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 75, 
+    "course_id": 20452, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Cellular Processes Laboratory", 
+    "section": "100", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "100", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": "Ryan Hurtado received his bachelor's degree in Genetics and Biochemistry from the University of Wisconsin and his PhD in Molecular Biosciences at Northwestern University.  A portion of his thesis work on a potential anti-cancer therapeutic was published in the journal Molecular Pharmaceutics.  He completed the Searle Center's teaching certificate program in 2010.  He has previously taught college level courses at Gateway Technical College in Wisconsin and currently also teaches at Oakton Community College.", 
+        "name": "Ryan Richard Hurtado", 
+        "phone": "847/491-4120", 
+        "address": "3117 Cook Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Grades of C- or higher in both BIOL SCI 210-A and CHEM 210-A"
+        }
+    ], 
+    "class_num": 35023, 
+    "attributes": null, 
+    "catalog_num": "221-CN"
+}

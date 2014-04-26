@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 17511, 
+    "subject": "RTVF", 
+    "requirements": null, 
+    "title": "Writing the TV Episode", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "15:00:00", 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Geoffrey L Tarson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "17:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 35434, 
+    "attributes": null, 
+    "catalog_num": "563-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20308, 
+    "subject": "IMC", 
+    "requirements": null, 
+    "title": "Digital Social and Mobile Marketing", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Randy A Hlavac", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Online Distance Learning", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35289, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "482-6"
+}

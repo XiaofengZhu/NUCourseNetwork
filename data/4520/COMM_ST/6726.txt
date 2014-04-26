@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6726, 
+    "subject": "COMM_ST", 
+    "requirements": null, 
+    "title": "Theories of Persuasion", 
+    "section": "15", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "15", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jamie Ford Merchant", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings will likely include selections from \n\n\"The Dynamics of Persuasion,\" Richard M. Perloff,  0203870328\n\n\"Pink Ribbons, Inc,\" Samantha King, 0816648999.\n\n \"Persuasion in Society,\" Herbert Simons and Jean Jones, 0415965144"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be able to define major theories of persuasion\nStudents will be able to recognize the components of persuasive situations\nStudents will be able to analyze and articulate the relationships among components of specific persuasive situations\nStudents will be able to describe and identify audience orientations to persuasive acts\nStudents will be able to create persuasive acts adapted to specific goals, situations, and audiences"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "It will be helpful to have taken COMM ST 102, Public Speaking, though not required."
+        }
+    ], 
+    "class_num": 18169, 
+    "attributes": null, 
+    "catalog_num": "205-CN"
+}

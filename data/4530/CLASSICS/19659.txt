@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 19659, 
+    "subject": "CLASSICS", 
+    "requirements": null, 
+    "title": "Scientific Vocabulary through Classical Roots", 
+    "section": "16", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "16", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Graziela Byros has been teaching a variety of Classics -related topics (Latin, Ancient Greek and Roman History, Classical Mythology) at Yale and Northwestern since 2007. She is currently finishing her PhD in Classics from Yale University: her dissertation reconstructs the socio-cultural identity of colonists in the Roman province of Dacia (roughly modern-day Romania), from the perspective of their religious experiences. Fascinated with the myths of the Greeks and Romans from an early age, Graziela is interested in the many and sometimes unexpected ways in which the ancient world (its languages, myths, ideas, customs) still continues to impact our modern-day existence.", 
+        "name": "Graziela Marieta Byros", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 409", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students are strongly urged to purchase new copies of the workbook, since used copies will likely have the exercises already filled in by the previous user, which will significantly hinder a student's ability to practice the newly acquired vocabulary."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1) Dunmore and Fleischer's Medical Terminology: Exercises in Etymology (3rd Edition) by Walker-Esbaugh, McCarthy, and Sparks (Publisher: F.A. Davis Company, Philadelphia) ISBN 9780803600324. \n\n2)Taber's Cyclopedic Medical Dictionary (21st edition or any earlier edition) edited by Clayton L. Thomas (Publisher: F.A. Davis) ISBN 9780803615595."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No prior knowledge of Greek and Latin is required for this course."
+        }
+    ], 
+    "class_num": 35035, 
+    "attributes": null, 
+    "catalog_num": "110-CN"
+}

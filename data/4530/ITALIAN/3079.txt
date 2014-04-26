@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3079, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Elementary Italian", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 12 - 1PM", 
+        "bio": null, 
+        "name": "Alexandra Visconti McAdoo", 
+        "phone": "847/491-8271", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-113"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\t\n<em>Avanti!</em> 2nd edition\nTextbook + workbook, Special Edition for Northwestern University"
+        }
+    ], 
+    "class_num": 23534, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "101-2"
+}

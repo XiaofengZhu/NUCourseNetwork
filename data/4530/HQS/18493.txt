@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 18493, 
+    "subject": "HQS", 
+    "requirements": null, 
+    "title": "Introduction to Health Management", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Joel Ira Shalowitz", 
+        "phone": "847/491-5540", 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Strategic Marketing for Healthcare Organizations, Kotler P; Shalowitz, J; and Stevens R JosseyBass2008"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the end of the course you will be able to:\n\tDescribe the structure, key facts and important issues about the U.S. health industry system \n\tEasily locate key sources for further study\n\tAnalyze problems in this sector using frameworks applicable to different problems"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Department consent required (permission number)"
+        }
+    ], 
+    "class_num": 20110, 
+    "attributes": null, 
+    "catalog_num": "420-0"
+}

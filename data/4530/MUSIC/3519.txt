@@ -1,0 +1,31 @@
+{
+    "overview": "Contact the department for further information", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3519, 
+    "subject": "MUSIC", 
+    "requirements": "Enrollment Requirements: Restricted to Music Undergrads/Grads", 
+    "title": "Aural Skills II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Susan M. Piagentini", 
+        "phone": "847/491-5704", 
+        "address": "MAB 711 Elgin Rd, Evanston IL"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 37", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22616, 
+    "attributes": "Music Majors Only\n\n", 
+    "catalog_num": "126-2"
+}

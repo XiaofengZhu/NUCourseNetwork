@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 16646, 
+    "subject": "AF_AM_ST", 
+    "requirements": null, 
+    "title": "Politics of Black Popular Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Alexander G Weheliye", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings might include selections from the following texts: Maureen Mahon, Right To Rock: The Black Rock Coalition and the Cultural Politics of Race; Murray Forman and Mark Anthony Neal, eds. That's the Joint! The Hip-Hop Studies Reader; Rebekah Farrugia, Beyond the Dance Floor: Female DJs, Technology and Electronic Dance Music Culture; Nelson George, The Death of Rhythm and Blues; Norman Kelley, ed. The Political Economy of Black Music; Francesca Royster, Sounding Like a No-No?: Queer Sounds and Eccentric Acts in the Post-Soul Era; Peter Shapiro, Turn the Beat Around: A Secret History of Disco; Rickey Vincent, Funk: The Music, the People, and the Rhythm of the One Gwendolyn D. Pough, ed., Home Girls Make Some Noise!: Hip-Hop Feminism Anthology."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "* Regular attendance\n* One paper (6-7 pages)\n*Final group multimedia project & presentation \n*Weekly blog posts/comments\n*Leading a discussion on the course blog \n*Active participation in class discussions.\n*Editing three Wikipedia articles related to the class topic"
+        }
+    ], 
+    "class_num": 12922, 
+    "attributes": "Interdisciplinary Distro - See Rules\n\nLiterature & Fine Arts Distro Area\n\nSocial & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "327-0"
+}

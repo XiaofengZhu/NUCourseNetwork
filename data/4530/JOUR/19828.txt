@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 19828, 
+    "subject": "JOUR", 
+    "requirements": null, 
+    "title": "Special Topics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-02-10", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Emily Lauren Withrow", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "McCormick Tribune 2101", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35199, 
+    "attributes": null, 
+    "catalog_num": "480-0"
+}

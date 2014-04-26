@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 133, 
+    "course_id": 2030, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "European Civilization: High Medieval Thru Mid-18th C", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "University Library 3370", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "David Shyovitz studies medieval Jewish cultural and intellectual history, and is particularly interested in Jewish-Christian and Jewish-Islamic relations, the history of biblical interpretation, the interplay between science and theology, and the history of law.  Before joining the Northwestern faculty in 2010, he completed BA, MA, and PhD degrees at the University of Pennsylvania.", 
+        "name": "David Shyovitz", 
+        "phone": "847/467-1967", 
+        "address": "Harris Hall Room 314"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall 107", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Europe"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website: TBA"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Midterm, Final Exam, Response Papers"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and mandatory discussion sections"
+        }
+    ], 
+    "class_num": 25992, 
+    "attributes": "Historical Studies Distro Area\n\nRegistration for discussion section required\n\n", 
+    "catalog_num": "201-1"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1796, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in Drama", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Susan A Manning", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 223", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar, with some brief lectures."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "A coursepack of readings will be available at Quartet Copy."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Blackboard posts are required for most classes. There will be two short papers of 1000-1500 words on a choice of topics."
+        }
+    ], 
+    "class_num": 24513, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "312-0"
+}

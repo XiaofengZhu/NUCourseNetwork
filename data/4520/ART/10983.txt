@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 10983, 
+    "subject": "ART", 
+    "requirements": null, 
+    "title": "Introduction to Painting", 
+    "section": "69", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "69", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Received my MFA at Northwestern University Art Theory and Practice, Currently teaching at The School of the Art Institute of Chicago, Northwestern University, and College of Dupage. To see my art work, go to pictureherzog.com.", 
+        "name": "Alexander Elliott Herzog", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "We will enjoy  time and space to experiment, develop and improve your painting skills, and learn to appreciate the work of contemporary and historic artists."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No books needed.  Once you are registered for the class, please contact me for supply list, at pictureherzog@yahoo.com.  List will be given out the first day of class as well.  Readings will be sent by email."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Handling and mixing of paint with various traditional mediums.\nBuilding traditional and non-traditional painting supports.\nBlack and white value studies.\nColor Theory. \nObservational painting.\nAbstraction and non-representational painting approaches.\nHistoric and contemporary painting practices and theories. \nWays to critically examine both your own paintings and those of your peers.\nYour personal artistic voice.\nand much more"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "N/A"
+        }
+    ], 
+    "class_num": 18147, 
+    "attributes": null, 
+    "catalog_num": "120-CN"
+}

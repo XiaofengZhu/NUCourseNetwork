@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 2146, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Topics In History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Rajeev K. Kinra (Ph.D. University of Chicago, 2008) joined the History department in 2007-08. He specializes in South Asian intellectual history, particularly in early modern north India. His research draws on several linguistic traditions (including Persian, Hindi-Urdu, and Sanskrit), and speaks to a number of related themes: literary and political culture; modes of cultural translation and religious dialogue; memory and historiography; literary periodization and canonicity; Orientalist constructions of the past; and the South Asian and European imperial imaginations, from antiquity to the present.", 
+        "name": "Rajeev Kumar Kinra", 
+        "phone": "847/467-1241", 
+        "address": "Harris Hall Room 307"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 121", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "No P/N option (ANC grading only)"
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Asia/ME\nThis class may not be counted toward WCAS distribution requirements"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TENTATIVE READING LIST:\nThomas Barfield, Afghanistan: A Cultural and Political History (ISBN: 0691154414 / 978-0691154411)\nChristopher Beckwith, Empires of the Silk Road (ISBN: 0691150346 / 978-0691150345)\nPeter B. Golden, Central Asia in World History(ISBN: 0195338197 / 978-0195338195)\nSelect readings will also be available on Blackboard and/or in a Course Packet"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Essays of varying length"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar"
+        }
+    ], 
+    "class_num": 34382, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "392-0"
+}

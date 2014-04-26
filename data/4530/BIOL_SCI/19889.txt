@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 19889, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Prerequisite: Students must completed CHEM 172-0 or CHEM 103-0 to register for this course.", 
+    "title": "Cellular Processes Laboratory", 
+    "section": "60", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "60", 
+    "school": "WCAS", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "John C Mordacq", 
+        "phone": "8474917835", 
+        "address": "Tech MG79, 2145 Sheridan"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute MG36", 
+    "end_time": "17:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "0.34 Course Credit."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All materials will be provided by instructor."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Quizzes, reports and presentations"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Laboratory with online lecture"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students must have completed the prerequisites:  CHEM 103 or 172"
+        }
+    ], 
+    "class_num": 26109, 
+    "attributes": null, 
+    "catalog_num": "221-0"
+}

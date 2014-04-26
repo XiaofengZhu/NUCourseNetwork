@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6437, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Precalculus Mathematics", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rodolfo Maglio", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 107", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Precalculus: a Concise Course,  Second Edition by  Larson , Cengage Publications. ISBN 9781439049082 \n\nGraphing Calculator"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There will be 4 tests of equal weight. The final course grade will be determined by the average of the tests."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Method of instruction is tailored to best meet the needs of the class as a whole. Each class begins with a problem solving session which focuses on problem areas indicated by students. The primary method of instruction employed is the traditional lecture. Technology is utilized."
+        }
+    ], 
+    "class_num": 35066, 
+    "attributes": null, 
+    "catalog_num": "113-CN"
+}

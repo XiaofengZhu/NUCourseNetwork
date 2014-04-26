@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 20035, 
+    "subject": "VOICE", 
+    "requirements": null, 
+    "title": "Studio Class", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Theresa A Hansen", 
+        "phone": "847/491-4518", 
+        "address": "MAB 711 Elgin Rd, Evanston IL"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lutkin Hall", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22852, 
+    "attributes": null, 
+    "catalog_num": "390-0"
+}

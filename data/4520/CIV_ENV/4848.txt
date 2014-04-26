@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4848, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Uncertainty Analysis in Civil Engg", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "mark-clark@northwestern.edu", 
+        "bio": null, 
+        "name": "Mark M Clark", 
+        "phone": "847/467-4540", 
+        "address": "2145 N. Sheridan Road / TECH A321"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Being ordered for purchase at Norris Bookstore:\n\n1.  Probability and Statistics for Engineers and Scientists / Walpole, Myers, Myers, and Ye / ISBN: 978-0321629111/ 2011 / 9th / Prentice Hall\n\n2. Student Solutions Manual for Probability & Statistics for Engineers & Scientists / Sharon Myers / ISBN: 978-0321640130 / 2011 / 9th\t/ Prentice Hall"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Two midterms, Final Exam, Homework"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Four hours of lectures and recitation per week for 10 weeks."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. Develop Additive and Multiplicative rules for Permutations and Combinations\n2. Define Random Variables, Sampling, and Mathematical Expectation\n3. Compute Joint Probability Distributions, Variance and Covariance\n4. Develop and apply Uniform, Binomial and Hypergeometric distributions\n5. Develop and apply Negative Binomial, Geometric and Poisson distributions\n6. Define Normal distribution and develop Normal approximation of Binomial\n7. Develop and apply Gamma, Exponential, and Log-Normal Distributions\n8. Use Probability paper to fit Normal and Log-normal random variables\n9. Use Chi-Squared Distribution to develop a Goodness-of-fit test\n10. Apply Central Limit Theorem and t-Distribution to Sampling distribution of mean\n11. Apply Chi-Squared and F-distributions to Sampling distribution of variance\n12. Estimate Confidence Intervals with known and unknown population Variance\n13. Understand the difference between One- and Two-sided tests\n14. Use Prediction intervals to detect Outliers; use Bayesian Analysis to improve subjective parameter estimates, use linear regression to account for linear relationships between variables\n15. Multiple Linear Regression\n16. Hypotheses Testing:  Null and Alternative Hypotheses, Type I and II Errors, p-values."
+        }
+    ], 
+    "class_num": 16233, 
+    "attributes": null, 
+    "catalog_num": "306-0"
+}

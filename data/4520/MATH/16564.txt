@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 16564, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Multiple Integration and Vector Calculus", 
+    "section": "15", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "15", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Robert Nendorf is currently a Ph.D. student of mathematics at Northwestern University in the field of stable homotopy theory. He received a Masters in mathematics in 2007, also from NU, and a Bachelors in mathematics from Western Michigan University. He has taught for over six years as both a graduate assistant and full instructor, receiving multiple awards for teaching excellence from both institutions. He has a wide array of interests outside of mathematics including entrepeneurship, brewing and certain martial arts.", 
+        "name": "Robert Andrew Nendorf", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "MATH 230"
+        }
+    ], 
+    "class_num": 18211, 
+    "attributes": null, 
+    "catalog_num": "234-CN"
+}

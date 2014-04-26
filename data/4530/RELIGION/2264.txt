@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 2264, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Foundations of Christian Thought II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Th. 10:30 am-12.30 pm", 
+        "bio": null, 
+        "name": "Christine M Helmer", 
+        "phone": "847 4912616", 
+        "address": "Crowe Hall, 1860 Campus Drive, 4-148"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Martin Luther, Three Reformation Treatises, Fortress, 2nd edn. (0800616391)\nTeresa of Avila, Interior Castle: The Classic Text with a Spiritual Commentary, Christian Classics, 2007 (0870612417)\nPhilip Jacob Spener, Pia Desideria, Fortress (0800619536), or Wipf & Stock (1579108865)\nImmanuel Kant, Religion and Rational Theology, Cambridge (0521799988)\nFriedrich Schleiermacher, On Religion: Speeches to its Cultured Despisers, Cambridge (052147975)\n\nHard copies of texts (no e-books)\nPens and notebooks\nBible"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Identify major periods in history of the West since the 16th century (Reformations, Enlightenment, Pietism, Romanticism, Modernity)\nStructure and argument of 5 significant texts of Western Christianity\nTrace development of a key theological concept from 16th to 19th century (i.e. freedom, grace)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Demonstrate a willingness to think"
+        }
+    ], 
+    "class_num": 34539, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "340-2"
+}

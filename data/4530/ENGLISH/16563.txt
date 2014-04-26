@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 16563, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Advanced Reading and Writing Creative Nonfiction I", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Brian Bouldrey is the author, most recently, of The Peasants and the Mariners (GemmaMedia, 2013), a travel narrative about walking the Ulster Way in Ireland.  He has written four nonfiction books, including Honorable Bandit: A Walk Across Corsica (University of Wisconsin Press, September 2007), Monster: Adventures in American Machismo (Council Oak Books), and The Autobiography Box (Chronicle Books); four novels, The Sorrow of the Elves (Gemmamedia), The Genius of Desire (Ballantine), Love, the Magician (Harrington Park), and The Boom Economy (University of Wisconsin Press), and he is the editor of several anthologies. He is recipient of Fellowships from Yaddo and Eastern Frontier Society, and the Joseph Henry Jackson Award from the San Francisco Foundation, a Lambda Literary Award, and the Western Regional Magazine Award.  Teaches fiction, creative nonfiction, and literature.", 
+        "name": "Brian D Bouldrey", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 318", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings will include Joan Didion, Julio Cortazar, Cheryl Stayed, Primo Levi, Joy Williams, Michael Ryan, and some poetry and fiction, to discuss genre and mode.  Handouts provided."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "3 short annotations, 3 works of creative nonfiction to be offered for workshop, 1 short class presentation on a work of literature"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures, discussion, workshop"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will explore these aspects, temptations, and strengths of \"embroidering the truth\" in an ethical manner in their own writing, and the course welcomes writers from all three genres--although we will focus on nonfiction prose."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ENGLISH 208 or permission of instructor. Students should have previous creative writing experience in an academic setting. Instructor's consent and confirmation of the prerequisite course or appropriate writing experience is required for enrollment in this course.  May not be audited or taken P/N."
+        }
+    ], 
+    "class_num": 35050, 
+    "attributes": null, 
+    "catalog_num": "308-A"
+}

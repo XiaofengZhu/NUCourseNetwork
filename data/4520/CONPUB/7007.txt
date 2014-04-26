@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 7007, 
+    "subject": "CONPUB", 
+    "requirements": null, 
+    "title": "The Not for Profit Institution:  Governance", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesdays and Thursdays 2-4 pm", 
+        "bio": null, 
+        "name": "Leigh B Bienen", 
+        "phone": "312/503-2425", 
+        "address": "Bluhm Legal Clinic (821-Rubloff)"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18072, 
+    "attributes": "1 Draft degree req may be met with class\n\nBusiness/Corporate transactions an element\n\nConstitutional Law or Procedure an element\n\nTaxation Practice Area present in course\n\n", 
+    "catalog_num": "641"
+}

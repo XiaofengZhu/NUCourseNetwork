@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 21015, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Electronics Out of the Box", 
+    "section": "80", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-13", 
+    "end_date": "2014-05-03", 
+    "start_time": null, 
+    "component": "80", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael Aaron Peshkin", 
+        "phone": "847/491-4630", 
+        "address": "Technological Institute, Rm B227, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Online Distance Learning", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35476, 
+    "attributes": null, 
+    "catalog_num": "233-SN"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 8741, 
+    "subject": "MUSIC_ED", 
+    "requirements": null, 
+    "title": "Selected Topics in Music Education", 
+    "section": "26", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-07-12", 
+    "start_time": null, 
+    "component": "26", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Laura Kautz Sindberg", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41808, 
+    "attributes": null, 
+    "catalog_num": "335-0"
+}

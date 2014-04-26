@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 2402, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Fundamentals of Laboratory Phonology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appt", 
+        "bio": null, 
+        "name": "Matthew A Goldrick", 
+        "phone": "847/491-8053", 
+        "address": "2016 Sheridan Road, Rm 105"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Gussenhoven & Jacobs Understanding phonology, 3rd edition ISBN 9781444112047\nLadefoged & Johnson A course in phonetics, 6th edition ISBN 978-1428231269"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Laboratory assignments, papers"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and discussion"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. Recognize the structure of theories of our phonological knowledge.\n2. Learn how to connect such theories to empirical data."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: Linguistics 250 or equivalent"
+        }
+    ], 
+    "class_num": 10443, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "350-0"
+}

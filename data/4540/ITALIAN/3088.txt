@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 3088, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Intensive Italian", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 12 - 1PM", 
+        "bio": null, 
+        "name": "Alexandra Visconti McAdoo", 
+        "phone": "847/491-8271", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-113"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30962, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "133-3"
+}

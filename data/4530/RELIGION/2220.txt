@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 150, 
+    "course_id": 2220, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Introduction to Hebrew Bible", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "University Hall 218", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tuesday 3.30-5.00", 
+        "bio": null, 
+        "name": "Mira Balberg", 
+        "phone": "847/467-1746", 
+        "address": "Crowe Hall 4-137"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Michael D. Coogan, A Brief Introduction to the Old Testament: The Hebrew Bible in its Context (New York: Oxford University Press, 2008) (ISBN: 978-0195332728)"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Jewish Bible (Tanakh) in the New JPS Translation, published by The Jewish Publication Society (ISBN: 978-0827603660)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "<ln/>"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The students will be expected to be generally familiar with the different books of the Bible, their historical setting and essential content, and be able to reflect critically on major themes in the Israelite religion (e.g., covenant, prophesy, cult, revelation), as well as on the key concepts and analytical issues that pertain to the academic study of the Hebrew Bible (e.g., canonicity, myth, Near-Eastern parallels, composition and redactions issues, etc.)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No special requirements"
+        }
+    ], 
+    "class_num": 26608, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "220-0"
+}

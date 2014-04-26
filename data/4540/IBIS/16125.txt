@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 16125, 
+    "subject": "IBIS", 
+    "requirements": "Enrollment Requirements: Open registration is reserved for IBiS Students Only.  All others need permission from the IBiS Office, ibis@northwestern.edu.", 
+    "title": "Cell Biology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Curt Michael Horvath", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 31442, 
+    "attributes": null, 
+    "catalog_num": "406-0"
+}

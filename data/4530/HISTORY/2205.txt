@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2205, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Research Seminar in History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Susan J. Pearson is an historian of nineteenth-century America with special interest in cultural and intellectual history.", 
+        "name": "Susan Pearson", 
+        "phone": "847/491-3744", 
+        "address": "Harris Hall Room 338"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L40", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TBA"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class Participation, short assignments, final paper."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar"
+        }
+    ], 
+    "class_num": 23784, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "570-1"
+}

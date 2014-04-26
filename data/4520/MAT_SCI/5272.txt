@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 5272, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Microstructural Dynamics", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Derk Joester", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "D.A. Porter and K.E. Easterling, Phase Transformation in Metals and Alloys, Van Nostrand Reinhold, 2nd Edition, 1991. P.G. Shewmon, Diffusion in Solids, The Minerals, Metals & Materials Society, Warrendale, PA 1989. J. Weertman and J.R. Weertman, Elementary Dislocation Theory, W. Strunk and E.B. White, Elements of Style,"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There will be two mid-term exams and a final exam counting toward the final grade, plus homework and lab reports. Active participation in discussion during class hours is strongly encouraged."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "There will be three lectures and homework assignments. Laboratory exercises will be performed in smaller groups."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Thermodynamics and 750-B01 or equivalent. No P/N for Materials Science and Engineering majors."
+        }
+    ], 
+    "class_num": 15857, 
+    "attributes": null, 
+    "catalog_num": "316-2"
+}

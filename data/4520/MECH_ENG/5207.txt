@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 5207, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Machine Dynamics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Todd David Murphey", 
+        "phone": "847/467-1041", 
+        "address": "Technological Institute, Rm D155, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: MECH_ENG 202."
+        }
+    ], 
+    "class_num": 15751, 
+    "attributes": null, 
+    "catalog_num": "314-0"
+}

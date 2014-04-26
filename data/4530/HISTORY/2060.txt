@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 90, 
+    "course_id": 2060, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "The United States Since 1900: Late 20th C. to Present", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 4-435", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "11:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "11:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Michael Allen is an historian of the United States since 1945 who researches the relationship between domestic politics and foreign affairs. His first book, Until The Last Man Comes Home: POWs, MIAs, and the Unending Vietnam War (University of North Carolina Press, 2009) examined popular concern over captive and missing Americans during and after the Vietnam War to consider the war's legacies for US politics and foreign policy. His current book, The Confidence of Crisis: Confronting the Imperial Presidency, 1968-1992 explores the rise and fall of antiwar politics in the long 1970s.", 
+        "name": "Michael J. Allen", 
+        "phone": "847/467-3979", 
+        "address": "Harris Hall Room 342"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall 107", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "History area of concentration: Americas"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nSelections from the following, along with CoursePak: \nAndrew Bacevich, The Limits of Power: The End of American Exceptionalism, 2009.\nJefferson Cowie, Stayin' Alive: The 1970s and the Last Days of the Working Class, 2010.\nNelson Lichtenstein, The Retail Revolution: How Wal-Mart Created a Brave New World of Business, 2009.\nWilliam Pemberton, Exit With Honor: The Life and Presidency of Ronald Reagan, 1998.\nKim Phillips-Fein, Invisible Hands: The Businessmen's Crusade Against the New Deal, 2009."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class participation (15%), short written work (10%), two papers (50%), final exam (25%)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture with mandatory discussion sections"
+        }
+    ], 
+    "class_num": 26033, 
+    "attributes": "Historical Studies Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "315-3"
+}

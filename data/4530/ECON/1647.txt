@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 160, 
+    "course_id": 1647, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Introduction to Microeconomics", 
+    "section": "60", 
+    "coursecomponent_set": [
+        {
+            "room": "Frances Searle Building 2407", 
+            "section": "61", 
+            "component": "DIS", 
+            "end_time": "12:50:00", 
+            "meeting_days": "Mo", 
+            "start_time": "12:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "60", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Laura Lynne Kiesling", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Leverone Auditorium Owen Coon", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<i>Modern Principles: Microeconomics</i> (looseleaf text + portal access card) by Cowen/Tabarrok , 2nd Edition (ISBN: 978-1464111990)\n<br>&#160;&#160;&#160;&#160;&#160;<b>OR</b>\n<br><i>Modern Principles: Microeconomics</i> (portal access card only) by Cowen/Tabarrok, 2nd Edition    (ISBN: 978-1429289504)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "In-class poll questions, weekly online quizzes, 5 problem sets, 2 midterm exams, final exam"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "A typical week features three lectures and a discussion section."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Econ 201, or confidence applying high school algebra tools (graphs, equations, and tables)"
+        }
+    ], 
+    "class_num": 23342, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "202-0"
+}

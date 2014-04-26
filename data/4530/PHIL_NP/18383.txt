@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18383, 
+    "subject": "PHIL_NP", 
+    "requirements": null, 
+    "title": "Grantmanship and Program Development", 
+    "section": "12", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-02-10", 
+    "end_date": "2014-02-11", 
+    "start_time": "09:00:00", 
+    "component": "12", 
+    "school": "UC", 
+    "meeting_days": "MoTu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Holly J Falk-Krzesinski", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 33932, 
+    "attributes": null, 
+    "catalog_num": "381-0"
+}

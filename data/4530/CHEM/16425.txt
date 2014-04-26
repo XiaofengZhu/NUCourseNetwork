@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 72, 
+    "course_id": 16425, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Co-Requisite: Students must also register for Chemistry 230-B. Add both classes to the shopping cart and submit together for successful registration.", 
+    "title": "Organic Chemistry", 
+    "section": "65", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute D220", 
+            "section": "23A", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Owen P Priest", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L211", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Wade, Organic Chemistry. 8th Edition. Pearson. ISBN: 9780321768414.\n\nWade and Bruce, ORGANIC CHEMISTRY CUSTOM PKG 8th Edition. Pearson. ISBN: 9781256779612."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: grade of C- or higher in CHEM 210-A or equivalent course."
+        }
+    ], 
+    "class_num": 35031, 
+    "attributes": null, 
+    "catalog_num": "210-B"
+}

@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 5270, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Phase Equilibria & Diffusion of Materials", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Cook Hall 2-068", 
+            "section": "20", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Peter W Voorhees", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L221", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "P. G. Shewmon, Transformations in Metals; R. A. Swalin, Thermodynamics of Solids; Y. M. Chiang, D. Birnie, and W. D. Kingery, Physical Ceramics"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "D. A. Porter, K. E. Easterling, and M.Y.Sherif, Phase Transformations in Metals and Alloys, 3rd edition, CRC Press. ISBN 1420062107"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "In addition to lab reports, there will be weekly homework assignments, two midterm exams, and a group project."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Three lectures, one hour of problem solving, and one two hour laboratory per week."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MAT SCI 314 or equivalent"
+        }
+    ], 
+    "class_num": 20415, 
+    "attributes": null, 
+    "catalog_num": "315-0"
+}

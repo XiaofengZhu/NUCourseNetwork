@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 960, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: This section is currently closed to registration.  Please contact the department directly with any questions.", 
+    "title": "Investigative Journalism", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Alec M Klein", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 307", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No materials are required for this course."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Registration is by application and permission of the instructor only.\nJunior standing; instructor consent"
+        }
+    ], 
+    "class_num": 22059, 
+    "attributes": null, 
+    "catalog_num": "373-0"
+}

@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 19204, 
+    "subject": "AFST", 
+    "requirements": "Enrollment Requirements: Registration is restricted to African Studies Adjunct Majors only", 
+    "title": "Senior Research Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Jeff Rice has been associated with African Studies at Northwestern since he rceived the first Undergraduate Certificate (in African Studies) in 1972.  His work is primarliy on the relationship between pre-coloinal African poitical institutions and the effects of colonialism on those institutions and that process' implications for state failure in the late 20th and early 21st century.", 
+        "name": "Jeffrey Rice", 
+        "phone": "847/491-8916", 
+        "address": "1908 Sherman Ave"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will become familiar with academic theories about the causes of conflicts on the African continent. These theories range from the economist's analysis that an abundance of natural resources and other economic opportunities provide incentives for rebellion to enterprising individuals, to the idea derived from international relations that \"security dilemmas\" (mutual fears that one's neighbors are preparing to strike) cause civil wars, and to the investigation of how changes in the global structure of economies and politics are at the roots of many civil wars. Students will also become familiar with elements of the processes of war fighting in civil wars. Students will find that the explanations of causes of civil wars, while of varying applicability from one case to the next, prove to be quite valuable in terms of generating questions and in turning attention to particular kinds of relationships. Students will learn about processes such as the rise of leaders, the formulation of ideologies and political programs (or their absence), and recruitment of fighters and supporters. Students will also become familiar with the role of violence in influencing the courses of these other processes and relationships."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "A course packet will be prepared for purchase."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Final grades will be based on presentations, class discussions, an essay and a research paper."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The class will be conducted as a seminar. Students will have the opportunity to report on the assigned readings and on their research project."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "juniors and seniors"
+        }
+    ], 
+    "class_num": 24232, 
+    "attributes": null, 
+    "catalog_num": "395-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4082, 
+    "subject": "VOICE", 
+    "requirements": null, 
+    "title": "Opera Workshop for Juniors", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tues/Thursday 11am-12pm, and by appointment", 
+        "bio": null, 
+        "name": "Shawn T Douglass", 
+        "phone": null, 
+        "address": "Theatre and Interpretation Center, 1949 Campus Drive, Room 220"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 14048, 
+    "attributes": "No P/N option for this section\n\nJuniors Only\n\n", 
+    "catalog_num": "351-1"
+}

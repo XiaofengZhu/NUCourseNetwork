@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 31, 
+    "course_id": 6997, 
+    "subject": "LAWSTUDY", 
+    "requirements": null, 
+    "title": "Communication and Legal Reasoning I", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Dana L Hill", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18566, 
+    "attributes": "First Year Students only\n\nRegistrar enrollment;  not a biddable class\n\n*Required to graduate\n\n", 
+    "catalog_num": "540"
+}

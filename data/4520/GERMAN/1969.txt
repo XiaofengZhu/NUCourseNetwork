@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1969, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Focus Writing: Berlin - Faces of the Metropolis", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Monday and Wednesdays 2:00 - 3:00 PM and by appointment", 
+        "bio": null, 
+        "name": "Ingrid Zeller", 
+        "phone": "847.491.8290", 
+        "address": "2-530 Kresge Hall, 1880 Campus Drive"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1.\tRankin, Jamie and Larry D. Wells. Handbuch zur deutschen Grammatik.  Latest edition.  Available at the Norris Center Bookstore.\n2.\tDykstra-Pruim, Pennylyn and Jennifer Redmann. Schreiben lernen.  A Writing Guide for Learners of German. New Haven and London: Yale University Press, 2011. Available at the Norris Center Bookstore.\n3.\tCourse Packet:  Fokus Schreiben:  Berlin - Gesichter der Metropole (Intermediate German Grammar and Composition) Ed. by Ingrid Zeller.  Evanston: Quartet Copies, 2011.  Available at Quartet Copies."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1) Students will be able to recognize genres such as portraits, descriptions of places, narratives, film reviews, literary interpretations and cultural reports and they will be able to produce texts in these genres in German.\n2) They will expand their vocabulary range in the context of the topics listed above and master a wide range of idiomatic structures.\n3) We will work with specific topics in grammar in order to review challenging concepts and to introduce more advanced concepts involving word order, cases, adjective endings, conjunctions, prepositions and verbs with prepositions; passive, relative clauses, subjunctive I and II\n4) Students will engage in presentations and improve their oral and presentational skills.\n5) Students will develop an understanding of the history and culture of Berlin."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "The course is designed for students with a background of two years of college German (or the equivalent); also by instructor's permission."
+        }
+    ], 
+    "class_num": 11952, 
+    "attributes": "Reading, writing, speaking proficiency\n\n", 
+    "catalog_num": "205-1"
+}

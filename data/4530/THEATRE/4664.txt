@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 4664, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "American Theatre and Drama", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Elizabeth Won-Kyung Son", 
+        "phone": "847/467-0513", 
+        "address": "Theatre and Interpretation Center, 1949 Campus Drive, Rm. #226, Evanston"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 318", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Partial Listing\nNew York before Chinatown: Orientalism and the Shaping of American Culture, 1776-1882 978-0801867941\nYellowface: Creating the Chinese in American Popular Music and Performance, 1850s-1920s 978-0813535074\nEverybody Was Kung Fu Fighting: Afro-Asian Connections and the Myth of Cultural Purity 978-0807050118\nThe Shipment and Lear by Young Jean Lee 978-1559363563\nTwilight: Los Angeles, 1992 by Anna Deavere Smith 978-0385473767\nSatellites by Diana Son 978-0822222279\n\nCourse Reader available at Quartet Copies"
+        }
+    ], 
+    "class_num": 21975, 
+    "attributes": null, 
+    "catalog_num": "365-2"
+}

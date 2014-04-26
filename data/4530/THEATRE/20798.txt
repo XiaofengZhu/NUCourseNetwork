@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 20798, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Introduction to Playwriting", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Philip E Dawkins", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 115", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34133, 
+    "attributes": null, 
+    "catalog_num": "335-0"
+}

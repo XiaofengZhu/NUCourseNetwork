@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 858, 
+    "subject": "MS_ED", 
+    "requirements": null, 
+    "title": "Methods & Techniques: Social Science", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David W Renz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Bower, B., Jim Lobdell and Sherry Owens. Bring Learning Alive! Methods to Transform\nMiddle and High School Social Studies Instruction. Palo Alto, CA:\nTeachers' Curriculum Institute, 2010 ISBN 978-158371-113-2\n\nVarious Readings in Course Management (Blackboard)"
+        }
+    ], 
+    "class_num": 14797, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "459-0"
+}

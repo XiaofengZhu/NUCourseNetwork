@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18604, 
+    "subject": "ASIAN_LC", 
+    "requirements": null, 
+    "title": "Advanced Topics in Asian Languages and Cultures", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Paola Zamperini", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Additional Materials: All other readings and movies assigned for the course will be available on e-reserve."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All required books will be available for purchase through the university bookstore. Please use only these editions, as all page numbers in your syllabus refer to them.\nDouglas Wiles, Art of the Bedchamber The Chinese Secual Yoga Class (ISBN:0791408868, 1993)\nLi Yu, Patrick Hanan, The Carnal Prayer Mat (ISBN: 0824817982) \nHomoeroticism in Imperial China: A Sourcebook (0415551447)\nPeople's Pornography: Sex and Surveillance on the Chinese Internet (1841504939)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The final grade will be based on the following criteria: attendance and participation (involving consistent and enthusiastic presence preparation of readings, and contributions towards classroom discussion), 40%; essays, 35 %; assignments, 25%."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The course will combine lecture and discussion, with an increasing emphasis on discussion as we move toward the end of the quarter."
+        }
+    ], 
+    "class_num": 34126, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "390-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 4989, 
+    "subject": "EECS", 
+    "requirements": null, 
+    "title": "Introduction to Computer Graphics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "contact Instructor", 
+        "bio": null, 
+        "name": "John E Tumblin", 
+        "phone": "847 4672129", 
+        "address": "3.320 Ford Design Center, Room 3.341 2133 Sheridan Road Evanston, IL 60208"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Pancoe Building Abbott Aud", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20795, 
+    "attributes": null, 
+    "catalog_num": "351-0"
+}

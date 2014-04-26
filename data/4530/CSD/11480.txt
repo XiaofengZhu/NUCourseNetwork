@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 11480, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Clinical Study and Practicum in Audiology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Gayla Louise Poling", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2378", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Requirements:\nHome Study\nScope of Practice in Audiology. In order to recognize and avoid unethical behavior, it is important to be fully grounded in the currently accepted Scope of Practice for clinical audiologists. Find the Audiology Scope of Practice document on the internet (Google: ASHA Audiology), read it, and refer to it as necessary throughout the course and when preparing your final presentation.\n\nDiscussion*-based\nEthical vs. Unethical Behavior class discussions. In Weeks 2, 3, and 7, a series of examples of ethical and unethical behavior will be presented for class brief review and discussion*. \n\nEthical Practice Dilemma class discussions*. In Weeks 5, 6 & 7, a series of ethics dilemmas will be raised for class discussion*.\n\nOther Issues and Dilemmas. In Week Eight, selected other `issues' will be reviewed and discussed*."
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Every effort will be made to conserve paper. As such, course participants will depend heavily on Blackboard (NU's Course Management System), internet resources, and the Hamil and Irwin, et al texts (see below)."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Primary texts:\nHamil, T. (2006). Ethics in Audiology: Guidelines for Ethical Conduct in Clinical, Educational, and Research Settings, Reston, VA: American Academy of Audiology. [To order, see: www.audiology.org/academystore; or call Elizabeth Lowman, 1-800-222-2336, ext 1039]\n\nIrwin, D., Pannbacker, M., Powell, T., & Vekovius, G. (2007). Ethics for Speech-LanguagePathologists and Audiologists: An illustrative casebook. Clifton Park, NY: Thomsen Delmar Learning. [Available from: Thomson Learning, PO Box 6904, Florence , KY 41022-6904. Phone: 1-800-354-9706; Fax: 1-800-487-8488.]"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "*Discussion. An important aspect of this course is the opportunity to learn from the exchange of participant ideas, opinions, experiences and interpretation of lecture information, presentations, and readings. As such, `discussion' reflecting reasoned thought, an understanding of the general principles of ethics, and an appreciation for the seriousness of ethics violations is expected and the quality of individual contributions will be weighed. By expressing your views and indicating why you hold those views, you will either become stronger in holding on to those views or you will see reasons for reconsideration. In either case, you will benefit from these discussions."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The course provides information that serves to support and empower clinical audiologists as they become acculturated into professional practice settings. Readings, class presentations, and discussions review appropriate professional conduct and the causes and consequences of misconduct."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Enrollment in the Northwestern University Doctor of Audiology (AuD) Program."
+        }
+    ], 
+    "class_num": 21642, 
+    "attributes": null, 
+    "catalog_num": "415-4"
+}

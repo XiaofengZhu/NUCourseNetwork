@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 20692, 
+    "subject": "JWSH_ST", 
+    "requirements": null, 
+    "title": "Introduction to Yiddish Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Marcus G Moseley", 
+        "phone": "847/467-4712", 
+        "address": "Kresge 2-525"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "*Knowledge of the history of central and eastern European Jewry in broad political and religious contexts\n*Knowledge of the modern Yiddish literary tradition\n*Knowledge of the visual culture associated with shtetl life\n*Familiarity with scholarly methods required for the investigation of modern European-Jewish culture"
+        }
+    ], 
+    "class_num": 17139, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "266-0"
+}

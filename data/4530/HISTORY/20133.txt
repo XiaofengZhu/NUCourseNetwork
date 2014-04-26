@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20133, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Approaches to History", 
+    "section": "40", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "40", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Paul Ramrez is a historian of Mexico in the colonial and early republican periods. His intellectual background is in the study of religion, and his research interests include the ways ordinary people in Mexico shaped the modernization of medicine in the past. He teaches courses on various topics in Latin American history: the Spanish Conquest, Catholicism and popular religion, peasants and liberalism, national and international migration, and the history of disease and medicine. He has lived in the suburbs of Chicago, Houston, Boston, the Bay Area, and Mexico City and is an amateur pianist, futbolista, climber, camper, swimmer, and dog lover.", 
+        "name": "Paul F Ramirez", 
+        "phone": "847/491-7444", 
+        "address": "Harris Hall Room 233"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 418", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Americas"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nWilliam B. Taylor, Marvels and Miracles in Late Colonial Mexico: Three Texts in Context\nJennifer Scheper Hughes, Biography of a Mexican Crucifix: Lived Religion and Local Faith from the Conquest to the Present\nFrank Graziano, Cultures of Devotion: Folk Saints of Spanish America"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Reading journal, 15%; weekly participation, 25%; three essays, 20% each."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No P/N option (ANC grading only)\nAttendance at first class is mandatory"
+        }
+    ], 
+    "class_num": 30638, 
+    "attributes": "Historical Studies Distro Area\n\nAttendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "393-0"
+}

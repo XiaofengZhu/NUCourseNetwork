@@ -1,0 +1,53 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 36, 
+    "course_id": 2484, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Combinatorics & Discrete Mathematics", 
+    "section": "41", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 104", 
+            "section": "41A", 
+            "component": "DIS", 
+            "end_time": "10:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "10:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "41", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Eric Zaslow", 
+        "phone": "8474676447", 
+        "address": "Lunt 302"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-435", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Combinatorics and Graph Theory\" (2nd edition) by Harris, Hirst, and Mossinghoff."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Discrete mathematics, inductive reasoning, counting problems, binomial coefficients and Pascal's triangle, Fibonacci numbers, combinatorial probability, divisibility and primes, partitions, and generating functions."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Math 224 and 240"
+        }
+    ], 
+    "class_num": 23873, 
+    "attributes": null, 
+    "catalog_num": "306-0"
+}

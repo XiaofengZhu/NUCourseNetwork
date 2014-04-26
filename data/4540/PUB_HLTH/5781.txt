@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 5781, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Control and Prevention of Infectious Disease in Public Health", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rebecca M Wurtz", 
+        "phone": "312.503.5875", 
+        "address": "680 N. Lake Shore Drive, Suite 1400"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 36972, 
+    "attributes": null, 
+    "catalog_num": "412-0"
+}

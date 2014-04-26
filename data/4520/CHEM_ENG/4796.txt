@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 4796, 
+    "subject": "CHEM_ENG", 
+    "requirements": null, 
+    "title": "Fluid Mechanics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Wesley Roth Burghardt", 
+        "phone": "8474671401", 
+        "address": "Tech E174"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 15849, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "321-0"
+}

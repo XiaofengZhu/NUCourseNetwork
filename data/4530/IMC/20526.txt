@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 20526, 
+    "subject": "IMC", 
+    "requirements": "Enrollment Requirements: This section is currently closed to registration.  Please contact the department directly with any questions.", 
+    "title": "Integrated Marketing Communications Strategy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Gerald Joseph Chiaro", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Louis Hall 226", 
+    "end_time": "12:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 22103, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "303-0"
+}

@@ -1,0 +1,61 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 160, 
+    "course_id": 1658, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Microeconomics", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Swift Hall 107", 
+            "section": "21", 
+            "component": "DIS", 
+            "end_time": "10:50:00", 
+            "meeting_days": "Fr", 
+            "start_time": "10:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ron Siegel", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Leverone Auditorium Owen Coon", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "\t\nNo required book, though a text-book such as <i>Microeconomics</i>, by David Besanko and Robald Braeutigam (4th Edition), might prove very helpful.  One should wait, however, for the first week of class to see whether the book purchase is an academically wise choice."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\t\nNo required textbook needed"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "\t\nProblem sets, midterm, and a final exam"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two 80-minute lectures, and a discussion section."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "\t\nIntroductory Calculus course, Econ 201-0, 202-0 and 310-1"
+        }
+    ], 
+    "class_num": 23346, 
+    "attributes": null, 
+    "catalog_num": "310-2"
+}

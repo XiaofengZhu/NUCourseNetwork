@@ -1,0 +1,45 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 17795, 
+    "subject": "CHEM", 
+    "requirements": null, 
+    "title": "Advanced Laboratory 2", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute B160", 
+            "section": "21", 
+            "component": "LAB", 
+            "end_time": "17:50:00", 
+            "meeting_days": "MoWe", 
+            "start_time": "13:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Frederick J Northrup", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Pancoe Building Abbott Aud", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: Chem 333 and Chem 350-1 or equivalent; Chem 342-2 corequisite"
+        }
+    ], 
+    "class_num": 24004, 
+    "attributes": null, 
+    "catalog_num": "350-2"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 20578, 
+    "subject": "MUSIC_ED", 
+    "requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only", 
+    "title": "Student Teaching in the Senior High School: Choral and Nonperformance", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Amy Lynn Becker", 
+        "phone": null, 
+        "address": "amy.becker@northwestern.edu"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 14628, 
+    "attributes": "Graded P/N\n\n", 
+    "catalog_num": "373-0"
+}

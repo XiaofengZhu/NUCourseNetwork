@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20284, 
+    "subject": "MUSIC", 
+    "requirements": null, 
+    "title": "Career Innovation in Music and the Performing Arts", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Gavin Paul Chuck", 
+        "phone": null, 
+        "address": "g-chuck@northwestern.edu"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "MUSIC MAJORS ONLY."
+        }
+    ], 
+    "class_num": 14558, 
+    "attributes": null, 
+    "catalog_num": "360-0"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6512, 
+    "subject": "POLI_SCI", 
+    "requirements": null, 
+    "title": "Introduction to International Relations", 
+    "section": "15", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "15", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mauro Gilli", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 417", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The textbook used for this class is Spruyt, Hendrik. 2009. Global Horizons. Tonronto, ON: University of Toronto Press (ISBN  978-1-4426-0092-8).  Additional readings will be made available on Blackboard."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Upon completion of this course, students will have become familiar with - and learned to think critically and theoretically about - some of the most important substantive puzzles studied in the field of international relations as well as contemporary international problems."
+        }
+    ], 
+    "class_num": 35080, 
+    "attributes": null, 
+    "catalog_num": "240-CN"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1598, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Introduction to Chinese Lit in Translation: Classical and Medieval", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Peter Shen", 
+        "phone": "646/248-1881", 
+        "address": "Harris 231"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Reading List: Stephen Owen, An Anthology Of Chinese Literature: Beginnings To 1911;\na variety of handouts."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Evaluation: Weekly short essays, final paper, class participation, oral presentations"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Teaching methodology: Lecture, discussion, seminar format."
+        }
+    ], 
+    "class_num": 11215, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "274-1"
+}

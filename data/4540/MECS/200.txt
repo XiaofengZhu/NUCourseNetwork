@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 200, 
+    "subject": "MECS", 
+    "requirements": null, 
+    "title": "Decision Theory", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "14:00:00", 
+    "component": "21", 
+    "school": "KGSM", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Peter L Klibanoff", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Jacobs Center 561", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 39051, 
+    "attributes": null, 
+    "catalog_num": "462-0"
+}

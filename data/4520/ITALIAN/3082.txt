@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3082, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Intermediate Italian", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wed 9:45 - 10:45AM or by appointment", 
+        "bio": null, 
+        "name": "Daniela Pozzi Pavan", 
+        "phone": "847/467-0646", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-133"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Italian 101-3 or permission of the course coordinator. Students may take the on-line Italian placement test to determine their proficiency and placement level: http://placement-test.mmlc.northwestern.edu/"
+        }
+    ], 
+    "class_num": 10736, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "102-1"
+}

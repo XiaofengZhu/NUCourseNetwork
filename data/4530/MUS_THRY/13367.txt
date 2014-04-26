@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 13367, 
+    "subject": "MUS_THRY", 
+    "requirements": null, 
+    "title": "Teaching of Theory", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Susan M. Piagentini", 
+        "phone": "847/491-5704", 
+        "address": "MAB 711 Elgin Rd, Evanston IL"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 37", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Weekly class meetings (2) MW 8:30-9:50 a.m.\nObserve 1 undergraduate theory or aural skills class per week of your choice, offered Monday through Friday (total of 8 regularly spaced throughout the quarter)."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Textbook:  Rogers, Michael.  Teaching Approaches in Music Theory: An Overview of Pedagogical Philosophies, 2nd edition.  Southern Illinois University Press, 2004. ISBN-10: 0809325950    ISBN-13: 978-0809325955"
+        }
+    ], 
+    "class_num": 22599, 
+    "attributes": null, 
+    "catalog_num": "410-0"
+}

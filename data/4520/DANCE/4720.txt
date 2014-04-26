@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4720, 
+    "subject": "DANCE", 
+    "requirements": null, 
+    "title": "Tap l", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tuesday and Thursday, noon-2:00pm and by appointment", 
+        "bio": null, 
+        "name": "William Lewis Siegenfeld", 
+        "phone": "847/491-3147", 
+        "address": "10 Arts Circle Drive"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 15370, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "180-0"
+}

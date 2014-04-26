@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 28, 
+    "course_id": 15199, 
+    "subject": "MS_ED", 
+    "requirements": null, 
+    "title": "Practicum Seminar - Secondary Humanities", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Margaret V Kritzler", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Stairs, A., Donnell, K. & Dunn, A. (2011). Urban teaching in America: Theory, research,  and practice in K-12 classrooms.   Thousand Oaks, CA: Sage Publishing.\n\nTomlinson, C.A. & Imbeau, M.B. (2010). Leading and managing a differentiated classroom. Alexandria, VA: ASCD.\n\nTomlinson, C.A. & McTighe, J. (2006). Integrating differentiated instruction and understanding by design. Alexandria, VA: ASCD.\n\t\nExcerpts from: Wormeli, Rick. (2006). Fair isn't always equal: Assessing and grading in the differentiated  classroom.  Portland, ME: Stenhouse.\n\t \nNOTE: *The first three texts are available at Norris Bookstore. \n              The Wormeli excerpts are available electronically from the Library Reserve\n\nRequired Course PacketPracticum Seminar: Humanities MSED 478/TEACH ED 378 \n*Available at Quartet Copies, 825 Clark Street, Evanston"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "As part of your coursework, you will observe both teachers and students, taking careful field notes which are required. You will also create preliminary classroom management plans and conduct interviews with you mentors as well as their students.  \n\nComponents of assessment in this seminar include: \n(a) weekly attendance as well as a willingness to share, reflect, and learn from others (20%); \n(b) the quality of assigned written reflections (including completion of the student and mentor interviews as well as the assigned talking points on CMS) (40%); (c) written field notes and the evaluation from your practicum mentor/s  (10%); (d) the quality of your assessment essay, management plan, and final reflective essay (30%)."
+        }
+    ], 
+    "class_num": 14795, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "478-0"
+}

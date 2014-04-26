@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 19365, 
+    "subject": "KPPI", 
+    "requirements": null, 
+    "title": "Strategic Management in Non-Market Environments (INSEAD only)", 
+    "section": "91", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-23", 
+    "end_date": "2013-10-28", 
+    "start_time": null, 
+    "component": "91", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Dylan Blu Minor", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18965, 
+    "attributes": null, 
+    "catalog_num": "441-E"
+}

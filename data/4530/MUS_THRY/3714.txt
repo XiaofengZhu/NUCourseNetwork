@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 3714, 
+    "subject": "MUS_THRY", 
+    "requirements": null, 
+    "title": "Selected Topics in Music Theory", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "www.music.northwestern.edu/faculty/profiles/mark-butler.html", 
+        "name": "Mark Jonathan Butler", 
+        "phone": null, 
+        "address": "mark-butler@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 125", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Teaching Method", 
+            "desc": "The course will be run as a seminar, with class time centered around student discussion and presentation. Activities outside of class will include substantial reading, transcription of music from recordings, musical analysis, research, and various kinds of writing. A special focus of the class this quarter will be form in popular music."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "For students in the Bienen School of Music, the prerequisites for undergraduates are successful completion of the theory core (Mus_Thry 111/211); for graduate students, passage of the diagnostic or successful completion of the theory review course."
+        }
+    ], 
+    "class_num": 22794, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "335-0"
+}

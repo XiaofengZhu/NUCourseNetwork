@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 7174, 
+    "subject": "CLASSICS", 
+    "requirements": null, 
+    "title": "Greek Tragedy", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "B.A. Honors, University College, Dublin, Ireland,  Near Eastern / Semitic Languages\nM.A., Ph.D., Northwestern University, Classics : [Greek and Latin Languages and Literature]\nTeaching currently :   The Departments of Classics / Classical Studies\nThe School of Continuing Studies, Northwestern University\nThe Summer School, Northwestern University\nLoyola University Chicago,  DePaul University of Chicago", 
+        "name": "Edith Pennoyer Livermore", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The plays we shall read are, for the most part, listed in the course description. Students may purchase or employ any translation they wish or have at hand. There will also be an opportunity for students to suggest plays they may like to read instead of, or in addition to, those listed in the course description."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "A weekly \"inventory\" of matters discussed the previous week and assigned readings, as well as a final scholarly research project consisting of a close reading of a chosen text from one of the Greek plays."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar Style : lecture introductions about the material, discussion about the assigned readings, with close readings of the text, occasional films, student presentations."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 18167, 
+    "attributes": null, 
+    "catalog_num": "345-CN"
+}

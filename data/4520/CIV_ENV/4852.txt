@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4852, 
+    "subject": "CIV_ENV", 
+    "requirements": "Enrollment Requirements: Reserved for Graduate Students.", 
+    "title": "Experimental Solid Mechanics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "imdaniel@northwestern.edu", 
+        "bio": null, 
+        "name": "Isaac M Daniel", 
+        "phone": "847/491-5649", 
+        "address": "Catalysis Bldg, Rm 326, 2137 Tech Drive, EV CAMPUS"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Experimental Stress Analysis / Arun Shukla and J. W. Dally  / ISBN 0-9762413-0-7 / 2005 / 4th / Society for Experimental Mechanics, Bethel, CT"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two 1 and 1/2 hour lectures per week."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Graduate level students."
+        }
+    ], 
+    "class_num": 16234, 
+    "attributes": null, 
+    "catalog_num": "413-0"
+}

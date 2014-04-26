@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 3491, 
+    "subject": "GEN_MUS", 
+    "requirements": null, 
+    "title": "Harmony", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rachael Grace Kerr", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 14192, 
+    "attributes": "Formal Studies Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "252-0"
+}

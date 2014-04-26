@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20637, 
+    "subject": "KIEI", 
+    "requirements": null, 
+    "title": "Intellectual Property for Entrepreneurs", 
+    "section": "81", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-05-05", 
+    "end_date": "2014-06-07", 
+    "start_time": "18:30:00", 
+    "component": "81", 
+    "school": "KGSM", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "James G Conley", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Jacobs Center G43", 
+    "end_time": "21:30:00", 
+    "coursedesc_set": [], 
+    "class_num": 37646, 
+    "attributes": null, 
+    "catalog_num": "935-B"
+}

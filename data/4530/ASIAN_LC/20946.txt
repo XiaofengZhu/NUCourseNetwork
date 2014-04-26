@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20946, 
+    "subject": "ASIAN_LC", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Peter Shen", 
+        "phone": "646/248-1881", 
+        "address": "Harris 231"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Chang, Eileen. 2006. Love in a Fallen City. New York: New York review of Books.\n \nChu, T'ien-hsin. 2007. The Old Capital: A Novel of Taipei. New York: Columbia UP.\n \nWang, Anyi. 2009. The Song of Everlasting Sorrow: A Novel of Shanghai. New York:\nColumbia UP."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance: 10%\nClass Participation: 20%\nIn-class Presentation: 10%\nFirst Paper: 10% (3-4)\nSecond Paper: 20% (5-6)\nFinal Paper: 30% (7-10)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar format with focus on class discussions"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, students will acquire the ability to:\n\n1) Discuss and write critically and knowledgeably about literature and cinema in relation to a set of terms often identified as \"contextual\";\n\n2) Demonstrate a high-degree of proficiency to articulate (orally and written) the art of cinema and literature that take into account the formal or aesthetic elements;\n\n3) Reach a proficiency in terms of understanding the significance of Shanghai and Taipei in the broader context of Chinese-language literature and cinema."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "The course is designed for first-year students interested in modern literature and cinema from China and Taiwan. Students will learn how to read and write about literature and cinema.\n\nStudents are not expected to have any prior knowledge of the Chinese language though they will learn the basics of Chinese pronunciation and proper names. Discussions, readings, and writing assignments will be in English. The films screened are in Chinese and will have English subtitles."
+        }
+    ], 
+    "class_num": 34398, 
+    "attributes": null, 
+    "catalog_num": "110-6"
+}

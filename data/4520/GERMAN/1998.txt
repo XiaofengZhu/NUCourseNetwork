@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1998, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Advanced Business German: Understanding the German Economy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesdays 1 to 3 pm and by appointment", 
+        "bio": null, 
+        "name": "Katrin Voelkner", 
+        "phone": "847.328.3471", 
+        "address": "2-560 Kresge Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Reader (will be available at Quartet Copies at the beginning of the quarter)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "-\tFamiliarity with concepts in Volkswirtschaft (economics) that are particularly pertinent to the German context\n-\tKnowledge of current topics that relate to the German economy\n-\tFamiliarity with relevant German media that report on the economy\n-\tIncreased proficiency on an advanced level in the field of German business and commerce through study of business-specific vocabulary, listening comprehension and writing tasks\n-\tAwareness of differences between the German and American economic system \n-\tIncrease in inter-cultural competence\n-\tEngagement in collaborative learning by working on a website/wiki in a team"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "German 209 or equivalent"
+        }
+    ], 
+    "class_num": 11063, 
+    "attributes": "Reading, writing, speaking proficiency\n\n", 
+    "catalog_num": "309-1"
+}

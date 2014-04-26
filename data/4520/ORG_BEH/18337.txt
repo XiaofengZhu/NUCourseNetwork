@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 18337, 
+    "subject": "ORG_BEH", 
+    "requirements": null, 
+    "title": "Leadership Principles and Practices", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael G Thompson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "This course is open to Leadership and Organization Behavior (LOB) year one cohort students only. Non-LOB students may petition to register is seats become available."
+        }
+    ], 
+    "class_num": 18219, 
+    "attributes": null, 
+    "catalog_num": "307-CN"
+}

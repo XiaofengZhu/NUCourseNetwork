@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 513, 
+    "subject": "DECS", 
+    "requirements": null, 
+    "title": "Statistical Methods for Management Decisions", 
+    "section": "71", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-08-30", 
+    "start_time": null, 
+    "component": "71", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Brett A Saraniti", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 42124, 
+    "attributes": null, 
+    "catalog_num": "434-0"
+}

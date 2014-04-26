@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1565, 
+    "subject": "GREEK", 
+    "requirements": null, 
+    "title": "Elementary Greek", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Claudia Zatta", 
+        "phone": "847/467-6976", 
+        "address": "Kresge Hall 1-525"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required textbook:  Anne Groton, From Alpha to Omega, Focus Publishing; ISBN 1-58510-034"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Daily assignments, weekly quizzes, final exam, class participation"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures on topics of grammar and syntax, oral drills, written assignments, memorization of vocabulary"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None. If you have previously studied Greek, please arrange for a placement exam by contacting the instructor."
+        }
+    ], 
+    "class_num": 10187, 
+    "attributes": null, 
+    "catalog_num": "101-1"
+}

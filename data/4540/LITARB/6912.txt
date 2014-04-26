@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 6912, 
+    "subject": "LITARB", 
+    "requirements": "Enrollment Requirements: Civil Procedure is a pre-requisite for this course.", 
+    "title": "Civil Procedure II", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "James E Pfander", 
+        "phone": "312/503-1325", 
+        "address": "Levy Mayer 215"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30100, 
+    "attributes": "Open to First Year Students\n\nCivil Litigation & Dispute Resolution\n\nProcedure Practice Area present in course\n\n", 
+    "catalog_num": "650"
+}

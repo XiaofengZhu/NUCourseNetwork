@@ -1,0 +1,45 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 18068, 
+    "subject": "KELLG_FE", 
+    "requirements": "Enrollment Requirements: Reserved for students pursuing the Kellogg Undergraduate Certificate in Financial Economics", 
+    "title": "Derivatives", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Viktor S Todorov", 
+        "phone": "847/467-0694", 
+        "address": "Jacobs Center Room 444"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "DERIVATIVES MARKETS | Edition: 3RD 09\n\nAuthor: MCDONALD \t\nISBN: 9780321543080\t\nPublication Date: 09/20/2012\t\nPublisher: PEARSON"
+        }
+    ], 
+    "class_num": 37220, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "314-0"
+}

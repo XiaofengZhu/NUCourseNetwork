@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 6, 
+    "course_id": 4176, 
+    "subject": "PERF_ST", 
+    "requirements": null, 
+    "title": "Studies in Performance", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Deidra Soyin Madison", 
+        "phone": null, 
+        "address": "Annie May Swift Hall, G06"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Incoming Performance Studies graduate students (for whom the course is required) need permission numbers to register."
+        }
+    ], 
+    "class_num": 15168, 
+    "attributes": null, 
+    "catalog_num": "410-0"
+}

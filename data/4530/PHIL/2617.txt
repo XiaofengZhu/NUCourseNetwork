@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 6, 
+    "course_id": 2617, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Studies in Ancient Philosophy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John P F Wynne", 
+        "phone": "847/467-1843", 
+        "address": "Crowe 1-103"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-435", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Brad Inwood and Lloyd Gerson, The Stoics reader, Hackett.\n978-0872209527\n \nP. G. Walsh (translator), Cicero: On the nature of the gods, Oxford World's Classics series.\n978-0199540068\n \nCharles Brittain (translator), Cicero: On academic scepticism, Hackett.\n978-0872207745\nRobin Hard (translator) and Christopher Gill (editor), Epictetus: Discourses, Fragments, Handbook, Oxford World's Classics series. (This book will ship Feb 1st.) \n978-0199595181\n \nMargaret Graver (translator), Cicero on the emotions, University of Chicago Press.\n978-0226305783"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "A mid-term exam and a final paper, along with reading responses and in-class discussion."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Short lectures meant to elicit discussion."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "For undergraduates, Philosophy or Latin or Greek or Classics major or minor, or permission of instructor."
+        }
+    ], 
+    "class_num": 26580, 
+    "attributes": null, 
+    "catalog_num": "310-0"
+}

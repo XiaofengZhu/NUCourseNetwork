@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 6615, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Elementary French III", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": "W 2 - 4PM, Fri 12 - 1PM & 2 - 3PM", 
+        "bio": "Dominique Licops has a Licence (B.A) in Germanic Philology from Universit Catholique de Louvain-La-Neuve (Belgium), an M.A. in Literature from Commonwealth Countries from Leeds University (UK), a PhD. in Comparative Literary Studies from Northwestern University, and a graduate certificate in Gender Studies, also from Northwestern University. Her dissertation is a study of metaphors of identity in Caribbean Francophone and Anglophone Literature. She currently teaches a wide range of courses in the French department and for the School of Continuing Studies, and occasionally for the Gender Studies Program. Her main interests are in French and Francophone and post-colonial studies.", 
+        "name": "Dominique Mary Licops", 
+        "phone": "847/491-8258", 
+        "address": "1860 S. Campus Drive, Crowe Hall #3-136"
+    }, 
+    "term": "2014 Spring", 
+    "room": "Kresge Centennial Hall 4-365", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Classes are conducted in French except when explanations of Grammar or administrative matter required the use of English. Students are expected to prepare outside of class, to participate actively in class activities, and to work independently with the En Avant! online program and Workbook / Laboratory Manual throughout the week. This course is for students with less than two recent years of high school French."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Anderson, Golato and Blatty, En Avant!, first edition. \nAnderson, Golato and Blatty, En Avant!  WorkBook and Laboratory Manual (WBLM), first ed.  \n(These texts are available in a bundle at Norris Bookstore. Included in the price of the bundle  is an \naccess key to online material)\n\nCourse packet (provided at first class)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "In this course, we will cover elementary grammatical structures and vocabulary in order for you to become proficient at an introductory level. In order to get the most out of this course, you should speak only French (that includes asking questions in class)! One of the best ways to learn a language is through constant practice, by assimilating concepts and vocabulary, and by having the courage to create with language and to make mistakes!"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "FRENCH 101-A, -B or equivalent. This course is for students with less than two years of high school French or with no previous study of French. Students who have studied French for two or more years in high school recently, should register for Intermediate French."
+        }
+    ], 
+    "class_num": 38689, 
+    "attributes": null, 
+    "catalog_num": "101-C"
+}

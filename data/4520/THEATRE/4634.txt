@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4634, 
+    "subject": "THEATRE", 
+    "requirements": "Enrollment Requirements: Theatre Majors & Performance Studies Only", 
+    "title": "Acting III: Problems in Style", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mary Margaret Poole", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "BOOKS OF ART THAT RELATE TO THE PLAYWRIGHT."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\tAll students are required to dress appropriate. Women will be required to have a dark/black rehearsal skirt and character shoes.  Men, hard soled shoes and a sport coat.  Women will need fans, hand-bags and corsets (available to borrow/rent from costume shop) for Comedy of Manners scenes from Molire or Wilde, please make arrangements with the costume shop.\n\tTARTUFFE, Molire, trans. Richard Wilbur\n\tRESTORATION PLAYS\n\tTHE PLAYS OF OSCAR WILDE\n\tTHREE PLAYS BY NOEL COWARD"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "-To have each actor work on a minimum of three scenes from plays that represent three general genres of comedy: Comedy of Manners (Molire, Wilde, Coward), Absurdist/Black Comedy (Beckett, Ionesco, Beyond the Fringe) and contemporary situation/sketch comedy (Simon, Wasserstein, Culture Clash)\n-To provide the student actor with an understanding of the principles of Style, especially as they apply to comedies of manners.\n-To provide the student actor with performance experiences that will enhance their familiarity and understanding of some of the major plays associated Molire, Oscar Wilde and Noel Coward, as well as 20th and 21st century writers of comedy.\n-To assist the student actor in acquiring an understanding of how to analyze comedy texts in order to best realize them in performance.\n-To rigorously guide the student actor in consistently using detailed moment-to-moment partner work while performing comedic material with truth and conviction. \n-To allow the student actor to assume full responsibility for and ownership of their growth in the class."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission number required"
+        }
+    ], 
+    "class_num": 14925, 
+    "attributes": null, 
+    "catalog_num": "349-1"
+}

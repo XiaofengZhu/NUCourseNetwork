@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 5857, 
+    "subject": "ORG_BEH", 
+    "requirements": null, 
+    "title": "Organization Behavior", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": "09:00:00", 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Robert C Ernest", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 413", 
+    "end_time": "12:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "        Gain information and knowledge regarding individual, group, and organizational concepts crucial to management practice and organizational life\n        Illustrate and apply these concepts via case studies, discussion, projects and class activities\n        Connect these theoretical concepts and case-based learning to your own experiences inside and outside the workplace as well as those examples found in current news"
+        }
+    ], 
+    "class_num": 35073, 
+    "attributes": null, 
+    "catalog_num": "301-CN"
+}

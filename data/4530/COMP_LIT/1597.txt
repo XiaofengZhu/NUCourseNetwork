@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1597, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Japanese Literature in Translation: Contemporary Japanese Women Writers", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Phyllis I Lyons", 
+        "phone": "8474912766", 
+        "address": "4-372 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texts:\nBirnbaum, Rabbits, Crabs, Etc.\nLippit and Selden, Contemporary Japanese Women Writers\nEnchi, Masks\nYoshimoto, Kitchen\nCourse packet (Quartet Copies)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Evaluation will be based on discussion participation, two short papers (4 pp.), and one long final paper (8-10 pp.)."
+        }
+    ], 
+    "class_num": 34132, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nAttendance at 1st class mandatory\n\nGiven in English\n\n", 
+    "catalog_num": "271-4"
+}

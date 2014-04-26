@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4454, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Evaluation of the Peripheral Hearing Mechanism", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "View Class Details for Room", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sumitrajit Dhar", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and laboratory."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Objectives - The objectives of the course are two fold. The first part of the course will provide you with the theoretical background of hearing evaluation and the basic tests vital to the process. The second part will highlight the practical aspects of the process of hearing evaluation and familiarize you with test administration, interpretation, and diagnosis.\nThe majority of the course will be taught in the traditional lecture format. However, you are encouraged to ask questions and make comments. Some group discussion activities are built into the course format.\nPlease see attached list of KASA standards partially or fully satisfied by this course.\nThe course is taught in conjunction with a laboratory section. Every student enrolled in this class is expected to attend the lab meetings. The administrative aspects of several tests will be taught during the lab-sessions. You are responsible for that material for tests and quizzes in this class."
+        }
+    ], 
+    "class_num": 14900, 
+    "attributes": null, 
+    "catalog_num": "423-0"
+}

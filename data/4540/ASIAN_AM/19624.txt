@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 19624, 
+    "subject": "ASIAN_AM", 
+    "requirements": null, 
+    "title": "Topics in Asian American Social and Cultural Analysis", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tuesday 2:00-4:00", 
+        "bio": null, 
+        "name": "Simeon Shing Kam Man", 
+        "phone": "847/467-3463", 
+        "address": "1880 Campus Drive, Kresge Hall 1-245"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32402, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "203-0"
+}

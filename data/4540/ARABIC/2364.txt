@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2364, 
+    "subject": "ARABIC", 
+    "requirements": null, 
+    "title": "Arabic III", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lynn Ellen Whitcomb", 
+        "phone": "8474912770", 
+        "address": "4-321 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32437, 
+    "attributes": "Specific requirements in the language\n\n", 
+    "catalog_num": "211-3"
+}

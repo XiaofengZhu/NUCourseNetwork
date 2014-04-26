@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2355, 
+    "subject": "HINDI", 
+    "requirements": null, 
+    "title": "Hindi I", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M 12:00pm-1:00pm", 
+        "bio": null, 
+        "name": "Rami Nair", 
+        "phone": "8474677581", 
+        "address": "4-406 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "A Practical Hindi-English Dictionary\nby Mahendra Chaturvedi (Author), B. N. Tiwari (Editor)\nPublisher: South Asia Books (November 1992)\nLanguage English/Hindi\nEdition Hardcover\nList Price $ 16.00\nISBN 81-214-0536-x\n\nTitle:  \tRajpal English-Hindi dictionary (buy from Amazon)\nAuthor: \tHardev Bahri (books written by Hardev Bahri)\nYear: \t1999\nISBN-10: \t81-7028-100-8 / 8170281008 (similar ISBNs)\nISBN-13/EAN: \t9788170281009"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Introduction to Hindi Grammar\nby Usha R. Jain\nISBN 094461325X / 9780944613252 / 0-944613-25-X\nPublisher Univ of California Inst of East\nLanguage English\nEdition Softcover\nList price $35.00"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assessment is based on weekly quizzes, attendance, classroom participation, home assignments, 3 mid-terms and an oral interview. No final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Textbook, word-games, in-class materials"
+        }
+    ], 
+    "class_num": 17214, 
+    "attributes": null, 
+    "catalog_num": "111-1"
+}

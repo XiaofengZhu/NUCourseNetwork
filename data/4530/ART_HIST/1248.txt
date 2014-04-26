@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 1248, 
+    "subject": "ART_HIST", 
+    "requirements": null, 
+    "title": "19Th Century Art: Late 18Th Century-1848", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Stephen F Eisenman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Art in Theory: 1815-1900 An Anthology of Changing Ideas\nPaperback: 1120 pages\nPublisher: Wiley-Blackwell; 1 edition (March 6, 1998)\nLanguage: English\nISBN-10: 0631200665\nISBN-13: 978-0631200666\nProduct Dimensions: 1.6 x 6.3 x 9.2 inches\n\nNineteenth Century Art: A Critical History (Fourth Edition)\nPaperback: 504 pages\nPublisher: Thames & Hudson; Fourth Edition edition (February 21, 2011)\nLanguage: English\nISBN-10: 0500288887\nISBN-13: 978-0500288887"
+        }
+    ], 
+    "class_num": 25983, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "350-1"
+}

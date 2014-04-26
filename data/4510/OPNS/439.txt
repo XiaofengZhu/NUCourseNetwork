@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 439, 
+    "subject": "OPNS", 
+    "requirements": null, 
+    "title": "Operations Management (Turbo)", 
+    "section": "61", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-07-15", 
+    "end_date": "2013-08-16", 
+    "start_time": null, 
+    "component": "61", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ozge Islegen", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 42167, 
+    "attributes": null, 
+    "catalog_num": "438-B"
+}

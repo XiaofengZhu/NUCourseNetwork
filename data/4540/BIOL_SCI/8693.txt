@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 8693, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Pre-requisite: Students must have completed BIOL_SCI 218-0, BIOL_SCI 301-0, or BIOL_SCI 309-0 to register for this course.", 
+    "title": "Bioinformatics:  Sequence and Structure Analysis", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Ishwar Radhakrishnan", 
+        "phone": "847/467-1173", 
+        "address": "Cook Hall, Room 4135"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 31452, 
+    "attributes": null, 
+    "catalog_num": "323-0"
+}

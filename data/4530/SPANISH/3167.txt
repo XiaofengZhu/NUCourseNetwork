@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 3167, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Literature in Latin America before 1888", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Laura Monica Leon Llerena", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-301", 
+    "end_time": "12:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Jean Franco. An Introduction to Spanish American Literature\nBenjamin Keen. A History of Latin America\nJames Lockhart and Stuart Schwartz. Early Latin America: A History of Colonial Spanish America and Brazil"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Most texts will be available in the following anthology:\nGarganigo et al. Huellas de las literaturas hispanoamericanas, 2nd  edition (ISBN-10: 0130618578)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students must have taken SPAN 220"
+        }
+    ], 
+    "class_num": 33971, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "260-0"
+}

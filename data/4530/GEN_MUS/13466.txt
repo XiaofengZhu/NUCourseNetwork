@@ -1,0 +1,31 @@
+{
+    "overview": "Contact the department for further information", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 13466, 
+    "subject": "GEN_MUS", 
+    "requirements": null, 
+    "title": "Orchestral Organizations", 
+    "section": "22", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "22", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Robert Gene Hasty", 
+        "phone": "847/491-5707", 
+        "address": "PICK-STAIGER 50 Arts Circle Dr, Evanston IL"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Pick-Staiger Rehearsal Room", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22994, 
+    "attributes": "Registration by Audition Only\n\n", 
+    "catalog_num": "393-0"
+}

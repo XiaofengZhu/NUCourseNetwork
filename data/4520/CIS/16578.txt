@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 16578, 
+    "subject": "CIS", 
+    "requirements": null, 
+    "title": "Database Systems Design & Implementation", 
+    "section": "19", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "19", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Faisal O Akkawi", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "DATABASE SYSTEMS\nBy CONNOLLY\nEDITION:   5TH 10 PUBLISHER:   PEARSON\nISBN:   9780321523068"
+        }
+    ], 
+    "class_num": 18164, 
+    "attributes": null, 
+    "catalog_num": "317-CN"
+}

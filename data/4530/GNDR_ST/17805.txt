@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 17805, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Gender, Sexuality and History", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "University Library 3322", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "12:20:00", 
+            "meeting_days": "We", 
+            "start_time": "11:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jeffrey Kosbie", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Background in U.S. Gay and Lesbian History (GSS 324) and/or legal studies is helpful but not expected or required."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course readings will rely heavily on articles and other readings available on the library website or blackboard. We will also use the following books (list is tentative and subject to change): Ellen Ann Andersen (2005) Out of the Closets and Into the Courts: Legal Opportunity Structure and Gay Rights Litigation. Carlos Ball (2010) From the Closet to the Courtroom: Five LGBT Rights Lawsuits that Have Changed Our Nation. Dale Carpenter (2012) Flagrant Conduct: How a Bedroom Arrest Decriminalized Gay Americans. Jason Pierceson (2013) Same-Sex Marriage in the United States: The Road to the Supreme Court"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Participation, two short response papers, one final research paper."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Primarily discussion with minimal lecture. Class time will also be used for debates and other group activities, as well as the occasional guest speaker."
+        }
+    ], 
+    "class_num": 24507, 
+    "attributes": "Historical Studies Distro Area\n\n", 
+    "catalog_num": "321-0"
+}

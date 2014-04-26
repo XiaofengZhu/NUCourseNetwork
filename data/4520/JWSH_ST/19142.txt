@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 19142, 
+    "subject": "JWSH_ST", 
+    "requirements": null, 
+    "title": "Modern Jewish Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW and by appointment", 
+        "bio": null, 
+        "name": "Marcia B Gealy", 
+        "phone": "847/491-7414", 
+        "address": "Kresge 2-215"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Suggested Background Reading (on Reserve) New Oxford Annotated Bible; Ausubel, Treasury of Jewish Folklore;Sachar, The Course of Modern Jewish History; Scholem, Major Trends in Jewish Mysticism. Encyclopedia Judaica(in the Reference Rm)"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required Texts: At Quartet: Course Pack for Modern Jewish Literature. At Norris: Primo Levi, Survival in Auschwitz, Ida Fink, A Scrap of Time, Ava Schieber, Soundless Roar, Philip Roth, Goodbye Columbus and 5 Short Stories, Amos Oz, Panther in the Basement."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Short paper + response papers + class participation=50% Long paper=50%. Late papers penalized except for emergency."
+        }
+    ], 
+    "class_num": 12335, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "279-0"
+}

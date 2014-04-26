@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 2510, 
+    "subject": "MATH", 
+    "requirements": "Enrollment Requirements: Reserved for Math Methods in Social Sciences Students only", 
+    "title": "Econometrics for MMSS", 
+    "section": "81", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "81", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Scott Richard Ogawa", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L07", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Introductory Econometrics by Jeffrey Wooldridge; ISBN13:978-1111531041"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "second-year standing in MMSS."
+        }
+    ], 
+    "class_num": 23438, 
+    "attributes": null, 
+    "catalog_num": "386-1"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1767, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Expository Writing", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Dr. Jeanne Herrick, a sociolinguist, is a specialist in intercultural communication. After a career doing sales and marketing in the field of broadcasting for CBS, Dr. Herrick focused on the study of how people from different cultures and language backgrounds can communicate. She continues to conduct research in the area, and has extensive experience working with international students. She is also interested in the use of narrative as a way of making sense of our experiences and the world.  Professor Herrick also teaches in the Engineering Design and Communication Program, in conjunction with McCormick School of Engineering and Applied Science. In this program, she teaches project management, teamwork, and presentations skills, as well as both business and technical writing.  Jeanne loves gardening, traveling, dancing, kayaking in Puget Sound where she has a summer cottage, and is an avid Northwestern basketball fan.", 
+        "name": "Jeanne Herrick", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-315", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Registration for this course is not handled by the English department. Questions about this course should be directed to The Writing Program, Crowe Hall 2-178:  writing-program@northwestern.edu"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students will be graded on their progress as well as their proficiency in writing essays in English as demonstrated in three major papers and in-class writing exercises. This will account for 75% of students' course grade. The remaining 25% will be based on students' preparation for and participation in class discussions, writing workshops, and writing conferences."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class discussion, in-class writing exercises, writing workshops, and individual conferences with instructor."
+        }
+    ], 
+    "class_num": 23809, 
+    "attributes": null, 
+    "catalog_num": "105-0"
+}

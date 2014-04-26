@@ -1,0 +1,61 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 20931, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Economics of Gender", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "University Hall 122", 
+            "section": "21", 
+            "component": "DIS", 
+            "end_time": "11:50:00", 
+            "meeting_days": "Fr", 
+            "start_time": "11:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Hilarie Lieb", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2407", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Economics of Women, Men and Work (7th Edition) by Blau, Francine, Winkler and Ferber (ISBN: 978-0132992817)\nEconomics of Gender: Econ 342 Selected Chapters from Hoffman and Averett (Custom ISBN: 1269283790) -  from \"Women and the Economy: Family, Work and Pay\", 2nd Edition, 2010\nUnderstanding the Gender Gap by Claudia Goldin, 1990 (ISBN: 978-0195072709)\nAdditional readings will be available in a reader and/or online"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Two Examinations(one mid-term and one during exam week) @30% each\nProblem Sets                                                                                      15%\nClass Participation                                                                               5%\nLiterature Review and Analysis                                                       20%\n(note percentages are subject to change)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures/ in class group assignments/student presentations and discussion"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Each student will be responsible for a literature review on a topic of their choice, within a more general area.  The goal of this work will be to determine gaps in the literature and where a contribution(s) could potentially be made.  Student groups, based on topics within each more broadly defined area, will present their findings to the class."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Economics 310-1 and Economics 281"
+        }
+    ], 
+    "class_num": 34108, 
+    "attributes": null, 
+    "catalog_num": "342-0"
+}

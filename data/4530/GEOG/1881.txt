@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 1881, 
+    "subject": "GEOG", 
+    "requirements": null, 
+    "title": "World Biogeography", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "3:00 -4:30 Monday, Wednesday", 
+        "bio": null, 
+        "name": "John Crandall Hudson", 
+        "phone": "847/491-2855", 
+        "address": "1810  Hinman Ave."
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 24126, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "211-0"
+}

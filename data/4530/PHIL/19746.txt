@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 19746, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Paradoxes", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Frances Searle Building 1441", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Mo", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sean Christopher Ebels Duggan", 
+        "phone": "847/491-2553", 
+        "address": "Crowe 3-215"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 122", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Title: Paradoxes\nAuthor or editor: R.M. Sainsbury\nEdition and Publisher: 3rd Edition Cambridge\nISBN number: 978-0521720793"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Exercises, papers, and exams."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Interactive lecture & discussion sections"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1)Learn to formalize reasoning, and so to spot dodgy inferences.\n2)Learn to think creatively about formal methods of reasoning, appreciating their defects and proposing remedies.\n3)Discern whether, and which, paradoxes are important, by appreciating the contexts and programs that motivate their investigation."
+        }
+    ], 
+    "class_num": 33823, 
+    "attributes": "Formal Studies Distro Area\n\n", 
+    "catalog_num": "248-0"
+}

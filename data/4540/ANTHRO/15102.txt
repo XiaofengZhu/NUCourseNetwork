@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 15102, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "Human Growth & Development", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Erin B. Waxenbaum is a physical anthropologist with specialization in forensics, human variation, evolution and growth and development.   In addition to Anthropology faculty, Waxenbaum presently serves as a Research Associate at the Field Museum of Nautural History and the Forensic Anthropologist for the Cook County Medical Examiner's Office and DuPage, McHenry and Champaign County Coroner's offices.", 
+        "name": "Erin Beth Waxenbaum Dennison", 
+        "phone": "847/491-4818", 
+        "address": "1810 Hinman Ave., Room #A54B, EV Campus"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 32333, 
+    "attributes": "No P/N option for this section\n\nJuniors/Seniors Only\n\n", 
+    "catalog_num": "314-0"
+}

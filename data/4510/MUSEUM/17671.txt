@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 17671, 
+    "subject": "MUSEUM", 
+    "requirements": null, 
+    "title": "Successful Museum Management in Today's Environment", 
+    "section": "50", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-25", 
+    "end_date": "2013-08-27", 
+    "start_time": null, 
+    "component": "50", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 42113, 
+    "attributes": null, 
+    "catalog_num": "371-0"
+}

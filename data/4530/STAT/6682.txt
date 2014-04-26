@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6682, 
+    "subject": "STAT", 
+    "requirements": null, 
+    "title": "Introduction to Statistics", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Mohyeddin Kassar is a financial economist with more than fifteen years experience. He is currently vice president of research and analysis at Taqwa Trades, Inc., a financial research company. His expertise focuses on risk and financial analyses in the banking, credit card and insurance industries in such firms as Wachovia Bank, HSBC, Allstate, Energy Resource Center and SPSS.", 
+        "name": "Mohyeddin Kassar", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 121", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This class is designed to introduce students to basic statistics.  Data summarization, random variables, correlation, regression, probability, sampling, estimation, tests of significance, and two-sample comparisons are all topics that will be covered. The course does not require calculus and makes minimal use of formal mathematics.  However, basic review of mathematics may be helpful for clearer understanding of the topics.  The computer is used as a tool to enhance students' ability to analyze and interpret data collected.  All computer skills will be reinforced in class."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "STATISTICS F/BUSINESS+ECONOMICS-W/CD\nBy MCCLAVE\nEDITION:   12TH 14 \nPUBLISHER:   PEARSON\nISBN:   9780321826237"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1.  The use of Excel for data analysis. \n2. Defining,  summarizing, and presenting data. \n3. Using data for statistical inference to get general conclusions concerning a single variable relationship. \n4. Using data analysis to depict the relationship between more than one variable. \n5. Defining time series and studying the relationship between a variable and time."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "One year of basic high school mathematics and one year of basic high school algebra or equivalent.  Students should be able to comfortably draw and interpret graphs."
+        }
+    ], 
+    "class_num": 35096, 
+    "attributes": null, 
+    "catalog_num": "202-CN"
+}

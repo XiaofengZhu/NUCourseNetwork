@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 100, 
+    "course_id": 16002, 
+    "subject": "SESP", 
+    "requirements": null, 
+    "title": "Mentoring Learning in the STEM Disciplines", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Marina Micari", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "COURSE REQUIREMENTS\nThis is a one-credit course completed over the three quarters during one academic year (each quarter is a third of a credit). You are responsible for the following:\n\n1. Effectively facilitating all of your sessions, and completing and turning in attendance/problem evaluation forms on time (20 points).\n\n2. Attending \n\n3. Reading assigned articles and writing reaction papers (3 pages each) on reading sets II and III.  Your writing should indicate that you have engaged thoughtfully with each of the articles. (20 points per paper)\n\n4. Providing a thoughtful response to readings on research methods - see instructions under Readings below (10 points)\n\n5. Attending a small-group meeting on facilitating effectively. We will let you know how to sign up. (10 points).\n\n6. Actively participating in a group pilot research project, and attending all small-group project meetings. Group members will be asked to assign participation points to one another at the end of each quarter, and sr. facilitators will review these before they are submitted.  (20 points)\n\n7. Developing a well-designed and well-executed research project with your group, submitting the following as a group:\n\n8. Writing a 2- to 3-page individual project debrief report on the project. (10 points)"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All readings are available on the Blackboard site."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "A total of 200 points is possible. Course grades will be assigned as follows:\nA is 93-100% of total points.  \nA- is 90-92.9% of total points.  \nB is 83-89.9% of total points.  \nB- is 80-82.9% of total points.  \nC is 70-79.9% of total points.  \n\nNote: Course grades for fall and winter will initially appear as \"K,\" but will later change to the grade you earn for the entire course."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Our goal is to help you:\ngain practical facilitation skills;\nbecome familiar with, and critically engage with, learning theory and research, and bring this knowledge into your GSW mentoring; \ngain knowledge of the dynamics of small groups, and bring this knowledge into your GSW mentoring; \nbecome familiar with the process of conducting educational research, and begin to critically evaluate classroom practices through a research lens; and \nreflect on facilitation practice and develop self-evaluation skills."
+        }
+    ], 
+    "class_num": 23032, 
+    "attributes": null, 
+    "catalog_num": "291-1"
+}

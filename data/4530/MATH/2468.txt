@@ -1,0 +1,49 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 2468, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Mathematical Models in Finance", 
+    "section": "41", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 105", 
+            "section": "41A", 
+            "component": "DIS", 
+            "end_time": "10:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "10:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "41", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Elton Hsu is a Professor of Mathematics in the Department of Mathematics of Northwestern University. His main research interests are probability theory and stochastic analysis and their applications in pure and applied mathematics. He has taught financial mathematics at both undergraduate and graduate levels for many years.", 
+        "name": "Elton P Hsu", 
+        "phone": "8474918541", 
+        "address": "Lunt 205"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 105", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "\"Options, Futures, and Other Derivatives\"\nAuthor: J.C. Hull\nPublisher: Pearson Prentice Hall\nISBN: 0-13-149908-4"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Calculus, linear algebra, probability, all at undergraduate level"
+        }
+    ], 
+    "class_num": 23807, 
+    "attributes": null, 
+    "catalog_num": "366-1"
+}

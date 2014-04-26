@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 59, 
+    "course_id": 6983, 
+    "subject": "LAWSTUDY", 
+    "requirements": null, 
+    "title": "Jurisprudence", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Anthony A D'Amato", 
+        "phone": "312/503-8474", 
+        "address": "311, 265"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30091, 
+    "attributes": "Open to First Year Students\n\nPerspective Elective\n\nLaw and Philosophy\n\nInterdisciplinary Studies present in course\n\n", 
+    "catalog_num": "601"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 16043, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Disease Prevention and Health Promotion: Principles and Application", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Arthur B Elster", 
+        "phone": "312/467-1697", 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "The selected readings will be posted on the course's Blackboard site."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, students will be expected to:\n1.\tDemonstrate an ability to evaluate research literature in health promotion & disease prevention by both actively participating in class discussions and effectively leading a class discussion on one of the course topics \n2.\tDescribe the conceptual framework and strategies for disease prevention & health promotion and how these apply to key national health objectives and contemporary issues in the news, as well as how these principles are promoted by the recent health reform legislation \n3.\tDistinguish the similarities and differences between clinical and community (population) preventive interventions and their value to individuals, institutions, and society\n4.\tDescribe the role of federal agencies in disease prevention and health promotion and know how to access data sets produced by these agencies\n5.\tSynthesize information learned from the class to develop a community-based preventive intervention strategic plan that addresses a major health problem"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Class size will be limited to 7-12 students.\n\nDepartment consent required (permission number)"
+        }
+    ], 
+    "class_num": 13494, 
+    "attributes": null, 
+    "catalog_num": "415-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 115, 
+    "course_id": 18558, 
+    "subject": "ISEN", 
+    "requirements": null, 
+    "title": "Introduction to Energy Systems for the 21st Century", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Yip-Wah Chung", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G15", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "TA Office Hours will be available each week."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Textbook: \"Sustainable Energy without the Hot Air\" by David MacKay\nDownloadable free of charge from www.withouthotair.com/\n\nOther readings will be posted to Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "(A: 84% and greater; B: between 73% and 84)<br /><br />\n\nGroup Project:<br />\n Assemble a team of 3-4 members among your classmates; any reasonable energy topic is acceptable:<br/>\n\n<em>Example 1:</em> You have the attention of (President Shapiro, the Mayor of Evanston, Energy<br />\nSecretary Chu, etc) for 15 minutes<br />\n<em>Example 2: </em>Top ten things to do, or not to do, about energy<br />\n<em>Example 3: </em>Why is (solar, wind, geothermal, nuclear, etc.) the salvation for human civilization, or not?<br />\n<em>Example 4: </em>New technologies on the horizon (solar, wind, lithium-ion batteries, etc)<br />\n\n**<br />\n\nPoster presentations will be accompanied by a short (6- to 8-page) paper, citing all references."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "While this course will address many technical and scientific aspects of energy, no prerequisite technical courses are required.  \n\nISEN is committed to interdisciplinary education, making the spectrum of topics within the field of Energy & Sustainability accessible to any interested student at Northwestern."
+        }
+    ], 
+    "class_num": 26464, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "220-0"
+}

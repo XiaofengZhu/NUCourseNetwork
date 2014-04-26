@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 1444, 
+    "subject": "HUM", 
+    "requirements": null, 
+    "title": "Topics in the Humanities", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kathryn Sydney Evans", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Thomas Browne,<em> Hydriotaphia, or Urn-Burial</em> (ISBN 076616263X)\nJohn Donne, <em>Devotions upon Emergent Occasions and Death's Duel</em> (ISBN 0375705481)\nWilliam Shakespeare, <em>Hamlet,</em> Arden, 3d series (ISBN 1904271332)\nWilliam Shakespeare, <em>King Lear,</em> Arden, 3d series (ISBN 1903436591)\n\n Books will be available for purchase at Beck's Books. \n Course reader available at Quartet Copies."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class participation, short online writing assignments, midterm paper and final paper."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture, discussion"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students of this course will: \n Gain familiarity with a crucial chapter in the western history of religion, literature, culture, and affect; \n Use psychoanalytic theory as an interpretive lens through which to consider historical texts; \n Evaluate the ways in which psychoanalytic paradigms may apply to cultures that predate its invention; \n  Construct arguments that draw on both theoretical and literary texts to provide insight into early modern beliefs, practices, and cultures."
+        }
+    ], 
+    "class_num": 24153, 
+    "attributes": null, 
+    "catalog_num": "301-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6734, 
+    "subject": "COMM_ST", 
+    "requirements": null, 
+    "title": "Theories of Mediated Communication", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Quaquilla Walker is a student-focused instructor who has taught/lectured in university courses since 1992. She has previously taught this course as well as  courses in business computers,  organizational communication, and  graduate level mediated communication theory.  She received her PhD from Northwestern University in Communication Studies in 2002 with a focus on technology.  Her dissertation was on Advertising and the Internet, with current research interests in international communication. Dr. Walker stays current with communication studies course topics by participating in the annual NCA Faculty Development Seminar; has additional experience working in start ups, non profits, and corporate management; and is presently an independent business consultant.", 
+        "name": "Quaquilla Rhea Walker", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Kresge Centennial Hall 2-410", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "I really expect my students to learn, participate and be able to apply course concepts in their daily lives. I understand that my students are adults with other priorities such as family and work, and I  expect to accommodate them within reason.  With both of these expectations, I invite students to keep me informed of their difficulties in completing course work so that I can be of support in their successfully completing the course with the best possible grade."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The readings will likely be based on the following text:\n\nCampbell, R., Martin, C., & Fabos, B. 2013. Media and Culture: and introduction to mass communication. Boston & New York, Bedford/St. Martin's."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The learning objectives of this course are: exploring/applying theories of mediated communication; understanding the history/development of mass media; using/learning the critical literacy process to help understand mass media; identifying/discussing the changes that the internet has caused in mass media especially with convergence. The student will learn to be a critical thinker about the mass media in their everyday cultural lives."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Student needs to be able to write a short, well-organized research paper. Although not required, it is beneficial to be internet literate."
+        }
+    ], 
+    "class_num": 38670, 
+    "attributes": null, 
+    "catalog_num": "270-CN"
+}

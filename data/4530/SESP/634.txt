@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 634, 
+    "subject": "SESP", 
+    "requirements": null, 
+    "title": "Human Development: Childhood and Adolescence", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Alexis Re Lauricella", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall 303", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "The goal of this course is to provide you with a foundation in human development and to introduce you to major theories, research methods, research findings, and applications of development. We will cover the period of conception and prenatal development through the end of adolescence, looking at physical, perceptual, motor, cognitive, language, social, and emotional domains of development. We will look at what changes in development and how and why these changes are thought to occur. You will learn what it means to think developmentally about both children and adults. The course will cover normative development (what are the typical changes that occur for children) and individual differences (how do children differ from one another and why).  \n\nIn this course, you will learn to read and evaluate research on child development in professional journals and as presented in the media. We will also discuss the application of knowledge about development to areas of education, social policy, and working with children who have special needs. You will have the opportunity to observe and interact with young children during and outside of class."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Berk, L.E. (2010).  Development Through the Lifespan, 5th Ed., Boston, Allyn & Bacon. My Virtual Child \nSelected journal articles (available on Blackboard)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The active learning projects are worth a total of 40% of your grade, and class attendance and participation in class projects is worth 15%. The mid-term exam is worth 20%, and the final exams will account for the remaining 25% of your grade. Exam questions will consist of multiple choice, short answer, and essay questions. Materials from the text, assigned readings, and lectures will all be included. The lectures will not be fully redundant with the text, so expect questions that derive from material presented in class or from material in the readings that was not covered in class."
+        }
+    ], 
+    "class_num": 23020, 
+    "attributes": null, 
+    "catalog_num": "201-0"
+}

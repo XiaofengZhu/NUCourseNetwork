@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18414, 
+    "subject": "JOUR", 
+    "requirements": null, 
+    "title": "Advanced Public Affairs", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-02-08", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Timothy J McNulty", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "View Class Details for Room", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35206, 
+    "attributes": null, 
+    "catalog_num": "421-2"
+}

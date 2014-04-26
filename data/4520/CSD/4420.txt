@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 4420, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Anatomy and Physiology of the Vocal Mechanism", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Frances Searle Building 3220", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Charles Larson", 
+        "phone": "847/491-3066", 
+        "address": "Room 3-247, 2240 Campus Drive, Evanston campus"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Zemlin, W.  Speech and Hearing Science, Prentice Hall., 1998.\nISBN:0-13-837437-1"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There are two midterm examinations, a laboratory final exam and a course final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The course is primarily lecture, however, questions and discussion of various issues is encouraged."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "NONE"
+        }
+    ], 
+    "class_num": 14896, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "301-0"
+}

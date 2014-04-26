@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1999, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Speaking as Discovery: Exploring Standpoints, Developing Arguments, Expressing Points of View", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Mon 1-2 pm and Wed 2-3 pm and by appointment", 
+        "bio": "Franziska Lys (PhD Northwestern University) works in the area of second language acquisition and computer assisted language instruction and learning.  She is the author of several textbooks and scholarly articles; has produced four films; and has developed interactive online learning environments for teaching language. For her work, she has received grants from Northwestern and from national and international organizations in Switzerland, Lichtenstein, and in the Federal Republic of Germany. You can contact Franziska Lys at: flys@northwestern.edu or visit her personal website for more information.", 
+        "name": "Franziska B Lys", 
+        "phone": "8474918298", 
+        "address": "Crowe Hall 2-101"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "-Attendance, class participation and regular homework assignments (25 %)\n-Three short written quizzes testing vocabulary and content of material (20 %)\n-Oral quizzes (35%)\n-Final presentation (20 %)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "This course will focus on a student-centered approach with emphasis on class discussion, individual oral presentations, and smaller group projects. It is imperative that you prepare for each class thoroughly, review vocabulary and prepare for discussions.   The better you are prepared the more lively the discussions. You are asked to pay close attention to what is being said in class and then try to build on the words used."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "- To feel more confident to participate actively in small group and class discussions on a variety of topics that include personal as well as public themes.\n- To have better expressive skills to be able to communicate ideas clearly, fluently, and meaningfully, especially on topics discussed and practiced in class, but also on topics not practiced before.\n- To increase language skills in fluency, breadth of vocabulary, accuracy of expression, and complexity.\n- To develop an awareness and knowledge of current cultural and political events in Germany and Europe."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "High Intermediate skills in listening, reading, and speaking.  Taught in German"
+        }
+    ], 
+    "class_num": 16774, 
+    "attributes": null, 
+    "catalog_num": "303-0"
+}

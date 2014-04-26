@@ -1,0 +1,60 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 1531, 
+    "subject": "LATIN", 
+    "requirements": null, 
+    "title": "Introduction to Latin Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 12-2  pm (and by appointment)", 
+        "bio": null, 
+        "name": "Francesca Tataranni", 
+        "phone": "847/491-8029", 
+        "address": "Kresge 1-555"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "For all students beginning the study of Latin at the 200-level or lower at Northwestern in September, 2002 or later, the WCAS foreign language requirement must be satisfied with a grade of C- or better in Latin 201-3.\n\nNo P/N"
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Recommended: Allen and Greenough's New Latin Grammar, by Anne Mahoney (Focus Publ./R. Pullins Co. 2001) - ISBN-13: 978-1585100279"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required: \nB. Weiden Boyd, Vergil's Aeneid. Selections from books 1, 2, 4, 6, 10, and 12 (Bolchazy-Carducci 2004) - ISBN-13: 978-0865165847; \nThe Aeneid of Virgil. A verse translation by A. Mandelbaum (Bantam Classics/ Mass Market Paperback 1981) - ISBN-13: 978-0553210415"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance, class participation, midterm exam, final exam, homework, quizzes"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class participation; discussion; weekly lectures; readings"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "In connection with further developing their reading skills through close examination of increasingly lengthy and more challenging unadapted works of classical authors, students are expected to develop an interest and familiarity with the cultural and historical background of classical antiquity and gain a full appreciation of the meaning of  Latin literary culture to the culture of the western world."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": ": Latin 201-1 or by placement test. Students who have studied Latin prior to Northwestern must take the online Latin placement exam. For further information see the director of Latin instruction Francesca Tataranni in the Dept. of Classics or visit http://www.classics.northwestern.edu/undergraduate/language_placement.htm"
+        }
+    ], 
+    "class_num": 23336, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "201-2"
+}

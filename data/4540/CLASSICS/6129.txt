@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 6129, 
+    "subject": "CLASSICS", 
+    "requirements": null, 
+    "title": "Classical Mythology", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "09:00:00", 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "B.A. Honors, University College, Dublin, Ireland,  Near Eastern / Semitic Languages\nM.A., Ph.D., Northwestern University, Classics : [Greek and Latin Languages and Literature]\nTeaching currently :   The Departments of Classics / Classical Studies\nThe School of Continuing Studies, Northwestern University\nThe Summer School, Northwestern University\nLoyola University Chicago,  DePaul University of Chicago", 
+        "name": "Edith Pennoyer Livermore", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "Wieboldt Hall 507", 
+    "end_time": "16:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "We shall also be investigating the work of contemporary mythmakers in such films as Joseph Campbell's series \"The Power of Myth\", \"The Making of Star Wars\", and \"In Search of the Trojan War\", as well as other documentaries about ancient Greek and Roman history, ritual, drama, and daily life.."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Greek Myth\nBy Barry Powell, Upper Saddle River, New Jersey : Pearson / Prentiss Hall, 2012 ISBN 9780205176076"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. To develop familiarity with the vocabulary and terminology employed in the study of Classical Myth,\nincluding a friendly acquaintance with the Greek and Latin in which they were written\n2. To become conversant concerning the myriad seminal divinities and entities of the Ancients\n3. To be able to tell the Stories and enter into that milieu of story-telling, with its panoply of variety\n4. To grasp the fundaments of the cultural and historical milieu which birthed these stories\n5. To come to understand the use of \"mythic paradigms\" as teaching tools in many a modern situation\n6. To grow in sensitivity towards the sacred in these stories \nas a means of explaining the forces of inexplicable\n7. To acquire specific tools in the close and respectful reading of classical Texts, \nand in engaging with the body of scholarly research honoring them"
+        }
+    ], 
+    "class_num": 38667, 
+    "attributes": null, 
+    "catalog_num": "260-CN"
+}

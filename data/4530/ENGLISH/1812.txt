@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 1812, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Special Topics in Shakespeare", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Michael Slater is an advanced doctoral student in English, focusing primarily on early modern British literature.  His dissertation project examines connections between shifting modes of representation in the late-sixteenth and seventeenth centuries and shifting scientific conceptions of the physical world.  He is interested in the history of science and literature from Shakespeare to Milton.", 
+        "name": "Michael Derick Slater", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L06", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Romeo and Juliet, Julius Caesar, Hamlet, Othello, King Lear, and Macbeth, as well as various film versions to be streamed through Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Two papers, regular discussion board postings, and class participation."
+        }
+    ], 
+    "class_num": 34006, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "339-0"
+}

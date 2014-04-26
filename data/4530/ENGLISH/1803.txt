@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 1803, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in Medieval Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Barbara Jane Newman", 
+        "phone": "847/491-5679", 
+        "address": "University Hall 215"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 222", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Beowulf, trans. Seamus Heaney;\nChaucer, Canterbury Tales;\nSir Gawain and the Green Knight, trans. Marie Boroff and ed. Laura Howes (Norton Critical Edition);\nChrtien de Troyes, Perceval, trans. Ruth Harwood Cline;\nRobert de Boron, Merlin and the Grail, trans. Nigel Bryant;\nSir Thomas Malory, Le Morte D'Arthur, ed. William Caxton, Vol. 2.\n\nPlease buy only these editions and translations."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Active participation in class plus three 5- to 7-page papers (which will include creative options); each is worth 25% of your grade."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture, discussion."
+        }
+    ], 
+    "class_num": 34052, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "324-0"
+}

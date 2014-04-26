@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18306, 
+    "subject": "LIT", 
+    "requirements": "Enrollment Requirements: Reserved for School of Continuing Studies MALS, MLIT, MFA and MCW Students Only", 
+    "title": "Special Topics", 
+    "section": "50", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-13", 
+    "start_time": null, 
+    "component": "50", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Bill Savage wrote his doctoral dissertation at Northwestern on material culture, hermeneutics and the literary reputation of Nelson Algren; he has taught classes on Chicago writers at Northwestern and the Newberry Library of Chicago for more than fifteen years.  Savage co-edited two editions of Algren's work (the 50th Anniversary Critical Edition of  The Man with the Golden Arm and the Annotated Edition of Chicago: City on the Make) and has published on Algren in scholarly and popular venues.  Besides his position as Senior Lecturer in the English Department, he works as a College Adviser in NU's Weinberg College of Arts and Sciences, and is a Series Editor for the University of Chicago's Chicago Visions + Revisions, a series of nonfiction books about Chicago.  He is a lifelong resident of Chicago's Rogers Park neighborhood, but thinks the South Side is under-rated.", 
+        "name": "William J Savage", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 17303, 
+    "attributes": null, 
+    "catalog_num": "492-0"
+}

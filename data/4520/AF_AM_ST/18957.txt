@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18957, 
+    "subject": "AF_AM_ST", 
+    "requirements": null, 
+    "title": "Racism in Western Modernity", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Herman Barnor Hesse", 
+        "phone": "8474913775", 
+        "address": "1860 Campus Dr Crowe 5-131"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Sara Ahmed (2012) On Being Included - Racism and Diversity in Institutional Life, Duke University press.\nEduardo Bonilla-Silva (2010) Racism without Racists - Color-Blind Racism and Racial Equality in Contemporary America, US: Rowman and Littlefield Publishers.\nMarilyn Lake and Henry Reynolds (2008) Drawing the Global Colour Line - White Men's Countries and the International Challenge of Racial Equality, Cambridge University Press\nAudrey Smedley (2007) Race in North America - Origin and Evolution of a Worldview, US: Westview press."
+        }
+    ], 
+    "class_num": 12607, 
+    "attributes": null, 
+    "catalog_num": "363-0"
+}

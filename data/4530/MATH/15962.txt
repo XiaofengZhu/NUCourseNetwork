@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 15962, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Integral Calculus of One Variable Functions", 
+    "section": "14", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "14", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Robert Nendorf is currently a Ph.D. student of mathematics at Northwestern University in the field of stable homotopy theory. He received a Masters in mathematics in 2007, also from NU, and a Bachelors in mathematics from Western Michigan University. He has taught for over six years as both a graduate assistant and full instructor, receiving multiple awards for teaching excellence from both institutions. He has a wide array of interests outside of mathematics including entrepeneurship, brewing and certain martial arts.", 
+        "name": "Robert Andrew Nendorf", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 721", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "MATH 220 or equivalent."
+        }
+    ], 
+    "class_num": 35068, 
+    "attributes": null, 
+    "catalog_num": "224-CN"
+}

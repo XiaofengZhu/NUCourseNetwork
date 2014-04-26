@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 18599, 
+    "subject": "MPPA", 
+    "requirements": "Enrollment Requirements: MPPA-DL STUDENTS ONLY", 
+    "title": "The Global City", 
+    "section": "55", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-09-01", 
+    "start_time": null, 
+    "component": "55", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Stephen Glenn Harding", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41577, 
+    "attributes": null, 
+    "catalog_num": "452-DL"
+}

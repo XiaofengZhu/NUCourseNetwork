@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 18747, 
+    "subject": "LATINO", 
+    "requirements": null, 
+    "title": "Topics in Latina and Latino History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wed, 10am-11am", 
+        "bio": null, 
+        "name": "Mike Amezcua", 
+        "phone": "847/467-3562", 
+        "address": "Kresge Hall 1-245"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Dian Milion, Therapeutic Nations: Healing in an Age of Indigenous Human Rights\n\nMark Rifkin, When Did Indians Become Straight: Kinship, the History of Sexuality, and Native Sovereignty\n\nOther readings to be announced"
+        }
+    ], 
+    "class_num": 32689, 
+    "attributes": "Historical Studies Distro Area\n\n", 
+    "catalog_num": "391-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "Contact the department for further information", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 3662, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Senior Project", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Specialist in Renaissance and baroque musical-cultural relations, gender and feminist theory, European iconography, music as related to visual art and the early history of science. Recipient of major fellowships and research grants, including American Council of Learned Societies, British Academy, Mary Ingraham Bunting Institute (Radcliffe College/Harvard University), and National Endowment for the Humanities. Author, Music in English Children's Drama of the Later Renaissance (Gordon and Breach, 1992), Music in English Life and Thought 1550-1650 (forthcoming); editor, Music, Sensation and Sensuality (Routledge, 2002), editor, Music and the Sirens (Indiana University Press, 2006). Author of numerous articles and reviews in books and such journals as Journal of the American Musicological Society, Modern Philology, Music and Letters, and Renaissance Quarterly.", 
+        "name": "Linda P Austern", 
+        "phone": "847/491-5705", 
+        "address": "l-austern@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22554, 
+    "attributes": "Jrs, Srs, Grad Students Only\n\n", 
+    "catalog_num": "385-0"
+}

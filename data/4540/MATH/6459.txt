@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6459, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Linear Algebra II: Second Course", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sandy L Zabell", 
+        "phone": "8474915564", 
+        "address": "Lunt 227"
+    }, 
+    "term": "2014 Spring", 
+    "room": "Lunt Hall 105", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Lang, Serge,  Linear Algebra, 3rd edition, New York, Springer, 2004.  ISBN  0-387-96412-6"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The basic definitions, theorems, and computational techniques of modern abstract linear algebra."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MATH 240, MATH 300, or equivalents."
+        }
+    ], 
+    "class_num": 38705, 
+    "attributes": null, 
+    "catalog_num": "334-CN"
+}

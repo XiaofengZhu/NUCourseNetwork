@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 18649, 
+    "subject": "LATINO", 
+    "requirements": null, 
+    "title": "Topics in Latina and Latino Text and Representation", 
+    "section": "34", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "34", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jose Luis Reynoso", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "RECOMMENDED\n\nAudible Traces: Gender, Identity and Music, Edited by Elaine Barkin and Lydia Hammessley\tISBN 3-905323-00-1\n\n\tSpecify all materials required to participate in this class (e.g., books, course packs, dictionaries, computer, film, etc.)\n\tSpecify the name of the textbooks required for this course\n\tSpecify the ISBN number for each of the textbooks\n\tSpecify a list of other recommended supplemental material"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "REQUIRED\n\nListening to Salsa: Gender, Latin Music, and Puerto Rican Popular Cultures by Frances Aparicio \tISBN 0819553069\nDissonant Divas in Chicana Music: The Limits of La Onda by Deborah Vargas \t\t\tISBN 978-0-8166-7316-2\nQueering the Popular Pitch, Edited by Sheila Whiteley and Jennifer Rycenga \t\t\tISBN 041597805X\nThe Mexican Corrido: A Feminist Analysis by Maria Herrera Sobek\t\t\t\tISBN 0253327393"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Analyze the ways gender, race, class, sexuality, and nation inform the production, performance and consumption of music. \n Interrogate how musical and social practices in Latina/o music genres produce and contest heteronormative histories. \n Utilize \"queer\" as an analytic as well as acknowledge is identity dimensions.\n Critically listen to, research and write about musical performance as a historically situated and culturally contingent practice."
+        }
+    ], 
+    "class_num": 33118, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "393-0"
+}

@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 300, 
+    "course_id": 1646, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Introduction to Macroeconomics", 
+    "section": "60", 
+    "coursecomponent_set": [
+        {
+            "room": "Swift Hall 107", 
+            "section": "61", 
+            "component": "DIS", 
+            "end_time": "13:50:00", 
+            "meeting_days": "Mo", 
+            "start_time": "13:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "60", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David William Berger", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Leverone Auditorium Owen Coon", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "<i>Macroeconomics</i> by Krugman and Wells, 3rd Edition (ISBN: 978-1429283434)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades are determined by weekly quizzes, 2 midterms and a final.  (grading breakdown: first midterm 15%, second midterm 30%, final 45%, and weekly quizzes 10%)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures, TA section."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "High school algebra."
+        }
+    ], 
+    "class_num": 23340, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "201-0"
+}

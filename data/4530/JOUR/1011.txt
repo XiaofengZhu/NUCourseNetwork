@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 1011, 
+    "subject": "JOUR", 
+    "requirements": null, 
+    "title": "Business Reporting", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": "WeTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joseph D Mathewson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "MSJ Program Only; prerequisites: Journalism Methods; Q2 requirement course."
+        }
+    ], 
+    "class_num": 22067, 
+    "attributes": null, 
+    "catalog_num": "423-1"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 15573, 
+    "subject": "HDPS", 
+    "requirements": null, 
+    "title": "Introduction to Psychological Services", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Miriam Klevan", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall 345", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Danquah, Meri Nana-Ama, Willow Weep for Me; A Black Woman's Journey Through Depression, New York: The Ballantine Publishing Group,1999.\n\nJamison, Kay Redfield, An Unquiet Mind: A Memoir of Moods and Madness, New York: Knopf Doubleday Publishing Group, 1997. \n\nRabinowitz, I., Inside Therapy: Illuminating Writings About Therapists, Patients and Psychotherapy,  New York:  St. Martin's Press, 2000.\n\nSchiller, Lori and Amanda Bennett, The Quiet Room: A Journey Out of The Torment of Madness,Warner Books, 1996.\n\nYalom, I., Love's Executioner & Other Tales, New York:  HarperCollins, 1989. \n\nIn addition, there is course packet compiled of articles or \"excerpts\" that will be required reading. This must be purchased for from Quartet Copies. Supplemental required readings may be posted on Blackboard; they will be announced in advance."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "1. Unexcused absences from class will result in a loss of attendance points. An attendance record will be kept. You can avoid a loss of these points by notifying either Dr. Klevan of your absence and the reason prior to class. \n\t\t\t\t\t\t\t\t\n2. Participation in class discussions and in-class activities will be noted. This is an opportunity for you to indicate your familiarity with the reading  assignments. This in conjunction with attendance will count for 15% of your final grade. \n\n3. There will be 3 scheduled quizzes. The lowest grade will be dropped. Each remaining will count for 10% of your final grade.  \n\n4. There will be 2 assignments, each counting for 15% of your final grade, and a final exam which will count for 35%. Assignments are to be uploaded to Blackboard or turned in at the beginning of class on the day they are due. Assignments turned in late will be penalized a letter grade.\n\nSummary of Grading Percentages:\nQuiz 1:\t 10\nQuiz 2:\t 10\nAssignment 1: 15\nAssignment 2:\t15\nAttendance: 15\nFinal Exam: 35"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To increase your knowledge of the careers, training, sites, and patient/client populations in the area of psychological services.\t\t\t\t\t\t\t\t\t\t\t\t\nTo give you an appreciation of the relatively short history of current mental health care through \"real\" case histories and classic essays.\n\nTo stimulate and provoke an open mind about how we define, treat, and relate to mental illness/problems in the psychological services.  I want you to have informed opinions about these issues and consider the question, how is it that people do change in psychotherapy?\t      \n\nTo expose you to some counseling fundamentals and a few of the most common mental disorders. \n\nTo give you a sense of whether this is a field you might want to pursue or to have you realize this field is not a good fit (either result would be a success)."
+        }
+    ], 
+    "class_num": 35167, 
+    "attributes": null, 
+    "catalog_num": "201-0"
+}

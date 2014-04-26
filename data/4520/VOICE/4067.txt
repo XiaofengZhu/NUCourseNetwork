@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 4067, 
+    "subject": "VOICE", 
+    "requirements": null, 
+    "title": "Phonetics and Diction", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "varies", 
+        "bio": null, 
+        "name": "Richard L Boldrey", 
+        "phone": "847/467-1963", 
+        "address": "711 Elgin Road, Evanston, IL"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 14034, 
+    "attributes": null, 
+    "catalog_num": "111-1"
+}

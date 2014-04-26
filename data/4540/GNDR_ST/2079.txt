@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 2079, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "United States Gay and Lesbian History", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lane Fenrich", 
+        "phone": "8474917560", 
+        "address": "1922 Sheridan Rd."
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32801, 
+    "attributes": "Historical Studies Distro Area\n\nAttendance at 1st class mandatory\n\nRegistration for discussion section required\n\n", 
+    "catalog_num": "324-0"
+}

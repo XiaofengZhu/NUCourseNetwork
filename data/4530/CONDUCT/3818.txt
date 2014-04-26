@@ -1,0 +1,31 @@
+{
+    "overview": "<Element DESCRAREA_VALUE at 1c8be60>", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 3818, 
+    "subject": "CONDUCT", 
+    "requirements": "Enrollment Requirements: Registration is reserved for Music Majors Only", 
+    "title": "Contemporary Music Ensemble for Music Majors", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Tim Robblee", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Regenstein Hall of Music 011", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22223, 
+    "attributes": null, 
+    "catalog_num": "378-0"
+}

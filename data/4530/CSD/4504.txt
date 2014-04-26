@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 4504, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Development and Disorders of Mathematics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Steven G Zecker", 
+        "phone": "847/491-2477", 
+        "address": "2240 Campus Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2407", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "None"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texbook and course reader"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Upon successful completion of all course requirements, students will:<ol>\n<li>understand the different paradigms that have been utilized in research in math L.D.</li>\n<li>understand the relation between normal and atypical cognitive development and mathematics achievement</li>\n<li>know the various types of mathematics curricula commonly in use today, and their strengths and weaknesses</li>\n<li>be able to administer, score, and interpret several commonly utilized standardized tests of mathematics</li>\n<li>be able to conduct error analyses on a range of formal and informal mathematics tests</li>\n<li>be able to identify, determine underlying causes of, and provide appropriate remedial approaches for math fact deficits, difficulties in solving math story problems, and problems involving time and money</li>\n<li>be able to select appropriate manipulatives and utilize them effectively in teaching math concepts</li>\n<li>understand the role linguistic factors play in math achievement, and be able to utilize this information in planning appropriate remedial activities </li>\n<li>understand gender, cultural, and social factors that may impact on the math achievement of some individuals.</li>\n</ol>"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 21559, 
+    "attributes": null, 
+    "catalog_num": "444-0"
+}

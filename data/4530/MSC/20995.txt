@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 20995, 
+    "subject": "MSC", 
+    "requirements": null, 
+    "title": "Visual Communication", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-11", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tuesday & Wednesday 10 AM - 12 PM", 
+        "bio": null, 
+        "name": "Eric Adrian Patrick", 
+        "phone": "847/491-4229", 
+        "address": "AMS 307"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2370", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35256, 
+    "attributes": null, 
+    "catalog_num": "533-0"
+}

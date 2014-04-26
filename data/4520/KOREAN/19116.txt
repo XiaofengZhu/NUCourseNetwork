@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 19116, 
+    "subject": "KOREAN", 
+    "requirements": "Enrollment Requirements: PRE-REQ: Students must have taken or currently be enrolled in Korean 121-3 or 125-3, or have the consent of the instructor.", 
+    "title": "Korean III: Introduction to Korean Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesday 12:00-1:00", 
+        "bio": null, 
+        "name": "Eunmi Lee", 
+        "phone": "8474671323", 
+        "address": "4-370 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Instructor's reading packet should be purchased at Quartet Digital Printing. Students will read the original material in Korean, not translated.   Selection of literature was made to reflect the chronology of Korean literature from the late Chosun dynasty and Japanese occupation to the Korean war, pre-democratic society, and contemporary era."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Pre-reading assignment, Post-reading essay, vocabulary quiz, short story writing, attendance and participation"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Reading the material prior to class and doing the pre-reading assignment is essential for this class. There will be extensive writing components such as writing a review essay after finishing each story and producing one's own creative short story as a final project."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Successful completion of KOR 125-3 (Korean II Accelerated) or instructor's permission"
+        }
+    ], 
+    "class_num": 12811, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "215-1"
+}

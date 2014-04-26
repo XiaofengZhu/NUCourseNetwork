@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 1871, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in Contemporary Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Harris Matthew Feinsod", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Allison Residential Comm 1021", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Poetry in English may include selections, volumes, essays and manifesti by William Carlos Williams, Langston Hughes, Claude MacKay, Mary Austin, D.H Lawrence, Ezra Pound, Wallace Stevens, Hart Crane, Mina Loy, Melvin Tolson, Muriel Rukeyser, and Kamau Brathwaite. Comparative interlocutors will include Vicente Huidobro, Oswaldo de Andrade, Oliverio Girondo, Pablo Neruda, and Aim Cesaire. We will also read Criticism by Paz, de Campos, Glissant, Jameson, Edwards, Ramazani, Perloff and others."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission of department required"
+        }
+    ], 
+    "class_num": 34036, 
+    "attributes": null, 
+    "catalog_num": "461-0"
+}

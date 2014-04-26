@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 17821, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Race, Gender, and Sexuality", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Darlene C Hine", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\t\nA coursepack of theoretical and experiential readings will be available for purchase at Quartet Copies.\nBooks to be determined, will be sold in class the first day by Women and Children First."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Course requirements include short reflective papers, oral presentations, a take-home midterm essay exam, and a 7-8 page final paper project with contextual research."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar"
+        }
+    ], 
+    "class_num": 34160, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "382-0"
+}

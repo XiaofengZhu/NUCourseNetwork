@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6309, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "European Civilization II", 
+    "section": "66", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "66", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Susanna Calkins received her Ph.D. in European History from Purdue University, focusing on the cultural and gender history of early modern England, with a sub-specialty in modern European history. She has published approximately 25 articles in peer-reviewed journals in the fields of English history, the history of higher education, and  teaching and learning in higher education.  Currently, she serves as an associate director at Northwestern's Searle Center for Teaching Excellence, and is co-author of the book The Reflective Professional, Learning and Teaching in Higher Education (Sage, 2009).", 
+        "name": "Susanna C. Calkins", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L06", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Most of the primary sources will come from Wiesner, Ruff, and Wheeler, Discovering the Western Past (ISBN-13 978-0-618-83419); McKay, A history of western society, 9th edition.\n\n7-10 articles will be placed on blackboard, as well as other materials (film clips, relevant handouts)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students should be able to: analyze a wide range of primary sources (contemporary letters, first person narratives, images, ballads, news reports etc); evaluate the strengths and weaknesses of published secondary sources (e.g. journal articles and book chapters); evaluate multiple points of view on a given subject; synthesize ideas and concepts drawing from a range of evidence; collaborate with peers  to lead a short discussion, and communicate (and, at times, debate) their perspective through short written assignments, on exams, and during class."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 35056, 
+    "attributes": null, 
+    "catalog_num": "201-B"
+}

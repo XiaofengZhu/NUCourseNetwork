@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2369, 
+    "subject": "JAPANESE", 
+    "requirements": null, 
+    "title": "Japanese III", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Noriko Taira Yasohama", 
+        "phone": "8474671986", 
+        "address": "4-354 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Makino, S. & Tsutsui, M. (1995). A Dictionary of Intermediate Japanese Grammar. Tokyo: The \n\tJapan Times. ISBN978-4-7890-0775-8\nNakamura & Yoshida. (1996). Kodansha's Furigana English-Japanese dictionary. Tokyo: Kodansha \n\tInternational. (ISBN: 9784770027511)\nNakamura & Yoshida. (1995). Kodansha's Furigana Japanese-English dictionary. Tokyo: Kodansha \n\tInternational. (ISBN: 978-4-7700-2750-4)\nKano, et. al. (1989). Basic Kanji Book vol.1. Tokyo: Bonjinsha. (ISBN: 978-4-8935-8091-7)\n\nKano, et. al. (1993). Intermediate Kanji Book vol.1. Tokyo: Bonjinsha. (ISBN: 978-4-8935-8356-7)"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Miura, A. & Hanaoka McGloin, N. (2008). An Integrated Approach to Intermediate Japanese. \n\tTokyo: The Japan Times. ISBN978-4-7890-1307-9.\nMiura, A. & Hanaoka McGloin, N. (2008). An Integrated Approach to Intermediate Japanese \n\tWorkbook. Tokyo: The Japan Times. ISBN978-4-7890-1308-6.\nKano, et.al. (1989). Basic Kanji Book, Vol.2. Tokyo: Bonjinsha. ISBN978-4-8935-8119-8\n\nKodansha. (2002). Kodansha's Essential Kanji Dictionary. Tokyo: Kodansha International. \n\tISBN978-4-7700-2891-1"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Weekly quizzes and tests, assignments, oral and written examinations, essays, a project, class participation and performance."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "This course is conducted in Japanese and most class hours are spent on discussions.\n\nA short review of grammar is given in class; however, the students must practice grammar patterns on their own with the textbook, the workbook, and dictionaries. Reading and writing skills are developed through various assignments.\n\nReading materials in the textbook and TV dramas are used for developing skills to describe and summarize stories as well as for discussions on Japanese social and cultural aspects."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of this course, students will be able to:\n1)\tDescribe and narrate daily events and personal experiences in an organized manner,\n2)\tSummarize the main points of what is read, seen, or heard,\n3)\tUse approximately 500 basic kanji characters in context, \n4)\tFunction in daily survival situations (e.g., leaving a voice message or note for one's host family, sending emails to friends or professors, etc.) with ease and in the appropriate style,\n5)\tHave confidence in communicating with native speakers on familiar topics in relatively casual settings,\n6)\tGain awareness of customs, culture and social phenomena of contemporary Japan, and\n7)\tStudy independently."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students must pass the preceding class with C- or above, or must be placed into the class by the departmental placement test."
+        }
+    ], 
+    "class_num": 24314, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "211-2"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 17, 
+    "course_id": 941, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Reserved for students who have taken & passed JOUR 301.", 
+    "title": "Media Presentation: News", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David Weissman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 307", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This class is reserved for pre-JR students assigned to take the course.  Any available seats will be released to CAESAR registration after pre-JR students are enrolled."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Editing Today (although possible change before September); \n2010 AP Stylebook;   \nWatch Your Words by Marda Dunsky;  \nWebster's 4th edition."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "JOUR 301"
+        }
+    ], 
+    "class_num": 22089, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "310-0"
+}

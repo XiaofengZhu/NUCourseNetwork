@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 17788, 
+    "subject": "MATH", 
+    "requirements": "Enrollment Requirements: PRE-REG:Math Majors Only", 
+    "title": "Undergraduate Seminar", 
+    "section": "31", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "31", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Bryna R Kra", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lunt Hall 102", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Math 320-2 or Math 321-2, Math 291-2 or Math 334-0 or Math 331-2, or permission of the instructor."
+        }
+    ], 
+    "class_num": 34190, 
+    "attributes": null, 
+    "catalog_num": "395-0"
+}

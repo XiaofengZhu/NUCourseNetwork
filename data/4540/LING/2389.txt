@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 2389, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Language and Prejudice", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appt", 
+        "bio": null, 
+        "name": "Erin M. Leddon", 
+        "phone": "847/467-7092", 
+        "address": "2016 Sheridan Rd, Rm. 201"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33119, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "221-0"
+}

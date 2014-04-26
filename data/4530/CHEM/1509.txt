@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 1509, 
+    "subject": "CHEM", 
+    "requirements": null, 
+    "title": "Seminar in Organic Chemistry", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Regan James Thomson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "View Class Details for Room", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 23295, 
+    "attributes": null, 
+    "catalog_num": "460-0"
+}

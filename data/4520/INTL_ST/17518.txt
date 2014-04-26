@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 17518, 
+    "subject": "INTL_ST", 
+    "requirements": null, 
+    "title": "Honors Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M/W 12-1:30pm", 
+        "bio": null, 
+        "name": "Galya Benarieh Ruffer", 
+        "phone": "847/491-3759", 
+        "address": "2010 Sheridan Road"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Anne Norton. 95 Theses on Politics, Culture, & Method (New Haven: Yale Univ. Press, 2004)\n\nGraff/Birkenstein. They Say, I Say (New York: W.W. Norton, 2010)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Contact International Studies for a permission number."
+        }
+    ], 
+    "class_num": 11776, 
+    "attributes": null, 
+    "catalog_num": "398-2"
+}

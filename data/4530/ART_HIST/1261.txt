@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 1261, 
+    "subject": "ART_HIST", 
+    "requirements": null, 
+    "title": "Architecture and Urbanism of the World City in the 20th Century", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David T Van Zanten", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Walter Gropius, The Scope of Total Architecture\n\n\nDavid Van Zanten, Drawing the Future.\n\n\nJames Holston, The Modernist City.\n\n\nJ. G. Ballard, High-Rise.\n\n\nRobert Caro, The Power Broker."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "EVALUATION:  Midterm, final, research paper."
+        }
+    ], 
+    "class_num": 34301, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "378-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 16652, 
+    "subject": "KPPI", 
+    "requirements": null, 
+    "title": "Board Governance of Non-Profit Organizations", 
+    "section": "91", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-02-10", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "91", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Donald Haider", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center 101", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34516, 
+    "attributes": null, 
+    "catalog_num": "453-B"
+}

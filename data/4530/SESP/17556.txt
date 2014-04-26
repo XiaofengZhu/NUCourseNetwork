@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 17556, 
+    "subject": "SESP", 
+    "requirements": null, 
+    "title": "Program Development and Implementation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Daniel Maurice Cohen", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G01", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Youniss, J. & Yates, M. (1997). Community service and social responsibility in youth. University of Chicago Press, Chicago. \n\nKelley, T. (2001). The art of innovation: Lessons in creativity from IDEO, America's leading design firm. Doubleday: New York. \n\nPeter C. Alderman Foundation: A Son's Death On 9/11 Leads To Global Healing by Laura Rowley\n\nAnderson, L. W., Krathwohl, D. R., & Bloom, B. S. (2001). A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives. New York: Longman. \n\nCollins, A. (1995). Design Issues for Learning Environments. In S. Vosniadou, E. de Corte & H. Mandle (Eds.), International perspectives on the psychological foundations of technology-based learning environments. Hillsdale, NJ: Lawrence Erlbaum Associates.\n\nAdditional course texts will be available on Blackboard."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS PARTICIPATION: This course is student-centered. The quality of class and online discussion and analysis of course texts and experiences are determined by what you put into it. As you read - or watch or experience, in the case of a film or other medium - note down what you find surprising. Come to each class with questions, ready to discuss what surprised you, to critique each text, and to discuss how each text relates to other course texts. Be prepared to contribute to all class discussions and bring your creative hat!\n\nREADINGS: You are expected to put time aside before each class to read ALL course texts, thoroughly. Please note that we may assign some additional texts throughout the course.\n\nONLINE PARTICIPATION: Each week throughout the quarter, you will post an informal reflection (250 to 300 words) to Blackboard, responding to course texts, course programs, class discussions, and your personal experiences. In addition, we strongly encourage you to read your peers' work and post short, respectful, critical responses as replies on Blackboard. Such replies will count toward your online participation grade. Note that, for the purposes of all course assignments, all readings, films, websites, activities, presentations, and meetings count as \"course texts.\"\n\nFIELD TRIP: During the quarter (before Nov 29), in groups of 2, 3, or 4, you will organize a visit to Inspiration Caf and/or Center On Halsted. You will then write an individual informal reflection on your experience(s). \n\nFINAL PROJECT: The main requirement of this course is a Final Project in which you will work in a design team (2 or 3 people per team) to develop an original program that addresses a specific and real social problem or need that interests you deeply. This program can be hypothetical, although you are strongly encouraged to identify, contact, consult with, and design for a real-world community or organization.\n\nFINAL REFLECTION: At the very end of the quarter, you will email Andrea and Danny a personal reflection on what you learned during the course. You might focus on course texts and concepts, your final project, and/or your experiences of working with your design team."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "COURSE STRUCTURE: Think of this course as running along three connected tracks:\n\n1. Critiquing Design: We will analyze case studies of actual community programs in order to develop critical analysis skills and identify what makes a program successful. We will read and apply theoretical texts to those programs. And we will meet and speak with a number of people who work to design, develop, implement, and evaluate real programs for particular audiences and with particular goals.\n\n2. Practicing Design: Throughout the quarter, in order to develop design skills, we will focus on specific parts of the design process and get our hands dirty, so to speak! This quarter, we will work through this process by working as a class to develop a social program to address issues of road safety.\n\n3. Doing Design: Starting early in the quarter, you will work in design teams on a Final Project in which you will design and write a proposal for an original social program. This program can be hypothetical, although you are strongly encouraged to design for a real world community or organization."
+        }
+    ], 
+    "class_num": 23061, 
+    "attributes": "No Freshmen\n\n", 
+    "catalog_num": "303-0"
+}

@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 82, 
+    "course_id": 3420, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "The Roots of Feminism", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 2-359", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Alexandra Owen", 
+        "phone": "847/491-3153", 
+        "address": "Harris Hall, Room 340"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TEXTS FOR PURCHASE   \nSimone de Beauvoir, The Second Sex\nJosephine Donovan, Feminist Theory\nBetty Friedan, The Feminine Mystique\nHarriet Jacobs, Incidents in the Life of a Slave Girl\nMary Wollstonecraft, Vindication of the Rights of Woman\nVirginia Woolf,  A Room of One's Own"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "EVALUATION\n10% section participation\n50% two term papers\n40% final examination\n\nREQUIREMENTS\nMANDATORY attendance at the first meeting\n2 classes per week + one 1 hour  discussion section"
+        }
+    ], 
+    "class_num": 12138, 
+    "attributes": "Historical Studies Distro Area\n\nAttendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "230-0"
+}

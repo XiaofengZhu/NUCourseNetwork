@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 4435, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Acoustic Phonetics", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Frances Searle Building 1421", 
+            "section": "65", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sazzad Mahmud Nasir", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2107", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Tentative lab assignments: Recording speech; types of spectrograms; vowel formants; sibilants; voicing; prosody; coarticulation; categorical perception. Lab schedules to be announced later."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Acoustics and auditory phonetics by Keith Johnson (2003) [KJ] & Elements of Acoustic Phonetics by Peter Ladefoged (1995) [PL]. Additional handouts will be provided as needed."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The final course grade will be based on 3-4 quizzes, class participation, student presentations, and lab projects. Examination questions will include multiple-choice, true/false and short answer formats."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Instructor-led presentations, class discussion, student presentations, in-class student group activities, lab projects and assignments."
+        }
+    ], 
+    "class_num": 21415, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "307-0"
+}

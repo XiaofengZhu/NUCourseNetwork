@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 2701, 
+    "subject": "PHYSICS", 
+    "requirements": "Enrollment Requirements: ISP Majors", 
+    "title": "General Physics for ISP", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "10:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeThFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "William P Halperin", 
+        "phone": "847/491-3686", 
+        "address": "Technological Institute (2145 Sheridan Road), Room F-126, Evanston"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L221", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 23445, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "125-2"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 3072, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Practicum in Scholarly Writing, Publication, & Research", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Fr", 
+    "instructor": {
+        "office_hours": "By appointment only", 
+        "bio": null, 
+        "name": "Doris L Garraway", 
+        "phone": "847/491-8255", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-134"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-420", 
+    "end_time": "17:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 34082, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "495-0"
+}

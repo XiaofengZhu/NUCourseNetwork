@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6434, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Algebra", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rodolfo Maglio", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Intermediate Algebra, 11th Edition, Marvin L. Bittinger,   Addison Wesley Publishing Co. ISBN 9780321613363"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "This course will be considered completed if a minimum average of 60% has been achieved.  Chapter test will be given and the final grade will be based on the average of the chapter tests.  \n\nAverages Grade \n90-100 A \n80-89 B \n70-79 C \n60-69 D \n59-below F"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Methods of instruction may include lecture, discussion, demonstration, group work, audio-visual aids and regularly assigned homework."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "A. Apply the properties of real numbers to integers and rational numbers. \nB. Perform the fundamental operations with integers and rational numbers. \nC. Perform the algebraic operations and factoring with polynomials. \nD. Perform multiplication and division with rational expressions. \nE. Solve first degree equations and inequalities in one variable. \nF. Solve graph of first degree equations in two variables. \nG. Solve systems of first degree equations in two variables. \nH. Solve second degree equations in one variable by factoring"
+        }
+    ], 
+    "class_num": 18201, 
+    "attributes": null, 
+    "catalog_num": "101-CN"
+}

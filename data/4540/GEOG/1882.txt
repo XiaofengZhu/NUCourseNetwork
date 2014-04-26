@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 1882, 
+    "subject": "GEOG", 
+    "requirements": null, 
+    "title": "North America", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "3:00 -4:30 Monday, Wednesday", 
+        "bio": null, 
+        "name": "John Crandall Hudson", 
+        "phone": "847/491-2855", 
+        "address": "1810  Hinman Ave."
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30599, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "313-0"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 15658, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Special Topics", 
+    "section": "19", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "19", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John B Laing", 
+        "phone": "847/491-2558", 
+        "address": "Kresge 3-230"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Warning:  This class may produce unanticipated results. \n\n\"The mind, once expanded to the dimensions of larger ideas, never returns to its original size.\" Oliver Wendell Holmes"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "\t\nStudents will:\n\nGain a deeper understanding of some of the most interesting and important business issues of our day\n\nLearn how to view those issues from an ethical perspective, grounded in an introduction to leading ethical theories\n\nBecome better informed leaders and citizens\n\nStudents will also:\n\nLearn to make more polished, analytical and persuasive presentations\n\nDeepen their ability to listen respectfully,  rationally, and critically to the (sometimes opposing) viewpoints of others\n\nDevelop the capacity to assess public policy debates in a more informed and reasoned fashion"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 18225, 
+    "attributes": null, 
+    "catalog_num": "390-CN"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 1967, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Focus Speaking: Current German-American Images", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW, 10-11 AM or by appointment", 
+        "bio": null, 
+        "name": "Denise M Meuser", 
+        "phone": "8474918292", 
+        "address": "Kresge Hall 2-520"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Every student enrolled in this course will be issued an Apple iPad.\nCourse packet (required); German/English dictionary"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Presentations, journal, class participation, final podcast project"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Interactive presentations, group discussion, partner work"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students are challenged to find their voice in German through a variety of target language activities: classroom discussion, small group work, short oral presentations and a final podcast project.\nStudents can expect to improve their fluency and aural comprehension at the intermediate level. \nStudents will learn to understand, summarize and critique German newspaper articles, podcasts and short videos. During group work students will practice expressing and defending opinions, and leading discussions."
+        }
+    ], 
+    "class_num": 34207, 
+    "attributes": "Reading, writing, speaking proficiency\n\n", 
+    "catalog_num": "203-1"
+}

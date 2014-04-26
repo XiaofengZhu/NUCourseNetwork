@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 6, 
+    "course_id": 857, 
+    "subject": "MS_ED", 
+    "requirements": null, 
+    "title": "Methods and Techniques: Science", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Katie Ann Tseng", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Wiggins, G. & McTighe, J. (2005). Understanding by Design. 2nd edition Alexandria, VA: Association for Supervision and Curriculum Development."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This course is designed to provide pre-service teachers with skills and experiences that will transform them from being students and scientists into being middle school and high school science teachers.  You will:\n\nexplore discussion and questioning techniques to uncover students' prior knowledge\n\ninterpret relevant research findings and apply them to your instructional strategies\n\nexperiment with a variety of pedagogical strategies, including genuine inquiry and problem-based instruction \n\nbecome familiar with alternative assessments and looking at student work\n\nconsider the organization and management of a hands-on science classroom\n\nadapt lessons and design curriculum based on the needs of your students\n\nreflect and learn from your own teaching experiences and observations"
+        }
+    ], 
+    "class_num": 14799, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "458-0"
+}

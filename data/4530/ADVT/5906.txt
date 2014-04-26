@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 5906, 
+    "subject": "ADVT", 
+    "requirements": null, 
+    "title": "Advertising: Intermediate Creative", 
+    "section": "14", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "14", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jonathan Lane Richman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 717", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35016, 
+    "attributes": null, 
+    "catalog_num": "312-CN"
+}

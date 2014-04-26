@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 11, 
+    "course_id": 15384, 
+    "subject": "MS_ED", 
+    "requirements": null, 
+    "title": "Student Teaching Seminar: Math/Science", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "James J Lynn", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G01", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 23215, 
+    "attributes": "Department Majors Only\n\n", 
+    "catalog_num": "489-0"
+}

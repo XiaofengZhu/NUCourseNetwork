@@ -1,0 +1,56 @@
+{
+    "overview": "Demystifying Classical Music\nThis seminar is designed for the general campus student, NOT majors within the music school. The course is designed to provide opportunities for music aficionados to experience music, dance and music theater events from the inside-out.", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 3486, 
+    "subject": "GEN_MUS", 
+    "requirements": null, 
+    "title": "Selected Topics for Non-Majors", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Dr. Bernard Dobroski has extensive professional experience as a conductor, performer, music educator, impresario, author, and speaker.  During his tenure as dean of the music school, he partnered with other units of the university to create a number of important interdisciplinary  initiative, including degree programs in music theatre, music and engineering, and music and journalism.", 
+        "name": "Bernard J Dobroski", 
+        "phone": null, 
+        "address": "bjdobroski@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 109", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "The course text (TBA) will be supplemented by video and audio recordings, critiques, and scholarly articles."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Required concert attendance will enable students to apply their classroom knowledge to a real-world jazz setting."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required Text: Wright, Craig. 2013. Listening to Western Music, 7th ed. New York: Schirmer Cengage Learning.  (Available in the Norris University Book Store.)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "An individualized assessment contract will be negotiated during the first two weeks of the quarter.  In general, evaluation will be based on engagement in the various course components, including: evaluation will be based on engagement in the various course components, including: Completion of weekly readings and listening assignments to be documented in a course log; and Preparation of two collaborative oral/written presentations."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "During classroom sessions and outside classwork, the instructor and invited guests will attempt to nurture a heightened awareness of the challenges that conductors, opera and music theater directors, and musicians/actors face when preparing for a performance. Through a series of observations, presentations, interviews, and interactive discussions/seminars, you will be better prepared to listen, observe, and critically analyze performing arts events on and off campus, during this academic quarter, and hopefully for the rest of your life"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "The only prerequisite for the course is a love of the performing arts. You do NOT have to read, perform, or understand music notation to succeed in this course. However, you have to be prepared to spend a lot of time attending concerts and listening to examples of classical music (minimally six hours a week) outside of the two required in-class sessions.\nStudents with a music major or dual degree with music are NOT permitted to register for this course."
+        }
+    ], 
+    "class_num": 22789, 
+    "attributes": null, 
+    "catalog_num": "175-0"
+}

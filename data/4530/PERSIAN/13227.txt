@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 13227, 
+    "subject": "PERSIAN", 
+    "requirements": null, 
+    "title": "Persian I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW: 11:00am-12:20pm", 
+        "bio": null, 
+        "name": "Judith M Wilks", 
+        "phone": "8474912767 no voicemail", 
+        "address": "4-331 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TEXTBOOKS: Colloquial Persian, by Abdi Rafiee. Routledge (Francis and Taylor Group), London and New York, 3rd edition, 2011.  Elementary Persian Grammar, by L.P.Elwell-Sutton, Cambridge University Press, 1992. \n\nREFERENCES: S. Haim, The Larger Persian-English Dictionary. Farhang-e Moaser Publishing, Tehran, 1991."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assessment of progress will be done by means of unit quizzes, homework assignments, a mid-term and a final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The Persian alphabet is presented and is used throughout the course for both reading and writing. Persian is also introduced gradually as the language of instruction. Abdi Rafiee's Colloquial Persian will form the basis for the lectures on grammar and most of the exercises. L.P.Elwell-Sutton's Elementary Persian Grammar will also be used for presenting the alphabet and some further grammar points. Reading selections, workbook pages, and films on various topics are also drawn from other sources. Samples of classical Persian literature are brought in for cultural enrichment, but contemporary Persian writing (newspapers, literature) is also included. Classes will meet for 3 hours weekly."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: Successful completion of Fall quarter elementary Persian, or permission of the instructor."
+        }
+    ], 
+    "class_num": 24346, 
+    "attributes": null, 
+    "catalog_num": "111-2"
+}

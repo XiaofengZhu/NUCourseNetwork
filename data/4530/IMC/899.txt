@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 899, 
+    "subject": "IMC", 
+    "requirements": "Enrollment Requirements: Registration is reserved for IMC Part-Time Students Only.", 
+    "title": "Financial Accounting", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "To Be Determined", 
+        "bio": null, 
+        "name": "Karen W Brown", 
+        "phone": "847/421-6406", 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21999, 
+    "attributes": null, 
+    "catalog_num": "450-0"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 6893, 
+    "subject": "LAWSTUDY", 
+    "requirements": "Enrollment Requirements: Communication and Legal Reasoning I and II are pre-requisites for this course.", 
+    "title": "Advanced Legal Research", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Maribel Hilo Nash", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "J.D.S. Armstrong & Christopher A. Knott, Where the Law Is (West 4th ed.) ISBN-13: 9780314282330"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Mark K. Osbeck, Impeccable Legal Research  (West) ISBN-13: 978-0314202727"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Pre-requisites: Completion of Communication & Legal Reasoning I and II"
+        }
+    ], 
+    "class_num": 30082, 
+    "attributes": "Professional Skills Course\n\n", 
+    "catalog_num": "620"
+}

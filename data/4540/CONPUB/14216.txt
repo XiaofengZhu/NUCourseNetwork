@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 14216, 
+    "subject": "CONPUB", 
+    "requirements": null, 
+    "title": "Women, Children, Gender and Human Rights", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Bridget Arimond", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30074, 
+    "attributes": "1 Draft degree req may be met with class\n\n3 draft degree req may be met with class\n\nConsult Professor about writing requirements\n\nAdministrative Law and Government\n\nConstitutional Law\n\nConstitutional Law or Procedure an element\n\nCriminal Law and Procedure Practice Area\n\nFamily Law Practice Area in course\n\nCivil and Human Rights\n\nInternational Law PracticeArea in course\n\nLabor and Employment Law present in course\n\n", 
+    "catalog_num": "682"
+}

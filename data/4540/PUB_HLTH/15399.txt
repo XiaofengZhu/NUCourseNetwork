@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 15399, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "International Public Health I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "William Leonard", 
+        "phone": "847/491-4839", 
+        "address": "1810 Hinman Ave., Room #A55, EV Campus"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 37063, 
+    "attributes": null, 
+    "catalog_num": "390-0"
+}

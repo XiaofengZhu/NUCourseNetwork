@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2321, 
+    "subject": "HEBREW", 
+    "requirements": "Enrollment Requirements: Pre-requisite: Students must have completed or currently be enrolled in Hebrew 111-3 or an equivalent course.", 
+    "title": "Hebrew II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tuesday 9:00-10:00 or by appointment", 
+        "bio": null, 
+        "name": "Edna Grad", 
+        "phone": "847/491-2769", 
+        "address": "4-362 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 12986, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "121-1"
+}

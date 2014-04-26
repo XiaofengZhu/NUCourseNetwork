@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 20572, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Artificial Epidemics and Changes in Human Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Maureen B Moran", 
+        "phone": "312 5030500", 
+        "address": "680 N. Lake Shore Drive, Suite 1400"
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34803, 
+    "attributes": null, 
+    "catalog_num": "520-0"
+}

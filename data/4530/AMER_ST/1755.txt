@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1755, 
+    "subject": "AMER_ST", 
+    "requirements": null, 
+    "title": "Seminar for Majors", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lawrence L Stuelpnagel", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Your grade will be determined in the following way; 35% for an OP-Ed piece on a subject of your choice that is germane to the class and approved by the professor; 50% for a 10-12 page term paper and 15% class participation.  No P/N.  I do not grant extensions for any written assignments.  They are due at the beginning of the class as noted on the syllabus. Failure to make the deadline will result in a lower grade for that assignment."
+        }
+    ], 
+    "class_num": 35248, 
+    "attributes": null, 
+    "catalog_num": "301-2"
+}

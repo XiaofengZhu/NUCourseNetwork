@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1763, 
+    "subject": "ENGLISH", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Christopher Herbert", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "I'm a long-time member of the Northwestern faculty whose research has centered on Victorian novels and cultural history. My taste for hardboiled crime fiction will be temporarily held in check for the purposes of this course."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Jane Austen, Sense and Sensibility (1811); Mary Elizabeth Braddon, Lady Audley's Secret (1862); Henry James, The Portrait of a Lady (1881)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Three short papers will form the basis of evaluation. Class participation will also be factored into grades."
+        }
+    ], 
+    "class_num": 23760, 
+    "attributes": null, 
+    "catalog_num": "101-6"
+}

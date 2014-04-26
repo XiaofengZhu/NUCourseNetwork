@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 55, 
+    "course_id": 3528, 
+    "subject": "MUSIC", 
+    "requirements": null, 
+    "title": "Western Music Cultures After 1800", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Scott D. Paulin is a musicology lecturer specializing in 20th- and 21st-century topics including music and sound in film, popular genres, American music, and the history of recorded sound.", 
+        "name": "Scott Douglas Paulin", 
+        "phone": null, 
+        "address": "s-paulin@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Text: Richard Taruskin and Christopher H. Gibbs, <em>The Oxford History of Western Music: College Edition</em>.   New York: Oxford University Press, 2012."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "The course is intended for sophomore undergraduates in the Bienen School of Music.  Music 214 and 215 are assumed as prerequisites, as are the ability to read music and a working knowledge of music theory."
+        }
+    ], 
+    "class_num": 35837, 
+    "attributes": null, 
+    "catalog_num": "216-0"
+}

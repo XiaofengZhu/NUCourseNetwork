@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 17717, 
+    "subject": "MUSEUM", 
+    "requirements": null, 
+    "title": "The Exhibit from Concept to Opening and Beyond", 
+    "section": "18", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-08-02", 
+    "end_date": "2013-08-03", 
+    "start_time": null, 
+    "component": "18", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Caroline Goldthorpe", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 42114, 
+    "attributes": null, 
+    "catalog_num": "373-0"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 1357, 
+    "subject": "ASTRON", 
+    "requirements": null, 
+    "title": "Observational Astrophysics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Giles A Novak", 
+        "phone": "847/491-8645", 
+        "address": "Technological Institute (2145 Sheridan Road), Room F253, Evanston"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "\"Handbook of CCD Astronomy,\" by Steve Howell\n\nCourse packet, which costs about $20"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Astr 220-0"
+        }
+    ], 
+    "class_num": 32726, 
+    "attributes": null, 
+    "catalog_num": "321-0"
+}

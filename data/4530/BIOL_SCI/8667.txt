@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 55, 
+    "course_id": 8667, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Registration is reserved for students who have completed BIOL_SCI 215-0, 216-0, 217-0, 218-0, and one statistics course.", 
+    "title": "Population Genetics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "16:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Joseph S Walsh", 
+        "phone": "847/491-5098", 
+        "address": "Hogan Hall, Room 6-110A"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M152", 
+    "end_time": "17:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "No P/N"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The required text is: Halliburton, R. 2004. Introduction to Population Genetics. First edition. Pearson/Prentice Hall. ISBN-10: 0130163805/ISBN-13: 9780130163806. Selected readings from the primary literature as time allows."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Four problem sets (approximately every other week), and two midterm examinations."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two lectures per week."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites:  Biological Sciences 215, 216, 217, 218; A course in statistics."
+        }
+    ], 
+    "class_num": 23610, 
+    "attributes": null, 
+    "catalog_num": "341-0"
+}

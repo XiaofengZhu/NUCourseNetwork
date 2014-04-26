@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 19903, 
+    "subject": "LITARB", 
+    "requirements": "Enrollment Requirements: Negotiation is a pre-requisite for this course", 
+    "title": "International Business Law Negotiation", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesdays 2:00 - 6:00 p.m.", 
+        "bio": null, 
+        "name": "S Paul Chadha", 
+        "phone": "312/505-2888", 
+        "address": "375 East Chicago Avenue, Room 862"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30103, 
+    "attributes": "Professional Skills Course\n\nCivil Litigation & Dispute Resolution\n\n", 
+    "catalog_num": "604"
+}

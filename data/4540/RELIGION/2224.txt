@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 102, 
+    "course_id": 2224, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Introduction to Buddhism", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "62", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment.", 
+        "bio": "Antonio Terrone, Ph.D. is a Lecturer in Asian Religions in the Department of Religious Studies at Northwestern University. Interested in the history and religious practices of Tibetan Buddhism, he is currently writing about the phenomenon of Buddhist scriptural revelation among Tibetan Tantric visionaries in China. Dr. Terrones other research interests include religion and politics in Asia, religious and ethnic policy in the Peoples Republic of China, and Islam, identity, and nationalism among the Uyghurs, an ethnic nationality of Xinjiang in Western China.", 
+        "name": "Antonio Terrone", 
+        "phone": "8474915488", 
+        "address": "Crowe Hall 4-133"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. Course Packet (Hardcopy [Quartet Copy, Evanston] and/or Electronic Resource) \n2. Thich Nhat Hanh, Heart of Understanding (Parallax Press) ISBN: 1888375922 \n3. Andrew Quintman, The Life of Milarepa (Penguin Classics) ISBN: 0143106228"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The primary goal of this course is to facilitate a broad overview of Buddhist traditions and some sense of their diversity through time and across geographic regions. Students should be able to analyze primary source documents, evaluate concepts, synthetize information, and communicate their ideas thoroughly."
+        }
+    ], 
+    "class_num": 33203, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "210-0"
+}

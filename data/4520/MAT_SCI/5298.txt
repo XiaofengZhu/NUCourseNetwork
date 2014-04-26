@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 5298, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Chemical & Statistical Thermodynamics of Materials", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Scott A Barnett", 
+        "phone": "847/491-2447", 
+        "address": "4037 Cook Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1.  Chemical Thermodynamics of Materials, C.H.P. Lupis, ISBN: 978-0444007797\n2.  Thermal Physics, C. Kittel and H. Kroemer, Second Edition, ISBN: 978-0716710882"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework, quizzes, project."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Three one hour lectures weekly."
+        }
+    ], 
+    "class_num": 15893, 
+    "attributes": "No P/N option for this section\n\nDepartment Majors Only\n\n", 
+    "catalog_num": "401-0"
+}

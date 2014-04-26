@@ -1,0 +1,31 @@
+{
+    "overview": "<Element DESCRAREA_VALUE at 1c80248>", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 20896, 
+    "subject": "LITARB", 
+    "requirements": null, 
+    "title": "Judicial Decisionmaking", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-14", 
+    "end_date": "2014-03-30", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sarah O'Rourke Schrup", 
+        "phone": "312/502-0063", 
+        "address": "Rubloff, 8th Floor"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Levy Mayer 101", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20029, 
+    "attributes": null, 
+    "catalog_num": "679"
+}

@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 15695, 
+    "subject": "MS_LOC", 
+    "requirements": "Enrollment Requirements: Reserved for MS_LOC students", 
+    "title": "Advancing Learning & Performance Solutions", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Gail Ann Berger", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall 345", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TEXTBOOKS*:\nThompson, L. L. (2011). Making the team: a guide for managers (4th ed.). Upper Saddle River, NJ: Prentice Hall. \nISBN-10: 0136090036\nISBN 13: 978-0136090038\n\n(Optional) Edmondson, A. C. (2012). Teaming: How organizations learn, innovate, and compete in the knowledge economy guide for managers. San Francisco, CA: John Wiley & Sons.\nISBN-10: 078797093X\nISBN-13: 978-0787970932\n\nCLASS FEES PAID TO DEPARTMENT:\nThomas-Kilman Instrument assessment and DRRC Exercises  - $36.00\n\nOTHER MATERIALS: \nHarvard Business Review coursepack - $25.01\n\n*MSLOC textbooks not stocked by Norris or Chicago Bookstores.\n\nCosts may change. Updated 12/2013"
+        }
+    ], 
+    "class_num": 23025, 
+    "attributes": null, 
+    "catalog_num": "421-0"
+}

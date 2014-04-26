@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 18410, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "The Maghreb and the Middle East", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": "TuTh 10:30 - 11:30AM", 
+        "bio": null, 
+        "name": "Nasrin Qader", 
+        "phone": "847/491-8263", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-129"
+    }, 
+    "term": "2014 Winter", 
+    "room": "McMillen Crowe Hall 1-125", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Abdelfattah Kilito, L'il et l'aiguille \nJamal Eddine Bencheikh Les Mille et nuits, ou la parole prisonnire (selections)\nAbdelkebir Khatibi \"De la mille et troisime nuit\"\nFawzia Zouari Pour en finir avec Shahrazade (selections)\nLes Milles et une nuits, editions de Jamel Eddine Bensheikh et Andr Miquel (selections)\nAssia Djebar \"La femme en morceaux\"\nFranois David Une petite flamme dans la nuit\nSalima Ghezali Les Amants de Shahrazade\nThophile Gautier \"La Mille et deuxime nuit\"\nAbdourahman Waberi Le Pays sans ombre\nPierre Karch Le Nombril de Schhrazade\nJorge Luis Borges \"Le livre de sable\""
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: 271, 272, 273, or consent of instructor."
+        }
+    ], 
+    "class_num": 34196, 
+    "attributes": null, 
+    "catalog_num": "365-0"
+}

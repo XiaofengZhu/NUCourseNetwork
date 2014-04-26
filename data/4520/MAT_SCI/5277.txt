@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 5277, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Mechanical Behavior of Solids", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "20", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Katherine T Faber", 
+        "phone": "847/491-2444", 
+        "address": "3033 Cook Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Deformation and Fracture Mechanics of Engineering Materials, 5th ed., R.W. Hertzberg, R.P. Vinci and J.L. Hertzberg.  John Wiley."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Weekly homework 15%\nMid-term Exam 30%\nFinal Exam 30%\nProject Report and Oral Presentation 25%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Three lectures and one lab session per week.  Classroom discussions are encouraged. The lab class will be divided into project teams. Lab hours can be scheduled by each team with lab instructors consent."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MAT SCI 316-1,2; 316-2 may be taken concurrently"
+        }
+    ], 
+    "class_num": 15858, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "332-0"
+}

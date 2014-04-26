@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 16673, 
+    "subject": "ASIAN_AM", 
+    "requirements": null, 
+    "title": "Introduction to Asian American Literature", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 2-435", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": "Professor Kim is a Charles Deering McCormick University Distinguished Lecturer in Asian American Studies at Northwestern University. Her research focuses on the histories and cultures of contact and migration between Asia and the Americas. She is currently finishing her first book Postcolonial Grief and the Afterlife of the Pacific Wars in the Americas which demonstrates how postcolonial grief and mourning around the Pacific Wars interrupts the formation and consolidation of the U.S. as an imperialist and white supremacist nation-state. The book argues that any struggle for future freedom, justice, and transformative politics in the U.S. has to come to terms with the history of U.S. military violence and colonialism in the Pacific Arena. She is also working on a second book which looks at the relationship between the Mexican Bracero Project and the Internment of Japanese Americans during WWII.", 
+        "name": "Jinah Kim", 
+        "phone": "8474913593", 
+        "address": "Kresge Hall 1-435"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. Carlos Bulosan, America is in the Heart, University of Washington Press, 1974\n2. Don Lee, Country of Origin, W.W. Norton and Company, 2004\n3. Karen Tei Yamashita, Through the Arc of the Rainforest, Coffee House Press, 1990\n4. Jhumpa Lahiri, Interpreter of Maladies, Mariner Books, 1999\n5. Susan Choi, Foreign Student, Harper Collins, 1992\n6. John Okada, No-No Boy University of Washington press, 1978\n\nA required reader is available from Quartet Copies and films for the course will stream on blackboard."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To become familiar with literary analysis and Asian American cultural studies through Asian American literature."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 34163, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "275-0"
+}

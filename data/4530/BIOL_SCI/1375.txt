@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 150, 
+    "course_id": 1375, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Human Reproduction", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Teresa H Horton", 
+        "phone": "847/467-1686", 
+        "address": "Hogan Hall, Room 2-144"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 3", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Johnson, M.H. Essential Reproduction, 7th ed. Wiley-Blackwell. ISBN 978-1-4443-3575-0"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Two in-class exams. Weekly mini-reports based on assigned readings."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 34023, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "160-0"
+}

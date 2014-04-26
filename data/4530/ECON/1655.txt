@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 115, 
+    "course_id": 1655, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Money and Banking", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Richard E H Walker", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G21", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "There is no single textbook that is ideal for this course. Instead, much of the reading will come from other sources, such as articles and supplementary notes. We will discuss possible textbooks when we first meet."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "A midterm (30%), a final (30%) and two assignments (20% each)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two lectures a week, plus a possible TA section. (depending on the size of the course)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Econ 201, 202, 281, 310-1, 311, Math 220, Stat 210. Students should be comfortable with basic differential calculus."
+        }
+    ], 
+    "class_num": 24205, 
+    "attributes": null, 
+    "catalog_num": "308-0"
+}

@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1858, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Senior Sequence", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Nicholas K Davis", 
+        "phone": "847/491-3433", 
+        "address": "1897 Sheridan, Uh 215, Evanston, IL 60208"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 112", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Permission of department required. Attendance at first class mandatory. No P/N registration. Seniors only."
+        }
+    ], 
+    "class_num": 23370, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\nPermission of department\n\n", 
+    "catalog_num": "398-2"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "<em>QUEER MUSICALITY: LGBTQ Aural Experience</em><p>This course examines the role of musical practices in both contemporary and historical LGBTQ aural experience. It also examines the role of sound/music in articulating queer culture more broadly as set of pragmatic (and not necessarily sexual) practices.</p><p> Through our conversations we will discover the ways in which music functions as an artifact for producing useful identifications with minor expressive practices as well as mainstream popular culture. We will develop ways to document the sonic production of queer affect...with all the instability and possibility that such a focus affords.</p><p> Readings will be drawn from LGBTQ music studies and queer theory and will include the work of Suzanne Cusick, Philip Brett, Susan McClary, Judith Peraino, Michel Foucault, D.A. Miller, Sarah Ahmed, Jos Muoz, Tavia Nyong'o, and Jack Halberstam. We will also critically engage with David Halperin's \"How to be Gay\" as a model for investigations into contemporary and historical queer affect. Musical examples will be drawn from a wide range of genres, from Handel and Schubert to Kiki and Herb, Judy Garland to Janelle Mone.</p>", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3653, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Selected Topics in Musicology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "http://www.music.northwestern.edu/faculty/profiles/ryan-dohoney.html", 
+        "name": "Ryan Wayne Dohoney", 
+        "phone": null, 
+        "address": "ryan.dohoney@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 42", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Examination and written work: brief weekly assignments and a final project."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: advanced undergraduate or graduate standing in any school or college of the university."
+        }
+    ], 
+    "class_num": 22490, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nJrs, Srs, Grad Students Only\n\n", 
+    "catalog_num": "335-0"
+}

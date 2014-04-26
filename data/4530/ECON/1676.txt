@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 1676, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Economics of State and Local Governments", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jannet K Chang", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 102", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Custom version of <i>State and Local Public Finance</i> by Fisher, 3rd edition (ISBN: 978-1111973889)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on problem sets, two midterm exams, and a final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Twice weekly lectures, one hour and twenty minutes each."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Economics 310-1"
+        }
+    ], 
+    "class_num": 34101, 
+    "attributes": null, 
+    "catalog_num": "337-0"
+}

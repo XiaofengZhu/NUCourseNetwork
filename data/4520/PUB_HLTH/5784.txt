@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 23, 
+    "course_id": 5784, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Intermediate Biostatistics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jungwha Lee", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "If students desire additional reading on a specific topic, the following text will be on reserve in the\nlibrary:\nVittinghoff E, Glidden DV, Shiboski SC, McCulloch CE. Regression Methods in Biostatistics. Linear,\nLogistic, Survival and Repeated Measures Models. Springer, New York, NY, 2005."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This course is designed to familiarize students with additional statistical techniques and multivariate\nmethods of analysis for epidemiological and clinical studies. Upon completion of this course\nstudents should be able to:\n Describe the difference between a correlation and regression analysis.\n Describe the assumptions and mechanics for estimating parameters in the simple and\nmultiple linear regression models.\n Use Stata to perform a simple linear regression or multiple linear regression analysis, and\ninterpret the output, including regression parameter estimates, hypothesis tests, confidence\nintervals, statistics which quantify the fit of the model, and potential confounding.\n Use graphical procedures in Stata for assessing whether the assumptions underlying the\nsimple or multiple linear regression models are correct. Describe ways to remedy the\nJuly 2012\n2\nproblem when the assumptions appear incorrect.\n Use graphical procedures for assessing whether there are outliers in a linear regression\nanalysis and whether any of the observations exerts considerably more influence than the\nother observations in determining estimates of regression coefficients.\n Use Stata to perform an analysis of variance (ANOVA) and covariance (ANCOVA), and\ninterpret the output, including sums of squares and F-tests.\n Use Stata for multiple comparisons and interpret results for ANOVA and ANCOVA.\n Describe the logistic regression model, its key assumptions, and their implications.\n State the relationships between odds ratios and logistic regression coefficients.\n Use Stata to fit a logistic regression model to continuous and categorical predictors and to\nobtain odds ratios, and interpret the output, including regression parameter estimates,\nhypothesis tests, confidence intervals, and statistics which quantify the fit of the model.\n Derive the odds ratio between two groups defined by their predictor values.\n Calculate and interpret the likelihood ratio test comparing two nested logistic models.\n Use Stata to obtain Kaplan-Meier survival curves, and interpret results.\n Use Stata to perform a log-rank test and interpret results.\n Define right censoring, hazard function, and proportional hazards.\n Use Stata to fit a Cox proportional hazards regression model to continuous and categorical\npredictors and to obtain hazard ratios, and interpret the output, including regression\nparameter estimates, hypothesis tests, and confidence intervals.\n Derive the hazard ratio between two groups defined by their predictor values.\n Calculate and interpret the likelihood ratio test comparing two nested Cox models.\n Detect non-proportional hazards using log-minus-log plots.\n Describe situations in which multiple linear regression analysis, logistic regression analysis,\nor survival analysis is needed.\n Detect and model interaction in these multi-predictor models.\n Use dummy variables to model categorical predictors and interpret results in each of these\nmodels.\n Interpret articles in the medical literature that use multiple linear regression, multiple logistic\nregression, or Cox proportional hazards regression."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites\na) Introduction to Epidemiology - PH304 (or Medical Decision Making II)\nb) Introduction to Biostatistics - PH302\n\nRecommended:\na) Intermediate Epidemiology or concurrent registration in Intermediate Epidemiology - PH422\n\nThe student MUST receive permission from the instructor if the two required courses listed\nabove have not been completed.\n\nDepartment consent required (permission number)"
+        }
+    ], 
+    "class_num": 13573, 
+    "attributes": "Permission of Instructor\n\n", 
+    "catalog_num": "421-0"
+}

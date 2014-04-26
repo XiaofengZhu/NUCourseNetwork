@@ -1,0 +1,53 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 46, 
+    "course_id": 8660, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Linear Algebra", 
+    "section": "31", 
+    "coursecomponent_set": [
+        {
+            "room": "Lunt Hall 107", 
+            "section": "31A", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "31", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Dmitry E Tamarkin", 
+        "phone": "8474915569", 
+        "address": "Lunt B6"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2407", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students may not receive credit for 240 and any of 281-3, 285-1, 290-1, or 291-1."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Linear Algebra and its Applications by David Lay. Fourth Edition Publisher: Pearson.ISBN 10:0-321-38518-7 \nStudy Guide 10: 0321388836 / ISBN-13: 9780321388834"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: 230 or 234."
+        }
+    ], 
+    "class_num": 23658, 
+    "attributes": null, 
+    "catalog_num": "240-0"
+}

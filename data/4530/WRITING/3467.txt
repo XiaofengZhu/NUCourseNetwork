@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3467, 
+    "subject": "WRITING", 
+    "requirements": null, 
+    "title": "The Art of Nonfiction", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Alex W Kotlowitz", 
+        "phone": "847/467-4099", 
+        "address": "1860 Campus Drive ,Crowe Hall 5-144"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "These two books must be gotten by the students \n\"Behind the Beautiful Forevers\" by Katherine Boo,  1400067553 \n\"Denial\" by Jessica Stern  00616266\n\nThis book will be given to you by the instructor\n\"How Long Will I Cry?\"\n\nArticles and chapters will be given to read. These are free and given out by the instructor."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "This course is open by application only to undergraduates. Students need a permission number to register for the course. Applications for the course are due by 10/28/13 at 10 am. You can download an application at http://www.northwestern.edu/writing-arts/."
+        }
+    ], 
+    "class_num": 23575, 
+    "attributes": null, 
+    "catalog_num": "303-0"
+}

@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 16493, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Pre-requisite: Students must have taken BIOL_SCI 330 to register for this course.", 
+    "title": "Plant Evolution and Diversity Lab", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute DG31", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": "11:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Patrick S Herendeen", 
+        "phone": "847/835-6956", 
+        "address": "Hogan Hall, 6-140B, 2205 Tech Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG68", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required text: \nBiology of Plants, Raven, 7th Edition, ISBN: 978-0-716-71007-3"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Exams, practicals, research paper"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture, lab"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: BIO 330"
+        }
+    ], 
+    "class_num": 24444, 
+    "attributes": null, 
+    "catalog_num": "350-0"
+}

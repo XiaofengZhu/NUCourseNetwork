@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2417, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Spoken English for Non-Native Speakers", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jenna Silver Luque", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Please see the NU English Language Program website for info about tutoring, classes, NativeAccent speech training software, and English-language proficiency testing. http://groups.linguistics.northwestern.edu/esl/ or elp@northwestern.edu."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Please keep a small notebook for your Daily Journal (see below) and a three-ring binder or folder for handouts. Materials will be posted on Blackboard and disseminated in class."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assessment scale:\nAttendance and participation\t50%\nAssignments and presentations\t40%\nIn-class group work\t\t10%\n\nLearning from this course requires active participation, so regular attendance and participation are mandatory. If you know in advance that you will miss class, you must notify the ELP program and me via email before that class session. All students and auditors must meet these requirements. You are allowed two unexcused absences during the quarter, or three absences (excused and/or unexcused) total. Auditors who miss more than two classes will forfeit their spot in the class to those on the waiting list. For students enrolled for credit, missing more than two classes will lower your grade."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "In addition to in-class activities, you'll be asked to complete various assignments throughout the quarter, such as listening and conversational tasks, readings and exercises, and preparing for in-class presentations."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Attendance at the first class is mandatory for registered students. This course is open to Northwestern University international graduate students and scholars. PhD students are given priority over all other students, but they must be registered through CAESAR to participate in the course. PhD students may register via CAESAR starting on November 18th, 2013, and continuing through the add/drop period, until January 10, 2014. Postdoctoral fellows, graduate students in a TGS Masters program, and Kellogg MBA students are given priority after PhD students, and may register via our online ELP registration site starting on January 6, 2014. Students in professional Masters programs, visiting scholars, visiting pre-doctoral fellows, research associates, faculty, and staff are also eligible to participate as auditors if/when space is available. Registration for these affiliates starts January 13th on our online English Language Programs site. Class size is limited to 20 students in order to ensure maximum individual attention."
+        }
+    ], 
+    "class_num": 31469, 
+    "attributes": "P/N Suggested, see dept\n\n", 
+    "catalog_num": "380-0"
+}

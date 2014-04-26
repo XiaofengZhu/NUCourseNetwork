@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 1617, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Literature and its Others:", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sarah Valentine", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "David Wittenberg is an Associate Professor in the departments of English and Cinema & Comparative Literature at the University of Iowa. His research and teaching interests include 19th- through 21st-century literary theory and philosophy, visual culture and film, American literature, architectural design and theory, and popular culture studies. He is the author of two books, Time Travel: The Popular Philosophy of Narrative (Fordham, 2013) and Philosophy, Revision, Critique: Rereading Practices in Heidegger, Nietzsche, and Emerson (Stanford, 2001). Currently, he is completing a new book about the significance of very large cultural objects and images, entitled Big Culture: Toward an Aesthetics of Magnitude."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texts:\n\nThe Bollywood Reader, by Rajinder Dudrah and Jigna Desai (ISBN: 0-33-522212-4)\nTemples of Desire, by Vijay Mishra (ISBN: 0-4159-3015-4)\nOther readings on Blackboard"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Weekly writing assignments, quizzes and a final paper or exam."
+        }
+    ], 
+    "class_num": 26733, 
+    "attributes": null, 
+    "catalog_num": "375-0"
+}

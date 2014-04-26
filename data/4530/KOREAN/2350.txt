@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2350, 
+    "subject": "KOREAN", 
+    "requirements": null, 
+    "title": "Korean I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesday 12:00-1:00", 
+        "bio": null, 
+        "name": "Eunmi Lee", 
+        "phone": "8474671323", 
+        "address": "4-370 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Integrated Korean: Beginning I (978-0-8248-3440-1), Beginning II (978-0-8248-3515-6)\nIntegrated Korean Workbook: Beginning I (978-0-8248-3450-0), Beginning II (978-0-8248-3516-3)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grade will be given based on weekly tests, quizzes, assignments, attendance, oral test and final exam scores."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "After the instructor's lecture, students will practice speaking with the vocabulary and grammar patterns they have learned and elaborate on the conversation. Class participation is very important.\n\nAlso, various kinds of reading and video materials will be provided to enhance student reading and comprehension skills."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Completion of Fall Quarter Korean 111-1 or by instructor permission."
+        }
+    ], 
+    "class_num": 24303, 
+    "attributes": null, 
+    "catalog_num": "111-2"
+}

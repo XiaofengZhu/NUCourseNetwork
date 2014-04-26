@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 999, 
+    "course_id": 16843, 
+    "subject": "KIEI", 
+    "requirements": null, 
+    "title": "Entrepreneurial Selling", 
+    "section": "31", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-23", 
+    "end_date": "2013-10-25", 
+    "start_time": null, 
+    "component": "31", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Cheryl E Mayberry McKissack", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18503, 
+    "attributes": null, 
+    "catalog_num": "902-A"
+}

@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 20984, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Making a dictionary: The Northwestern Project", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Elisabeth M Elliott", 
+        "phone": "847/491-8082", 
+        "address": "1860 Campus Dr., Crowe Hall #4-130"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students will be able to pick what aspect of Northwestern  they want to work on for their entries in creating a Northwestern University Dictionary."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course packet from Quarter"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework assignments, response paper, blogs, dictionary entries"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussions and brief lectures."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1) How people of a speech community use language to express identity and how people think about themselves affects the way that they talk. \n2) The social and linguistic prejudice of dictionaries.  The symbolic role that a dictionary and the book-form have in defining, shaping, and influencing a society, which includes not only what language and whose language is included (e.g. does ain't belong in the dictionary and with what type of definition), but also how can the physical form of a dictionary contribute to its role and power (for example, whether print-book or digital form).\n3) Whether the digital medium changes the way we think, use, feel, design, and create dictionaries, and what effects does this perhaps have on the conventional standards of the prestige, authority, and power wielded by the traditional editorial-board-driven print-book dictionaries? \n4) An understanding of the fields of lexicography and sociolinguistic fieldwork.\n5) A working understanding of designing and creating an online e-dictionary."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 35184, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "363-0"
+}

@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2027, 
+    "subject": "HISTORY", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar--European History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "I am a cultural historian who tends to work on spirituality/Sexuality/and Gender. At present I am writing a book on the church and its attitude toward scandal. In my spare time, I write fiction and Dream about dancing The Argentine Tango.  (But rarely manage to get on the dance Floor.) I have 3 dogs  each more neurotic than the other. I dont think it is all my fault: they are rescues who were set in their ways when I got them. It is possible that I made them worse, however.", 
+        "name": "Dyan H Elliott", 
+        "phone": "847/491-7652", 
+        "address": "Harris Hall Room 337"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 213", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Europe"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nCook, William; Ronald B. Herzman. The Medieval World View. 2d ed. (Oxford UP, 2003. ISBN 978-0195139358  Note: not the newer 3d edition.) \nGoodich, Michael, ed.,  The Other Middle Ages: Witnesses at the Margins of Medieval Society. (Philadelphia: University of Pennsylvania Press, 1998. ISBN 0-8122-16547)\n Hobbins, Daniel, trans. The Trial of Joan of Arc. (Harvard UP, 2007. ISBN 978-0674024052)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There will be a series of short papers on each of the authors (5 X 3) and a synthetic paper at the end (9- 10 pp). Minimum of 2 short (10 min) oral presentations as well."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussions and oral presentations"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Attendance at first class is mandatory."
+        }
+    ], 
+    "class_num": 26729, 
+    "attributes": "Attendance at 1st class mandatory\n\nFreshmen/Sophomores Only\n\n", 
+    "catalog_num": "101-6"
+}

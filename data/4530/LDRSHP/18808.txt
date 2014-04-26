@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18808, 
+    "subject": "LDRSHP", 
+    "requirements": null, 
+    "title": "Field Studies in Leadership", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Adam Goodman directs Northwestern University's Center for Leadership and is a faculty member in the McCormick School of Engineering and Applied Science. Goodman focuses on the fundamentals of leadership and how people learn to become more effective leaders. His current projects include development of a data intensive enterprise-wide web portal for leadership and teamwork assessments, and training programs for leadership coaching.  The former resulted in his founding Catapult LLC as a University spinoff company. An active consultant today and for over 25 years, he has advised over 100 CEOs, senior officers, executive teams and boards of directors and given hundreds of invited speeches and workshops in the United States and around the world. As a Presidential Fellow at the University of Colorado he earned a master's degree in management and, later, a Ph.D. in leadership from the Graduate School of Public Affairs.", 
+        "name": "Adam Joseph Goodman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L170", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21142, 
+    "attributes": null, 
+    "catalog_num": "396-0"
+}

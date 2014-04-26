@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6572, 
+    "subject": "PSYCH", 
+    "requirements": null, 
+    "title": "Cognitive Psychology", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "The hour before class", 
+        "bio": "Daniel Slaten is a scientist with interests in the cognitive and neurological underpinnings of language and memory. In particular, his research has focused on the role of implicit memory in conversation. Additionally, he has done work on how people read and understand narratives. Eye-tracking has become the primary research tool he uses in his studies.", 
+        "name": "Daniel Gregory Slaten", 
+        "phone": null, 
+        "address": "Cresap 108"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-435", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This is quite possibly the greatest topic in the history of the world. Understanding how the mind and brain give rise to our abilities as humans is fascinating. Please give it a try, you will not regret it!"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The will be expect to gain an in-depth understanding of the basic processes that underpin many of the major abilities found in the human mind. Additionally, students will be expected to understand the methodological issues surrounding the scientific study of cognitive psychology."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "PSYCH 110 or equivalent."
+        }
+    ], 
+    "class_num": 35088, 
+    "attributes": null, 
+    "catalog_num": "228-CN"
+}

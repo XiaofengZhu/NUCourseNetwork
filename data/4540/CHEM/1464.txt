@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1464, 
+    "subject": "CHEM", 
+    "requirements": null, 
+    "title": "Chemistry of Nature and Culture", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "11:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Larry S Trzupek", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 33314, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "201-0"
+}

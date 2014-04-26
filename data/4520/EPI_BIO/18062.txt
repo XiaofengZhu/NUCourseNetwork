@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18062, 
+    "subject": "EPI_BIO", 
+    "requirements": null, 
+    "title": "Intermediate Biostatistics", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Lurie Gray Seminar Room", 
+            "section": "20A", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lei Liu", 
+        "phone": "312/503-3747", 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Rosner B.  Fundamentals of Biostatistics 7h Edition.  Duxbury 2010."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This course is designed to familiarize students with additional statistical techniques and multivariate methods of analysis for epidemiological and clinical studies. Upon completion of this course students should be able to:\n\n\tDescribe the difference between a correlation and regression analysis. \n\tDescribe the assumptions and mechanics for estimating parameters in the simple and multiple linear regression models. \n\tUse SAS and/or R to perform a simple linear regression or multiple linear regression analysis, and interpret the output, including regression parameter estimates, hypothesis tests, confidence intervals, statistics which quantify the fit of the model, and potential confounding.\n\tUse graphical procedures for assessing whether the assumptions underlying the simple or multiple linear regression models are correct.  Describe ways to remedy the problem when the assumptions appear incorrect.\n\tUse graphical procedures for assessing whether there are outliers in a linear regression analysis and whether any of the observations exerts considerably more influence than the other observations in determining estimates of regression coefficients.\n\tDescribe the use of predictor selection procedures for linear regression models.\n\tUse SAS and/or R to perform an analysis of variance (ANOVA) and covariance (ANCOVA), and interpret the output, including sums of squares and F-tests. \n\tUse SAS and/or R for multiple comparisons and interpret results for ANOVA and ANCOVA.\n\tDescribe the logistic regression model, its key assumptions, and their implications.\n\tState the relationships between odds ratios and logistic regression coefficients.\n\tUse SAS and/or R to fit a logistic regression model to continuous and categorical predictors and to obtain odds ratios, and interpret the output, including regression parameter estimates, hypothesis tests, confidence intervals, and statistics that quantify the fit of the model.\n\tDerive the odds ratio between two groups defined by their predictor values\n\tCalculate and interpret the likelihood ratio test comparing two nested logistic models\n\tUse SAS and/or R to obtain Kaplan-Meier survival curves, and interpret results. \n\tUse SAS and/or R to perform a log-rank test and interpret results. \n\tDefine right censoring, hazard function, and proportional hazards.\n\tUse SAS and/or R to fit a Cox proportional hazards regression model to continuous and categorical predictors and to obtain hazard ratios, and interpret the output, including regression parameter estimates, hypothesis tests, and confidence intervals.\n\tDerive the hazard ratio between two groups defined by their predictor values.\n\tCalculate and interpret the likelihood ratio test comparing two nested Cox models.\n\tDetect non-proportional hazards using log-minus-log plots\n\tDescribe situations in which multiple linear regression analysis, logistic regression analysis, or survival analysis is needed.\n\tDetect and model interaction in these multi-predictor models. \n\tUse dummy variables to model categorical predictors and interpret results in each of these models.\n\tInterpret articles in the medical literature that use multiple linear regression, multiple logistic regression, or Cox proportional hazards regression."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites\na) Introduction to Epidemiology - EB301 (or Medical Decision Making II)\nb) Introduction to Biostatistics - EB302\nc) Intermediate Epidemiology or concurrent registration in Intermediate Epidemiology - EB401\nd) College Calculus and Matrix Algebra.\n\nThe student MUST receive permission from the instructor if the courses listed above have not been completed, or are in the process of being completed.\n\nDepartment consent required (permission number)"
+        }
+    ], 
+    "class_num": 13570, 
+    "attributes": null, 
+    "catalog_num": "402-0"
+}

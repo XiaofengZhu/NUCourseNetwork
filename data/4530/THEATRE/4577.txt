@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4577, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Production in Context", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Theater Int Cntr Shop", 
+            "section": "62", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "As posted", 
+        "bio": null, 
+        "name": "Barbara A Butts", 
+        "phone": "847/491-3121", 
+        "address": "1949 Campus Drive, Evanston, IL"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Louis Lobby", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This is a required course, totaling 120 hours of production participation. You are assigned a specific quarter to participate in this course by the department. For you health and academic success, you are expected to keep your schedule free and clear of any and all outside commitments (productions, evening classes, meetings, etc)."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "This course all requires black long sleeve shirt, black pants and black close toed shoes for evening production participation."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will have knowledge and exposure to the collaboration between directors, designers, cast, stage managers and staff. Students will gain a personal experience that allows for access points to the departmental community"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Consent of Department"
+        }
+    ], 
+    "class_num": 21467, 
+    "attributes": "Graded P/N\n\n", 
+    "catalog_num": "140-3"
+}

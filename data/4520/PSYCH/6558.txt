@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6558, 
+    "subject": "PSYCH", 
+    "requirements": null, 
+    "title": "Social Psychology", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Wendi Gardner is an Associate Professor in the Psychology department at Northwestern University.  She is a social psychologist, with research interests in the self concept, culture, social rejection and belonging needs, and emotion.  Professor Gardner has received both departmental and college wide teaching awards, as well as the college award for excellence in undergraduate mentoring.", 
+        "name": "Wendi L Gardner", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Baumeister and Bushman Social Psychology & Human Nature 2e or higher"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, the student will have a general overview of the field of social psychology -the study of how social forces and social relationships shape individual thinking and behavior."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "PSYCH 110 (Introduction to Psychology) or equivalent"
+        }
+    ], 
+    "class_num": 18205, 
+    "attributes": null, 
+    "catalog_num": "204-CN"
+}

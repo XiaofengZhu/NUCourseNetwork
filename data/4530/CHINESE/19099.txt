@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19099, 
+    "subject": "CHINESE", 
+    "requirements": null, 
+    "title": "Chinese III - Accelerated", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Hsiu-ling Robertson", 
+        "phone": "8474671350", 
+        "address": "4-417 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-440", 
+    "end_time": "16:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 34283, 
+    "attributes": null, 
+    "catalog_num": "215-2"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 3014, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Advanced Conversation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "13:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "W 3 - 4PM, Fri 11 - 12PM & by appointment", 
+        "bio": null, 
+        "name": "Marie-Therese Pent", 
+        "phone": "847/467-0833", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-139"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 31638, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nSpecific requirements in the language\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "303-0"
+}

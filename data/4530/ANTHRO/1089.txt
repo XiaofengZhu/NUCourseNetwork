@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1089, 
+    "subject": "ANTHRO", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "My interests in time stem from a 1992-95 study in The Gambia (West Africa) on womens efforts to control the intervals between childrens births.  In this study, my own assumptions about how time works in the body, especially in reproduction and aging, were suddenly dismantled.  The experience has made me go back to some of the classic literature in anthropology for insights into my own society -- how we have come to assign views of time in certain ways.", 
+        "name": "Caroline H Bledsoe", 
+        "phone": "847/491-4825", 
+        "address": "1810 Hinman Ave., Room 201, EV Campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L05", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "The Learning objectives are:\nYou will be able to analyze data\nYou will be to take the material and create your own"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "There will be just one required book to buy (below). The majority of the readings will come from a course reader. In this reader, several items will focus on foundational readings on time in sociology and anthropology. Reading selections from their works will help you orient your discussions explicitly to theory. \n\nAlan Lightman. 1993. Einstein's Dreams. NY: Werner Press.\n\nPhotocopied reader/ Available at Quartet Copies. Corner of Clark & Benson Streets."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "METHOD OF EVALUATION & NUMBER OF WRITING ASSIGNMENTS: Student projects will concern something close at hand involving time. They will be reported in 2 papers: a preliminary summary, worth about 30 percent of grade; and final paper, worth about 50 percent. Participation in readings and class discussion, presentations, and several short papers make up the rest of the grade."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion, student presentations."
+        }
+    ], 
+    "class_num": 24019, 
+    "attributes": null, 
+    "catalog_num": "101-6"
+}

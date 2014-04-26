@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3840, 
+    "subject": "PIANO", 
+    "requirements": null, 
+    "title": "Piano Repertoire", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "13:00:00", 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Julian S Dawson", 
+        "phone": null, 
+        "address": "MAB 711 Elgin Rd, Evanston IL"
+    }, 
+    "term": "2014 Spring", 
+    "room": "Music Administration Bldg 48", 
+    "end_time": "14:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 38496, 
+    "attributes": null, 
+    "catalog_num": "313-3"
+}

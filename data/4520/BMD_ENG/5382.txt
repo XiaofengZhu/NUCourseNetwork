@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 84, 
+    "course_id": 5382, 
+    "subject": "BMD_ENG", 
+    "requirements": null, 
+    "title": "Systems Physiology", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Annenberg Hall G21", 
+            "section": "20", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John B Troy", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 15816, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "301-0"
+}

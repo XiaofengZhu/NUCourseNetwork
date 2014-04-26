@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 20723, 
+    "subject": "ASIAN_ST", 
+    "requirements": null, 
+    "title": "Advanced Topics in Asian Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Stefan Henning", 
+        "phone": "847/491-7044", 
+        "address": "Anthropology Dept., 515 Clark, Room #202 EV Campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Four of the five books we read in this course are available electronically through Northwestern's NUcat website. All of the required books are on reserve in the main library and available for purchase at Norris Books: Xin LIU. 2000. In One's Own Shadow. An Ethnographic Account of the Condition of Post-reform Rural China. Jun JING. 1996. The Temple of Memories. History, Power, and Morality in a Chinese Village. Erik MUEGGLER. 2001. The Age of Wild Ghosts. Memory, Violence, and Place in Southwest China. Li ZHANG. 2001. Strangers in the City. Reconfigurations of Space. Power, and Social Networks Within China's Floating Population. Ann ANAGNOST. 1997. National Past-times. Narrative, Representation, and Power in Modern China."
+        }
+    ], 
+    "class_num": 34149, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "390-3"
+}

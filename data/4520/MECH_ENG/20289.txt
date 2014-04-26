@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20289, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Multi-scale Modeling and Simulation in Solid Mechanics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "w-liu@northwestern.edu", 
+        "bio": null, 
+        "name": "Wing K Liu", 
+        "phone": "847/491-7094", 
+        "address": "Technological Institute, Rm A326, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Software: LAMMPS and ABAQUS will be used for the simulations.\nLab session will be held on Wed (if needed) or mutually agreeable time."
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "There is no required textbook. Some resources relevant to this class are provided below: \nLiu, Wing Kam, Karpov, Eduard G., and Park. Harold S., Nano Mechanics and Materials: Theory,\nMultiscale Methods and Applications. John Wiley & Sons, Ltd, 2006.\nSchroeder, Daniel V. An Introduction to Thermal Physics. Addison Wesley Longman, 1999.\nFish, Jacob and Belytschko, Ted,  A First Course in Finite Elements. John Wiley & Sons, Ltd, 2007.\nBelytschko, Ted, Liu, Wing Kam, and Moran, Brian, Nonlinear Finite Elements for Continua and\nStructures. John Wiley & Sons, Ltd, 2000."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework\nThere will be two homework assignments during the term. The purpose of the homework is to provide the students with an opportunity to apply theoretical and computational concepts to multi-scale problems."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1) Understand the underlying principles of molecular dynamics (equations of motion for atoms, atomic interactions).\n2) Gain proficiency in designing molecular dynamics simulations using available software (LAMMPS). \n3) Understand the connection between information available on small (atomistic) and large (continuum) scales. \n4) Be able to use molecular dynamic simulation (MD) data in a finite element simulation (ABAQUS), and be able to explain the results. \n5) Applications\na. Nanostructure materials: Nanowires: single crystal Si;  Nano Carbons: nanotube, graphite, and nano-diamond.\nb. Polymer nano-composite: polymer mechanics, polymer and polymer-fillers modeling, Multi-scale modeling (MD, Continuum)"
+        }
+    ], 
+    "class_num": 16636, 
+    "attributes": null, 
+    "catalog_num": "417-0"
+}

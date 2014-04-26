@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 16251, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Contemporary Religious Thought", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appointment", 
+        "bio": null, 
+        "name": "Beverly P Mortensen", 
+        "phone": null, 
+        "address": "Religious Studies Dept. Crowe hall, 5-179"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Healing the Heart of Democracy, Parker J. Palmer, Jossey-Bass Printing 2011.  ISBN-10: 0470590807;  ISBN-13: 978-0470590805\n\nEconomic Justice in a Flat World: Christian Perspectives on Globalization, Rundle Steven, IVP Books; Print-On-Demand edition 2012; ISBN-10: 0830856390 ; ISBN-13: 978-0830856398\n\nHuman Capitalism: How Economic Growth Has Made Us Smarter--and More Unequal, Brink Lindsey,  Princeton University Press 2013; ISBN-10: 0691157324; ISBN-13: 978-0691157320\n\nCivilization and the Transformation of Power,James A. Jr. Garrison , Paraview Press 2000; ISBN-10: 1931044007; ISBN-13: 978-1931044004\n\nJustice: A Reader, Michael J. Sande, Oxford University Press, USA  2007; ISBN-10: 0195335120; ISBN-13: 978-0195335125"
+        }
+    ], 
+    "class_num": 24503, 
+    "attributes": null, 
+    "catalog_num": "374-0"
+}

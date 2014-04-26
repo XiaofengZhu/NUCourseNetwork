@@ -1,0 +1,31 @@
+{
+    "overview": "<Element DESCRAREA_VALUE at 1c7d9e0>", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19000, 
+    "subject": "LAWSTUDY", 
+    "requirements": "Enrollment Requirements: CLR I and CLR II are pre-requisites for this course.", 
+    "title": "Effective Legal Writing", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-14", 
+    "end_date": "2014-03-30", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Susan E Provenzano", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Rubloff Building 339", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20028, 
+    "attributes": "Professional Skills Course\n\n", 
+    "catalog_num": "623"
+}

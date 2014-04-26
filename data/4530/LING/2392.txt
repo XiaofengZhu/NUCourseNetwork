@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 115, 
+    "course_id": 2392, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Sound Patterns in Human Language", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appt.", 
+        "bio": null, 
+        "name": "Jessica C Maye", 
+        "phone": "847/491-8050", 
+        "address": "2016 Sheridan Road, Rm. 305"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Together Linguistics 250, 270 (\"Meaning\"), and 260 (\"Formal Analysis of Words and Sentences\") form a three-course introduction to linguistics, for majors and non-majors alike. Each course may be taken independently of the others and in any sequence. All three courses are prerequisites for the major and minor in Linguistics. Linguistics 250 also satisfies the WCAS Area I Distribution Requirement in Natural Sciences."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Title: Vowels and Consonants\nAuthors: Peter Ladefoged and Sandra Ferrari Disner\nPublication Date: May 7, 2012\nISBN-10: 1444334298\nISBN-13: 978-1444334296\nEdition: 3\nTitle: English Phonetics and Phonology\nAuthor: Philip Carr\nPublication Date: September 17, 2012\nISBN-10: 1405134542\nISBN-13: 978-1405134545\nEdition: 2"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "There are 3 homework projects, which are worth a total of 45% of the course grade and 3 in-class exams that are worth a total of 55% of the course grade."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures, in-class activities, homework projects"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "See overview of class."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No prerequisites for the class."
+        }
+    ], 
+    "class_num": 26466, 
+    "attributes": "Natural Sciences Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "250-0"
+}

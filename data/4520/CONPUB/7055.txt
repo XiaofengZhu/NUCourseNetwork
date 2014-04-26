@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 7055, 
+    "subject": "CONPUB", 
+    "requirements": null, 
+    "title": "Immigration Law", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Erin Fielding Delaney", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18035, 
+    "attributes": "Open to First Year Students\n\nConstitutional Law or Procedure an element\n\nLabor and Employment Law present in course\n\n", 
+    "catalog_num": "660"
+}

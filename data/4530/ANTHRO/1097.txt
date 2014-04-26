@@ -1,0 +1,53 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 80, 
+    "course_id": 1097, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "The Study of Culture through Language", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "ANTHRO Sem Rm B07 - 1810 Hinmn", 
+            "section": "61", 
+            "component": "DIS", 
+            "end_time": "09:50:00", 
+            "meeting_days": "Mo", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "William P Murphy", 
+        "phone": "847/491-4832", 
+        "address": "1812 Hinman Ave., Room #305, EV Campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G15", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "READING: REQUIRED BOOKS AND READINGS: \nCavanaugh, Jillian R.  2012.  Living Memory:  The Social Aesthetics of Language in a Northern Italian Town.  Malden, MA:  John Wiley and Sons.  (paperback)\nInoue, Miyako.  2006.  Vicarious Language:  Gender and Linguistic Modernity in Japan.  University of California Press.  (paperback)\nKertsz, Imre.  2004.  Fatelessness.  Translated by Tim Wilkinson.   New York:  Random House (Vintage Books).  (paperback)\nSelected xeroxed readings will be uploaded on Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Four short \"problem sets\" of 2 & one half to 3- page double-spaced papers are required as analytical and ethnographic exercises for students to reflect on the language usage described in the assigned case material as well as in cases that relate to their own everyday experience and observations of language usage.   Problem sets will be discussed in class and discussion sections.   The final is a term paper of 9 - 10 double-spaced pages.  It will allow students to relate key analytical themes of the course to a particular ethnographic case.   All the papers will provide students with an opportunity to think more systematically and rigorously about the social and cultural patterns and processes that are mediated and constituted by language usage.  The four short papers are each worth 10 points of the grade, and the final paper is worth 50 points.   Ten points of the grade is based on participation in discussion sections."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures will combine conceptual and theoretical clarification with a case study approach, with an emphasis on applying concepts and analytical principles to particular ethnographic cases - and scenes of language in social life.  Segments of ethnographic films will also be used as case material for discussion in class.   Each class period will be a combination of lecture and \"practicum.\"   The practicum will allow us to work through together in class, as a \"research team,\" the ethnographic details and analysis of particular cases of semiosis in social life (i.e., the activity of using signs, verbal and nonverbal, in communication).  TA discussion sections are important for developing and clarifying concepts and themes introduced in lectures."
+        }
+    ], 
+    "class_num": 23892, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "215-0"
+}

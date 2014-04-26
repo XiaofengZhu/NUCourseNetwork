@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 20016, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute DG31", 
+            "section": "01", 
+            "component": "LAB", 
+            "end_time": "16:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "15:30:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "16:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Luke Christopher Flores", 
+        "phone": "84746701", 
+        "address": "627 Dartmouth Pl, Searle Center for Teaching Excellence"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M177", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All reading material to be provided by the instructor."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on writing assignments and class participation in discussions and lab exercises."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture, discussion and lab"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Enrollment open only to participants in the Bioscientist program.  Students should contact Dr. Flores to obtain a permission number."
+        }
+    ], 
+    "class_num": 25940, 
+    "attributes": null, 
+    "catalog_num": "116-6"
+}

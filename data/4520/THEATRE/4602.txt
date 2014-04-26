@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 4602, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Advanced Stage Management", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Debra K Styer", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Students must purchase a three-inch D-ring binder, tabs, and two stopwatches. \n\nProfessional paperwork examples provided by the Instructor online through the NUSM Guide. \n\nStage Management Association Forum Minutes."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will expand their sage management knowledge beyond the basics in both written and verbal form. There is a heavy emphasis on problem solving, team building, visual productions, new work, Equity rules and a review of some of the more advanced basics."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Meet with the Professor to have a discussion of goals and gain clarity about the practical aspect of stage managing or assistant stage managing a TIC production."
+        }
+    ], 
+    "class_num": 17200, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "249-2"
+}

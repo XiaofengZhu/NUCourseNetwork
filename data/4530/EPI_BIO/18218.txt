@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18218, 
+    "subject": "EPI_BIO", 
+    "requirements": null, 
+    "title": "Advanced Biostatistics", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Galter Health Sciences Library", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-20", 
+    "start_time": "10:30:00", 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Edward F Vonesh", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lurie Searle Seminar Room", 
+    "end_time": "12:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Fitzmaurice GM, Laird NM and Ware JH (2011). Applied Longitudinal Analysis, 2nd Edition, Hoboken, New Jersey: Wiley.\n\nRequired Software: All numerical analyses will be performed using SAS."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This course is designed to familiarize students with various statistical techniques used to analyze longitudinal data arising from clinical and epidemiological studies in which the outcome or response variable of interest is measured repeatedly over time and possibly under different experimental conditions on each subject. At the end of this course, students should have the ability to: \n\n- describe different sources of correlation and variation in longitudinal studies\n- differentiate between within-subject covariates and between-subject covariates \n- describe various linear models one can use to analyze continuous longitudinal data, their key assumptions and the types of covariance structures most commonly used to account for the correlation that exists with longitudinal data  \n- describe the key elements that define a univariate generalized linear model for non-normally distributed data including the type of response variable being modeled and its corresponding mean, variance and probability distribution\n- describe different methods for how correlation can be introduced into a generalized linear model in order to accommodate the analysis of correlated longitudinal data\n- describe key differences between marginal generalized linear models and generalized linear mixed-effects models in terms of underlying assumptions and subsequent methods of estimation used by each \n- describe inherent differences between marginal models and mixed-effects models in terms of how regression parameters are interpreted under each\n- formulate an appropriate statistical model based on both the type of outcome being measured and on the stated objectives of a particular application\n- use SAS to fit various models to longitudinal data, as appropriate to the study objectives, and constraints of the observed data\n- differentiate between various missing data mechanisms and what impact each has on one's ability to draw valid inference based on the method of analysis chosen for a particular application"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: Equivalent of Biostatistics I and II (Epi Bio 302 and Epi Bio 402 or permission from instructor)\n\nPermission number required. Please contact Meera at meera.tavathia@northwestern.edu"
+        }
+    ], 
+    "class_num": 20134, 
+    "attributes": null, 
+    "catalog_num": "502-0"
+}

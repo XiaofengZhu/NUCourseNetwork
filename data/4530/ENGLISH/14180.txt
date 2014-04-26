@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 14180, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in Literary Theory and Criticism", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Nicholas K Davis", 
+        "phone": "847/491-3433", 
+        "address": "1897 Sheridan, Uh 215, Evanston, IL 60208"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L05", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Seminar discussions will constitute the heart of the course, and a 20-25 page paper will serve for each student as a culminating realization of its themes. Along the way, expect shorter writing exercises and presentations, some informal, some pre-professional."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission of department required"
+        }
+    ], 
+    "class_num": 35154, 
+    "attributes": null, 
+    "catalog_num": "481-0"
+}

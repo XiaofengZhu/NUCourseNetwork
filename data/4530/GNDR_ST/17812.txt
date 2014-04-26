@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 17812, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Gender and Citizenship", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Amy Ruth Partridge", 
+        "phone": "847.491.5872", 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "two short papers, a group presentation and a final essay exam"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar Discussion"
+        }
+    ], 
+    "class_num": 34157, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "353-0"
+}

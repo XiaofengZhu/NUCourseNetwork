@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 4135, 
+    "subject": "GEN_CMN", 
+    "requirements": null, 
+    "title": "Analysis & Performance of Literature", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Carol Simpson Stern", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "\t\nClass Materials (Required)\n\t\nStern, Carol Simpson and Bruce Henderson. LEARNING TO PERFORM: AN INTRODUCTION. Evanston: Northwestern University Press, 2011. and one or two additional anthologies of poems and short stories, titles to be announced later in spring, 2011."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "none"
+        }
+    ], 
+    "class_num": 15353, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "103-0"
+}

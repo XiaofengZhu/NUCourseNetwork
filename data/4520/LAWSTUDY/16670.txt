@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 16670, 
+    "subject": "LAWSTUDY", 
+    "requirements": null, 
+    "title": "Law and Rhetoric", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "James Lupo", 
+        "phone": "312/503-4850", 
+        "address": "Levy Mayer 216"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18068, 
+    "attributes": "1 Draft degree req may be met with class\n\n3 draft degree req may be met with class\n\nConsult Professor about writing requirements\n\nPerspective Elective\n\n", 
+    "catalog_num": "615"
+}

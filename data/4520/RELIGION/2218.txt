@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 150, 
+    "course_id": 2218, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Religion in Human Experience", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Fisk Hall B17", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Richard Kieckhefer", 
+        "phone": "491-2614", 
+        "address": "1860 Campus Drive, Crowe Hall # 4-141"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<ul>\n<li>Will Deming, Rethinking Religion: A Concise Introduction (New York: Oxford University Press, 2005). Edition 05, ISBN: 9780195169812 </li>\n<li>Huston Smith, The World&#39;s Religions (Harp Publ). Rev 09, ISBN: 9780061660184 </li>\n<li>(Further readings will be made available as a photocopy packet)</li>\n</ul>"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Participation in Discussion section: 37%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture: \nDiscussion section:"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Subject matter and modes of thinking."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Registration is open to all students otherwise qualified to register for WCAS courses."
+        }
+    ], 
+    "class_num": 12992, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "170-0"
+}

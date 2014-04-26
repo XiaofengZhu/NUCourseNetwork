@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20750, 
+    "subject": "MOB_APP", 
+    "requirements": null, 
+    "title": "Application Analytics", 
+    "section": "42", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-12-09", 
+    "end_date": "2013-12-11", 
+    "start_time": null, 
+    "component": "42", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18703, 
+    "attributes": null, 
+    "catalog_num": "306-0"
+}

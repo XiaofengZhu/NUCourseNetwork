@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1363, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Michele M McDonough", 
+        "phone": "847/491-5061", 
+        "address": "Hogan Hall, Room - 2-100"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M349", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Reserved books, and selected articles and essays made available on Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Short papers and assignments- 55%; presentations and class participation-30%; Term Project- 15%\n\nApproximately 3-4 writing assignments (~ 3 pages), 1 term project and a small number of other short assignments."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Writing assignments: Short papers, outlines, Term Project\nPresentations: Student presentations\nDiscussion: Class discussion"
+        }
+    ], 
+    "class_num": 25937, 
+    "attributes": "Freshmen Only\n\n", 
+    "catalog_num": "104-6"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 75, 
+    "course_id": 1471, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for Chemistry 232-2. \nAdd both classes to the shopping cart and submit together for successful registration.", 
+    "title": "Organic Chemistry", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoTuWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sonbinh T Nguyen", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M345", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "1. Molecular Model Kit"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. \"Organic Chemistry\" by Clayden et al., Oxford Univ. Press, 2nd Edition"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: Grade of C- or better in Chemistry 212-1 and Chemistry 232-1"
+        }
+    ], 
+    "class_num": 23288, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "212-2"
+}

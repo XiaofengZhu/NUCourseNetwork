@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 6256, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Topics in Combined Studies", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "For over 25 years Leslie Fischer has taught university courses in literature, composition and technical writing, the last 20 at Northwestern University. She also is on the faculty of NU's Writing Program. Fischer's master's thesis at the University of Illinois-Chicago focused on Conrad's Heart of Darkness and her doctoral work at Northwestern University centered on British literature between the two world wars and themes of revisionist mythmaking.\nFischer's professional experience ranges through publishing, career development, as well as freelance corporate and technical writing. Her publishing and editing experience encompasses periodicals as diverse as scholarly journals and four-color gardening magazines. As a principal of a consulting firm, she has conducted workshops and advised individuals on career development. Fischer's freelance writing and editing includes editing marketing letters and writing annual reports and technical documentation.", 
+        "name": "Leslie A Fischer", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Dostoevsky, Fyodor. Notes from Underground. Trans. Richard Pevear and Larissa Volokhonsky. New York: Random. 1994. ISBN 978-0-679-73452-9.\n\nDostoevsky, Fyodor. Crime and Punishment. Trans. Richard Pevear and Larissa Volokhonsky. New York: Random, 1993. ISBN 978-0-6797-34450-5.\n\nStevenson, Robert Louis. Strange Case of Dr. Jekyl and Mr. Hyde.  New York: Oxford, 2008. ISBN 978-0-1995-53622-1.\n\nHammett, Dashiell. Maltese Falcon. New York: Random, 1989. ISBN 978-0-679-72264-9. \n\nIn addition, students will work in groups to analyze contemporary anti-heroes on television or film. In their presentations, they will need to show clips from those shows or films."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To analyze and amplify the concept of anti-hero, as illustrated in various literary texts, television series, and films. \n\nTo hypothesize about why audiences are drawn to anti-heroes and why these anti-heroes seem more prevalent in contemporary culture than traditional heroes. \n\nTo draw connections between the characters, ideas, and themes of the works we study with the cultural and historical context of the works. \n\nTo explain the values that are either endorsed or challenged by the works that we study by examining the complex relationship between the author and audience.\n\nTo construct verbal and written interpretations of the literary works that do justice to the complexity of the works while drawing upon textual evidence to support those interpretations.\n\nTo work in groups analyzing one contemporary anti-hero from television or film and presenting an analysis to the class, with video clips via the Internet or other sources."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students should have completed a college writing course; it is also helpful to have experience in writing about literature."
+        }
+    ], 
+    "class_num": 18191, 
+    "attributes": null, 
+    "catalog_num": "385-CN"
+}

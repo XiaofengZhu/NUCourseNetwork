@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 13009, 
+    "subject": "CSD", 
+    "requirements": "Enrollment Requirements: Reserved for CSD PhD Students Only.", 
+    "title": "Seminar on Professional Development", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Casey Lew-Williams", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 3417", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course materials will be posted on CMS/Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance at all class meetings, class participation, and completion of writing assignments."
+        }
+    ], 
+    "class_num": 33974, 
+    "attributes": null, 
+    "catalog_num": "545-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 1686, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Environmental & Natural Resource Economics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Laura Lynne Kiesling", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-415", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Readings available on Blackboard"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Midterm exam, exam on last day of class, paper due finals week"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two 80-minute lectures with lots of discussion and some in-class small-group work"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Stats 210, Econ 281, 310-1 required; 310-2 encouraged"
+        }
+    ], 
+    "class_num": 26435, 
+    "attributes": null, 
+    "catalog_num": "370-0"
+}

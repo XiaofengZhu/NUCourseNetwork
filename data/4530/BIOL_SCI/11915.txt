@@ -1,0 +1,56 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 11915, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Students must have taken BIOL_SCI 210-3, or 216-0 and 217-0, to register for this course.", 
+    "title": "Biology of Aging", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Fred W Turek", 
+        "phone": "847/467-6512", 
+        "address": "Cook Hall, Room 2-141"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L251", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "TBA"
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Sage KE, http://sageke.sciencemag.org"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Health, Illness, and Optimal Aging (SECOND EDITION) by Aldwin and Gilmer, Springer Publishing Company, copyright 2013, ISBN: 978-0-8261-9346-9 \n \nAdditional reading will be posted on Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "1 midterm, 1 final exam, 1 term paper\n\nLetter grade only. No P/N."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and class discussion"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisites: BIO SCI  210-3; OR 216 and 217."
+        }
+    ], 
+    "class_num": 24003, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "327-0"
+}

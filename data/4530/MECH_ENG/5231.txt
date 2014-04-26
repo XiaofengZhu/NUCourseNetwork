@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 38, 
+    "course_id": 5231, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Special Topics in Mechanical Engineering", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Seth W Snyder", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG76", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Online Lecture Notes & Reference Books"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Project Abstract, Report, and Classroom Presentation.  Students will self-assemble in teams up to three students. Projects will propose creating an R&D center, a company, or organization to address new issues in energy.  Projects will be evaluated based on creativity of the idea, depth of understanding of the engineering principles, and justification of the value of the proposed idea."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The objective is to give students an introduction to current state of the technology in energy production and utilization.  Efficiencies and system design for fossil and renewable energy sources will be compared.  The student will develop an understanding of the current transition in feedstocks, technologies, implementation, and impact."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "First course in Engineering and/or Thermodynamics. This course is for graduate students or advanced undergraduates."
+        }
+    ], 
+    "class_num": 20840, 
+    "attributes": null, 
+    "catalog_num": "395-0"
+}

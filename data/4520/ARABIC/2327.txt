@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2327, 
+    "subject": "ARABIC", 
+    "requirements": null, 
+    "title": "Arabic II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lynn Ellen Whitcomb", 
+        "phone": "8474912770", 
+        "address": "4-321 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Al-Kitaab fii Tacallum al-cArabiyya\nA Textbook for Beginning Arabic: Part One\nThird Edition\nKristen Brustad, Mahmoud Al-Batal, and Abbas Al-Tonsi\nPaperback (1 DVD-ROM)\nISBN: 9781589017368 (1589017366)\n\nArabic-English Dictionary: The Hans Wehr Dictionary of Modern Written Arabic \nby Hans Wehr, J. M. Cowan (Editor) \n\n4th Edition (January 1993) \nISBN:  0879500034"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Final grade for the course will be based on: attendance and participation, homework, quizzes, mid-term exam and final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class time is devoted to conversation, reading, translation and structure exercise.  Regular homework will play an important role in the students' development, so care should be taken that adequate time be allocated between class meetings for the completion of assignments."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ARABIC 111-3 or AAL 105- 3, or equivalent determined through a placement exam."
+        }
+    ], 
+    "class_num": 10422, 
+    "attributes": null, 
+    "catalog_num": "121-1"
+}

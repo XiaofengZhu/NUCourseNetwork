@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2351, 
+    "subject": "KOREAN", 
+    "requirements": null, 
+    "title": "Korean I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Hye-Ryeong Baek", 
+        "phone": "8474912767 no voicemail", 
+        "address": "4-366 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32476, 
+    "attributes": null, 
+    "catalog_num": "111-3"
+}

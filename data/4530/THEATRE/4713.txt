@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 4, 
+    "course_id": 4713, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Seminar-Studies in Theatre", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Dassia N Posner", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Library 3-746 - Sem", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Open to Theatre and Perf. Studies graduate students (required of 2nd and 3rd year MFA directors) by permission of instructor.\nCapped at 10.\nAttendance at first class mandatory."
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "This is primarily a graduate course, but advanced undergraduate students may contact Dassia Posner directly to discuss possible enrollment."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Jean Benedetti, Stanislavski: An Introduction (4th edition); \nNikolai Erdman, The Suicide (2010); \ncourse pack available at Quartet."
+        }
+    ], 
+    "class_num": 34147, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "546-0"
+}

@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 55, 
+    "course_id": 3526, 
+    "subject": "MUSIC", 
+    "requirements": null, 
+    "title": "Western Music Cultures Before 1600", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Specialist in 16th- through 18th-century musics of Latin America and Iberia in global contexts, and 20th-century Britain. Articles and reviews published in Eighteenth-Century Music, Sanctorum, Revista Portuguesa de Musicologia, Journal of the Society for American Music,Heterofona, BoletnMsica (Havana) and The Courtesan's Arts: Cross-Cultural Perspectives. Dissertation <cite>The Italianized Frontier: Music at Durango Cathedral, Espaol Culture, and the Aesthetics of Devotion in Eighteenth-Century New Spain</cite> received the 2006 Wiley Housewright Award from the Society for American Music. Mexico City Regional Coordinator for Musicat, the Seminario Nacional de Msica en la Nueva Espaa y el Mxico Independiente (National Seminar on the Music of New Spain and Independent Mexico) at the Universidad Nacional Autnoma de Mxico (UNAM). Monograph Music and Devotion in New Spain under contract with Oxford University Press.", 
+        "name": "Drew Edward Davies", 
+        "phone": "847/467-3367", 
+        "address": "dedavies@northwestern.edu"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Required for, and limited to, all undergraduates in the Bienen School of Music. Not open to nonmusic majors."
+        }
+    ], 
+    "class_num": 13730, 
+    "attributes": "Prerequisites apply, see description\n\nNo P/N option for this section\n\nMusic Majors Only\n\n", 
+    "catalog_num": "214-0"
+}

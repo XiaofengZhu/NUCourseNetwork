@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19151, 
+    "subject": "MUS_THRY", 
+    "requirements": null, 
+    "title": "Music and Mind", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 11-12 and by appt.", 
+        "bio": "Professor, music theory and cognition program. Research and publications in music cognition focusing on expressive performance, musical communication, and long-term memory for music. President, Society for Music Perception and Cognition. Member, editorial board, Music Perception. Recipient of two Fulbright grants for research in the Netherlands and grants from National Endowment for the Humanities and U.S. Department of Education. Recipient, Bienen School of Music Exemplar in Teaching Award. Also teaches in the cognitive science program.", 
+        "name": "Richard D Ashley", 
+        "phone": "847/491-5720", 
+        "address": "r-ashley@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required Text: \"Psychology of Music: From Sound to Significance\". Tan, Pfordresher, & Harre. Psychology Press"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Evaluation is based on daily homework, a final project, and class participation."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No prerequisites."
+        }
+    ], 
+    "class_num": 36694, 
+    "attributes": null, 
+    "catalog_num": "251-0"
+}

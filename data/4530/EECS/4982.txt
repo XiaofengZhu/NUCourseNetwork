@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 4982, 
+    "subject": "EECS", 
+    "requirements": null, 
+    "title": "Introduction to Database Systems", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Goce P Trajcevski", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 4", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33769, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "339-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 20962, 
+    "subject": "DECS", 
+    "requirements": null, 
+    "title": "Business Analytics I", 
+    "section": "71", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-02-10", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "71", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ronen Gradwohl", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 350", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34479, 
+    "attributes": null, 
+    "catalog_num": "430-B"
+}

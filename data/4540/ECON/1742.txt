@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1742, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Research Seminar in Economic Theory", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jeffrey C Ely", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "17:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 30511, 
+    "attributes": "Graded P/N\n\n", 
+    "catalog_num": "515-0"
+}

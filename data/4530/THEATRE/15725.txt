@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 15725, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "The Art of Storytelling I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "M-F: 9:00-11:00", 
+        "bio": null, 
+        "name": "Lynn Thompson Kelso", 
+        "phone": "847/491-5378", 
+        "address": "1949 Campus Dr, Evanston"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Bergen Theate", 
+    "end_time": "12:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Blood, Peter and Annie Patterson. Rise Up Singing. Sing Out Publications: Bethlehem, Pa, 1992.\n\t\n\tYolen, Jane. Favorite Folktales from Around the World. New York: Pantheon, 1987."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Rives Collins and Pamela Cooper. The Power of Story: Teaching Through Storytelling.Scottsday,Az:Gorsuch Scarisbrick Publishers, 1997.\n\nDavid Holt and Bill Mooney. The Storyteller's Guide. Little Rock, August House Publishers, 1997."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This course is designed for students eager to explore the potential of storytelling in their lives and their work. The course will empower the participants to discover their own distinct voices as they become tellers of stories and to craft stories of value. You will learn to listen as well as tell."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Open registration"
+        }
+    ], 
+    "class_num": 34130, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "312-1"
+}

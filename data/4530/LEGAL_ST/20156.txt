@@ -1,0 +1,45 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 150, 
+    "course_id": 20156, 
+    "subject": "LEGAL_ST", 
+    "requirements": null, 
+    "title": "Law and Society", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "University Hall 101", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Heather Alma Schoenfeld", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Calavita, Kitty. Invitation to Law & Society: An Introduction to the Study of Real Law (University of Chicago 2010), ISBN-13: 978-0-226-08997-3 \n\nAll other course materials are on Blackboard"
+        }
+    ], 
+    "class_num": 26004, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "206-0"
+}

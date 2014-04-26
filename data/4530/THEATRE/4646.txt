@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 4646, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "Scene Painting", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "James F Weber", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Scene Shop", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21470, 
+    "attributes": "Attendance at 1st class mandatory\n\nGraded P/N\n\n", 
+    "catalog_num": "355-0"
+}

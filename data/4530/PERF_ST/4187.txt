@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 4187, 
+    "subject": "PERF_ST", 
+    "requirements": null, 
+    "title": "Seminar: Problems in Performance Studies", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ramon H Rivera-Servera", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annie May Swift Hall 110", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21519, 
+    "attributes": null, 
+    "catalog_num": "515-0"
+}

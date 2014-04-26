@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4858, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Structural Analysis--Dynamics", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute M152", 
+            "section": "01", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "d-corr@northwestern.edu", 
+        "bio": null, 
+        "name": "David J Corr", 
+        "phone": "847/467-0890", 
+        "address": "Tech A335"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Dynamics of Structures: Theory and Applications to Earthquake Engineering / Chopra, Anil / ISBN 978-0132858038  / 2011 / 4th / Prentice Hall"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Three 1-hour lectures each week; One computer lab section each week (1 and 1/2 hours)"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prereq: CIV_ENV 221, Theory of Structures I"
+        }
+    ], 
+    "class_num": 16400, 
+    "attributes": null, 
+    "catalog_num": "320-0"
+}

@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18820, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "The Modern Japanese City", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "I am a professor of modern Japanese history at NU.  I work on the 20th century: I've written two books on economic ideas and economic policy in postwar Japan, edited five books that compare war remembrance in Japan, including the distinctive memories of Okinawans, to remembrance in the United States, Germany, and elsewhere, and am now working on a book about the different ways that people tried to create new institutions in postwar Japan that would prevent another disaster on the scale of their truly awful war.", 
+        "name": "Laura E Hein", 
+        "phone": "847/491-3408", 
+        "address": "Harris Hall Room 325"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-310", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION: Asia/Middle East"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nTakashi Fujitani, Splendid Monarchy\nJordan Sand House and Home in Modern Japan\nTaylor Atkins Blue Nippon"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "One paper analyzing an assigned book(20% of grade); One paper combining analysis of course material and one outside reading(30 % of grade); One film review(15% of grade) Final exam, ( 20% of grade) Attendance and informed participation (15% of grade)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and In-Class Discussions"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Attendance at first class is mandatory"
+        }
+    ], 
+    "class_num": 34377, 
+    "attributes": "Historical Studies Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "382-0"
+}

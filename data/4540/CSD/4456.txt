@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 24, 
+    "course_id": 4456, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Electrophysiology of the Human Auditory System", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Nina Kraus", 
+        "phone": "847/491-3181", 
+        "address": "2240 Campus Drive"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35060, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "425-0"
+}

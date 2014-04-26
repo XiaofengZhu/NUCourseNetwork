@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4006, 
+    "subject": "WIND_PER", 
+    "requirements": null, 
+    "title": "Selected Topics in Winds & Percussion", 
+    "section": "26", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-07-12", 
+    "start_time": null, 
+    "component": "26", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Hsin-Yi Wu", 
+        "phone": "847/491-7228", 
+        "address": "REGENSTEIN 60 Arts Circle Dr, Evanston IL"
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41816, 
+    "attributes": null, 
+    "catalog_num": "335-0"
+}

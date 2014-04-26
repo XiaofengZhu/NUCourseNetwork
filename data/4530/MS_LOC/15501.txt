@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 15501, 
+    "subject": "MS_LOC", 
+    "requirements": "Enrollment Requirements: Reserved for MS_LOC students", 
+    "title": "Leading With Strategic Thinking", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Byron K Simerson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TEXTBOOKS*:\nStrategic Planning: A Practical Guide to Strategy Formulation and Execution (B. Keith Simerson). Santa Barbara, CA: Praeger, 2011. \nISBN-13: 978-0-313-38480\n\nStrategy Safari: A Guided Tour Through the Wilds of Strategic Management. (Henry Mintzberg, Joseph Lampel and Bruce Ahlstrand. NY: The Free Press, 2005.  \nISBN 10: 0743270576\n\nCLASS FEES PAID TO DEPARTMENT:\nNone\n\nOTHER MATERIALS: \nCase studies TBD\n\n*MSLOC textbooks not stocked by Norris or Chicago Bookstores.\n\nCosts may change. Updated 12/2013"
+        }
+    ], 
+    "class_num": 23060, 
+    "attributes": "Department Majors Only\n\n", 
+    "catalog_num": "431-0"
+}

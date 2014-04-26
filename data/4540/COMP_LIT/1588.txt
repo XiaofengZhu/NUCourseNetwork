@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 1588, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Topics in Genre", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "20A", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "W 10-12, or by appointment", 
+        "bio": null, 
+        "name": "Marianne I Hopman", 
+        "phone": "847/491-8361", 
+        "address": "Kresge 1-570"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Reading List:\nFerguson, Salter and Stallworthy, eds.  The Norton Anthology of Poetry, 5th edition \nCourse packet available at Quartet Copies"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Weekly wreading exercises;  two 5-7 page papers;  final project;  final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and required weekly discussion sections"
+        }
+    ], 
+    "class_num": 32711, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "211-0"
+}

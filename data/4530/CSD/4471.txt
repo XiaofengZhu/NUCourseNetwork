@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 4471, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Typical and Atypical Development in Infants and Toddlers", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Amy Elizabeth Booth", 
+        "phone": "847/467-0331", 
+        "address": "2240 Campus Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 1483", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students enrolled in CSD 342 are required to: (1) attend all classes (2) complete all assignments on time and (3) take examinations as scheduled. Students are not entitled to make-up assignments or to grades of Incomplete unless the instructor has approved such arrangements in advance."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Will be posted on Blackboard."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Learning Goals:\n1. Compare and contrast major theories of development\n2. Describe & explain the physical, cognitive, linguistic, emotional & social development of infants & toddlers\n3. Specify relationships between domains of development\n4. Critically evaluate research methodology relevant to studying children from 0 to 3 years of age\n5. Synthesize and describe research and theory relevant to early emerging deviations from the typical developmental pathway"
+        }
+    ], 
+    "class_num": 33965, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "342-0"
+}

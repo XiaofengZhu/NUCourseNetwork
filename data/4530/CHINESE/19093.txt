@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19093, 
+    "subject": "CHINESE", 
+    "requirements": null, 
+    "title": "Chinese I - Accelerated", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoTuWeTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Han Luo", 
+        "phone": "847/467-3314", 
+        "address": "4-415 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G29", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Textbook: Integrated Chinese, Level 1 Part 2 (3rd ed.) \nWorkbook: Integrated Chinese, Level 1 Part 2 (3rd ed.)\nSupplementary materials will be provided in class to students"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Classroom performance, written assignments, three oral quizzes, three written quizzes, and a final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Four regular class hours are for analysis of etymology of Chinese characters, dictation, translation, formal writing, and formal speech. Students will discuss questions from readings and make speeches based on their submitted essays."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Develop and improve reading and writing skills in Mandarin Chinese."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Completed 111-1 or instructor consent."
+        }
+    ], 
+    "class_num": 24263, 
+    "attributes": null, 
+    "catalog_num": "115-2"
+}

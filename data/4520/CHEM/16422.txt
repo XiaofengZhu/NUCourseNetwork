@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 80, 
+    "course_id": 16422, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for Chemistry 121-CN. \nAdd both classes to the shopping cart and submit together for successful registration.", 
+    "title": "General Chemistry", 
+    "section": "65", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "65", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Derek Ward Nelson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Reading ahead in the Petrucci et al. textbook is strongly recommended for satisfactory completion of the course.  Working textbook problems regularly through the week is also critical to success in this course."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All texts  and matierals are available at the Norris Center Bookstore and are the same as the General Chemistry 101 course from Weinberg College of Arts and Sciences. \n\nTEXT FOR LECTURE: \nGeneral Chemistry, 10th Edition, by Petrucci, Harwood, Herring, and Madura, Pearson Prentice Hall, 2010. Used or new books are satisfactory. \n\nACCESS CODE FOR MASTERING CHEMISTRY: \nThe code can be purchased with the textbook or separately. \n\nLABORATORY NOTEBOOK AND SAFETY GOGGLES: \nAvailable for sale by the PLU graduate student group outside of the lecture room the first week(s) of class. \n\nSCIENTIFIC CALCULATOR WITH LOG CAPABILITY -cell phone calculators will not be permitted."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "High school chemistry, college algebra (algebra II/trig in high school), or higher college math course.\n\nKnowledge of calculus is highly advantageous.  An understanding of the following mathematics topics is necessary for satisfactory  completion of the course: 1) simplifying algebraic expressions, 2) solving first-order equations, 3) solving quadratic equations, 4) manipulating logarithms and exponents and 5) linear regression using the model y = mx + b."
+        }
+    ], 
+    "class_num": 18158, 
+    "attributes": null, 
+    "catalog_num": "101-CN"
+}

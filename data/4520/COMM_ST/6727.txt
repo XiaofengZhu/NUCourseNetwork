@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 6727, 
+    "subject": "COMM_ST", 
+    "requirements": null, 
+    "title": "Theories of Argumentation", 
+    "section": "66", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "66", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Randall Iden is a Ph.D. Candidate in the Program in Rhetoric and Public Culture in the Department of Communication Studies at Northwestern University?s School of Communication.  He holds a J.D. from the University of Pennsylvania Law School.  Prior to entering graduate school, he practiced law and managed a manufacturing business.  He has taught various courses including a graduate class in Public Communication and Crisis Management for the Masters of Science in Communication program.", 
+        "name": "Randall Edward Iden", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "To be announced."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The course will include both lecture and discussion and students will be encouraged to contribute contemporary topics of interest through a series of short reports."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 18170, 
+    "attributes": null, 
+    "catalog_num": "220-CN"
+}

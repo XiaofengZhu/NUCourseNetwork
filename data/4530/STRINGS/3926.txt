@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 3926, 
+    "subject": "STRINGS", 
+    "requirements": null, 
+    "title": "Orchestral Studies (Violin,Viola,Cello,Dbl Bass,Harp)", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Blair Milton", 
+        "phone": "8474914768", 
+        "address": "Regenstein - 239"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Regenstein Hall of Music 143", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22533, 
+    "attributes": "Department Majors Only\n\n", 
+    "catalog_num": "319-2"
+}

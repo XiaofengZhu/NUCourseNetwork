@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 15200, 
+    "subject": "MS_ED", 
+    "requirements": null, 
+    "title": "Practicum Seminar -  Secondary Mathematics and Science", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Timothy M Stoelinga", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Brown, Dave F. (2002). Becoming a Successful Urban Teacher. Portsmouth, NH: Heinemann.\n\nTomlinson, C. and Imbeau, M. (2010). Leading and Managing a Differentiated Classroom. Alexandria, VA: ASCD\n\nTomlinson, C. and McTighe, T. (2006). Integrating Differentiated Instruction and Understanding by Design. Alexandria, VA: ASCD\n\nCourse Packet - Practicum Seminar: Math/Science MSED 479/TEACH ED 379 (available at Quartet Copies)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "A. Weekly and timely attendance as well as a willingness to share, reflect, and learn from others (20%)\n\nB. The quality of assigned written reflections (40%) including:\nCompletion of the assigned talking points on CMS\nReflective journals\nPracticum Contract/Mentor Interview\nStudent Interview\nEffective teaching strategy/activity to share\nPatterns of Discourse Assignment\n\nC. Written field notes and the evaluation from your mentor/s at the practicum site (10%)\n\nD. The quality of your assessment essay, management plan, and final portfolio essay\n\nNote: You will also be asked to submit several artifacts, along with corresponding reflections for the digital portfolio"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The Practicum Seminar will also help direct your observations in your schools. Keeping weekly field notes is a requirement for all students in the Practicum. Additionally, students will submit reflective journals and essays that address the topics indicated on the syllabus. Students will also create a preliminary classroom management plan. This written work, reflecting your thinking, your problem-solving, and even some of your early teaching segments, will serve as the beginnings of what will eventually become the Digital Portfolio, a work that grows in size and shape during the student teaching quarter -- and beyond that, into a career."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "As active participants in the field of education, our candidates will strive for improvement and innovation based on inquiry that is grounded in reflection and research. The candidates will have\n\n1. A vision of learning that focuses on:\n1.1 Understanding student thinking about the subject matter,\n1.2 Reflection and research as a means of learning,\n1.3 Learning as a social practice, which encourages collaborative learning in which people clarify doubts, examine beliefs, and work together to address questions and concerns;\n1.4 Authentic experience, where class sections and assignments are designed to engage students' interests and to have implication for the student beyond the classroom, and\n1.5 The use of technology by extending learning opportunities and thinking\n\n2. A vision of the learner that focuses on:\n2.1 Lifelong learning and development shaped by social contexts\n2.2 Student diversity as resource for educational community\n\n3. A vision of teaching that focuses on:\n3.1 Connection of theory to practice, where candidates understand that theories suggest questions and ideas about practice, and practice suggests modification of theory\n3.2 Professional conduct that is responsible and ethical"
+        }
+    ], 
+    "class_num": 14796, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "479-0"
+}

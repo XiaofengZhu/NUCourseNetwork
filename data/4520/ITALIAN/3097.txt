@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 3097, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Dante's Divine Comedy", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 2-415", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "W 4 - 6PM and by appointment", 
+        "bio": null, 
+        "name": "Marco Ruffini", 
+        "phone": "847/491-8268", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-141"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<ul><li><em>The Divine Comedy of Dante Alighieri: Inferno</em>, trans. Robert Durling & Ronald Martinez (Oxford UP)</li>\n<li>other supplementary readings TBA</li></ul>"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No prerequisites in Italian; taught in English"
+        }
+    ], 
+    "class_num": 12841, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nGiven in English\n\n", 
+    "catalog_num": "275-0"
+}

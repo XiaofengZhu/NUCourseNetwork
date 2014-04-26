@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 4, 
+    "course_id": 3731, 
+    "subject": "MUS_THRY", 
+    "requirements": null, 
+    "title": "Topics in Advanced Analysis", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Vasileios Byros", 
+        "phone": "72032", 
+        "address": "MAB 26"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Completion of the music major core theory classes, MUSIC 111-1,2,3, and MUSIC 211-1,2,3."
+        }
+    ], 
+    "class_num": 36673, 
+    "attributes": null, 
+    "catalog_num": "431-0"
+}

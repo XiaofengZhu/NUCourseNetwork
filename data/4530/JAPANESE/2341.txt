@@ -1,0 +1,56 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2341, 
+    "subject": "JAPANESE", 
+    "requirements": null, 
+    "title": "Japanese II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Yumi Shiojima", 
+        "phone": "8474912764", 
+        "address": "4-358 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Endo-Hudson, M. (1994). English Grammar for Students of Japanese. Ann Arbor: The Olivia and Hill Press. ISBN: 978-0-934034-16-6.\nYoshida, M. & Nakamura, Y. (2002). Kodansha's Furigana English-Japanese Dictionary. Tokyo: Kodansha. ISBN: 978-4-7700-2751-1.\nYoshida, M. & Nakamura, Y. (2002). Kodansha's Furigana Japanese-English Dictionary. Tokyo: Kodansha. ISBN: 978-4-7700-2750-4.\nYoshida, M. & Nakamura, Y. (1999). Kodansha' Furigana Japanese Dictionary. Tokyo: Kodansha. ISBN: 978-4-7700-2480-0.\nMakino, S. & Tsutsui, M. (1989). Dictionary of Basic Japanese Grammar. Tokyo: The Japan Times. ISBN 978-4-7890-0454-1."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "ICU (1996). Japanese for College Students Basic vol.2. Tokyo: Kodansha. ISBN: 978-4-7700-1998-X.\nICU (1996). Japanese for College Students Basic vol.3. Tokyo: Kodansha. ISBN: 978-4-7700-1999-8. \nKodansha (2002). Kodansha's Essential Kanji Dictionary. Tokyo: Kodansha. ISBN: 978-4-7700-2891-4.\nCourse Packet made available by instructor."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class participation and performance; weekly quizzes and assignments; oral and written examinations; essays"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class hours are mainly spent on oral development, and written assignments are given for reading and writing development.\n\nThe students are expected to be fully prepared for each lesson they must read the textbook thoroughly and practice the \"Formation\" and \"Drill\" sections of the textbook with the audio files on Blackboard at home.\n\nComputer programs are available for vocabulary, kanji drills and conjugation exercises. Useful expressions in daily life and social and cultural aspects in modern Japan are introduced through a series of videos. This course is conducted mostly in Japanese."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The proficiency goal of Japanese II is to bring students' overall Japanese language proficiency to the Intermediate-Mid level of the ACTFL (American Council on Teaching of Foreign Languages) proficiency guidelines. http://actflproficiencyguidelines2012.org/"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students must pass the preceding class with C- or above, or must be placed into the classes by the departmental placement test."
+        }
+    ], 
+    "class_num": 24312, 
+    "attributes": "Prerequisites apply, see description\n\nSpecific requirements in the language\n\n", 
+    "catalog_num": "121-2"
+}

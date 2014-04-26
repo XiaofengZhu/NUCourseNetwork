@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 20041, 
+    "subject": "HDPS", 
+    "requirements": null, 
+    "title": "Identity and Motivation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mesmin Patrick Destin", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G01", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Banaji, M.R., and Prentice, D.A. (1994) The Self in Social Contexts. Annual Review of Psychology.\n\nHarter, S. (1990) Adolescent Self and Identity Development. In S. S. Feldman and G.R. Elliot (Eds.) At the Threshold: The Developing Adolescent. Cambridge, MA: Harvard University Press.\n\nMarkus, H. and Nurius, P. (1986). Possible Selves. American Psychologist, 41, 954-969.\n\nDestin, M. and Oyserman, D. (2010). Incentivizing Education: Seeing Schoolwork as an Investment, Not a Chore. Journal of Experimental Psychology, 46, 846-849.\n\nDevos, T., and Banaji, M.R. (2003) Implicit Self and Identity. In M.R. Leary and J. Price Tangney, (Eds.), Handbook of Self and Identity. New York: Guilford Press.\n\nBargh, J.A., Gollwitzer, P.M., Lee-Chai, A., Barndollar, K., and Trotschel, R. (2001). The Automated Will: Non-conscious Activation and Pursuit of Behavioral Goals. Journal of Personality and Social Psychology, 81, 1014-1027."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prior completion of an introductory or higher level course in Psychology is required to enroll."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assessment: \nDiscussion Questions & Participation (60 points) \nThree questions in response to the assigned readings (including at least one discussion and one clarification question) are due on blackboard by 5pm the day before each class. Late submission or failed attendance will result in half credit. \n\nMidterm Take-Home Exam (60 points) \nThe midterm exam will assess your ability to integrate bodies of theory covered during the first half of class. \n\nGroup Activity (60 points) \nGroup presentations will take place during the last half of class, focusing on applications related to identity and motivation in the real world. \n\nFinal Paper (60 points) \nA final paper will assess your ability to apply theory to real world issues and propose a theory-based intervention, program, or policy."
+        }
+    ], 
+    "class_num": 23072, 
+    "attributes": "No Freshmen\n\n", 
+    "catalog_num": "305-0"
+}

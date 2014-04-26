@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 2652, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Proseminar (2nd Yr Grad Students Only)", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kyla Sue Ebels Duggan", 
+        "phone": "847/467-0437", 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Seminar paper."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Individual Meetings"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Complete seminar papers."
+        }
+    ], 
+    "class_num": 33767, 
+    "attributes": "Graduate Students Only\n\n", 
+    "catalog_num": "402-2"
+}

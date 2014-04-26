@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 16874, 
+    "subject": "MSA", 
+    "requirements": "Enrollment Requirements: Reserved for MSA Students Only", 
+    "title": "Sports Media and Broadcast Relations", 
+    "section": "50", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "19:00:00", 
+    "component": "50", 
+    "school": "UC", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "George S Kirkpatrick", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "University Hall 102", 
+    "end_time": "21:30:00", 
+    "coursedesc_set": [], 
+    "class_num": 38904, 
+    "attributes": null, 
+    "catalog_num": "411-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 5776, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Introduction to Epidemiology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rowland W Chang", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lurie Baldwin Auditorium", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Optional:\n\n1. Fletcher RH, Fletcher SW, Wagner: Clinical Epidemiology: The Essentials. 5th edition. Williams & Wilkins, Baltimore MD, 2013.\n\n2. Coughlin SS, Soskoline CL, Goodman KW: Case Studies in Public Health Ethics. American Public Health Association, Washington, DC 1997. \n\n3. Kachigan SK. Statistical Analysis: An Introduction to Univariate and Multivariate Methods. Radius Press.\n\n4. Rosner B. Fundamentals of Biostatistics, 5th Edition. Duxbury, Pacific Grove, CA, 2000."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Rothman KJ. Epidemiology, an introduction. 2nd edition. Oxford University Press, 2012"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "- Describe how the tools of epidemiology allow for the study of how the ecology of Chicago impacts on morbidity and mortality. \n- Define nominal/ordinal/interval data; validity, reliability.\n- Explain meaning and use of \"p-values\" and confidence intervals.\n- Define, calculate, & use cumulative & person/time incidence rates, prevalence rates; crude and specific rates\n- Describe different types of descriptive studies & how they are used to describe person/place/time characteristics of disease/illness events\n- Explain uses & limitations of: correlational (ecological) studies, case reports/ series, cross-sectional studies. \n- Define Public Health Surveillance and explain the major uses of immediate, annual, and archival surveillance information; explain the major elements in establishing a surveillance system. Give examples of active and passive surveillance systems.\n- Recognize & be able to describe important sources of error in epidemiology studies, including different types of bias.\n- Define confounding and give examples.\n- Explain when adjustment is necessary and/or appropriate\n- Perform simple direct & indirect standardization\n- Explain what screening is and when screening is appropriate\n- Describe the basic elements of a good screening program.\n- Define sensitivity, specificity, and positive & negative predictive value, explain their relation to each other and to disease prevalence; be able to calculate these quantities given appropriate data \n- Describe a cohort study & explain advantages & limitations of cohort study design, including important types of bias, & how to address these in study design.\n- Define relative risk, attributable risk, and number needed to treat (harm); be able to calculate & interpret these quantities.\n- Define & recognize a case-control study; understand advantages & limitations of case-control design, including important types of bias & how to address these in study design.\n- Define odds ratio & how this differs from relative risk; calculate & interpret odds ratios.\n- Compare & contrast case-control & cohort methodology; apply these methods appropriately.\n- Explain how intervention studies differ from observational studies\n- Define \"intention to treat\" and recognize when this concept should be applied.  \n- Apply \"number needed to treat\" concept in interpreting results of intervention studies.\n- Recognize and identify different types of intervention studies; e.g., drug trials, prevention studies.\n- Describe basic elements of randomized clinical trials; recognize & define \"stages\" of trials used in drug development, including post-marketing surveillance.\n- Discuss and apply ethical concepts related to intervention studies\n- Describe basic steps of an outbreak investigation & types of bias likely to affect outcome investigation; be able to suggest appropriate control mechanisms & discuss their benefits & limitations.\n- Define & recognize: common source vs. propagated epidemic; vector, reservoir.\n- Define the three levels of prevention and costs associated with each level.\n- Be able to discuss the ethical issues surrounding prevention research in developing countries.\n- Be able to discuss epidemiologic issues related to electronic health records and meaningful use as related to the HITECH Act"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission number required. Please contact Meera at meera.tavathia@northwestern.edu."
+        }
+    ], 
+    "class_num": 20070, 
+    "attributes": null, 
+    "catalog_num": "304-0"
+}

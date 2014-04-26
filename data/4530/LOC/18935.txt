@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 18935, 
+    "subject": "LOC", 
+    "requirements": null, 
+    "title": "Psychology of Technology & Instructional Design", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "David Neil Rapp", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall 303", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course topics include psychological principles of design and instruction, constructivist learning, motivation, interactivity, learning models, multimedia and hypermedia effectiveness, interface design, and technology assessment. Due to the lack of any broad-based text covering these issues, as well as the paucity of introductory texts that specifically target educational technology, the instructor has compiled a set of papers that represent core topics, discussions, and trends in the field.\n\nYou are required to read the assigned readings prior to each class. While the course readings are sizable, they are manageable if you plan accordingly. The readings will be made available to you via the Blackboard website for the course."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework assignments: 10 points each - total 70 points\nDiary assignment: 20 points\nA 4-6 page critique of a popular press article addressing issues in Educational Technology: 20 points\nA 5-7 page software evaluation: 30 points\nParticipation in class: 10 points"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To acquire knowledge about theoretical and practical approaches to learning as they pertain to instructional design.\nTo evaluate instructional media using informed research and theory in educational technology.\nTo develop an understanding of important issues in the implementation of educational methodologies, and to become aware of current trends in the fields of instructional design and the learning sciences."
+        }
+    ], 
+    "class_num": 34248, 
+    "attributes": null, 
+    "catalog_num": "346-0"
+}

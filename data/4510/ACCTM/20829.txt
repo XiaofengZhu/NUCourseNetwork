@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20829, 
+    "subject": "ACCTM", 
+    "requirements": null, 
+    "title": "Accounting for Decision Making", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "1A", 
+            "component": "DIS", 
+            "end_time": "12:20:00", 
+            "meeting_days": "We", 
+            "start_time": "11:00:00"
+        }
+    ], 
+    "start_date": "2013-07-30", 
+    "end_date": "2013-08-30", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "KGSM", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mark W Finn", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 42357, 
+    "attributes": null, 
+    "catalog_num": "430-0"
+}

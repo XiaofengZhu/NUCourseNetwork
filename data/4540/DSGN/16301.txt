@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 16301, 
+    "subject": "DSGN", 
+    "requirements": null, 
+    "title": "Advanced Topics in Design", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-05-03", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael Joseph Beltran", 
+        "phone": "847/467-1995", 
+        "address": "Technological Institute, Rm AG28, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34537, 
+    "attributes": null, 
+    "catalog_num": "397-0"
+}

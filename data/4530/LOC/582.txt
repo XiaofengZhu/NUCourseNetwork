@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 582, 
+    "subject": "LOC", 
+    "requirements": null, 
+    "title": "Learning Organizations for Complex Environments", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Doris Jean Blesoff", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G02", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Fifth Discipline by Peter Senge, 2006 edition\nLeadership and the New Science by Margaret Wheatley, 2nd edition"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "1. Be present in class. Complete and knowledgeably discuss the readings assigned for each class (10% of final grade). It is expected that every student will attend every class, or request an excused absence if something serious occurs. Absence from more than 2 classes will impact a student's grade. Each week several students will be asked to report briefly on the highlights of that week's reading.\n2. Upload to Blackboard three assigned Learning Briefs of 2 pages, demonstrating your understanding of one key concept presented in the week's readings, with a real application of the concept in your own experience. (30% of final grade). Criteria will include: college level writing (5 points), definition of key concept (10 points), and application to real life (15 points). An optional Learning Brief is available to students who want the opportunity to raise their average, only if all the other required Briefs have been completed and graded.\n3. Participate fully in a Learning Team which will meet weekly and prepare a team project to present to the entire class on Week 9 or 10. (Team will evaluate each individual based on agreed upon evaluation criteria, 20% of final grade).\n4. In-class Mid-Term will be given during Week 5 (10% of grade). Focus will be on definitions of key concepts.\n5. Complete Final Exam OR Final Paper (30% of final grade). The requirement for the exam or final paper Is to demonstrate knowledge of the key concepts covered in class by defining and applying them in real-life situations. (List of Key Concepts will be distributed, and requirements for final paper defined). If you choose the final paper, it is required that you draft an outline for Professor Blesoff's approval before Class 7).   \n\nFinal Exam - posted in Blackboard on Week 8, to be completed and posted by beginning of class, on Week 10. \nFinal paper, 12-15 pages (with required key concepts applied to a specific organization), posted on Blackboard by beginning of class, Week 10."
+        }
+    ], 
+    "class_num": 23013, 
+    "attributes": "No Freshmen\n\n", 
+    "catalog_num": "310-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 1, 
+    "course_id": 15602, 
+    "subject": "SHC", 
+    "requirements": null, 
+    "title": "Science in Human Culture Senior Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Steven G Epstein", 
+        "phone": "847/491-5536", 
+        "address": "1810  Chicago Ave, EV campus"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 11346, 
+    "attributes": null, 
+    "catalog_num": "398-1"
+}

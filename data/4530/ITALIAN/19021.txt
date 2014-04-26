@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19021, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Neorealism and International Film: Framing Reality", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TuTh 11 - 12PM", 
+        "bio": null, 
+        "name": "Domietta Torlasco", 
+        "phone": "847/491-8269", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-131"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Saverio Giovacchini and Robert Sklar, eds., Global Neorealism: The Transnational History of a Film Style\n\nAdditional course materials will be made available in a course packet."
+        }
+    ], 
+    "class_num": 34086, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nGiven in English\n\n", 
+    "catalog_num": "277-0"
+}

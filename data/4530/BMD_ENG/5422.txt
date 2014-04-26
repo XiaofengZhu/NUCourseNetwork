@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 39, 
+    "course_id": 5422, 
+    "subject": "BMD_ENG", 
+    "requirements": null, 
+    "title": "Advanced Systems Physiology", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute L211", 
+            "section": "20", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Vadim Backman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute AUD", 
+    "end_time": "12:30:00", 
+    "coursedesc_set": [], 
+    "class_num": 20360, 
+    "attributes": "Graduate Students Only\n\n", 
+    "catalog_num": "402-0"
+}

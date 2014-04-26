@@ -1,0 +1,36 @@
+{
+    "overview": "<em>Graduate Review of Music History</em> <p>This course will review the history of western art music with an overall aim of providing useful skills for the graduate careers and working lives of professional musicians. Beyond the goal of identifying and addressing students' areas of weakness in preparation for music-history comprehensive exams, our special focus will be the acquisition of pedagogy skills for the college-level teaching of music history, and most of the quarter's assignments (teaching demos, sample syllabi, etc.) will be designed to enhance students' experience in this area.</p>", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 17433, 
+    "subject": "MUSICOL", 
+    "requirements": "Enrollment Requirements: Reserved for Doctor of Music Students", 
+    "title": "Graduate Review of Music History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Scott D. Paulin is a musicology lecturer specializing in 20th- and 21st-century topics including music and sound in film, popular genres, American music, and the history of recorded sound.", 
+        "name": "Scott Douglas Paulin", 
+        "phone": null, 
+        "address": "s-paulin@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 229", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Required text: Richard Taruskin and Christopher Gibbs, The Oxford History of Western Music, College Edition (Oxford University Press, 2012) ISBN13: 9780195097627, ISBN10: 0195097629"
+        }
+    ], 
+    "class_num": 22988, 
+    "attributes": null, 
+    "catalog_num": "400-0"
+}

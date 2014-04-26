@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2203, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Topics in History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Daniel Sepinuck Immerwahr", 
+        "phone": "847/491-7418", 
+        "address": "Harris Hall Room  225"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L40", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nJeremy Adelman, Sovereignty and Revolution in the Iberian Atlantic\nGiovanni Arrighi, The Long Twentieth Century: Money, Power, and the Origins of Our Times\nMatthew Connelly, Fatal Misconceptions: the Struggle to Control World Population\nDavid Edgerton, The Shock of the Old: Technology and Global History since 1900\nAdrian Johns, Piracy: the Intellectual Property Wars from Gates to Guttenberg\nJohn McNeill, An Environmental History of the Twentieth Century World\nPankaj Mishra, From the Ruins of Empire: the Intellectuals Who Remade Asia\nJim Sweet, Domingos Alvarez, African Healing, and Intellectual History in the Atlantic World"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class participation, final paper"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar"
+        }
+    ], 
+    "class_num": 34387, 
+    "attributes": "Attendance at 1st class mandatory\n\nGraduate Students Only\n\n", 
+    "catalog_num": "492-0"
+}

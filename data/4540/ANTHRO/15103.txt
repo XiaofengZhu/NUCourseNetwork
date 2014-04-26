@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 15103, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "Medical Anthropology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "12:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rebecca A Seligman", 
+        "phone": "847/491-7207", 
+        "address": "1810 Hinman Ave., Room #204, EV Campus"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 33406, 
+    "attributes": "Juniors/Seniors Only\n\n", 
+    "catalog_num": "315-0"
+}

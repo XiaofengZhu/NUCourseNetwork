@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 19684, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: Only students in the MSJ program may enroll in these classes", 
+    "title": "Media Design Research and Testing", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-05-05", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jeremy D Gilbert", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35753, 
+    "attributes": null, 
+    "catalog_num": "477-0"
+}

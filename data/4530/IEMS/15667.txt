@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 15667, 
+    "subject": "IEMS", 
+    "requirements": "Enrollment Requirements: Reserved for Masters of Engineering Management Students or by permission from MEM.", 
+    "title": "Project Management 1", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mark W Werwath", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M152", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33850, 
+    "attributes": null, 
+    "catalog_num": "426-1"
+}

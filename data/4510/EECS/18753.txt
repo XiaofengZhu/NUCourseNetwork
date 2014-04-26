@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18753, 
+    "subject": "EECS", 
+    "requirements": null, 
+    "title": "Graduate Seminar in EECS", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-08-31", 
+    "start_time": null, 
+    "component": "21", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Selim M Shahriar", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 40738, 
+    "attributes": null, 
+    "catalog_num": "512-4"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 20715, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Introduction to Yiddish Culture: Shtetl", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Marcus G Moseley", 
+        "phone": "847/467-4712", 
+        "address": "Kresge 2-525"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Shtetl: A Creative Anthology of Jewish Life in Eastern Europe, ed. and tr. Joachim Neugroschel (Woodstock NY, 1989)\n\nA Shtetl and Other Yiddish Novellas, ed. by Ruth Wisse (New York, 1986)\n\nThe I. L. Peretz Reader, ed. and with an introduction by Ruth Wisse (New York, 1990), pp. 17-77\n\nSholem Aleichem, Tevye the Dairyman and the Railroad Stories, tr. and with an introduction by Hillel Halkin (New York, 1987)\n\nIsaac Bashevis Singer, In My Father's Court (New York, 1967 and many later editions)\n\nAbraham Joshua Heschel, The Earth is the Lord's (New York 1962 and later editions)\n\nMark Zborowski and Elizabeth Herzog, Life is with People: the Culture of Shtetl Life (New York 1995)\n\nSteven J. Zipperstein, Imagining Russian Jewy: Memory, History, Identity (University of Washington Press, 1990)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students are expected to take an active part in class discussion (30% of the course grade), to write a midterm essay of 3-5 pages (30%) and a 10 page essay  at the end of term (40%)."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This class provides the student with a vocabulary for the understanding of Eastern European Jews, their languages, life-style, religion and the controversies surrounding the impact of modernity upon the community.  On a more general level, students are taught how to read literary texts critically and writing-skills are improved."
+        }
+    ], 
+    "class_num": 17140, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "266-0"
+}

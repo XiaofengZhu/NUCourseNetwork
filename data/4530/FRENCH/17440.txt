@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 17440, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Introducing Theatre", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Sylvie Romanowski", 
+        "phone": "847/491-2772", 
+        "address": "1860 S. Campus Drive, Crowe Hall #3-141"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Library 3722", 
+    "end_time": "14:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Racine, Andromaque\nMolire, L'Ecole des femmes\nBeaumarchais, Le Barbier de Sville\nJarry, Ubu Roi\nBeckett, En attendant Godot\nCamus, Caligula\nCsaire, Une tempte"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students will take part in discussions, prepare oral reports, and write two papers. There will also be an in-class essay and a final examination."
+        }
+    ], 
+    "class_num": 35279, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nPrerequisites apply, see description\n\nReading, writing, speaking proficiency\n\n", 
+    "catalog_num": "272-0"
+}

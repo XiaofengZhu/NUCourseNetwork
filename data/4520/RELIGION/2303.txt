@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2303, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Classical Theories of Religion", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Robert A Orsi", 
+        "phone": "847 4675175", 
+        "address": "Crowe Hall, 1860 Campus Drive, 4-141"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Books Required: <ul>\n <li>Jos de Acosta,<i> Natural and Moral History of the Indies</i></li>\n<li>Talal Asad, <i>Gealogies of Religion: Discipline and Reasons of Power in Christianity and Islam</i></li>\n<li>Mircea Eliade, <i>The Sacred and the Profane</i></li>\n<li>Daniel Gold, <i>Aesthetics and Analysis in Writing on Religion: Modern Fascinations</i></li>\n<li>Clifford Geertz, <i>The Interpretation of Cultures </i></li>\n<li>David Hume,<i> Natural History of Religion </i></li>\n<li>William Robertson Smith, <i>The Religion of the Semites</i></li>\n<li>Leigh Eric Schmidt, <i>Hearing Things: Religion, Illusion, and the American Enlightenment</i></li>\n<li>Edward Burnett Tylor, <i> Religion in Primitive Culture </i></li>\n<li>Jason Josephson, <i>The Invention of Religion in Japan</i></li>\n<li>Lee Palmer Wandel, <i>The Eucharist in the Reformation: Incarnation and Liturgy</i></li></ul>"
+        }
+    ], 
+    "class_num": 12655, 
+    "attributes": null, 
+    "catalog_num": "481-1"
+}

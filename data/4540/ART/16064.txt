@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 16064, 
+    "subject": "ART", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Reserved for students must have taken and passed Art 150-0. Students who have not taken the pre-req need permission to enroll.", 
+    "title": "Intermediate Photography", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Pamela Bannos is a Senior Lecturer who has been teaching in the Department of Art Theory and Practice since 1993. She has worked with nearly every photographic process and format from 19th century gum prints to web-based digital works. She has exhibited her work nationally and internationally.", 
+        "name": "Pamela L Bannos", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 33019, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\n", 
+    "catalog_num": "250-0"
+}

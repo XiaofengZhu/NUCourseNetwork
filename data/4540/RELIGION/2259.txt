@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 23, 
+    "course_id": 2259, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Topics in Judaism", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Yakir Englander", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Practical Talmud Dictionary (978-0873065887)"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Talmud, The Steinsaltz Edition: A Reference Guide (978-0679773672)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will learn how to study the Talmud. This will improve critical thinking skills, analysis and argumentation."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No requirements."
+        }
+    ], 
+    "class_num": 31812, 
+    "attributes": null, 
+    "catalog_num": "339-0"
+}

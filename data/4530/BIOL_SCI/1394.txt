@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 1394, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Pre-requisite: Students must have completed BIOL_SCI 302-0 to register for this course.", 
+    "title": "Fundamentals of Neurobiology II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Mark Segraves", 
+        "phone": "847/491-5072", 
+        "address": "Cook Hall, Room 2-137"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M152", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Neuroscience, 5th Edition edited by Purves, Augustine, Fitzpatrick, Hall, LaMantia, and White. Published by Sinauer. ISBN: 978-0-87893-695-3"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Two exams, term paper, class participation, and group presentation"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures; discussion of research articles."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite Biol Sci 302-0"
+        }
+    ], 
+    "class_num": 23280, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "306-0"
+}

@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 8, 
+    "course_id": 1994, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "German Contributions to World Literature", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Kresge Centennial Hall 4-345", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mark Vinzenz Alznauer", 
+        "phone": "847/491-2559", 
+        "address": "Crowe 3-167"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Reading List\n\n1) Metaphysics of Morals (Cambridge Texts in the History of Philosophy), Immanuel Kant, Cambridge (0521566738)\n\n2) Elements of the Philosophy of Right (Cambridge Texts in the History of Political Thought), G. W. F. Hegel, Cambridge (0521348889)\n\nThe Course Reader contains additional selected readings."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students will be evaluated on the basis of two papers (a final research paper and a short midterm paper), a presentation, short weekly responses, and attendance/participation."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion/Student Presentations"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission Required."
+        }
+    ], 
+    "class_num": 34211, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nGiven in English\n\nNo prerequisite in the language\n\nJuniors/Seniors Only\n\n", 
+    "catalog_num": "322-0"
+}

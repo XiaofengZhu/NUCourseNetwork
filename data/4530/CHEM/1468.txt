@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 150, 
+    "course_id": 1468, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Co-Requisite:  Students must also register for Chemistry 230-2 01. \nAdd both classes to the shopping cart and submit together for successful registration.\n\nPrerequiste: Student must have received a C- or higher or currently enrolled in CHEM 210-1 to register for this course.", 
+    "title": "Organic Chemistry", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoTuWeTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Owen P Priest", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Tech Institute Lecture Room 2", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "1. Solutions Manual for Organic Chemistry , Simek and Wade, Pearson, 8th \n2. Molecular Model Kit"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. \"Organic Chemistry\" by Wade, Pearson, 8th Edition\n2. Turning Point Response Card, Model NXT - Required for Sections 01 and 03 (Instructor: Owen Priest)\n\nCUSTOM TEXT PACKAGES (Available at Norris Bookstore):\n\nFor Students Taking the Entire Chem 210 Sequence (210-1, 210-2, 210-3):\n\n\"Organic Chemistry\" by Wade, Pearson, 8th Edition + \"Organic Chemistry\" by Bruice (Selected Chapters), Pearson, 6th Edition + Online Access to Mastering Chemistry + Student Solutions Manual/Study Guide\n\nOR\n \nFor Students Taking Only Chem 210-1 and 210-2 (Optional Package):\n\n\"Organic Chemistry: by Wade, Pearson, 8th Edition + Student Solutions Manual/Study Guide"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: Grade of C- or better in Chemistry 210-1"
+        }
+    ], 
+    "class_num": 23286, 
+    "attributes": "Natural Sciences Distro Area\n\nCHEM 210 9AM requires enrollment in CHEM 230 9AM\n\n", 
+    "catalog_num": "210-2"
+}

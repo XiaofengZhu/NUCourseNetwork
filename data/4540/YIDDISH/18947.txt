@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 18947, 
+    "subject": "YIDDISH", 
+    "requirements": null, 
+    "title": "Intermediate Yiddish", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Mon 2-3 PM,  Thur 2:30-3:30 PM", 
+        "bio": null, 
+        "name": "Anita Turtletaub", 
+        "phone": "8474670574", 
+        "address": "2-510 Kresge"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 37496, 
+    "attributes": null, 
+    "catalog_num": "102-3"
+}

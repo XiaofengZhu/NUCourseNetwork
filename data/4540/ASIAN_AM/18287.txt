@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 18287, 
+    "subject": "ASIAN_AM", 
+    "requirements": null, 
+    "title": "Asian American Women's History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": "Ji-Yeon Yuh is a native of Seoul and Chicago, a former journalist, and a mother of three. Her intellectual passions are wide-ranging, but these days are focused on diaspora, memory, and community. She is active in Asian American community organizations, was the director of the Asian American Studies Program at  Northwestern, of which she is a founding faculty member, and has written on Korean diaspora. She teaches courses on Asian diaspora, Asian American history, oral history, Asian American women, and comparative race and gender.", 
+        "name": "Ji-Yeon Yuh", 
+        "phone": "847/467-6538", 
+        "address": "Harris Hall Room 306"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33082, 
+    "attributes": "Historical Studies Distro Area\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "304-0"
+}

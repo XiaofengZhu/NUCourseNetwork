@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 15715, 
+    "subject": "INF_TECH", 
+    "requirements": null, 
+    "title": "Selected Topics in Information Technology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M152", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34529, 
+    "attributes": null, 
+    "catalog_num": "490-0"
+}

@@ -1,0 +1,60 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1533, 
+    "subject": "LATIN", 
+    "requirements": null, 
+    "title": "Readings in Latin Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John P F Wynne", 
+        "phone": "847/467-1843", 
+        "address": "Crowe 1-103"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Students are strongly encouraged to read the whole Metamorphoses in English before the first class."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance\nClass participation\nExam-final\nExam-midterm\nOnline work\nPaper-final\nPresentations"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class participation\nDiscussion\nOnline work\nPresentations\nReadings\nWriting assignments\nTranslation from the Latin"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Advanced Latin reading proficiency; intimate understanding of the Metamorphoses; speaking, writing, and reading skills in English."
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "All readings will be posted to Blackboard."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All readings will be posted to Blackboard."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Latin 203 or equivalent."
+        }
+    ], 
+    "class_num": 31595, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nReading in the language, discussion in English\n\nSpecific requirements in the language\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "310-0"
+}

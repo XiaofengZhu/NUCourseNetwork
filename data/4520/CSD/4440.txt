@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 4440, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Functional Neuroanatomy", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Frances Searle Building 1421", 
+            "section": "21", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sazzad Mahmud Nasir", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Extra credit:\nThere are two ways you can earn up to 2% (total) of your overall course grade.  You may do both.  Only typed hard copies (see below) will be accepted.\n\n1. Read/watch ALL of the following;\nHemon, A. (2011). The Aquarium.  The New Yorker, June 13 and 20, 50-62 (on Blackboard)\nBauby, J.-D. (1998). The Diving Bell & and the Butterfly. (any edition/publisher) \nJill Bolte Taylor's TED talk (http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html)\n\nWrite a well thought-out 2-3-page analysis that incorporates key concepts, similarities, and differences among these works and discusses what you learned from them.  How do they bridge this class to clinic?  How will they inform and guide your clinical practice? (1%) [Due by week 8]\n\n2. Read at least 3 articles published in scholarly journals (e.g., Science, Journal of \nNeuroscience, Brain) in the past 3 years that have implications on our understanding of the pathophysiology of one neurologic disorder.  Write a 2-3-page double-spaced summary synthesizing the articles. (1%)  Please turn in the articles with your paper. [Due by week 8]"
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Internet Resources:\nNeurologic examination videos: http://isc.temple.edu/neuroanatomy/lab/neuexam/intro.htm \nAnatomy of the brain: www.neuroanatomy.ca\nNeurologic exam: http://library.med.utah.edu/neurologicexam/html/home_exam.html\nNeuroexam: http://www.neuroexam.com/neuroexam/index.php"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Nolte, J.  The Human Brain: An Introduction of Its Functional Anatomy 6th Edition.  St. Louis, MO: Mosby. Required (NOLTE).\nNolte, J.  Essentials of the Human Brain, 6th Edition.  St. Louis, MO: Mosby. Recommended.\nBlumenfeld, H.  Neuroanatomy Through Clinical Cases, 2nd Edition.  Sinauer Associates. Recommended."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assessment & Grading \nExam 1: 10%\nExams 2, 3, 4, 5: 12.5% each\nCase Exams: 30%\nCranial Nerve Exam: 10%\n\nAll Exams will be completed in class. Specific letter grade will then be assigned as indicated below:\n94.00% or higher = A; \t90.00%-93.99% = A- \n87.00%-89.99% = B+;   83.00%-86.99% = B;   80.00%-82.99% = B- \n77.00%-79.99% = C+; \t73.00%-76.99% = C;   70.00%-72.99% = C-\n60.00%-69.99% = D (assigned to undergraduate students only)\n59% (or 69.99% for graduate students) or below = F\n\nAny student who receives a grade below a B- (or \"fail\" for students who are taking the course on a pass/no credit basis) on any exam is required to take a remediation exam. This is for the purposes of demonstrating competency only, not for changing any numeric scores or grades. Regardless of the final numeric score, failing to follow these procedures will result in an F for the course.\n\nYou have 1 business day from when the graded exam is returned to you to dispute your grade. To do so, you will need to submit a written argument to the TA's office. Note that the entire exam will be reviewed; this may result in an increase or decrease of the original grade.\n\nCase Exams aimed at increasing comprehension and retention of covered information fostering differential diagnosis will be conducted on selected evenings.\n\nCranial Nerve Exams will be graded on a pass/fail basis and you can make a maximum two attempts."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the conclusion of the course, students will be able to:\n1. Describe components and functions of neurons and glial cells, and cellular layers in various brain regions.\n2. Describe development of the normal human brain; describe disorders resulting from abnormal development.\n3. Describe neural circuits involved in motor and somatosensory functions (including swallowing), including structures in the peripheral and central nervous systems.\n4. Describe neural circuits involved in olfactory, gustatory, visual, auditory, and vestibular functions, including structures in the central nervous systems and organs of the special senses.\n5. Describe neural circuits involved in motivation, emotion, and memory, including structures in the hypothalamus and limbic system.\n6. Identify cortical and subcortical neuroanatomic correlates of language, attention, executive functions, and learning.\n7. Describe structures and functions of the cerebrovascular system.\n8. Explain physiologic and behavioral consequences of lesions across structures and pathways of the nervous system.\n9. Describe a neurological examination and identify positive signs indicating dysfunction."
+        }
+    ], 
+    "class_num": 14899, 
+    "attributes": null, 
+    "catalog_num": "406-0"
+}

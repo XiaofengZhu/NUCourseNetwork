@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 20862, 
+    "subject": "SEM_ONLN", 
+    "requirements": "Enrollment Requirements: Semester Online Course -- Speak with your advisor about how this course fits in your plan of study, then visit www.semesteronline.org to apply and register.", 
+    "title": "Semester Online Coursework", 
+    "section": "80", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-13", 
+    "end_date": "2014-05-03", 
+    "start_time": null, 
+    "component": "80", 
+    "school": "NDGR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35372, 
+    "attributes": null, 
+    "catalog_num": "200-0"
+}

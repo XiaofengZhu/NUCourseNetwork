@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 48, 
+    "course_id": 5225, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Engineering Fluid Mechanics", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Frances Searle Building 2407", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Neelesh A Patankar", 
+        "phone": "847/491-3021", 
+        "address": "Technological Institute, Rm L490, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 1441", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Fundamentals of Fluid Mechanics, Munson, Young, Okiishi, 6th edition, Wiley 2009, ISBN 9780470262849"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Homework, Mid-term, Take-home exam, Final exam."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: MECH_ENG 220, MECH_ENG 241, or equivalent."
+        }
+    ], 
+    "class_num": 20343, 
+    "attributes": null, 
+    "catalog_num": "373-0"
+}

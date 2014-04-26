@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 12595, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Clinical Study and Practicum in Audiology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Tracy A Hagan", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "ASHA STANDARDS:\nTheory and techniques associated with the following ASHA Standards are addressed in CSD 415-3.  Knowledge and skills typically are acquired by exposure to information in more than one CSD course and through participation in clinical practicum.  \nB2. Patient characteristics (e.g., age, demographics, cultural and linguistic diversity, medical history and status, cognitive status, and physical and sensory abilities) and how they relate to clinical services\nB3. Educational, vocational, and social and psychological effects of hearing impairment and their impact on the development of a treatment program\nB5. Normal development of speech and language \nB6. Phonologic, morphologic, syntactic, and pragmatic aspects of human communication associated with hearing impairment\nB17.\tHealth care and educational delivery systems\nB21.\tManual communication, use of interpreters, and assistive technology"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Participation in and completion of the requirements of CSD 415-3: Pediatric (Re)Habilitation Core will contribute 1/3 of each student's grade for Fall 2006 CSD 415-3.  Students are expected to attend class regularly and to contribute to class discussions.  In addition, each student will complete a school-based observation of a child/children with impaired hearing and prepare a brief observation report."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the quarter, student will be able to describe:\nDescribe techniques for assessing the communication skills of young children with impaired hearing, including parent observations;\nDescribe techniques for developing speech, language, and listening skills in young children with impaired hearing."
+        }
+    ], 
+    "class_num": 14966, 
+    "attributes": null, 
+    "catalog_num": "415-3"
+}

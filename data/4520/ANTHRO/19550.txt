@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19550, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "Senior Seminar", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Erin B. Waxenbaum is a physical anthropologist with specialization in forensics, human variation, evolution and growth and development.   In addition to Anthropology faculty, Waxenbaum presently serves as a Research Associate at the Field Museum of Nautural History and the Forensic Anthropologist for the Cook County Medical Examiner's Office and DuPage, McHenry and Champaign County Coroner's offices.", 
+        "name": "Erin Beth Waxenbaum Dennison", 
+        "phone": "847/491-4818", 
+        "address": "1810 Hinman Ave., Room #A54B, EV Campus"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "None."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the class students will have gained a greater appreciation for research methods in anthropology and the step-by-step process of development and execution of a research project."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "This course is designed for anthropology majors with significant previous experience with anthropology coursework. The class will culminate with student's completion of an independent research project."
+        }
+    ], 
+    "class_num": 18146, 
+    "attributes": "No P/N option for this section\n\nPermission of department\n\n", 
+    "catalog_num": "398-CN"
+}

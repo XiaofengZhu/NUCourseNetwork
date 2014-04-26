@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 60, 
+    "course_id": 17808, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Transnational Perspectives on Gender and Sexuality", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mary J Weismantel", 
+        "phone": "847/491-4822", 
+        "address": "1812 Hinman Ave., Room #105, EV Campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texts may include: \nGlobal Sex by Dennis Altman\nSocial Text: What's Queer about Queer Studies Now? Fall/Winter 2005 Edited by David Eng, Judith Halberstam and Jose Esteban Munoz\nFemale Desires: Same-Sex Relations and Transgender Practices Edited by E. Blackwood and S. Wieringa \nToms and Dees: Transgender Identity and Female Same-sex Relationships in Thailand by Megan Sinnott\nCourse Reader with essays by authors such as Michel Foucault, David Halperin, Cliffort Geertz, Akhil Gupta and James Ferguson, Cindy Patton, Evelyn Hammonds, Jonathan D. Katz, John Binnie, Don Kulick, Gayatri Reddy, Peter Jackson, Rosalind Morris.\n\nTextbooks available at:  Norris Center Bookstore.  Reader available from Quartet.  Websites, software, and some readings available on-line."
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "This course is suitable for students interested in issues of gender identity, majors in the social sciences, arts and humanities, and/or students interested in careers in medicine, law, public policy or social justice work."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "All students will be graded on participation and on quizzes on the readings and lectures.  Other requirements may be tailored to your interests: you may either complete a general final exam, a focused final exam, or a research paper."
+        }
+    ], 
+    "class_num": 34155, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "341-0"
+}

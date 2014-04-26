@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 55, 
+    "course_id": 4527, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Delivery Systems in Speech & Language Pathology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Frances K Block", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Materials on Blackboard"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CSD Senior status if UG, or graduate student"
+        }
+    ], 
+    "class_num": 15283, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\nSeniors/Grad Students Only\n\n", 
+    "catalog_num": "334-0"
+}

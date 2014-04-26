@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 6, 
+    "course_id": 4189, 
+    "subject": "PERF_ST", 
+    "requirements": null, 
+    "title": "Seminar: Problems in Research", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ramon H Rivera-Servera", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students will be evaluated based on class presentations of the required reading, participation in class discussion, and their ability to formulate feasible and significant research questions and projects and relate them through proposal writing."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "This is a seminar class in which the students will engage the scope of performance studies and the craft of researching and writing theses and dissertations in performance studies. Students will present their own research to each other and get feedback through class presentations and discussion. Performance Studies faculty will be invited to share their own research with the class."
+        }
+    ], 
+    "class_num": 14876, 
+    "attributes": null, 
+    "catalog_num": "518-0"
+}

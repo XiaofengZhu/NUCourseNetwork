@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20484, 
+    "subject": "PROJ_PMI", 
+    "requirements": null, 
+    "title": "Developing People and Teams", 
+    "section": "47", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-12-07", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "47", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18085, 
+    "attributes": null, 
+    "catalog_num": "204-0"
+}

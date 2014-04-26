@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 1695, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Senior Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "16:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "James Andrew Hornsten", 
+        "phone": "847.491.8220", 
+        "address": "Andersen Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 3-420", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Participation by invitation only. Participants are encouraged to communicate with Prof. Habermalz during Fall quarter and to start thinking of a topic before the course starts."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "A grade of K (course in progress) is given in the Winter for 398-1, while a letter grade for both quarters is given at the end of the 398-2. Final grades will be based on the final version of the research paper."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Individual/Small Group Meetings with occasional lectures during the scheduled time slot."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "By invitation only, extended to economics seniors with at least a 3.5 GPA in their economics classes. Economics 281 or 381-1, 310-1,2, 311, Math 214-1,2 and the completion of most of the 300-level electives. 381-1,2 are strongly recommended."
+        }
+    ], 
+    "class_num": 23347, 
+    "attributes": null, 
+    "catalog_num": "398-1"
+}

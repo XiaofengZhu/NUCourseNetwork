@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1961, 
+    "subject": "GERMAN", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tues 2:00 - 4:00 pm", 
+        "bio": null, 
+        "name": "Jorg Kreienbrock", 
+        "phone": "847/491-5788", 
+        "address": "Kresge 2-550"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "READING LIST \n\nFreud, Sigmund.  Dora: An Analysis of a Case of Hysteria.  New York: Touchstone Book, 1997.\n\nHerzl, Theodor. The Jewish State. Trans. Jacob M. Alkow. New York: Dover Publishing, 1989. Print.\n\nMusil, Robert. The Confusions of Young Trless. Trans. Shaun Whiteside.  New York: Penguin Classics, 2001. Print. ISBN 13: 9780142180006\n\nSchnitzler, Arthur.  Lieutenant Gustl. Trans. Richard L. Simon. Los Angeles: Green Integer, 2003. Series No. 85. Print. ISBN: 1-931243-46-8\n\nSchorske, Carl E. Fin-de-sicle Vienna: Politics and Culture.  New York: Vintage Books, 1981.\n\nThe course reader includes selections from Frederick Morton, Sigmund Freud, Karl Kraus, Arthur Schnitzler and Hermann Bahr along with articles on the painters Egon Schiele, Oskar Kokoschka & Gustav Klimt, the composers Gustav Mahler, Arnold Schnberg, Alban Berg and Johann Strauss II, the architects Adolf Loos, Otto Wagner, Joseph Maria Olbrich and Josef Maria Hoffmann, and the politicians Karl Lueger, Georg Schnerer, Bertha von Suttner and Theodor Herzl."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on writing assignments and class participation in discussions."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar format with discussions and collaborative group work."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "All materials will be on blackboard."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Knowledge of major traditions in 19th and 20th century cultural criticism, literature, and philosophy."
+        }
+    ], 
+    "class_num": 34206, 
+    "attributes": "Given in English\n\nNo prerequisite in the language\n\nFreshmen/Sophomores Only\n\n", 
+    "catalog_num": "104-6"
+}

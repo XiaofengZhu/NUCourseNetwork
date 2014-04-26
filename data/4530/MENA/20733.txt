@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 20733, 
+    "subject": "MENA", 
+    "requirements": null, 
+    "title": "Graduate Colloquium", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "847/491-4718", 
+        "bio": null, 
+        "name": "Brian T Edwards", 
+        "phone": null, 
+        "address": "1897 Sheridan Rd #215"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Students will be required to read the precirculated papers by their classmates and other article-length materials as distributed by professor."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Students enrolled for credit are evaluated based on their written paper, their public presentation, and their responses (both written and oral) to the papers and presentations of other students enrolled in MENA 412 for credit."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Presentations, faculty response, and group discussion"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To provide a forum to for presenting, developing, and responding to research on the Middle East and North Africa from a variety of disciplinary perspectives; to enable conversations across disciplinary methodologies which both sharpens students' sense of their own discipline and develops ability to communicate across those disciplines; to foster dialogue among graduate students working on MENA studies and members of the faculty."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Open to students in any graduate program at Northwestern whose work intersects with study of the Middle East and/or North Africa.  Students affiliated with the MENA Cluster or pursuing a MENA Certificate are automatically eligible.  Others may inquire of the MENA Program Director."
+        }
+    ], 
+    "class_num": 34229, 
+    "attributes": null, 
+    "catalog_num": "412-0"
+}

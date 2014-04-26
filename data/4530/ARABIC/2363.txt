@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2363, 
+    "subject": "ARABIC", 
+    "requirements": null, 
+    "title": "Arabic III", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Fatima Zehra Khan", 
+        "phone": "8474671637", 
+        "address": "4-380 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Al-Kitaab fii Ta'allum al-'Arabiyya with DVDs: A Textbook for Arabic, Part Two, Second Edition -- Georgetown University Press -- ISBN: 978-1589010963\n\nSupplemental materials provided by the instructor"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on class participation, individual progress in comprehending textual material and acquired degree of fluency in the language."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class meetings will be used for presentation of grammar topics and discussion of previously assigned and new materials."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Arabic 211-1, or instructor consent"
+        }
+    ], 
+    "class_num": 24240, 
+    "attributes": null, 
+    "catalog_num": "211-2"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4451, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Pediatric Audiology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kristine Marie Grohne Riley", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2378", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Please be courteous and responsible by:\n<ol>\n<li>attending class regularly</li>\n<li>silencing cell phones </li>\n<li>disabling wireless internet connections</li>\n<li>paying attention in class (no reading, emailing, eating, sleeping, etc.)</li>\n<li>maintaining academic honesty</li>\n<li>meeting deadlines</li>\n</ol>"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the conclusion of this course, the student will be able to:\n<ol>\n<li>Describe normal auditory development</li>\n<li>Describe language, speech, motor, and other developmental milestones</li>\n<li>List etiologic factors contributing to impaired hearing</li>\n<li>Describe appropriate pediatric identification and assessment methods</li>\n<li>Identify appropriate sensory devices for use with children and describe device management techniques</li>\n<li>Describe (re)habilitation methods used with children with impaired hearing to develop auditory, language, and speech skills</li>\n<li>Describe current legislative mandates governing provision of services to children with impaired hearing</li>\n<li>Describe means of assessing family counseling needs and methods for providing such services</li>\n<li>Describe the steps of Evidenced Based Practice</li>\n</ol>"
+        }
+    ], 
+    "class_num": 21920, 
+    "attributes": null, 
+    "catalog_num": "419-0"
+}

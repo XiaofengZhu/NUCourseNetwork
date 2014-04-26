@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6074, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Introduction to Human Physiology", 
+    "section": "28", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-08-13", 
+    "start_time": null, 
+    "component": "28", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Lucia Simo is a medical scientist MD/PhD at the crossroads between neuroscience, medicine, and the humanities/ethics. She was awarded with a Fulbright Fellowship to study brain theory and computational neuroscience in the Center for Neural Engineering at the University of Southern California. Her current research is in brain networks involved in visuomotor learning, timing, and attention using fMRI methodologies as well as the control of arm posture and movement after stroke, in collaboration with the robotics laboratory at the Rehabilitation Insittute of Chicago. She enjoys working with people of diverse backgrounds from the hard sciences to the humanities, practices Iyengar yoga, enjoys cooking, music, has a teenage daughter and a lot of patience!", 
+        "name": "Lucia S Simo", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Understanding Human Anatomy and Physiology, by Longenbaker.  McGraw Hill , 8th Edition"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "May not be taken for credit while or after taking any part of BIOL SCI 210-A, -B, or -C."
+        }
+    ], 
+    "class_num": 41522, 
+    "attributes": null, 
+    "catalog_num": "165-CN"
+}

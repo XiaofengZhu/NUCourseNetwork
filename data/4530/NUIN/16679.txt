@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 16679, 
+    "subject": "NUIN", 
+    "requirements": null, 
+    "title": "The Biology of Sleep", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Ravi Allada", 
+        "phone": "847/491-2809", 
+        "address": "Pancoe 2121"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Pancoe Life Sciences 1-401", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 35124, 
+    "attributes": null, 
+    "catalog_num": "486-0"
+}

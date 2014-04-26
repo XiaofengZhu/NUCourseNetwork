@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19163, 
+    "subject": "ASIAN_LC", 
+    "requirements": null, 
+    "title": "Introduction to Chinese Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Peter Shen", 
+        "phone": "646/248-1881", 
+        "address": "Harris 231"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Reading List: Stephen Owen, An Anthology Of Chinese Literature: Beginnings To 1911; a variety of handouts"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance: 10%\nClass Participation: 20%\nPresentation: 10%\nFirst-paper:  10% (4-5)\nSecond Paper: 20% (6-7)\nFinal Paper: 30% (10-12)"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Other (see below):\nTeaching methodology: Lecture, discussion, seminar format."
+        }
+    ], 
+    "class_num": 12401, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "274-1"
+}

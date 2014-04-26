@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20881, 
+    "subject": "LAWSTUDY", 
+    "requirements": null, 
+    "title": "Analyzing Human Rights", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Anthony A D'Amato", 
+        "phone": "312/503-8474", 
+        "address": "311, 265"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18611, 
+    "attributes": "1 Draft degree req may be met with class\n\n3 draft degree req may be met with class\n\nPerspective Elective\n\nCivil and Human Rights\n\n", 
+    "catalog_num": "644"
+}

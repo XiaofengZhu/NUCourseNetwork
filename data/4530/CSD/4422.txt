@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4422, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Brain and Cognition", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesdays, 2-4 pm", 
+        "bio": null, 
+        "name": "Margaret M Gullick", 
+        "phone": null, 
+        "address": "2400 Campus Drive, Rm 2-365"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 2107", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Ward J (2010). The Students Guide to Cognitive Neuroscience. Psychology Press: New York.\n\nSlides for classes and other material can be downloaded from BlackBoard (PDF format)."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Review relevant behavioral and neuroanatomical research\nDescribe gross organization of the brain\nDescribe methods of studying the brain basis of communication (e.g. electrophysiological, neuroimaging, lesion)\nUnderstand perceptual (e.g. visual, auditory) foundations of communication and its development\nUnderstand attention, memory and executive function foundations of communication and its development\nDescribe models of information processing and symbolic representation (e.g. visual words, spoken words, numbers)\nUnderstand cortical organization and development of word processing (e.g. phonological, orthographic and semantic)\nDescribe precursors and development of reading and spelling\nDiscuss how breakdown in lexical systems, and in broader cognitive functions, may lead to deficits in reading and spelling\nDescribe models of number processing, and the cortical organization and development of calculation"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prior exposure to neuroscience or cognitive science is helpful, but is not required."
+        }
+    ], 
+    "class_num": 21578, 
+    "attributes": "Interdisciplinary Distro - See Rules\n\nNatural Sciences Distro Area\n\nSocial & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "303-0"
+}

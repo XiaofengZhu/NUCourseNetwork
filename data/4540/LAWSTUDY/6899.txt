@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 6899, 
+    "subject": "LAWSTUDY", 
+    "requirements": null, 
+    "title": "American Legal History", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appointment", 
+        "bio": null, 
+        "name": "Stephen B Presser", 
+        "phone": "312/503-8371", 
+        "address": "Rubloff 229"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30086, 
+    "attributes": "Open to First Year Students\n\nPerspective Elective\n\nLegal History\n\n", 
+    "catalog_num": "920"
+}

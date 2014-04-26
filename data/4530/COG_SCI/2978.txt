@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 115, 
+    "course_id": 2978, 
+    "subject": "COG_SCI", 
+    "requirements": null, 
+    "title": "Language and the Brain", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Frances Searle Building 3220", 
+            "section": "20A", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mark Elliot Beeman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Exams, written homework assignments"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture, discussion sections"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 23796, 
+    "attributes": "Natural Sciences Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "210-0"
+}

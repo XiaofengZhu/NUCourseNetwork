@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6703, 
+    "subject": "MUS_HIST", 
+    "requirements": null, 
+    "title": "Selected Topics in Music:", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": "09:00:00", 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": "Sa", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "David Ramey has been teaching this course for a number of years with Northwestern SCS. He has a Bachelor of Music in Jazz Studies from Webster University  (St. Louis, MO)and a Master of Arts in Marketing from the same. Although his \"day job\" is directing an MBA program,  he has also been an active musician in the Chicago area for about 30 years now. Since he started teaching this course his focus is primarily on playing American Roots Music  as well as Gypsy Jazz.  Other projects he has been involved in include: Tours of famous Chicago musicians grave sites and addresses associated with Chicago music history, lectures on the South Side Music Development for the DuSable Museum, researching and locating famous musicians graves throughout the Mississippi Delta, and running sound for the Smithsonian Folk Life Festival in Washington DC.", 
+        "name": "David P Ramey", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 511", 
+    "end_time": "16:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Textbook: Stuessy and Lipscomb, Rock and Roll: Its History and Stylistic Development, 7th ed.   (ISBN-10: 0205246974; ISBN-13: 978-0205246977)  All assigned listening and supplemental reading will be on Blackboard."
+        }, 
+        {
+            "name": "Class Notes", 
+            "desc": "Attendance and participation are a big part of this course."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The learning objective of this course is to connect the students to the people, places and events that lead to the development of American music in the Chicago area. The underlying objective is to give the student a starting point to explore their own roots and how they are connected to their past."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No prerequisites are needed for this course.  The student does not have to have a musical background to take this as well."
+        }
+    ], 
+    "class_num": 35072, 
+    "attributes": null, 
+    "catalog_num": "335-CN"
+}

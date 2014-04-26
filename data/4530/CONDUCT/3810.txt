@@ -1,0 +1,31 @@
+{
+    "overview": "<Element DESCRAREA_VALUE at 1c7f170>", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3810, 
+    "subject": "CONDUCT", 
+    "requirements": null, 
+    "title": "Advanced Conducting Choral", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Donald John Nally", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 109", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22784, 
+    "attributes": null, 
+    "catalog_num": "340-2"
+}

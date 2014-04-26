@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 18835, 
+    "subject": "ISEN", 
+    "requirements": null, 
+    "title": "NUvention: Energy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mark W Werwath", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center G03", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "This course is by APPLICATION ONLY. Please visit http://nuvention.northwestern.edu/energy to apply. Applications are due by OCTOBER 31, applications received after this date will automatically be waitlisted. Students will be notified if they have or have not been accepted by Monday, Nov. 7, and MUST register by Friday, Nov. 11 to secure a spot in the course. Spots available off the waitlist will be announced no later than Monday, Nov. 14."
+        }
+    ], 
+    "class_num": 20147, 
+    "attributes": null, 
+    "catalog_num": "430-0"
+}

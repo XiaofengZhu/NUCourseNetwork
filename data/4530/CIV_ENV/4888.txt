@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4888, 
+    "subject": "CIV_ENV", 
+    "requirements": "Enrollment Requirements: Registration is resereve for students who have completed MECH_ENG 241-0 and CIV_ENV 260-0.", 
+    "title": "Environmental Engineering Applications II : Water", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "George Wells", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L160", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1.  Water and Wastewater Engineering / by Mackenzie L Davis / ISBN-13: 978-0071713849 \n / 2011 / McGraw-Hill\n\n2.  The Big Thirst / by Charles Fishman / Free Press (Feb 2012) / ISBN-13: 978-1439102084"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "CLASS SCHEDULE  /   Four 1-hr lecture/discussions per week."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students successfully completing the course will be able to:\n\n1. Examine factors involved in water demand and wastewater aggregate and differential yields in a community settings;\n\n2. Determine distribution of flows, safe yield  / capacity of retention facilities in water supply and distribution or stormwater control as part of water quantity management;\n\n3. Compute basic flow and pipe sizing for sewerage / stormwater example systems; using hydraulic and energy grade lines and calculate pumping and hydraulic constraints for pressure supply systems;\n\n4 Develop flowsheets for treating water and wastewater to meet physical, chemical and biological design parameters;\n\n5.  Using energy and mass conservation balances,  size heat and mass transfer devices in water and wastewater treatment; \n\n6. Utilize tracer curves and dispersion model to determine non ideal mixing effects;\n\n7. Compute doses of chemicals to reduce hardness, turbidity and microbials expressed in chemical, e.g. meq/l and practical lb / MG or lb / day units;\n\n8. Analyze the performance (including unit sizing) of common physical, chemical, and biological unit processes"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MECH_ENG 241 Fluid Mechanics I;  CIV_ENV 340 Fluid Mechanics II also desirable."
+        }
+    ], 
+    "class_num": 20502, 
+    "attributes": null, 
+    "catalog_num": "364-0"
+}

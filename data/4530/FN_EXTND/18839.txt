@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18839, 
+    "subject": "FN_EXTND", 
+    "requirements": null, 
+    "title": "Introduction to Financial Planning", 
+    "section": "44", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-02-04", 
+    "end_date": "2014-03-04", 
+    "start_time": null, 
+    "component": "44", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33736, 
+    "attributes": null, 
+    "catalog_num": "300-0"
+}

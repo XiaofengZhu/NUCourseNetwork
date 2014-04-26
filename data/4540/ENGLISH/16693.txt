@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 16693, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Advanced Reading and Writing Creative Nonfiction II", 
+    "section": "14", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "14", 
+    "school": "UC", 
+    "meeting_days": "Tu", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Michael McColly's essays and journalism have appeared in The New York Times, The Chicago Tribune, Salon, The Sun, Ascent, and In These Times.  He is the author of the 2006 Lambda Literary Award-winning memoir, The After-Death Room: Journey into Spiritual Activism (Soft Skull Press), which chronicles his journey reporting on AIDS activism in Africa, Asia and America. He has been awarded recent residencies at Yaddo, MacDowell, Blue Mountain, and Ragdale. He teaches creative nonfiction at Columbia College and in Northwestern's MFA graduate program. He is a graduate of the Divinity School at the University of Chicago and the Creative Writing Program (in Fiction) at the University of Washington.  Michael also has taught yoga for over 15 years and holds workshops on the uses of meditation and body awareness as ways to improve concentration, brain plasticity and creativity.  He is currently working on a travel narrative that focuses on role of hiking to mental and environmental health.", 
+        "name": "Michael McColly", 
+        "phone": null, 
+        "address": "michaelmccolly@hotmail.com"
+    }, 
+    "term": "2014 Spring", 
+    "room": "Wieboldt Hall 516", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TBD"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will be expected to understand the important role craft, voice, structural integrity, character development, sensual imagery, and research plays in creative nonfiction. Students should be familiar with all the forms of CNF and understand some of their history and current trends. Students will learn how to develop manuscripts, essay, short works for publication and or entry to graduate programs in creative writing."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ENGLISH 208 or consent of instructor. Obtaining instructor consent: Contact the SCS Registrar's office to receive the instructor's contact information. Once the instructor has been contacted and consent obtained, the instructor will report the student's name to the Registrar's office for approval to enroll in the course.    \n\nMay not be audited or taken P/N.\n\nIt is also helpful to have had some experience in the study of contempoary nonfiction literature."
+        }
+    ], 
+    "class_num": 38684, 
+    "attributes": null, 
+    "catalog_num": "308-B"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 851, 
+    "subject": "TEACH_ED", 
+    "requirements": null, 
+    "title": "Early Adolescent Development and Intervention", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lisa Marie Barbe", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course packet available at Quartet Copies. Readings are also available online and links will be provided on Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Class attendance and participation count! Come to class to every week, with the reading complete and be prepared to discuss your thoughts and ideas. Participate in weekly Blackboard discussions (10%)\nLead a class discussion on one of the assigned articles. Article discussion will be lead by groups of two to three. Each person will submit a one-page, thoughtful, summary and personal response to the article on the day you present (15%)\nResearch and write a paper on a topic/problem relevant to early adolescent development or school culture. Topics must be pre-approved (25%)\nWrite a review of a program that supports student growth/development (20%)\nTake home final exam (30%)"
+        }
+    ], 
+    "class_num": 14707, 
+    "attributes": "No Freshmen\n\n", 
+    "catalog_num": "329-0"
+}

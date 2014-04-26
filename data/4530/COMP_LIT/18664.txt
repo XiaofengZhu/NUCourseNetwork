@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 18664, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Studies in Theme", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Harris Matthew Feinsod", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "All texts are written in English or furnished with translations, but knowledge of Spanish is advantageous."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texts include: \n\nCrane, The Bridge; Rukeyser, \"The Book of the Dead\"; \nWilliams, In the American Grain and Paterson; \nNeruda, Canto General; \nOlson, Selected Writings; Brathwaite, The Arrivants, M. NorbeSe Phillips, Zong!;\nadditional poems and essays by Whitman, Cardenal, Baca, Walcott and others; short essays by historians and theorists of poetry."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Short annotation and blog assignments; ~5-page midterm essay; ~10-page research paper or creative final project. Participation is crucial."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Mini-lectures and seminar discussion."
+        }
+    ], 
+    "class_num": 24434, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "304-0"
+}

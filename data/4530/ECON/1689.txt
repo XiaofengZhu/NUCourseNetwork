@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 102, 
+    "course_id": 1689, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Econometrics", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute M152", 
+            "section": "21", 
+            "component": "DIS", 
+            "end_time": "14:50:00", 
+            "meeting_days": "Fr", 
+            "start_time": "14:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joel L Horowitz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 217", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Note that MATH 230, 234 & 240 are prerequistes for MATH 314"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<i>Introduction to Econometrics</i> by Stock and Watson, 3rd Edition (ISBN: 978-0138009007)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Problem sets, 15%, midterm examination 35%, final examination 50%."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ECON 310-1 (310-2, 311 recommended); MATH 230, 234, 240 & 314 (or equivalent)."
+        }
+    ], 
+    "class_num": 23812, 
+    "attributes": null, 
+    "catalog_num": "381-1"
+}

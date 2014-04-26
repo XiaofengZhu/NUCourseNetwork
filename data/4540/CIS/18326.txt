@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18326, 
+    "subject": "CIS", 
+    "requirements": null, 
+    "title": "Understanding Technology and Human Interaction", 
+    "section": "36", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "36", 
+    "school": "UC", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Michael Brian Dain", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "LOOP11; 210 S Clark St, Floor1", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Accounts will be provided in the prototyping tool balsamiq, available at mybalsamiq.com. The text will also introduce and explain the origins and use of interaction types."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "The student will be exposed to how interfaces are built, formed and iterated through with user testing and feedback. The student will be able to produce an idea and bring it into reality using prototyping tools. This deliverable should be able to inform a team or the business on how you approach a problem."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Familiarity with design tools, design principles, and HTML, or any visual, interactive authoring tools. An understanding of the role of interfaces, and the ability to come up with problems that can be solved with them. You will be working with prototyping tools, which can include the ability to model programming  logic, but you will not use any specific language."
+        }
+    ], 
+    "class_num": 38695, 
+    "attributes": null, 
+    "catalog_num": "385-CN"
+}

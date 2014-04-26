@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 5307, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Fundamentals of Thin Film Materials", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Scott A Barnett", 
+        "phone": "847/491-2447", 
+        "address": "4037 Cook Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L168", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "M. Ohring, \"Materials Science of Thin Films\" (Academic, New York, 1992)."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The course will involve three (3) hours of lecture/discussion per week and regular homework assignments. Students will prepare and present an oral presentation based on a term paper."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 33886, 
+    "attributes": null, 
+    "catalog_num": "415-0"
+}

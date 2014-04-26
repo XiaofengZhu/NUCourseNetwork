@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 15688, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Research Procedures in Communication Sciences and Disorders", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Casey Lew-Williams", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "CSD Sem Rm B302 - Frances Srle", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course materials will be posted on CMS/Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance at all class meetings, participation, weekly written critiques, presentations of assigned readings, final paper (in the form of an NIH grant proposal). Peer feedback is provided to foster an environment of inquiry and collaboration."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To provide students with (1) an understanding of what scientific writing is all about, (2) an understanding of research methods and designs used in Communication Sciences and Disorders and related disciplines, including both descriptive and experimental approaches (but mostly experimental), (3) an understanding of the requirements of both group and single-subject approaches to research, and the advantages, disadvantages, and appropriate uses of each, (4) an understanding of basic components of research, including subject selection criteria, independent and dependent variables, operational specification of variables, methods of measurement, reliability of measurement, data collection and analysis procedures, and validity, (5) the ability to evaluate published research. This seminar will address the above objectives using published research in speech and language pathology, audiology and hearing sciences, learning disabilities, and cognitive science as a basis for discussion."
+        }
+    ], 
+    "class_num": 21629, 
+    "attributes": null, 
+    "catalog_num": "550-1"
+}

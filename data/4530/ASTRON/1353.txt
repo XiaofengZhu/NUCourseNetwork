@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1353, 
+    "subject": "ASTRON", 
+    "requirements": null, 
+    "title": "Interstellar Gas & Radiation Processes", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Giles A Novak", 
+        "phone": "847/491-8645", 
+        "address": "Technological Institute (2145 Sheridan Road), Room F253, Evanston"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "ASTRON 425 or permission of instructor."
+        }
+    ], 
+    "class_num": 34262, 
+    "attributes": null, 
+    "catalog_num": "448-0"
+}

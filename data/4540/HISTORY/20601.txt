@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 0, 
+    "course_id": 20601, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Paris: World City 1700 to the Present", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Tessie P Liu", 
+        "phone": "467/491-3150", 
+        "address": "Harris Hall Room 327"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 33110, 
+    "attributes": "Historical Studies Distro Area\n\n", 
+    "catalog_num": "341-0"
+}

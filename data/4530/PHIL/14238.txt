@@ -1,0 +1,48 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 14238, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Studies in Metaphysics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Peter J Ludlow", 
+        "phone": "847/467-5594", 
+        "address": "Crowe 3-159"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-365", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Peter van Inwagen and Dean Zimmerman (eds).\n\nMetaphysics: The Big Questions , 2nd edition (Wiley-Blackwell 2008)\n\nISBN: 978-1-4051-2586-4"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Eight  short essays: 40 pts (5 pts each)\nAbstract and outline of paper: 10 pts\nRevised outline: 10 pts\nFinal paper: 40 pts"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture, lots of discussion."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Our goal is to become fluent in both classical and contemporary issues in metaphysics, to understand the methods that both classical and contemporary philosophers use in tackling problems in metaphysics and to come to understand the similarities and differences between those methods."
+        }
+    ], 
+    "class_num": 33792, 
+    "attributes": "Juniors/Seniors Only\n\n", 
+    "catalog_num": "359-0"
+}

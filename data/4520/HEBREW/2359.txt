@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2359, 
+    "subject": "HEBREW", 
+    "requirements": null, 
+    "title": "Hebrew III:Topics in Hebrew Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tuesday 9:00-10:00 or by appointment", 
+        "bio": null, 
+        "name": "Edna Grad", 
+        "phone": "847/491-2769", 
+        "address": "4-362 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on (l) weekly short compositions or exercises and (2) midterm and final papers."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The lessons will center around discussion of literary works. Homework assignments will comprise short compositions and exercises."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Northwestern students should have completed and received credit for Hebrew 121-3. New students must have permission of the instructor."
+        }
+    ], 
+    "class_num": 17153, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "216-1"
+}

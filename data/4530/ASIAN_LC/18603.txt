@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18603, 
+    "subject": "ASIAN_LC", 
+    "requirements": null, 
+    "title": "Special Topics in Asian Languages and Cultures", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Laura Rebecca Brueck", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "No registration requirements, but prior coursework in Buddhism or gender studies is helpful."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Dudrah, Ranjinder; Desai, Jigna. The Bollywood Reader. (ISBN: 0-33-522212-4)\nMishra, Vijay. Temples of Desire. (ISBN: 0-4159-3015-4)\nAdditional readings made available on Blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Short papers, quizzes, discussion leading, final exam"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and discussion."
+        }
+    ], 
+    "class_num": 34129, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "290-0"
+}

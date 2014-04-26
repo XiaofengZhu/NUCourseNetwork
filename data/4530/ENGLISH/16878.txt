@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 17, 
+    "course_id": 16878, 
+    "subject": "ENGLISH", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Students must have taken & passed English 206-0 to enroll.", 
+    "title": "Reading & Writing Creative Non-Fiction", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Eula Ruth Biss", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L04", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Evidence given in written work and in class participation of students' growing understanding of fiction; improvement will count for a great deal with the instructor in estimating achievement."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion; one-half to two-thirds of the classes will be devoted to discussion of readings and principles, the other classes to discussion of student work."
+        }
+    ], 
+    "class_num": 23810, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "208-0"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 1729, 
+    "subject": "ECON", 
+    "requirements": null, 
+    "title": "Introduction to Econometrics", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Jacobs Center 3245", 
+            "section": "21", 
+            "component": "DIS", 
+            "end_time": "10:50:00", 
+            "meeting_days": "Fr", 
+            "start_time": "09:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joel L Horowitz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Jacobs Center 3245", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 23350, 
+    "attributes": null, 
+    "catalog_num": "480-2"
+}

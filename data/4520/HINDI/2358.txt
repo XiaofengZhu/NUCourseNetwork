@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2358, 
+    "subject": "HINDI", 
+    "requirements": "Enrollment Requirements: Prerequisite: Students must be enrolled in or have taken and passed Hindi 111-3 with at least a C- in order to register into 121-1 or have instructor's consent.", 
+    "title": "Hindi II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M 12:00pm-1:00pm", 
+        "bio": null, 
+        "name": "Rami Nair", 
+        "phone": "8474677581", 
+        "address": "4-406 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Intermediate Hindi\nHardcover: 161 pages\nPublisher: Motilal Banarsidass,; New edition edition (Dec 1996)\nLanguage English\nISBN-10: 8120805585\nISBN-13: 978-8120805583\n\nIntermediate Hindi Reader\nPaperback\nPublisher: Institute of East Asian Studies; Bilingual edition (April 1, 1999)\nLanguage: English\nISBN-10: 087725351X\nISBN-13: 978-0877253518\n\nAdvanced Hindi Grammar\nPaperback: 307 pages\nPublisher: Institute of East Asian Studies; Bilingual edition (June 1, 2007)\nLanguage: English\nISBN-10: 094461342X\nISBN-13: 978-0944613429"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "The continuing Beginners Hindi I students are graded on the basis of home assignments, weekly quizzes, 3 midterms, attendance and class participation.\n\nThe continuing Accelerated Hindi I students are graded on the basis of the quality and punctuality in turning in their movie assignments."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Textbook, extra materials, movies."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Successful completion of Hindi 111-3 or permission of the instructor."
+        }
+    ], 
+    "class_num": 10437, 
+    "attributes": null, 
+    "catalog_num": "121-1"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 7083, 
+    "subject": "LITARB", 
+    "requirements": null, 
+    "title": "Trial Technology:  High-Tech Trial Techniques", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-04-21", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Katherine G Minarik", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30102, 
+    "attributes": "Professional Skills Course\n\nHigh Techology\n\nCivil Litigation & Dispute Resolution\n\n", 
+    "catalog_num": "693"
+}

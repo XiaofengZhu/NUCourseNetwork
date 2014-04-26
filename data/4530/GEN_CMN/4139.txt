@@ -1,0 +1,53 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 4139, 
+    "subject": "GEN_CMN", 
+    "requirements": null, 
+    "title": "Voice for Performance", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Theater Int Cntr Cellar", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Linda H. Gates", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Bergen Theate", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Yoga mats"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Voice for Performance, Linda Gates author  978-0-87910-353-8\nCambridge Pronouncing Dictionary 0-521-01713-0"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Please see department advisors for a permission number."
+        }
+    ], 
+    "class_num": 21431, 
+    "attributes": null, 
+    "catalog_num": "110-0"
+}

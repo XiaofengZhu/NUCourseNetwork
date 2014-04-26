@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 100, 
+    "course_id": 1439, 
+    "subject": "IBIS", 
+    "requirements": null, 
+    "title": "Seminar in Biological Sciences", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Carole B LaBonne", 
+        "phone": "847/491-4165", 
+        "address": "Pancoe Pavilion, Room 3-411"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 23282, 
+    "attributes": null, 
+    "catalog_num": "462-0"
+}

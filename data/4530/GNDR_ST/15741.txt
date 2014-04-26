@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 15741, 
+    "subject": "GNDR_ST", 
+    "requirements": null, 
+    "title": "Topics in Gender Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ann Shola Orloff", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This seminar fulfills one of the requirements for the Graduate Certificate in Gender & Sexuality Studies.  See http://www.wcas.northwestern.edu/genderstudies/grad/index.htm# for further information on the Graduate Certificate."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "(provisional) will include books and articles by:  Raewyn Connell, Julia Adams, Jacqueline Rose, Judith Butler, Toril Moi, Pierre Bourdieu, Sherry Ortner, Nancy Chodorow, Gayle Rubin, Kimberle Crenshaw, Leslie McCall, Linda Zerilli, Dorothy Smith, Evelyn Glenn, Patricia Hill Collins, Mary Dietz, Joan Scott, Denise Riley and others."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "(a) Seminar presentation/discussion paper (3-5 pp) [25%];\n(b) either two mid-length (8-10 pp) papers due mid-term and end of quarter [60%]; or [with permission of instructor] one long paper (20-25 pp) due end of quarter [60%]; and seminar participation [15%]."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Seminar symposium style: collective discussion, short presentations"
+        }
+    ], 
+    "class_num": 26134, 
+    "attributes": null, 
+    "catalog_num": "490-0"
+}

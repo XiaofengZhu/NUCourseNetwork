@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 1532, 
+    "subject": "LATIN", 
+    "requirements": null, 
+    "title": "Introduction to Latin Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 12-2  pm (and by appointment)", 
+        "bio": null, 
+        "name": "Francesca Tataranni", 
+        "phone": "847/491-8029", 
+        "address": "Kresge 1-555"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 30468, 
+    "attributes": null, 
+    "catalog_num": "201-3"
+}

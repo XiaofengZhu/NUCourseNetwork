@@ -1,0 +1,31 @@
+{
+    "overview": "<em>Music and the Visual Arts</em><p>This course will consider some of the many ways in which the senses of sight and hearing interact in western images and music-making, in select musical works inspired by concurrent ideas or movements in the visual arts, and in some of the many broader forms of multi-media and performance art. We will concentrate primarily on thematically-linked works from the 1600s to the present.  Each student will have ample opportunity to pursue personal interests, and to share information and ideas with the class.</p>", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 15510, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Music and the Visual Arts", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Specialist in Renaissance and baroque musical-cultural relations, gender and feminist theory, European iconography, music as related to visual art and the early history of science. Recipient of major fellowships and research grants, including American Council of Learned Societies, British Academy, Mary Ingraham Bunting Institute (Radcliffe College/Harvard University), and National Endowment for the Humanities. Author, Music in English Children's Drama of the Later Renaissance (Gordon and Breach, 1992), Music in English Life and Thought 1550-1650 (forthcoming); editor, Music, Sensation and Sensuality (Routledge, 2002), editor, Music and the Sirens (Indiana University Press, 2006). Author of numerous articles and reviews in books and such journals as Journal of the American Musicological Society, Modern Philology, Music and Letters, and Renaissance Quarterly.", 
+        "name": "Linda P Austern", 
+        "phone": "847/491-5705", 
+        "address": "l-austern@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 109", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34997, 
+    "attributes": null, 
+    "catalog_num": "341-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 2022, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Studies in Communication and Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Mon 1:00 - 2:00 PM  and by email appointment", 
+        "bio": null, 
+        "name": "Samuel Weber", 
+        "phone": "847/491-8296", 
+        "address": "Kresge 2-540"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32530, 
+    "attributes": "Given in English\n\nNo prerequisite in the language\n\n", 
+    "catalog_num": "441-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "<Element DESCRAREA_VALUE at 1bb2638>", 
+    "topic": null, 
+    "seats": 48, 
+    "course_id": 18978, 
+    "subject": "LITARB", 
+    "requirements": "Enrollment Requirements: Negotiation is a pre-requisite for this course", 
+    "title": "Advanced Negotiation Workshop", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-12-20", 
+    "end_date": "2013-12-23", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lynn P Cohn", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Rubloff Building 175", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20026, 
+    "attributes": "Professional Skills Course\n\nCivil Litigation & Dispute Resolution\n\n", 
+    "catalog_num": "672"
+}

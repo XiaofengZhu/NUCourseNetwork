@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 74, 
+    "course_id": 6109, 
+    "subject": "CHEM", 
+    "requirements": "Enrollment Requirements: Summer Co-Requisite: Students must also register for Chemistry 230-C. Add both classes to the shopping cart and submit together for successful registration.", 
+    "title": "Organic Chemistry III", 
+    "section": "23", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute D220", 
+            "section": "23A", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-08-05", 
+    "end_date": "2013-08-23", 
+    "start_time": null, 
+    "component": "23", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Owen P Priest", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Wade, Organic Chemistry. 8th Edition. Pearson. ISBN: 9780321768414\n\nTurning Technologies Response Card Model NXT"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Grade of C- or higher in CHEM 210-B or equivalent course."
+        }
+    ], 
+    "class_num": 41513, 
+    "attributes": null, 
+    "catalog_num": "210-C"
+}

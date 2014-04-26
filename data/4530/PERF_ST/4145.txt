@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 21, 
+    "course_id": 4145, 
+    "subject": "PERF_ST", 
+    "requirements": null, 
+    "title": "Performance of Poetry", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Carol Simpson Stern", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annie May Swift Hall 103", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Dylan Thomas, Under Milk Wood\nW.B. Yeats, Selected Poems and Four Plays\nT.S. Eliot, The Wasteland and Other Writings\nJoseph Parisi, ed. The Poetry Anthology, 1912-2002"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Complete all assigned readings; 2 graded performances; 2 papers; and a final examination consisting of the final performance and paper."
+        }
+    ], 
+    "class_num": 34373, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "210-1"
+}

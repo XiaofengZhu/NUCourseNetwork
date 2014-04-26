@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 20653, 
+    "subject": "LAWSTUDY", 
+    "requirements": "Enrollment Requirements: Communication and Legal Reasoning I and II are pre-requisites for this course.", 
+    "title": "Effective Legal Writing", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-08-16", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Susan E Provenzano", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41950, 
+    "attributes": "Professional Skills Course\n\n", 
+    "catalog_num": "623S"
+}

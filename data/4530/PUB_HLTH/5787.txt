@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 9, 
+    "course_id": 5787, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Basic Decision Analysis and Models of Medical Decision Making", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Office hours by appointment", 
+        "bio": null, 
+        "name": "Robert M Golub", 
+        "phone": "3124644334\t", 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "McGaw Pavilion 2-402", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "There is no required textbook."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "After completion of the course, students should be able to do the following:\n\nProbabilities in medicine:\n- explain how the concept of probability is used to make medical decisions\n- demonstrate the use of personal experience to make a subjective probability estimate\n- describe the concepts and potential biases of three types of heuristics: representativeness, availability, and anchoring and adjustment\n- differentiate the 2 methods of objective probability assessment: population prevalence and clinical prediction rules\n\nDiagnostic tests:\n- explain how the performance of diagnostic tests is studied\n- construct and explain the meaning of the 2 x 2 table\n- define and differentiate the meaning of sensitivity, specificity, and likelihood ratios\n- calculate these measures from raw data\n- calculate post-test probability (predictive value)\n- demonstrate how pretest probability, sensitivity, and specificity affect posttest probability\n- define and explain the ramifications of the differences between a study population and the clinically relevant population\n- list the biases that can enter into studies of test characteristics, and explain the expected impact that each would have\n- create and interpret receiver operating characteristics curves\n\nBasic decision analysis:\n- define and explain the use of expected value decision making\n- define and demonstrate the use of the terminology and notation of decision tree analysis\n- construct decision trees for a complex clinical problem\n- calculate the expected value of alternative management strategies\n- demonstrate the use of the basic approach to handling uncertainty in decision analyses: 1-way sensitivity analysis\n\nAdvanced decision analysis:\n- list and differentiate the different ways of handling uncertainty in decision analyses, including 2-way and 3-way sensitivity analyses, and Monte Carlo analysis\n- demonstrate the use of Markov modeling\n\nDecision analysis software:\n- use a decision analysis program (DATA) to perform basic and advanced decision analysis\n\nAssessing patient preference:\n- explain the meaning of a utility\n- perform a standard reference gamble to measure utility\n- define the meaning of quality-adjusted life expectancy\n- perform a time trade-off to measure quality-adjusted life expectancy\n- identify sources of potential error in utility assessment\n\nCost-effectiveness analysis:\n- define cost-effectiveness analysis, marginal cost-effectiveness, direct and indirect costs, discount rate, and cost-benefit analysis\n- explain how cost-effectiveness analyses can be used to decide among treatment alternatives or to decide where to spend limited resources\n- structure a cost-effectiveness analysis as a decision tree\n- explain ways of handling uncertainty in cost-effectiveness analyses\n\nThreshold model of decision making:\n- define the concepts of treatment thresholds\n- identify factors which determine the treatment threshold\n- explain the threshold model for test selection"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission number required. Please contact Meera at meera.tavathia@northwestern.edu."
+        }
+    ], 
+    "class_num": 20296, 
+    "attributes": null, 
+    "catalog_num": "431-0"
+}

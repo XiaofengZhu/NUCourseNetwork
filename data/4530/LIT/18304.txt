@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18304, 
+    "subject": "LIT", 
+    "requirements": "Enrollment Requirements: Reserved for School of Continuing Studies MALS, MLIT, MFA and MCW Students Only", 
+    "title": "Topics in Comparative Literature", 
+    "section": "50", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "50", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Elzbieta Maria Foeller-Pituch", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L28", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34879, 
+    "attributes": null, 
+    "catalog_num": "480-0"
+}

@@ -1,0 +1,61 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 79, 
+    "course_id": 1400, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Pre-req: Students must have taken BIOL_SCI 210-3 or 216-0 taken to register for this course.", 
+    "title": "Cell Biology", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute LG62", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "16:50:00", 
+            "meeting_days": "We", 
+            "start_time": "16:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sarah Marie Wignall", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Pancoe Building Abbott Aud", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This core course is required of each Biological Sciences major. Required discussion section, choice of Wednesday, 4:00pm -4:50pm, 5:00pm - 5:50pm, 6:00pm - 6:50pm"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Molecular Cell Biology, By Harvey Lodish, Seventh Edition, 2012, ISBN-10: 1-4292-3413-X, ISBN-13: 978-1-4292-3413-9"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Examinations, quizzes, homework"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and Discussion"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Pre-requisites:  BIO 210-3 or BIO 216"
+        }
+    ], 
+    "class_num": 23632, 
+    "attributes": null, 
+    "catalog_num": "315-0"
+}

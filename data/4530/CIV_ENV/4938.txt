@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4938, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Soil Dynamics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "c-dowding@northwestern.edu", 
+        "bio": null, 
+        "name": "Charles Dowding", 
+        "phone": "847/491-4338", 
+        "address": "TECH A122"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG66", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1.  Geotechnical Earthquake Engineering / Steven L. Kramer / ISBN 978-0133749434 / 1996 / 1st / Prentice Hall.\n\n2.  Construction Vibrations / Dowding, C.H. / 1996.  Availabe for discounted purchase from Prof Dowding."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two two-hour lectures per week."
+        }
+    ], 
+    "class_num": 35116, 
+    "attributes": null, 
+    "catalog_num": "458-0"
+}

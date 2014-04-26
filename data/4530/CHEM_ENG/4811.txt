@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 4811, 
+    "subject": "CHEM_ENG", 
+    "requirements": null, 
+    "title": "Special Topics in Chemical Engineering", 
+    "section": "22", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "22", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Igor V Kourkine", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L170", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33981, 
+    "attributes": null, 
+    "catalog_num": "395-0"
+}

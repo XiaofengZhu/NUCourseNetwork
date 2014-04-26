@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 8, 
+    "course_id": 1639, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Special Topics in Comparative Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Marcus G Moseley", 
+        "phone": "847/467-4712", 
+        "address": "Kresge 2-525"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Reading List\nPlato, The Republic, Aristotle, Poetics; Horace, The Art of Poetry; Friedrich Nietzsche, The Birth of Tragedy; Walter Benjamin, The Origin of the German Mourning Play, \"On the Mimetic Faculty\"; Bertolt Brecht, \"The Modern Theater is an Epic Theater\"; Martin Heidegger, \"The Origin of the Work of Art\"; Erich Auerbach, Mimesis, Theodor W. Adorno / Max Horkheimer, Dialectic of Enlightenment; Hans Blumenberg, \"Imitation of Nature: Toward a Prehistory of the Idea of the Creative Being\"; Jacques Derrida, Dissemination."
+        }
+    ], 
+    "class_num": 32716, 
+    "attributes": null, 
+    "catalog_num": "488-0"
+}

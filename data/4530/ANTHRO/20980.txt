@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20980, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "Forensic Anthropology", 
+    "section": "66", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "66", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Erin B. Waxenbaum is a physical anthropologist with specialization in forensics, human variation, evolution and growth and development.   In addition to Anthropology faculty, Waxenbaum presently serves as a Research Associate at the Field Museum of Nautural History and the Forensic Anthropologist for the Cook County Medical Examiner's Office and DuPage, McHenry and Champaign County Coroner's offices.", 
+        "name": "Erin Beth Waxenbaum Dennison", 
+        "phone": "847/491-4818", 
+        "address": "1810 Hinman Ave., Room #A54B, EV Campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "ANTHRO Sem Rm 104 - 1810 Hinmn", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Beyers, S.N. 2010. Introduction to Forensic Anthropology, 4th edition. ISBN: 0205790127. There will also be a course packet that can be purchased from Quartet Copy."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will leave the course with a greater understanding of the science and methodology behind forensic anthropology and its implications for the academic and forensic community."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Previous anthropology (or anatomy) coursework is strongly suggested. However, no previously knowledge of anatomy, biology or osteology is required."
+        }
+    ], 
+    "class_num": 35156, 
+    "attributes": null, 
+    "catalog_num": "316-CN"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 20119, 
+    "subject": "ANTHRO", 
+    "requirements": "Enrollment Requirements: Reserved for Juniors & Seniors", 
+    "title": "Forensic Anthropology", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "18:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Erin B. Waxenbaum is a physical anthropologist with specialization in forensics, human variation, evolution and growth and development.   In addition to Anthropology faculty, Waxenbaum presently serves as a Research Associate at the Field Museum of Nautural History and the Forensic Anthropologist for the Cook County Medical Examiner's Office and DuPage, McHenry and Champaign County Coroner's offices.", 
+        "name": "Erin Beth Waxenbaum Dennison", 
+        "phone": "847/491-4818", 
+        "address": "1810 Hinman Ave., Room #A54B, EV Campus"
+    }, 
+    "term": "2014 Winter", 
+    "room": "ANTHRO Sem Rm 104 - 1810 Hinmn", 
+    "end_time": "21:00:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "No P/N allowed.\nNatSci Distro I."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1. Byers, S.N. 2008. Introduction to Forensic Anthropology, 4th edition. ISBN: 978- 020579012-8, 020579012-7.  Pearson.\n2. Course pack can be picked up at Quartet Copy, 825 Clark St, Evanston."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Jr/Sr only.  Instructor consent.  Email: e-waxenbaum@northwestern.edu."
+        }
+    ], 
+    "class_num": 34152, 
+    "attributes": "Juniors/Seniors Only\n\n", 
+    "catalog_num": "316-0"
+}

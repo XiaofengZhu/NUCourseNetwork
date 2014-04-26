@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 1603, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Modern Hebrew Literature in Translation: The European Period", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Marcus G Moseley", 
+        "phone": "847/467-4712", 
+        "address": "Kresge 2-525"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Attendance is mandatory; active participation in class discussion plus student presentations: 33 1/3%, two 2-3 page papers: 33.1/3%, one 5-7 page final paper 33 1/3%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The Course offers an excellent introduction to Modern Hebrew Literature per se: We shall read classic texts by M.Y Berdichevsky, Y.H Brenner and S.Y Agnon alongside excerpts from contemporary bestselling novels by Amos Oz, Zeruya Shalev and others. A further advantage of this course is that the professor is intimately acquainted with the texts in the original Hebrew and may thus critique and correct the English translations."
+        }
+    ], 
+    "class_num": 13286, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "278-1"
+}

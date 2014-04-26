@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 5, 
+    "course_id": 14848, 
+    "subject": "IEMS", 
+    "requirements": "Enrollment Requirements: Prerequisite: Students must have taken and passed STAT 350 or IEMS 304 or IEMS 401.", 
+    "title": "Statistical Analysis", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ajit C Tamhane", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34574, 
+    "attributes": null, 
+    "catalog_num": "463-0"
+}

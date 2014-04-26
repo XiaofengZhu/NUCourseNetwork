@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 15318, 
+    "subject": "RTVF", 
+    "requirements": null, 
+    "title": "Understanding Media Contexts", 
+    "section": "14", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "14", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Kate Newbold is an advanced PhD candidate at Northwestern studying early television history, memory, and preservation. She received her Masters from Northwestern in Communications in 2008. Since then, she has taught several courses at Northwestern and DePaul University on a variety of media topics, including nostalgia and popular culture, TV history, film analysis, media adaptation, and history of animation. Her publications include essays on archiving media memories from the 1950s and have appeared in academic journals such as Spectator and Velvet Light Trap.", 
+        "name": "Katherine Mary Newbold", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 511", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Almost all class readings will be available online via Blackboard, with one exception listed below.\n\nWilson, Carl. Celine Dion's Let's Talk About Love: A Journey to the End of Taste. 33 1/3 Book Series. New York: Continuum, 2007."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, students will be able to:\n-Describe and discuss key characteristics of influential media, culture, and power theories, including those on mass culture, the culture industry, technological determinism, neoliberalism, ideology, hegemony, taste, postmodernism, irony, and subcultural theory, among others\n-Situate these theories within the cultural and historical contexts in which they emerged\n-Apply said theories to given examples within popular culture and media to illustrate how these ideas influence, and are influenced by, structures of power in society\n-Compare, contrast, and interrogate contemporaneous or competing ideas using self-selected media or technology cases culled from popular culture\n-Analyze the ways in which certain media and technology forms are often perceived as ideal vehicles for channeling or shaping critical theories within particular populations, specifically along lines of class, race, age, and gender"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "No prerequisites required, but students are expected to know how to write argumentative essays."
+        }
+    ], 
+    "class_num": 35091, 
+    "attributes": null, 
+    "catalog_num": "230-CN"
+}

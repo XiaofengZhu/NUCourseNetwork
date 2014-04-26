@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 3660, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Topics in 19th Century Music", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Specialist in 19th- and 20th-century Italian opera, with articles published on Rossini, Donizetti, Bellini, and Verdi; papers read at national and international conferences on opera and film music history. Research interests in musical aesthetics and the convergence of music with fields such as literature, poetry, and theology. Contributor, New Grove Dictionary of Opera (Macmillan, 1992), Pipers Enzyclopdie des Musiktheaters (Pipers, 1996), New Grove Dictionary of Music and Musicians (Macmillan, 2000). Outstanding Dissertation Award and Excellence in Teaching Award, New York University. Faculty Honor Roll, Northwestern University.", 
+        "name": "Jesse Rosenberg", 
+        "phone": "847/467-2033", 
+        "address": "j-rosenberg1@northwestern.edu"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "COURSE MATERIALS:  There is no assigned textbook or course pack for this class; all necessary materials will be made available through our Blackboard course website.   These include scores, readings, sound recordings, and video recordings.  Students are also strongly encouraged to make use of the many resources of our Music Library, including online databases such as Oxford Music Online, RILM, jSTOR, and the Naxos Music Library."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades are based on three written assignments (20 pts. each), a take-home midterm examination (15 pts.) and a final examination for undergraduate students (20 pts.); the two examinations will be cumulative for the first and second half of the quarter respectively. All graduate students will undertake a research project in lieu of the final examination.  It is expected that successful completion of the various assigned reading, listening, viewing, and writing assignments will make possible a valuable contribution to class discussion (5 pts.), though in a large class such as ours this may require some effort."
+        }
+    ], 
+    "class_num": 14550, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "354-0"
+}

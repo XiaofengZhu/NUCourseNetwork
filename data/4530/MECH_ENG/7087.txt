@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 7087, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Computational  Mechanics I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mark A. Fleming", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG76", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Nonlinear Finite Elements for Continua and Structures, Belytschko, Liu, Moran, 1st edition, Wiley, ISBN 0-471-98774-3"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MECH_ENG 365 or equivalent."
+        }
+    ], 
+    "class_num": 21165, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "426-1"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 19155, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Music and Gender", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Inna I Naroditskaya", 
+        "phone": "847/467-2034", 
+        "address": "in-narod@northwestern.edu"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 17446, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "339-0"
+}

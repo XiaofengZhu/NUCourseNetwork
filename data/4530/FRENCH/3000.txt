@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 14, 
+    "course_id": 3000, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "Oral Workshop", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "W 3 - 4PM, Fri 11 - 12PM & by appointment", 
+        "bio": null, 
+        "name": "Marie-Therese Pent", 
+        "phone": "847/467-0833", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-139"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-420", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "-Grammaire du Franais: Manuel pour le niveau 200 AND the Study Packet are sold at Quartet Copies \n-Jean Anouilh <em>Le voyageur sans bagage</em> (Livre de poche)\n-Harper-Collins-Robert <em>French-English, English-French Dictionary.</em>"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Spoken activities in class organized around the communicative strategies needed to carry on a meaningful conversation. Students are expected to prepare at home for each class."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "French 201-0, French 202-0, AP score of 4, or placement by the department."
+        }
+    ], 
+    "class_num": 23531, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nSpecific requirements in the language\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "203-0"
+}

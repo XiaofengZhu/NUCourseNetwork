@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 16244, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "The Qur'an", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Brannon Dobbs Ingram", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Carl Ernst, How to Read the Qur&rsquo;an (Chapel Hill: University of North Carolina, 2011) - 978-0807835166\nThe Qur'an(Oxford Worlds Classics), trans. by Muhammad Abdel Haleem (Oxford: Oxford University Press, 2004; reprinted 2008) - 978-0199535958\nAmina Wadud, Qur&rsquo;an and Woman: Rereading the Sacred Text from a Woman's Perspective (Oxford, New York: Oxford University Press, 1999) - 978-0195128369"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Reli 250 (Introduction to Islam) or permission of instructor"
+        }
+    ], 
+    "class_num": 33237, 
+    "attributes": null, 
+    "catalog_num": "350-0"
+}

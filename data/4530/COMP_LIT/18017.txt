@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 3, 
+    "course_id": 18017, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Critical Practices", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Penelope L Deutscher", 
+        "phone": "847/491-5293", 
+        "address": "Kresge 3-245"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texts:\nMichel Foucault, History of Sexuality volume 1 \nISBN: 978-0679724698 (background)\nThomas Lemke, Introduction to Biopolitics ISBN-10: 081475242X  (background)\n\nStudents will read excerpts from some of the following:\nMichel Foucault, Psychiatric Power, Abnormal, Society Must be Defended,  Security, Territory, Population, \nRoberto Esposito, Bios: Biopolitics and Philosophy, \nGiorgio Agamben, Homo Sacer ISBN-10: 0804732183\nAnn Stoler, Race and the Reproduction of Desire\nPuar, Jasbir Terrorist Assemblages Introduction: Homonationalism and Biopolitics, \nAchille Mbembe, Necropolitics, \"On Politics as a Form of Expenditure\"\nLauren Berlant, \"America, Fat, the Fetus,\" \" Slow Death\"\nJudith Butler: Is Kinship Alwaus Heterosexual? \nFoucault and Farge, The Disorder of Families"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "By paper and (very) short class presentation."
+        }
+    ], 
+    "class_num": 23878, 
+    "attributes": null, 
+    "catalog_num": "411-0"
+}

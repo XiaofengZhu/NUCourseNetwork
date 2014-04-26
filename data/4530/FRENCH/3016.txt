@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3016, 
+    "subject": "FRENCH", 
+    "requirements": null, 
+    "title": "French Phonetics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Patricia L Scarampi", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-420", 
+    "end_time": "12:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Final grade will be based on written quizzes, periodic evaluation of pronunciation, audio recordings, 2 written tests, and a final oral test   (reading of a text and discussion of theory)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and demonstration, extensive use of songs (karaok) and poetry, group work, regular use of the language lab through home computers, etc."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "French 302-0 or consent of instructor."
+        }
+    ], 
+    "class_num": 23728, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nRead & Discuss in language\n\n", 
+    "catalog_num": "305-0"
+}

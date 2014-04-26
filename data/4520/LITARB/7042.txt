@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 33, 
+    "course_id": 7042, 
+    "subject": "LITARB", 
+    "requirements": null, 
+    "title": "Trial Advocacy ITA", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Steven Lubet", 
+        "phone": "312/503-6605", 
+        "address": "Rubloff 853"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18103, 
+    "attributes": "First Class Attendance Required\n\nLit/Arb Concentration Requirement\n\nProfessional Skills Course\n\nCivil Litigation & Dispute Resolution\n\nProcedure Practice Area present in course\n\n", 
+    "catalog_num": "605"
+}

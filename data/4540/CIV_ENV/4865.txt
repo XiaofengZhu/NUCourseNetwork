@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4865, 
+    "subject": "CIV_ENV", 
+    "requirements": null, 
+    "title": "Prestressed Concrete Design", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "g-cusatis@northwestern.edu", 
+        "bio": null, 
+        "name": "Gianluca Cusatis", 
+        "phone": null, 
+        "address": "2145 N. Sheridan Road / Tech A125"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34684, 
+    "attributes": null, 
+    "catalog_num": "421-0"
+}

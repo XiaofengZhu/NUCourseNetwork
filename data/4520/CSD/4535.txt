@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 4535, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Language Development and Usage", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Molly C Losh", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Development of Language, The, 8/E\nJean Berko Gleason, Boston University\nNan Bernstein Ratner, University of Maryland, College Park\nISBN-10: 0132612380 ISBN-13: 9780132612388\n2013 Pearson\nPublished 06/22/2012\n\nSuggested retail price: $147.40"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. To gain an appreciation for the remarkable feat of language acquisition\n2. To gain an appreciation for the joys and challenges involved in studying language acquisition, i.e. methods!\n3. To understand major theoretical accounts of language acquisition\n4. To understand the mechanisms that allow for successful language acquisition, and the consequences for development when these mechanisms are compromised\n5. To become aware of milestones, as well as normal variation, in language development among typically-developing children\n6. To understand how language development relates to other aspects of cognitive development"
+        }
+    ], 
+    "class_num": 14907, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "392-0"
+}

@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3169, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Reading and Writing the Art of Protest", 
+    "section": "21", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "21", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Anna G Diakow", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 312", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Teaching Method", 
+            "desc": "For more information on the course contact the coordinator Denise Bouras dbouras@northwestern.edu"
+        }
+    ], 
+    "class_num": 23709, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "204-0"
+}

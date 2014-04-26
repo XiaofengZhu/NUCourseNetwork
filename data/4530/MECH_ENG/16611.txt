@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 16611, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Micro-and Nanoscale Fluid Dynamics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sandip Ghosal", 
+        "phone": "847/467-5990", 
+        "address": "Technological Institute, Rm M312, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG72", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Books and research papers from the library's holdings and electronic resources"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Research papers will be handed out in class"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grading based on project"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures and project work"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Graduate standing, senior undergraduate or permission of instructor\nFirst course in Fluids, Continuum mechanics or equivalent"
+        }
+    ], 
+    "class_num": 33899, 
+    "attributes": null, 
+    "catalog_num": "420-0"
+}

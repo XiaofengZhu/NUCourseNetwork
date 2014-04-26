@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2324, 
+    "subject": "ARABIC", 
+    "requirements": null, 
+    "title": "Arabic I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lynn Ellen Whitcomb", 
+        "phone": "8474912770", 
+        "address": "4-321 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Alif Baa: Introduction to Arabic Letters and Sounds | Edition: 3\nAuthor: Kristen Brustad, Mahmoud Al-Batal, Abbas Al-Tonsi\nISBN: 9781589016323 \nPublisher: Georgetown University Press \nPublication Date: 07/01/2010 \n\n\nAl-Kitaab fii Ta callum al-cArabiyya: A Textbook for Beginning Arabic: Part One | Edition: 3\nAuthor: Kristen Brustad, Mahmoud Al-Batal, Abbas Al-Tonsi\nISBN: 9781589017368 \nPublisher: Georgetown University Press \nPublication Date:  07/15/2011"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Final grades for the course will be based on:homework, quizzes, mid-term exam, and final exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Class is devoted to learning the script and sounds of Modern Standard Arabic and basic communication and reading skills. Students are required to use audio materials in the Multi-Media Language Center (MMLC), Room 48 Kresge Hall, tel. 491-3101. Audio tapes can be checked out for use at home. (The first book in the course textbook series also comes with audio CDs). Students should be prepared to devote additional time to daily homework."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 10421, 
+    "attributes": null, 
+    "catalog_num": "111-1"
+}

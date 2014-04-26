@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 1540, 
+    "subject": "CLASSICS", 
+    "requirements": null, 
+    "title": "A Study of Scientific Vocabulary Through Classical Roots", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "00:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": "MTWF 9:30-noon and by appointment", 
+        "bio": null, 
+        "name": "Jeanne R Ravid", 
+        "phone": "847/491-8043", 
+        "address": "Kresge 1-510, Dept of Classics"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "00:00:00", 
+    "coursedesc_set": [], 
+    "class_num": 32524, 
+    "attributes": "Attendance at 1st class mandatory\n\nSee Dept for further info\n\nNo Freshmen\n\n", 
+    "catalog_num": "110-0"
+}

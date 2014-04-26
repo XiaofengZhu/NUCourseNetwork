@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2357, 
+    "subject": "HINDI", 
+    "requirements": null, 
+    "title": "Hindi I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M 12:00pm-1:00pm", 
+        "bio": null, 
+        "name": "Rami Nair", 
+        "phone": "8474677581", 
+        "address": "4-406 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32770, 
+    "attributes": "Specific requirements in the language\n\n", 
+    "catalog_num": "111-3"
+}

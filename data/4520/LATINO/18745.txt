@@ -1,0 +1,45 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 75, 
+    "course_id": 18745, 
+    "subject": "LATINO", 
+    "requirements": null, 
+    "title": "Introduction to Latina and Latino Studies", 
+    "section": "35", 
+    "coursecomponent_set": [
+        {
+            "room": "Parkes Hall 222", 
+            "section": "01", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "35", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Aide Acosta", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "1.\tDavid Montejano, Quixote's Soldiers: A Local History of the Chicano Movement.\n2.\tElena Gutirrez, Fertile Matters: The Politics and Origins of Mexican Origin Women's Reproduction.\n3.\tLeo R. Chavez, The Latino Threat: Constructing Immigrants, Citizens, and Nation."
+        }
+    ], 
+    "class_num": 17031, 
+    "attributes": "Historical Studies Distro Area\n\nInterdisciplinary Distro - See Rules\n\nSocial & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "201-1"
+}

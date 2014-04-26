@@ -1,0 +1,36 @@
+{
+    "overview": "An introduction to selected musical cultures of the Western world from 1600-1800 focus on music, its intellectual and cultural contexts, its creators,and its performance practices. It also introduces the traditions of performing this music today and tools for music research.", 
+    "topic": null, 
+    "seats": 55, 
+    "course_id": 3527, 
+    "subject": "MUSIC", 
+    "requirements": null, 
+    "title": "Western Music Cultures 1600-1800", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "http://www.music.northwestern.edu/faculty/profiles/thomas-bauman.html", 
+        "name": "Thomas A Bauman", 
+        "phone": null, 
+        "address": "t-bauman@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 109", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "As a core component for music majors, this course assumes completion of MUSIC 111-1,2,3 and MUSIC 126-1,2,3 or their equivalents."
+        }
+    ], 
+    "class_num": 22145, 
+    "attributes": "Music Majors Only\n\n", 
+    "catalog_num": "215-0"
+}

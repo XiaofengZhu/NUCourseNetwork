@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 14, 
+    "course_id": 10001, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Writing and Peer Reviewing for Publication", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Phil B Fontanarosa", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "McGaw Pavilion 2-402", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Class size will be limited to 12 students. IF YOU SIGN UP FOR THIS COURSE, PLEASE PLAN\nTO BE AT EVERY CLASS. STUDENTS WHO MISS MORE THAN ONE CLASS WILL NOT\nBE ABLE TO COMPLETE THE COURSE."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Lang, TA. How to Write, Publish, and Present in the Health Sciences. ACP Press, 2010"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will demonstrate writing, reading, editing, and reviewing skills by submitting homework assignments and by discussing in class:\n\n1. A review of an assigned manuscript\n2. An abstract and title of an assigned paper\n3. A detailed outline of your own research paper or meta-analysis\n4. A complete manuscript reporting your research or meta-analysis\n5. A peer review of a classmate's manuscript\n6. A letter responding to a critique of your manuscript\n7. An editorial or commentary"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission number required. Please contact Meera at meera.tavathia@northwestern.edu."
+        }
+    ], 
+    "class_num": 20098, 
+    "attributes": null, 
+    "catalog_num": "445-0"
+}

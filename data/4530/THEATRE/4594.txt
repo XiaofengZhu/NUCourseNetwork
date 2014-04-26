@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 4594, 
+    "subject": "THEATRE", 
+    "requirements": "Enrollment Requirements: Reserved for Theatre Majors", 
+    "title": "Design Process: Lighting Design I", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Lindsey Erin Lyddan", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Theater Int Cntr Design w/Tabl", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Teaching Method", 
+            "desc": "\t\nLecture/discussion, demonstration."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "\t\nSophomore standing."
+        }
+    ], 
+    "class_num": 21413, 
+    "attributes": null, 
+    "catalog_num": "241-3"
+}

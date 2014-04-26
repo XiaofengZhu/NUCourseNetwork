@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 15850, 
+    "subject": "MUS_TECH", 
+    "requirements": null, 
+    "title": "Technology in the Music Classroom", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Maud Mary Hickey", 
+        "phone": "847/467-4726", 
+        "address": "mhickey@northwestern.edu"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 14140, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "262-0"
+}

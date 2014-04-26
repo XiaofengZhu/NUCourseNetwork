@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 240, 
+    "course_id": 17494, 
+    "subject": "EARTH", 
+    "requirements": null, 
+    "title": "Geologic Hazards", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute F285", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "n/a", 
+        "bio": null, 
+        "name": "Emile A Okal", 
+        "phone": "+1 847 491 3194", 
+        "address": "Tech F492/F493"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Patrick L Abbott, Natural Disasters, McGraw Hill, 9th edition, 2014\nISBN-13 978-0-07-802287-6\nPublisher's price $178"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "1 Mid-term, 1 Final Exam."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Two 1 1/2-hour lectures, discussions."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 12910, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "103-0"
+}

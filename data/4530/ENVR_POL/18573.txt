@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 18573, 
+    "subject": "ENVR_POL", 
+    "requirements": null, 
+    "title": "Professional Linkage Seminar", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "George G Davis", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The River Runs Black, Elizabeth Economy 2nd edition.\n\nChina and the Environment: The Green Revolution, edited by Sam Geall, published by Zed books, 2013."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Emphasis on classroom participation"
+        }
+    ], 
+    "class_num": 24130, 
+    "attributes": null, 
+    "catalog_num": "394-0"
+}

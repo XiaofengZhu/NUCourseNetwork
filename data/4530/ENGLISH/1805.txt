@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 1805, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Renaissance Poetry", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "I write about justice in literature, religion, and law, and teach courses on justice in literature and law in the Law School as well as courses on renaissance literature in the English department.", 
+        "name": "Regina M Schwartz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 114", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TBA"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "A short paper (2-3 pages) and a long one (9-12 pages), as well as a class presentation."
+        }
+    ], 
+    "class_num": 34476, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "331-0"
+}

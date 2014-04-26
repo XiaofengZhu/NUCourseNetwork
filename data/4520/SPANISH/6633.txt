@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 6633, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Elementary Spanish", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Elena Lanza is a Senior Lecturer of Spanish at the Department of Spanish and Portuguese at Northwestern University, as well as the Coordinator of Spanish 199, and the Assistant Director of the Spanish Language Program. She has been involved in organizing exchange programs in Spain for American high school students and participated as the Spanish author of an on-line educational language program. Her research focuses mainly on assessment development and professional development. She has won several teaching awards and honors such as the Faculty Honor Roll by the Associated Student Government at Northwestern University.", 
+        "name": "Elena Lanza", 
+        "phone": "847/491-8280", 
+        "address": "1-200 Kresge"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "This is a highly interactive class in which you will be working in pairs and in groups most of the time. The class time will be used mostly to interact with the instructor as well as the classmates. Students will be watching, outside of class time, an online video program (weekly) and two movies (throughout the quarter) and will also be expected to spend 2-3 hours (weekly) on homework assignments."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "-Texbook: Alonso, Montserrat and Roco Prieto. Embarque 1, Madrid: Edelsa, 2011\n-Manual (Libro de ejercicios): Alonso, Montserrat and Roco Prieto. Embarque 1, Madrid: Edelsa, 2011\n(Available in Norris Bookstore- Evanston Campus)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "-Gaining a basic understanding of cultural issues that define Spanish-speaking countries.\n-Developing basic oral and written skills to give and request personal information (name, age, address, profession/occupation, phone numbers, marital status, family...), describe something's or someone's physical appearance and personality (descriptive adjectives, as well as clothing) \n-Talking about actions in the present and daily routines\n-Expressing likes/dislikes/general preferences\n-Giving (and asking for) directions (and talk about transportation, location, frequency... \n-Expressing obligation\n-Reading about current events and cultural topics in Spanish-speaking countries.\n-Writing basic sentences, paragraphs and compositions in Spanish on all the various topics mentioned above."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Only students who have never taken Spanish before should enroll in this course. Students with previous Spanish experience (high school or college, studied abroad, etc), should enroll in SPANISH 102. Students with questions prior to registering should contact the instructor."
+        }
+    ], 
+    "class_num": 18187, 
+    "attributes": null, 
+    "catalog_num": "101-A"
+}

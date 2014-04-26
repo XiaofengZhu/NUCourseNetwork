@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 640, 
+    "subject": "SOC_POL", 
+    "requirements": null, 
+    "title": "Legal Aspects of Education", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Cynthia A Conlon", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The U.S. Supreme Court: A Very Short Introduction, by Linda Greenhouse (Oxford University Press, 2012)\n\nThe Struggle for Student Rights by John W. Johnson (University Press of Kansas, 1997)\n\nCourse packet (available at Quartet Digital Printing, 825 Clark Street)\n\nA 2011-12 or 2012-13 high school student handbook (ideally, the high school from which you graduated)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Assessment will be as follows:\nmid-term exam: 10% of final grade,\nclass participation: 20 % of final grade,\nwriting assignments: 40% of final grade\n(handbook review: 15%\nsimulation paper: 25%),\nfinal exam: 30% of final grade."
+        }
+    ], 
+    "class_num": 14724, 
+    "attributes": "No Freshmen\n\n", 
+    "catalog_num": "310-0"
+}

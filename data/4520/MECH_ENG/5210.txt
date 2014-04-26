@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 5210, 
+    "subject": "MECH_ENG", 
+    "requirements": null, 
+    "title": "Comp Integ Manufacturing: Manufacturing Processes", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute AG21", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jay Alexander Birdwell", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Manufacturing Processes for Engineering Materials, 5th Edition, S. Kalpakjian and S. Schmid, Prentice Hall, 2007, ISBN 0132272717"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MECH_ENG 240 or consent of instructor."
+        }
+    ], 
+    "class_num": 15855, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "340-1"
+}

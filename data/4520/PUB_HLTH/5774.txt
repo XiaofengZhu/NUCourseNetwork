@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 5774, 
+    "subject": "PUB_HLTH", 
+    "requirements": null, 
+    "title": "Intro Biostats", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Monday through Friday 10:00am - 4:30pm", 
+        "bio": null, 
+        "name": "James M Sinacore", 
+        "phone": "708/327-9009", 
+        "address": "Loyola University Stritch School of Medicine"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Fundamentals of Biostatistics (7th edition) by Bernard Rosner. Thomson Brooks/Cole.\n\nMore Damned Lies and Statistics: How Numbers Confuse Public Issues by Joel\nBest. University of California Press."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of this class, students should be able to:\n$ classify statistical analysis as a collection of techniques that are intended to uncover\ninformation in data.\n$ discuss how statistical methods are used as a research tools.\n$ describe the purpose and proper use of the statistical techniques presented in class.\n$ define basic statistical concepts.\n$ conduct statistical tests of research hypotheses using methods presented in class."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Department consent required (permission number)"
+        }
+    ], 
+    "class_num": 13468, 
+    "attributes": null, 
+    "catalog_num": "302-0"
+}

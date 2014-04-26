@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4100, 
+    "subject": "VOICE", 
+    "requirements": null, 
+    "title": "Vocal Pedagogy for the Choral Conductor", 
+    "section": "23", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-06-24", 
+    "end_date": "2013-07-15", 
+    "start_time": null, 
+    "component": "23", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Karen A Brunssen", 
+        "phone": null, 
+        "address": "MAB 711 Elgin Rd, Evanston IL"
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41813, 
+    "attributes": null, 
+    "catalog_num": "425-0"
+}

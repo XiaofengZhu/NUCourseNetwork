@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 18651, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "New Introductory Courses in History", 
+    "section": "40", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "12:30:00", 
+    "component": "40", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": "Tuesday, 2-4pm", 
+        "bio": null, 
+        "name": "Elizabeth Rose Lew-Williams", 
+        "phone": "847/467-4829", 
+        "address": "Harris Hall 323"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 32773, 
+    "attributes": "Historical Studies Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "200-0"
+}

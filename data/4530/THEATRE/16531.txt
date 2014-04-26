@@ -1,0 +1,45 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 16531, 
+    "subject": "THEATRE", 
+    "requirements": "Enrollment Requirements: Reserved for Theatre Majors and Minors", 
+    "title": "Fundamentals of Stage Directing", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Fisk Hall 115", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Scott has been involved in over 80 productions throughout the United States either as an actor, director and/or fight choreographer.  His directing credits in Chicago include work with Lakeside Shakespeare, Seanachai Theatre, Wildclaw Theatre Company Prop Theatre, Powertap Productions and Route 66 Theatre. Scotts Los Angeles directing credits include work with Lost Angels Theatre Company, Odyssey Theatre, and The Road Theatre Company. As a director he has received an Ovation Award (two nominations), an After Dark Award, and an ADA nomination.  He has also received two Joseph Jefferson Citations (one for Actor in Principle Role, one for fight direction) and a Jeff Award (Ensemble). He is an Artistic Associate for both WildClaw Theatre Company and Lakeside Shakespeare Theatre.", 
+        "name": "Scott Edward Cummins", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Fisk Hall 115", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission number required."
+        }
+    ], 
+    "class_num": 21438, 
+    "attributes": null, 
+    "catalog_num": "260-0"
+}

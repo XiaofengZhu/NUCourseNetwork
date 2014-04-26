@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 2659, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Seminar in Contemporary Philosophy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "We", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Stephen John White", 
+        "phone": "847/467-6249", 
+        "address": "Crowe Hall, Room 3-220"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-345", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "On-line course reading packet, to be compiled based on the particular interests of the students enrolled."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Seminar participation/ term paper (12-15 pages)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion format with some lecture. Each student will lead 1-2 class discussions."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To understand current theoretical issues in implicature with the goal of explaining the basic mechanism underlying implicature. We will investigate some of the central issues surrounding the semantics-pragmatics interface, in particular the connections between implicature and the related notions of explicature and impliciture, the landscape of what is said, and the problem of pragmatic intrusion into truth conditions and logical form. Students will be encouraged to develop empirical investigations of the phenomena covered in the seminar."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "PREREQUISITES: a course in linguistic meaning (e.g., LING 270, 370, 371, 372), a course in the philosophy of language (e.g., PHIL 353), or permission of Instructor. ATTENDANCE AT FIRST CLASS MANDATORY."
+        }
+    ], 
+    "class_num": 26606, 
+    "attributes": null, 
+    "catalog_num": "423-0"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 6732, 
+    "subject": "COMM_ST", 
+    "requirements": null, 
+    "title": "Team Leadership and Decision Making", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Adam Goodman directs Northwestern University's Center for Leadership and is a faculty member in the McCormick School of Engineering and Applied Science. Goodman focuses on the fundamentals of leadership and how people learn to become more effective leaders. His current projects include development of a data intensive enterprise-wide web portal for leadership and teamwork assessments, and training programs for leadership coaching.  The former resulted in his founding Catapult LLC as a University spinoff company. An active consultant today and for over 25 years, he has advised over 100 CEOs, senior officers, executive teams and boards of directors and given hundreds of invited speeches and workshops in the United States and around the world. As a Presidential Fellow at the University of Colorado he earned a master's degree in management and, later, a Ph.D. in leadership from the Graduate School of Public Affairs.", 
+        "name": "Adam Joseph Goodman", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-425", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "A key goal for the course is to simulate how teams can and should work together and how teams also make decisions -- in the \"real world.\"  Ideally, your success in this class will help you succeed in other team settings on campus and elsewhere.\nSo, this course is organized in a manner that is different than you might expect.  My goal is that you be supported by me and, at the same time, challenged by the way this course works.\nIf you're ready for something different,  then this class is for you!"
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Recommended Text: Ellet, W. (2007). The Case Study Handbook: How to Read, Discuss, and Write Persuasively About Cases . Boston, MA, USA: Harvard Business School Press."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Harvard Business School Press. (2013). HBR's 10 Must Reads on Making Smart Decisions. Boston, MA, USA: Harvard Business Press.\nHarvard Business Review. (2011). HBR's 10 Must Reads on Change. Boston, MA, USA: Harvard Business Publishing.\nHarvard Business School Press. (2013). HBR's 10 Must Reads on Teams. Boston, MA, USA: Harvard Business Press.\nEach student will also buy four Harvard Business School case studies that are assigned as the course proceeds."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "This course is intended to help you learn how to reliably and repeatedly work with others in a disciplined and collegial manner now and for the future.  It does not provide ready answers to simple questions that can be applied in a formulaic manner.  Nor will memorization of facts or models aid your success.  Your success depends on your ability to:\n-Think critically\n-Ask great questions\n-Synthesize the lecture material, small group work, and readings\n-Express yourself in a concise and effective manner\n-Challenge and play well with your peers and us\n-Diagnose and overcome indifference, freeloading and failure"
+        }
+    ], 
+    "class_num": 35037, 
+    "attributes": null, 
+    "catalog_num": "250-CN"
+}

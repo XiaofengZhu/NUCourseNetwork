@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 1806, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Renaissance Drama", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "William N West", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Harris Hall L06", 
+    "end_time": "10:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Marlowe's Jew of Malta and Shakespeare's Merchant of Venice;\nShakespeare's Much Ado About Nothing and Chapman, Jonson, and Marston's Eastward Ho;\nWhetstone's Promos and Cassandra, Shakespeare's Measure for Measure, Taylor and Jowett's reconstructions of Shakespeare's and Middleton's versions of MM, and Davenant's Law Against Lovers."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Several shorter papers and a longer project; informal writing; discussion; participation."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Discussion and practical exercises."
+        }
+    ], 
+    "class_num": 24294, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "332-0"
+}

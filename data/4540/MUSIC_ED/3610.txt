@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 3610, 
+    "subject": "MUSIC_ED", 
+    "requirements": null, 
+    "title": "Teaching General Music II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Amy Lynn Becker", 
+        "phone": null, 
+        "address": "amy.becker@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "A course reader will be available for purchase from Quartet Copies. There will also be required textbooks. Blackboard will be used for posting additional course materials."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "The format of the course includes participation in an apprenticeship experience, example lessons for middle school students, lectures, readings from a variety of texts and sources, analysis of curriculum materials, class discussion, discussion board entries, and student presentations."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "This course is required for all music education tracks. It is assumed that all students will have taken MUSIC ED 258, Philosophy of Music Education, MUSIC ED 260, and Teacher as Communicator before enrolling in this methods course. Contact the instructor if you have questions about the appropriateness of this course for your program. MM students are encouraged to enroll in this course either as a requirement for certification or as an elective."
+        }
+    ], 
+    "class_num": 35849, 
+    "attributes": null, 
+    "catalog_num": "362-0"
+}

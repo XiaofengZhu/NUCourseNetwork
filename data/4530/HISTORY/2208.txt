@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 2208, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Directed Research in History", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Kenneth L Alder", 
+        "phone": "847/491-7260", 
+        "address": "Harris Hall Rom 309"
+    }, 
+    "term": "2014 Winter", 
+    "room": "TBA", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 24042, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "580-2"
+}

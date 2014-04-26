@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 16526, 
+    "subject": "PBC", 
+    "requirements": null, 
+    "title": "Plant Evolution & Diversity Lab", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute DG31", 
+            "section": "60", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Patrick S Herendeen", 
+        "phone": "847/835-6956", 
+        "address": "Hogan Hall, 6-140B, 2205 Tech Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG68", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20154, 
+    "attributes": null, 
+    "catalog_num": "401-0"
+}

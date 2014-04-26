@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 4597, 
+    "subject": "THEATRE", 
+    "requirements": "Enrollment Requirements: Theatre Majors & Performance Studies Only", 
+    "title": "Acting I-Principles of Characterization", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tues/Thurs 3-5", 
+        "bio": null, 
+        "name": "Sandra U Marquez", 
+        "phone": null, 
+        "address": "TIC, 1949 Campus Drive, Evanston, IL  60208"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "A Practical Handbook for the Actor, Bruder, 0-394-74412-8"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "An Actor Prepares, Stanislavski, 0-87830-983-7\nImpro, Johnstone, 0-87830-163-1\nThree Uses of the Knife, Mamet, 0-375-70423-X\n\nExcerpts from Viola Spolin and Anna Devere-Smith"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To learn the basic principles of acting, with an emphasis on the necessity and utility of observation.  To have a greater facility to observe on stage and in preparation for stage work.  To have a basic critical grasp and capacity to utilize the objective-action approach to acting.  To have an understanding of the basic tools of the actor.  To form a functioning ensemble with the class."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Get permission number, have fulfilled freshman prereq., be a theater major"
+        }
+    ], 
+    "class_num": 14917, 
+    "attributes": "Attendance at 1st class mandatory\n\nNo P/N option for this section\n\nDepartment Majors Only\n\n", 
+    "catalog_num": "243-1"
+}

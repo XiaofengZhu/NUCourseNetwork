@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 16852, 
+    "subject": "CHEM", 
+    "requirements": null, 
+    "title": "Advanced Organic Chemistry II", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "1", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Regan James Thomson", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG72", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 24288, 
+    "attributes": null, 
+    "catalog_num": "413-2"
+}

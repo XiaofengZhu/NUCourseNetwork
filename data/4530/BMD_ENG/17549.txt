@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 17549, 
+    "subject": "BMD_ENG", 
+    "requirements": null, 
+    "title": "Neural Engineering:  Sensory Acquisition through Movement", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Mitra J Hartmann", 
+        "phone": "847/467-4633", 
+        "address": "Technological Institute, Rm B284, 2145 Sheridan Rd, EV CAMPUS"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L158", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33984, 
+    "attributes": null, 
+    "catalog_num": "462-0"
+}

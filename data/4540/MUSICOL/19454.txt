@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 19454, 
+    "subject": "MUSICOL", 
+    "requirements": null, 
+    "title": "Composer Topics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": "Specialist in 19th- and 20th-century Italian opera, with articles published on Rossini, Donizetti, Bellini, and Verdi; papers read at national and international conferences on opera and film music history. Research interests in musical aesthetics and the convergence of music with fields such as literature, poetry, and theology. Contributor, New Grove Dictionary of Opera (Macmillan, 1992), Pipers Enzyclopdie des Musiktheaters (Pipers, 1996), New Grove Dictionary of Music and Musicians (Macmillan, 2000). Outstanding Dissertation Award and Excellence in Teaching Award, New York University. Faculty Honor Roll, Northwestern University.", 
+        "name": "Jesse Rosenberg", 
+        "phone": "847/467-2033", 
+        "address": "j-rosenberg1@northwestern.edu"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "COURSE MATERIALS:  There is no assigned text book or course pack for this class; all necessary materials will be made available through your Blackboard course website under \"Documents.\" These include scores, readings, sound recordings, and video recordings.  Your final research paper will undoubtedly call for further materials available in our Music Library."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Grades will be based on a work-list quiz in the second week (5%), a midterm (20%), a take-home final examination (20%), three written assignments of 4-5 pages each (each assignment 15%, see syllabus for dates), and class participation (10%) informed both by successful absorption of assigned readings and by the examples for listening and viewing in class and on our Blackboard website.\nGraduate students have the option to take on a research assignment in lieu of the final examination, but interested students need to discuss the project with the instructor before getting the green light to proceed."
+        }
+    ], 
+    "class_num": 36490, 
+    "attributes": null, 
+    "catalog_num": "346-0"
+}

@@ -1,0 +1,49 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 72, 
+    "course_id": 927, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: This section is currently closed to registration.  Please contact the department directly with any questions.", 
+    "title": "Introduction to 21st Century Media", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Rachel Davis Mersey", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No textbook required.  Course materials provided through Blackboard by instructor."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Required for BSJ students in their first year; students must register for discussion section with their faculty advisers."
+        }
+    ], 
+    "class_num": 35682, 
+    "attributes": "Attendance at 1st class mandatory\n\n", 
+    "catalog_num": "202-0"
+}

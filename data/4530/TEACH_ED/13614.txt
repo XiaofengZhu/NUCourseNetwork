@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 40, 
+    "course_id": 13614, 
+    "subject": "TEACH_ED", 
+    "requirements": null, 
+    "title": "Seminar on Teaching: Introduction to Schooling in Communities", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SESP", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John P Kretzmann", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Annenberg Hall G02", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 23018, 
+    "attributes": "No Freshmen\n\n", 
+    "catalog_num": "304-0"
+}

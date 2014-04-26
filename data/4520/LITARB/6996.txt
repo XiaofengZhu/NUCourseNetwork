@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 100, 
+    "course_id": 6996, 
+    "subject": "LITARB", 
+    "requirements": "Enrollment Requirements: Successful enrollment in Trial Advocacy ITA is required for enrollment in Ethics ITA.", 
+    "title": "Legal Ethics (ITA)", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Robert P Burns", 
+        "phone": "312/503-6613", 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18095, 
+    "attributes": "Meets Ethics degree requirment\n\nCivil Litigation & Dispute Resolution\n\n", 
+    "catalog_num": "607"
+}

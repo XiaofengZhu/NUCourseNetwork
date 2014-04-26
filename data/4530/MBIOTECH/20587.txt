@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 20587, 
+    "subject": "MBIOTECH", 
+    "requirements": "Enrollment Requirements: Registration is restricted to MBIOTECH students only.", 
+    "title": "Critical Thinking and Scientific Writing", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute L251", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Packianathan Arthur Felse", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute L150", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 21365, 
+    "attributes": null, 
+    "catalog_num": "505-0"
+}

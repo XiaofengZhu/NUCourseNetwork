@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 3128, 
+    "subject": "PORT", 
+    "requirements": null, 
+    "title": "Elementary Portuguese", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Raquel A Amorim", 
+        "phone": "847/491-8127", 
+        "address": "1-205 Kresge"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite for 101-2: 101-1 or sufficient score on placement test; for 101-3: 101-2 or sufficient score on placement test."
+        }
+    ], 
+    "class_num": 24562, 
+    "attributes": null, 
+    "catalog_num": "101-2"
+}

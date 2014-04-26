@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 18751, 
+    "subject": "LATINO", 
+    "requirements": null, 
+    "title": "Latino Youth in U.S. Cities", 
+    "section": "30", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "30", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ana L Aparicio", 
+        "phone": "847/491-5132", 
+        "address": "515 Clark St., Room #201"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "No P/N option. Attendance at first class mandatory, particularly if you're trying to register but haven't been able to do so yet."
+        }, 
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Meier, Deborah and George Wood, eds. (2004) Many Children Left Behind: How the No Child Left Behind Act is Damaging our Children and our Schools. MA: Beacon Press."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Alvarez, Julia (2007) Once Upon a Quinceaera: Coming of Age in the USA. Viking Press. \n\nAparicio, Ana (2006) Dominican-Americans and the Politics of Empowerment. FL: University Press of Florida. (2009 paperback edition now available) \n\nLopez, Nancy (2003) Hopeful Girls, Troubled Boys: Race and Gender Disparity in Urban Education. NY: Routledge. \n\nRivera, Raquel (2003) New York Ricans from the Hip Hop Zone. NY: Palgrave."
+        }
+    ], 
+    "class_num": 33122, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "222-0"
+}

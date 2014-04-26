@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 17708, 
+    "subject": "FN_EXTND", 
+    "requirements": null, 
+    "title": "Extended Program: Income Tax Planning", 
+    "section": "45", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-07-17", 
+    "end_date": "2013-09-18", 
+    "start_time": null, 
+    "component": "45", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Joanna Janczurewicz", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 42062, 
+    "attributes": null, 
+    "catalog_num": "313-0"
+}

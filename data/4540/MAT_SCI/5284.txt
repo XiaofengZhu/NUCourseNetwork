@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 21, 
+    "course_id": 5284, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Introduction to Electron Microscopy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Vinayak P Dravid", 
+        "phone": "847/491-1363", 
+        "address": "1133 Cook Hall"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "J.I. Goldstein, \"Scanning Electron Microscopy and X-ray Microanalysis\", Springer, 2003 3rd Edition. ISBN-10: 0306472929 ISBN-13: 978-0306472923 \n\nD.B. Williams and C. B. Carter, Transmission Electron Microscopy, Springer, 2004. ISBN-10: 030645324X ISBN-13: 978-0306453243"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Three 1-hour lectures per week, and one 2-hour laboratory per two weeks. Students are required to complete a lab project of own design, applying TEM and/or SEM to study microstructure of materials."
+        }
+    ], 
+    "class_num": 34057, 
+    "attributes": "Department Majors Only\n\n", 
+    "catalog_num": "360-0"
+}

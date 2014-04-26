@@ -1,0 +1,31 @@
+{
+    "overview": "Contact the department for further information", 
+    "topic": null, 
+    "seats": 8, 
+    "course_id": 3546, 
+    "subject": "MUSIC", 
+    "requirements": "Enrollment Requirements: Restricted to Music Undergrads/Grads", 
+    "title": "Alexander Technique", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "John M Henes", 
+        "phone": "847/491-7228", 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Lutkin Hall", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 22153, 
+    "attributes": null, 
+    "catalog_num": "350-0"
+}

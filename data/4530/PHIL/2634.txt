@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 2634, 
+    "subject": "PHIL", 
+    "requirements": null, 
+    "title": "Topics in Social and Political Philosophy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Charles W Mills", 
+        "phone": "847/491-2551", 
+        "address": "Kresge 3-210"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-310", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "John Rawls, A Theory of Justice, revised edition ISBN: 0-674-00078-1\nRobert Nozick, Anarchy, State, and Utopia ISBN: 0-465-09720-0\nSusan Moller Okin, Justice, Gender, and the Family ISBN: 0-465-03703-8"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Two 7-page essays"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course, the students will be expected to have become acquainted with some of the basic competing theories on justice in political philosophy."
+        }
+    ], 
+    "class_num": 33779, 
+    "attributes": "Juniors/Seniors Only\n\n", 
+    "catalog_num": "361-0"
+}

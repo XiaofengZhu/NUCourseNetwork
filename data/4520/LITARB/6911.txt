@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 6911, 
+    "subject": "LITARB", 
+    "requirements": null, 
+    "title": "Civil Procedure", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "James E Pfander", 
+        "phone": "312/503-1325", 
+        "address": "Levy Mayer 215"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18077, 
+    "attributes": "First Year Students only\n\nRegistrar enrollment;  not a biddable class\n\nCivil Litigation & Dispute Resolution\n\nProcedure Practice Area present in course\n\n", 
+    "catalog_num": "530"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 16205, 
+    "subject": "COMP_LIT", 
+    "requirements": null, 
+    "title": "Literature and Media", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TuTh 11 - 12PM", 
+        "bio": null, 
+        "name": "Domietta Torlasco", 
+        "phone": "847/491-8269", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-131"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Texts:\nJorge Luis Borges, Labyrinths \nItalo Calvino, If on a Winter's Night a Traveler \nJulio Cortzar, Blow-up and Other Stories \nMark Z. Danielewski, House of Leaves \nSigmund Freud, The Interpretation of Dreams \nLaura Mulvey, Death 24x a Second\nKaja Silverman, The Subject of Semiotics"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "1. Attendance and participation to lectures AND discussion sessions (25% of the final grade). Please\nnote that more than three absences will automatically reduce your final grade.\n2. Two short response papers (15%).\n3. Mid-term exam (25%).\n4. Final 5-6 page paper (35%)."
+        }
+    ], 
+    "class_num": 17161, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "206-0"
+}

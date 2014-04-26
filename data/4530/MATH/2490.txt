@@ -1,0 +1,53 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 2490, 
+    "subject": "MATH", 
+    "requirements": null, 
+    "title": "Probability and Stochastic Processes", 
+    "section": "51", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute A110", 
+            "section": "51A", 
+            "component": "DIS", 
+            "end_time": "11:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "11:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "51", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jamison B Wolf", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute M164", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "TBA"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Introduction to Stochastic Processes, Hoel and Port, ISBN: 978-0881332674, Waveland Press"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "234, 240"
+        }
+    ], 
+    "class_num": 23434, 
+    "attributes": null, 
+    "catalog_num": "310-2"
+}

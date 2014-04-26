@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3140, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Intermediate Spanish", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "08:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Stewart I Adams", 
+        "phone": "847/491-8278", 
+        "address": "1-148 Crowe"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-430", 
+    "end_time": "08:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Questions?  See 121 Course Coordinator:  Maria Reyes Moran:  mr-moran@northwestern.edu"
+        }
+    ], 
+    "class_num": 23619, 
+    "attributes": "Attendance at 1st class mandatory\n\nOne Addtl hour or more TBA\n\nPrerequisites apply, see description\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "121-2"
+}

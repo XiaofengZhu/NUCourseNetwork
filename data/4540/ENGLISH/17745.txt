@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 17745, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Advanced Reading and Writing Poetry I", 
+    "section": "66", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "66", 
+    "school": "UC", 
+    "meeting_days": "Th", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Dike Okoro (Ph.D. University of Wisconsin-Milwaukee, English; M.F.A./M.A. Chicago State University) is poet, fiction writer, literary critic, Sam Walton Fellow (recognized for his teaching contributions), artist and translator. He teaches and writes in the areas of American literature, Creative Writing (Poetry), Postcolonial literatures, and contemporary African American and African Diaspora literatures.  Okoros poetry, fiction and essays have appeared in DLB: Dictionary of Literary Biographies, Witness Magazine, Yellow Medicine Review, Pindeldyboz, Fingernails Across the Chalkboard, and elsewhere. He is the editor/author of five books including: We Have Crossed Many Rivers: New Poetry from Africa (2012), Dance of the Heart (2007), and Speaking for the Generations: Short Stories (New Jersey:AWP, 2010).", 
+        "name": "Dike F Okoro", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": "University Hall 412", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Padget, Ron (Ed). The Teachers and Writers Handbook of Poetic Form. 2nd Edition. 2000. \nISBN-13: 978-0915924608.\n\nCollins, Billy (Ed). Poetry 180: A Turning Back to Poetry. NY: Random House. 2003. \nISBN-13: 978-0812968873.\n\nOkoro, Dike (Ed). We Have Crossed Many Rivers: New Poetry from Africa. Malthouse. 2012. (Also available in kindle edition)    ISBN-13: 978-9788244325"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the end of the quarter, students will:\n1) Develop individual style and thematic concerns.\n2) Develop appreciation of individual strengths as a poet."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "ENGLISH 206 or permission of instructor. Students should have previous poetry writing experience in an academic setting. Instructor's consent and confirmation of the prerequisite course or appropriate writing experience is required for enrollment in this course. May not be audited or taken P/N."
+        }
+    ], 
+    "class_num": 38683, 
+    "attributes": null, 
+    "catalog_num": "306-A"
+}

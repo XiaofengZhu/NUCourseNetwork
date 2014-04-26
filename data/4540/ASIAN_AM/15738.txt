@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 15738, 
+    "subject": "ASIAN_AM", 
+    "requirements": null, 
+    "title": "Seminar in Asian American Studies", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": "Ji-Yeon Yuh is a native of Seoul and Chicago, a former journalist, and a mother of three. Her intellectual passions are wide-ranging, but these days are focused on diaspora, memory, and community. She is active in Asian American community organizations, was the director of the Asian American Studies Program at  Northwestern, of which she is a founding faculty member, and has written on Korean diaspora. She teaches courses on Asian diaspora, Asian American history, oral history, Asian American women, and comparative race and gender.", 
+        "name": "Ji-Yeon Yuh", 
+        "phone": "847/467-6538", 
+        "address": "Harris Hall Room 306"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "Bruce Cumings, The Korean War: A History (2009) ISBN-13: 978-0812978964\nGreg Grandin, The Last Colonial Massacre: Latin America in the Cold War (2004) ISBN-13: 978-0226306902\nMahmood Mamdani, Saviors and Survivors: Darfur, Politics, and the War on Terror (2009) ISBN - 9780307377234\nNaomi Klein, The Shock Doctrine: The Rise of Disaster Capitalism ISBN 9781427200884\nOdd Arne Westad, The Global Cold War (2005) ISBN-13: 978-0521703147\nCourse Packet"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students will learn to evaluate primary documents and survey secondary literature that will allow them to discuss and to write effectively about the key political, social, and economic transformations that shaped the contemporary world.  By the end of the course, students will gain a more thorough understanding of recent global history and learn to assess the role of the United States in the world through a critical, comparative-historical lens."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 32958, 
+    "attributes": null, 
+    "catalog_num": "392-0"
+}

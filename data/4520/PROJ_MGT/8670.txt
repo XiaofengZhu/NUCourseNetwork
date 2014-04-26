@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 8670, 
+    "subject": "PROJ_MGT", 
+    "requirements": null, 
+    "title": "Principles of Project Management", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "rjkrizek@northwestern.edu", 
+        "bio": null, 
+        "name": "Raymond John Krizek", 
+        "phone": "847/491-4040", 
+        "address": "2145 N. Sheridan Road / Tech A114"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 16226, 
+    "attributes": null, 
+    "catalog_num": "421-0"
+}

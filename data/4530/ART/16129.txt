@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 16129, 
+    "subject": "ART", 
+    "requirements": "Enrollment Requirements: Pre-Requisite:  Reserved for Students who have taken & passed Art 210 and at least one 100-level Art class.  All others must have a permission number to enroll.", 
+    "title": "Digital Art", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Irena Knezevic", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "MMLC 1-315 - Kresge", 
+    "end_time": "11:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 33990, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\n", 
+    "catalog_num": "310-0"
+}

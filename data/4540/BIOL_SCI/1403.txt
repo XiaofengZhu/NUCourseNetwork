@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 1403, 
+    "subject": "BIOL_SCI", 
+    "requirements": "Enrollment Requirements: Prerequisite: Students must complete BIOL_SCI 210 -1-2-3; and CHEM 103 or 172; and MATH 224; and PHYSICS 130-1 or 135-1", 
+    "title": "Physical Biochemistry", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "09:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Peter E Doan", 
+        "phone": "847/491-4488", 
+        "address": "Tech, Room KG 42"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [], 
+    "class_num": 31777, 
+    "attributes": null, 
+    "catalog_num": "321-0"
+}

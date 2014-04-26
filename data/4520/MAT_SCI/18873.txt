@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 18873, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Atomic Scale Computational Materials Science", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Christopher M Wolverton", 
+        "phone": "847/467-0593", 
+        "address": "3013A Cook Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "There is no required text for this course. Suggested reading will be cited during lectures."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Computational lab assignments and one major project"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "4 lectures per week"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MSE 401 and 405, or equivalent background in quantum mechanics, thermodynamics, and general materials science; please seek consent of instructor if unsure."
+        }
+    ], 
+    "class_num": 17049, 
+    "attributes": null, 
+    "catalog_num": "458-0"
+}

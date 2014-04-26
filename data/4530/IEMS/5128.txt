@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 5128, 
+    "subject": "IEMS", 
+    "requirements": null, 
+    "title": "Deterministic Models & Optimization", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Technological Institute M152", 
+            "section": "01", 
+            "component": "LEC", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute C135", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20419, 
+    "attributes": null, 
+    "catalog_num": "313-0"
+}

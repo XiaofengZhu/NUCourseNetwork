@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 4601, 
+    "subject": "THEATRE", 
+    "requirements": null, 
+    "title": "The Development of Contemporary Theatre", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jessica Marie Hinds-Bond", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 118", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The following play texts:\nEdward Bond - Saved - ISBN 140810010X (other editions are okay)\nPeter Shaffer - Equus - ISBN 743287304 (other editions are okay)\nTimberlake Wertenbaker - Our Country's Good - ISBN 0871293420 (other editions are okay)\nModern Drama: Plays of the `80s and `90s - ISBN 0413764907\n     \nAlso, there will be a course pack at Quartet.\n\nPlease note that course materials are subject to change."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Gain a sense of the major works and figures of British playwriting after 1950 in the context of British social and theatre history. \nUncover key themes linking British playwriting across decades. \nStrengthen skills in research, writing, and analysis."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Permission number required"
+        }
+    ], 
+    "class_num": 34125, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "244-2"
+}

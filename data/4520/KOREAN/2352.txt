@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 2352, 
+    "subject": "KOREAN", 
+    "requirements": null, 
+    "title": "Korean II", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Hye-Ryeong Baek", 
+        "phone": "8474912767 no voicemail", 
+        "address": "4-366 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Integrated Korean (Second edition): Intermediate I (University of Hawaii Press); \n\nIntegrated Korean Workbook (Second edition): Intermediate I (University of Hawaii Press)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be given based on vocabulary quizzes, lesson tests, assignments, oral test, attendance and class participation, and final examination."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "After the instructor's lecture, students will practice speaking with the vocabulary and grammar pattern they learned and elaborate on the conversation. Class participation is very important. Also, various kinds of reading and video materials will be provided to enhance students reading and understanding skill."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Students who completed Korean I (111-3 or 115-3), or the instructors permission."
+        }
+    ], 
+    "class_num": 10435, 
+    "attributes": "Specific requirements in the language\n\n", 
+    "catalog_num": "121-1"
+}

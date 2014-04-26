@@ -1,0 +1,31 @@
+{
+    "overview": "<Element DESCRAREA_VALUE at 1c7f128>", 
+    "topic": null, 
+    "seats": 16, 
+    "course_id": 20514, 
+    "subject": "LAWSTUDY", 
+    "requirements": null, 
+    "title": "Persuasion:  Writing Across Disciplines", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-14", 
+    "end_date": "2014-03-30", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesdays and Thursdays 2-4 pm", 
+        "bio": null, 
+        "name": "Leigh B Bienen", 
+        "phone": "312/503-2425", 
+        "address": "Bluhm Legal Clinic (821-Rubloff)"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Rubloff Building 887", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 20030, 
+    "attributes": null, 
+    "catalog_num": "701"
+}

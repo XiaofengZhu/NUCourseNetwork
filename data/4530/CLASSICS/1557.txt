@@ -1,0 +1,36 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 1557, 
+    "subject": "CLASSICS", 
+    "requirements": null, 
+    "title": "Greek Tragedy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "15:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Claudia Zatta", 
+        "phone": "847/467-6976", 
+        "address": "Kresge Hall 1-525"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-435", 
+    "end_time": "16:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Griffith, Most, Grene, Lattimore, Aeschylus I, UCP, ISBN 9780226311449\nGriffith, Most, Grene, Lattimore, Aeschylus II, UCP, ISBN 9780226311470\nGriffith, Most, Grene, Lattimore, Sophocles I, UCP, ISBN 9780226311517\nGriffith, Most, Grene, Lattimore, Sophocles II, UCP, ISBN 9780226311555\t\nGriffith, Most, Grene, Lattimore, Euripides I, UCP, ISBN 9780226308807\nGriffith, Most, Grene, Lattimore, Euripides III, UCP, ISBN 9780226308821\nGriffith, Most, Grene, Lattimore, Euripides V, UCP, ISBN 9780226308982\nHeath, Aristotle Poetics, Penguin, ISBN 0140446362\nAdditional material will be posted on Blackboard"
+        }
+    ], 
+    "class_num": 34117, 
+    "attributes": "Literature & Fine Arts Distro Area\n\nRegistration for discussion section required\n\nNo P/N option for this section\n\n", 
+    "catalog_num": "345-0"
+}

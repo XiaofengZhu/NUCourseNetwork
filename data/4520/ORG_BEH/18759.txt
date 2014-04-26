@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 18759, 
+    "subject": "ORG_BEH", 
+    "requirements": null, 
+    "title": "Human Resource Management", 
+    "section": "17", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "17", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Marina R Davis", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "-Learn how and why Human Resources has evolved\n-Identify the needs Human Resources fills within organizations\n-Understand the many roles and responsibilities that Human Resources must fulfill within an organization:\n   -Credible Activist\n   -Culture and Change Steward\n   -Talent Manager/Organization Designer\n   -Strategy Architect\n   -Operational Executor\n   -Business Ally\n-Demonstrate knowledge of key HR responsibilities:\n   -Performance Management\n   -Leadership and Organization Development/Talent Management\n   -Influencing the System\n-Apply cutting edge HR competencies to own organization"
+        }
+    ], 
+    "class_num": 18221, 
+    "attributes": null, 
+    "catalog_num": "309-CN"
+}

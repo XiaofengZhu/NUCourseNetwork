@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 105, 
+    "course_id": 16250, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Religion and Bioethics", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Spring MW 2-3:15", 
+        "bio": null, 
+        "name": "Cristina L.H. Traina", 
+        "phone": "84712938", 
+        "address": "Crowe 4-155"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33214, 
+    "attributes": "Ethics & Values Distro Area Distro Area\n\n", 
+    "catalog_num": "373-0"
+}

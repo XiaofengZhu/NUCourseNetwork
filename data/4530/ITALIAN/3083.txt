@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3083, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Intermediate Italian", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wed 9:45 - 10:45AM or by appointment", 
+        "bio": null, 
+        "name": "Daniela Pozzi Pavan", 
+        "phone": "847/467-0646", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-133"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "<ul><li>The Italian Project 2a, Edilingua,  ISBN 978-960-693-021-8</li>\n<li>The Italian Project 2b, Edilingua, ISBN 978-960-693-022-5</li>\n<li>Qui Italia- Grammar Notes for English Students, Mazzetti, Le monnier,  ISBN 97888008535 - optional</li>\n</ul>"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Italian 101-3 or permission of the course coordinator."
+        }
+    ], 
+    "class_num": 26714, 
+    "attributes": "Attendance at 1st class mandatory\n\nPrerequisites apply, see description\n\nSpecific requirements in the language\n\n", 
+    "catalog_num": "102-2"
+}

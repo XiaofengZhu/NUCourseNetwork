@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 75, 
+    "course_id": 6500, 
+    "subject": "PHYSICS", 
+    "requirements": null, 
+    "title": "College Physics I", 
+    "section": "66", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "100", 
+            "component": "LAB", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "66", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "M, T, W  2:00 - 3:00", 
+        "bio": "Art Schmidt joined the Northwestern faculty in 1984 and has been teaching in the School of Continuing Education for almost as many years. He got his PhD at the University of Notre Dame in Nuclear Physics in 1974. He won Distinguished teaching Award in the then University College in 1999. He is the Director of the Undergraduate Laboratories for the Department of Physics and Astronomy and the Lecture Demonstrator. He also teaches Introductory College physics in the Weinberg School of Arts and Science and won the Arts and Science Alumni Teaching Award in  2000 and made the Associated Student Government Outstanding Teacher List in 2002 and 2003.  Art enjoys small boat sailing and canoeing, drawing in charcoal or pen and ink, plays guitar and flies R/C model planes.", 
+        "name": "Arthur Gerard Schmidt", 
+        "phone": "847/491-7477", 
+        "address": "Technological Institute (2145 Sheridan Road), Room F-226, Evanston"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Suggested)", 
+            "desc": "PHYSICS LAB MANUAL:1ST QTR, Gobbi. Edition:6TH 04. Stipes. ISBN: 9781588744067"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Text will likely include:\n\nPHYSICS, Giancoli, 6th Edition, Prentice Hall. ISBN: 9780130606204.\nRESPONSECARD NXT:RCXR-02 CLICKER REQUIRED  \nAuthor: TURNING POINT\nEdition:10\nPublisher:TURNING \nISBN: 9781934931455"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades for this course are based on a two one hour in-class midterms, final exam, lab grade, and completion of homework assignments."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture with demonstration. The instructor will draw on the large assortment of lecture demonstrations from the Lecture Demonstration Collection of the Department of Physics and Astronomy at Northwestern University Evanston Campus.  Class participation is encouraged through use of personal response polling system, and questions are always welcome.  Each class begins with a question and answer session for the problem set assigned the previous class."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "College algebra or higher college math course."
+        }
+    ], 
+    "class_num": 18226, 
+    "attributes": null, 
+    "catalog_num": "130-A"
+}

@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 65, 
+    "course_id": 5316, 
+    "subject": "MAT_SCI", 
+    "requirements": null, 
+    "title": "Advanced Physics of Materials", 
+    "section": "01", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "01", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesday, 2-4 pm", 
+        "bio": null, 
+        "name": "Mark Hersam", 
+        "phone": "847/491-2696", 
+        "address": "Room 1017A Cook Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "D. J. Griffiths, Introduction to Quantum Mechanics, 2nd Edition, Pearson Prentice Hall (2005), ISBN: 9780131118928"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Course grades will be determined from homework (25%), a mid-term exam (35%), and a final exam (40%)."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Four 50 minute lectures per week with discussion, homework, midterm, and final exam."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "MSE 351-1 or equivalent background in introductory undergraduate-level quantum mechanics; please seek consent of instructor if unsure."
+        }
+    ], 
+    "class_num": 16157, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "451-0"
+}

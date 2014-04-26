@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 18622, 
+    "subject": "ARABIC", 
+    "requirements": "Enrollment Requirements: Pre-requisite: Reserved for students who have taken and passed AAL 105-2 or Arabic 111-2.", 
+    "title": "Conversation and Culture in the Arab World:  Spoken Egyptian Arabic", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Ragy H Ibrahim Mikhaeel", 
+        "phone": "8474670927", 
+        "address": "4-317 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 32431, 
+    "attributes": "Specific requirements in the language\n\n", 
+    "catalog_num": "114-0"
+}

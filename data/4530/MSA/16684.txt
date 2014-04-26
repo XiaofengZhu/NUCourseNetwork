@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 16684, 
+    "subject": "MSA", 
+    "requirements": "Enrollment Requirements: Reserved for MSA Students Only", 
+    "title": "Sports Research Methods and Quantitative Analysis", 
+    "section": "50", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-23", 
+    "start_time": null, 
+    "component": "50", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 514", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34818, 
+    "attributes": null, 
+    "catalog_num": "401-0"
+}

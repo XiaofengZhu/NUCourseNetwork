@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 4487, 
+    "subject": "CSD", 
+    "requirements": null, 
+    "title": "Introduction to Learning Disabilities", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "SPCH", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Steven G Zecker", 
+        "phone": "847/491-2477", 
+        "address": "2240 Campus Drive"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Frances Searle Building 1441", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "COURSE REQUIREMENTS\n\n1. First examination: short answer, multiple choice, and definitions of terms covering major course topics.  35% of total grade.\n\n2. Second Examination:  short answer, multiple choice, short essay. 35% of total.\n\n3. Research paper focusing on an issue within the field of learning disabilities. Paper length should be 7-8 pages. 30% of total grade."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TEXT:       Lerner, J. and Johns, B. (2009) Learning Disabilities and Related Mild \t\t\t\tDisabilities: Characteristics, Teaching Strategies, and New Directions, 11th Edition \nAvailable at Beck's Bookstore on Clark Street."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1.\tDescribe and give examples of general characteristics of persons with LD at various developmental levels across the lifespan, and to contrast these with persons without LD.\n\n2.\tDescribe the historical background and evolution of the field of learning disabilities.\n\n3.\tExamine the different aspects of the LD diagnostic process and discuss the relevance of each component of the process.\n\n4.\tDescribe the symptom overlap of LD and other disorders and the way(s) in which assessment procedures are used to differentially diagnose LD.\n\n5.\tDescribe legal aspects of assessment, diagnosis and treatment, including eligibility criteria, essential IEP elements, service provision and compliance with federal, state and local mandates.\n\n6.\tUnderstand the varieties of interventions and accommodations available for individuals with learning disabilities."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 21416, 
+    "attributes": "Social & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "373-0"
+}

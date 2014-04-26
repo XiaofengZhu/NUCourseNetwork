@@ -1,0 +1,31 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 14, 
+    "course_id": 2028, 
+    "subject": "HISTORY", 
+    "requirements": "Enrollment Requirements: Reserved for Freshmen and Sophomores", 
+    "title": "Freshman Seminar--American History", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "I am an historian of the United States, with particular interests in urbanization, African-American history, and the history of technology.  I have served as director of the American Studies and Urban Studies programs.  My first book was The First Suburbs:  Residential Communities on the Boston Periphery, 1815-1860.  I am currently working on a book about nineteenth-century slums.", 
+        "name": "Henry Claxton Binford", 
+        "phone": "847/491-7262", 
+        "address": "Harris Hall Room 240"
+    }, 
+    "term": "2014 Spring", 
+    "room": "TBA", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [], 
+    "class_num": 31654, 
+    "attributes": "Attendance at 1st class mandatory\n\nFreshmen/Sophomores Only\n\n", 
+    "catalog_num": "102-6"
+}

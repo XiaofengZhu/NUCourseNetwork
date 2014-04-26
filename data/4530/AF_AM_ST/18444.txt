@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 50, 
+    "course_id": 18444, 
+    "subject": "AF_AM_ST", 
+    "requirements": null, 
+    "title": "Asian/Black Historical Relations in the U.S.", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Nitasha Tamar Sharma", 
+        "phone": "847/467-0448", 
+        "address": "Crowe Hall 5-131"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Course packet available at quartet copies"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Exams, papers"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures, readings, writing assignments"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To cultivate critical thinking, reading, and writing skills. To link the individual and historical and societal structures. To understand race, racism, the intersection of race with other axes of identity. To analyze sameness and difference through a comparative approach."
+        }
+    ], 
+    "class_num": 26014, 
+    "attributes": "Historical Studies Distro Area\n\nInterdisciplinary Distro - See Rules\n\nSocial & Behavioral Sciences Distro Area\n\n", 
+    "catalog_num": "218-0"
+}

@@ -1,0 +1,45 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 18297, 
+    "subject": "JOUR", 
+    "requirements": "Enrollment Requirements: Only students in the MSJ program may enroll in these classes", 
+    "title": "Long Form Non-Fiction Narrative", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "X", 
+            "component": "LEC", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "JOUR", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Douglas M Foster", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Spring", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Registration Requirements", 
+            "desc": "MSJ Program only.  2-units - satisfies Q4 capstone coursework requirement for Magazine concentration.  Prerequisites:  JOUR 424-0"
+        }
+    ], 
+    "class_num": 35714, 
+    "attributes": null, 
+    "catalog_num": "436-0"
+}

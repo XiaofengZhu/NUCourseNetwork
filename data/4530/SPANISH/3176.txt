@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 3176, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Golden Age Poetry and Prose", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "13:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": "MW 11:00 - 12:00", 
+        "bio": null, 
+        "name": "Dario Fernandez-Morera", 
+        "phone": "847/491-8281", 
+        "address": "2-148 Crowe"
+    }, 
+    "term": "2014 Winter", 
+    "room": "University Hall 318", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "Knowledge and appreciation of Golden Age poetry and prose."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Having taken or be concurrently taking one among the following:  250, 251, 260, 261, or a 300 class in Spanish in the department."
+        }
+    ], 
+    "class_num": 33975, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "320-0"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 1237, 
+    "subject": "ART_HIST", 
+    "requirements": null, 
+    "title": "Special Topics in Ancient Art", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Melissa Ann Bailey", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "Some background in Classics or Art History is preferable."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The Fall of Rome: And the End of Civilization.  Bryan Ward-Perkins.  Oxford University Press.  2006.\n  ISBN-10: 0192807285 \n  ISBN-13: 978-0192807281\n\nThe World of Late Antiquity.  Peter Brown. W.W. Norton & Company.\n  ISBN-10: 0393958035 \n  ISBN-13: 978-0393958034\n\nImperial Rome and Christian Triumph.  Jas Elsner.  Oxford: Oxford University Press.\n  ISBN-10: 0192842013 \n  ISBN-13: 978-0192842015"
+        }
+    ], 
+    "class_num": 34297, 
+    "attributes": null, 
+    "catalog_num": "319-0"
+}

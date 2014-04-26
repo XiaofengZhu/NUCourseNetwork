@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 7022, 
+    "subject": "CONPUB", 
+    "requirements": null, 
+    "title": "Refugees and Asylum", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-03", 
+    "end_date": "2013-12-04", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "LAW", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wed. 4:30 - 5:30 p.m.", 
+        "bio": null, 
+        "name": "Joyce Anne Hughes", 
+        "phone": "312/503-8373", 
+        "address": "275 McCormick"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 18046, 
+    "attributes": "1 Draft degree req may be met with class\n\n3 draft degree req may be met with class\n\nConstitutional Law or Procedure an element\n\nInternational Law PracticeArea in course\n\n", 
+    "catalog_num": "698"
+}

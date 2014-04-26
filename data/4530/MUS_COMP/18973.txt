@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 10, 
+    "course_id": 18973, 
+    "subject": "MUS_COMP", 
+    "requirements": null, 
+    "title": "Compositional Concepts and Techniques", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By appointment", 
+        "bio": null, 
+        "name": "Jay Alan Yim", 
+        "phone": "847/467-2030", 
+        "address": "jaymar@northwestern.edu"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Music Administration Bldg 125", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Teaching Method", 
+            "desc": "The course is comprised of approximately equal parts analysis, discussion, and music-making activities.  We will investigate many kinds of music, and a correspondingly wide range of aesthetic directions."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "There are no prerequisites for music majors, however, WCAS/SOC/McCormick students must secure the instructor's permission. Performance majors and scholars are just as welcome as composers. Ability and willingness to make intentional sound is required, though this is not necessarily limited to conventional ideas about musical performance."
+        }
+    ], 
+    "class_num": 34988, 
+    "attributes": null, 
+    "catalog_num": "439-0"
+}

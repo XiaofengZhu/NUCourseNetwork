@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 16580, 
+    "subject": "CIS", 
+    "requirements": "Enrollment Requirements: Leadership and Organization Behavior Students Only", 
+    "title": "Strategic Information Systems", 
+    "section": "24", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-08-10", 
+    "end_date": "2013-08-31", 
+    "start_time": null, 
+    "component": "24", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "William R Waas", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 41530, 
+    "attributes": null, 
+    "catalog_num": "350-CN"
+}

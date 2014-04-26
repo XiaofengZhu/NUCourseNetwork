@@ -1,0 +1,52 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 19102, 
+    "subject": "CHINESE", 
+    "requirements": null, 
+    "title": "Chinese IV - Accelerated: Classical Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Li-Cheng Gu", 
+        "phone": "8474912760", 
+        "address": "4-374 Kresge Centennial Hall"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 4-345", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Textbooks: Selected Works of Classical Chinese Literature Book I, Book II, and Book III\nPublisher: Beijing University Press\nAuthor: Han Chuanda ISBN: 7-301-00056-1"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grading: Attendance and participation 10%, Paper I 20%, Paper II 20%, Paper III 20%, Oral I 15%, Oral II 15%"
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture with class discussion will be the format used. Students will write two papers on these poems and make three oral presentations reflecting what they have learned from poets and novelists."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Students are expected to read and discuss the poems, stories, dramas, and novels. They will write papers and present their papers orally to the class."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "3rd year Chinese, pass a placement test, or consent of instructor"
+        }
+    ], 
+    "class_num": 24279, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "315-2"
+}

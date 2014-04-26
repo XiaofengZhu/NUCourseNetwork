@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 7, 
+    "course_id": 20064, 
+    "subject": "LATINO", 
+    "requirements": null, 
+    "title": "Introduction to Latina and Latino Literature", 
+    "section": "27", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "27", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John Alba Cutler", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Junot Daz, The Brief Wondrous Life of Oscar Wao (978-1594483295); \n\nRita Cano Alcal, Undocumentaries (978-1848610729); \n\nUrayon Noel, Hi-Density Politics (978-1609640316); \n\nCristina Henrquez, The World in Half (1594484392); \n\nManuel Muoz, Zigzagger (978-0810120990)"
+        }
+    ], 
+    "class_num": 26121, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "277-0"
+}

@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 3094, 
+    "subject": "ITALIAN", 
+    "requirements": null, 
+    "title": "Italian Through Performance", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 2 - 3PM", 
+        "bio": null, 
+        "name": "Thomas Haskell Simpson", 
+        "phone": "847/467-1987", 
+        "address": "1860 S. Campus Drive, Crowe Hall #2-140"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "How the course works\nThe course will develop three episodes of a teleromanzo (also called telenovela [-sp.], \"fiction,\" serial [-eng.], soap [-amer.]). Each participant creates a character (personaggio) and an actor-persona (attore or attrice) who is the performer of that personaggio. The personaggio is manifested in the episodes of the teleromanzo. The attore is expressed through the website for fans of the teleromanzo.\n\nEach student creates a personaggio defined by:\na. a name\nb. where you come from\nc. why you have come to this new place\nd. an ambition or goal\ne. a secret (problem, obsession, hidden identity, shameful past...)"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "THERE ARE NO REQUIRED TEXTS FOR THIS COURSE. READING MATERIALS WILL BE PROVIDED THROUGH BLACKBOARD."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "THE COURSE WILL BEGIN WITH A ONE-DAY TRAINING IN IMOVIE SOFTWARE. STUDENTS WILL BORROW VIDEO CAMERAS AND OTHER EQUIPMENT FROM MMLC. \nPrerequisites:\nItalian 102 or equivalent proficiency."
+        }
+    ], 
+    "class_num": 34085, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "202-0"
+}

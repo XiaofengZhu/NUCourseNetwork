@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 16362, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Human Structure and Function", 
+    "section": "14", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-14", 
+    "start_time": null, 
+    "component": "14", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Brian T. Shea is a Professor in the Department of Cell and Molecular Biology at Northwestern's Feinberg School of Medicine, where he has been teaching since 1983.  His research interests are in comparative primate musculoskeletal evolution, with emphases on the investigation of growth, function and evolution of the skull and postcranium in apes and humans.  Trained in biological anthropology at Harvard (B.A., 1975) and Duke (Ph.D., 1982) universities, he completed a postdoctoral fellowship at the American Museum of Natural History in New York prior to coming to Northwestern.  In addition to teaching medical and graduate Ph.D. students, he has regularly offered courses in the School of Continuing Studies and the university Summer School program.", 
+        "name": "Brian T Shea", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "MANUAL OF STRUCTURAL KINESIOLOGY\nBy FLOYD\nEDITION:   18TH 12 PUBLISHER:   MCG\nISBN:   9780078022517\n\nOnline powerpoints and other materials"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "To have a good working knowledge of the function of the musculoskeletal system in modern humans, along with a comparative perspective emphasizing the adaptive contexts of the evolutionary transformations leading to our modern anatomy."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: BIOL SCI 313, equivalent anatomy course, or permission of instructor. Class is limited to 15 students. Some familiarity with human anatomy or a previous introductory course (e.g., SCS BIOL SCI 313) would be helpful. Consult the instructor if you are uncertain of the suitability of your background."
+        }
+    ], 
+    "class_num": 18156, 
+    "attributes": null, 
+    "catalog_num": "316-CN"
+}

@@ -1,0 +1,52 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1525, 
+    "subject": "LATIN", 
+    "requirements": null, 
+    "title": "Elementary Latin", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "MW 12-2  pm (and by appointment)", 
+        "bio": null, 
+        "name": "Francesca Tataranni", 
+        "phone": "847/491-8029", 
+        "address": "Kresge 1-555"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "No P/N\n\nIMPORTANT: For all students beginning the study of Latin at the 200-level or lower at Northwestern in September, 2002 or later, the WCAS foreign language requirement must be satisfied with a grade of C- or better in Latin 201-3."
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "(Available at Norris Center Bookstore):\nLaFleur, Richard A., ed., Wheelock's Latin, 7th ed. (Harper Collins, 2011) - ISBN-13: 978-0061997228\nBrad Tillery, Richard A. LaFleur, Cumulative Chapter Vocabulary Lists for Wheelock's Latin, 6th ed.) (Bolchazy-Carducci, 2011) - ISBN-13:  978-0865167704\nGroton, Anne H. & James M. May, 38 Latin Stories (Bolchazy-Carducci, 1995) - ISBN-13:  978-0865162891"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Daily assignments, attendance and participation in class, weekly quizzes, mandatory midterm and final exams."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Students will prepare exercises and reading selections in advance of class and will be called on regularly to present results and to answer questions regarding grammar, syntax and vocabulary. Tuesdays, Wednesdays and Thursdays will usually be devoted to grammar explanations, syntax and translation exercises, Mondays to the weekly quiz and a review of the previous week's work."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Latin 101-1 or by placement exam. Students who have studied Latin prior to Northwestern must take a Latin placement exam. For further information, contact the Director of Latin Instruction Francesca Tataranni (f-tataranni@northwestern.edu)"
+        }
+    ], 
+    "class_num": 23335, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "101-2"
+}

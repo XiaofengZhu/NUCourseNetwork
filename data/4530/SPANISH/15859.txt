@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 18, 
+    "course_id": 15859, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Realism in Spain: The Problem of Representation", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "12:30:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "TuTh", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Elisa Marti-Lopez", 
+        "phone": "847/491-5063", 
+        "address": "2-145 Crowe"
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-301", 
+    "end_time": "13:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "P/N is not allowed for majors."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "1 course chosen from 250, 251, 260, 261."
+        }
+    ], 
+    "class_num": 33977, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "331-0"
+}

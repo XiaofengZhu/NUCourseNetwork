@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 5668, 
+    "subject": "CLIN_PSY", 
+    "requirements": "Enrollment Requirements: Reserved for Clinical Psych MS or PhD students.", 
+    "title": "Cognitive Psychology", 
+    "section": "1", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "1", 
+    "school": "TGS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Jason J Washburn", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 13667, 
+    "attributes": null, 
+    "catalog_num": "412-1"
+}

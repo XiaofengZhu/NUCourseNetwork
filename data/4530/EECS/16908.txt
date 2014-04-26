@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 16908, 
+    "subject": "EECS", 
+    "requirements": null, 
+    "title": "Human Perception and Electronic Media", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Thrasyvoulos N Pappas", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Technological Institute LG72", 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 33786, 
+    "attributes": "Prerequisites apply, see description\n\n", 
+    "catalog_num": "431-0"
+}

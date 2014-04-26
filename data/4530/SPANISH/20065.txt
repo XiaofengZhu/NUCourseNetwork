@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 6, 
+    "course_id": 20065, 
+    "subject": "SPANISH", 
+    "requirements": null, 
+    "title": "Introduction to Latina/o Literature", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "11:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "John Alba Cutler", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Parkes Hall 213", 
+    "end_time": "12:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Helena Maria Viramontes, Under the feet of Jesus $13.00  (ISBN:  0-452-27387-0)\nSandra Cisneros, The House on Mango Street $7.00  (ISBN:0-679-73477-5)\nNorma Cant, Cancula $17.00  (ISBN: 0-8263-1592-5)\nHctor Tobar, The Tattooed Soldier $10.86  (ISBN: 0-14-02.8861 9)\nPatricia Engel, Vida $11.00  (ISBN: 978-0-8021-7078-1)\nJustin Torres, We, the animals $10.00  (ISBN: 9780-547-57672-5)"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "By the end of the course students will be able to: 1) offer a panoramic view of the historical developments of U.S. Latino/a literary production, circulation, and reception; 2)  to read a Latino/ literary text with a degree of familiarity that will allow them to contextualize the text, the author, and the historical moment in which it was produced; 3)  to articulate informed ideas about the internal scholarly debates around the formation of a Latino/a canon, its forms of resistance, and aesthetic elements."
+        }
+    ], 
+    "class_num": 26123, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "277-0"
+}

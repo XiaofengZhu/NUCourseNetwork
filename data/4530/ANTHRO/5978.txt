@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 30, 
+    "course_id": 5978, 
+    "subject": "ANTHRO", 
+    "requirements": null, 
+    "title": "Environmental Anthropology", 
+    "section": "64", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "64", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "My research addresses key issues in the social sciences: state formation, urbanization, and the relationship between commoners and landscape.  It focuses on the Preclassic Maya community of Noh Kuh, located in modern-day Chiapas, Mexico, and is funded by a National Science Foundation Dissertation Improvement Grant and Wenner-Gren Foundation Dissertation Fieldwork Grant.  My research provides a critical intervention into elite-centered studies on the processes of incipient urbanism by turning to commoner households and focusing on the social and economic networks that are often invisible in elite-centered and top-down research.   Ultimately, I demonstrate how the economic and ideological practices of commoners were as important as the military and ideological activities of Maya elites to the rise of civilization.", 
+        "name": "Santiago Juarez", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "ANTHRO Sem Rm 104 - 1810 Hinmn", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Environmental Anthropology Today, Helen Kopnina and Eleanor Shoreman-Ouimet, ISBN-10: 0415781566 \nHuman Impact on Ancient Environments, Charles L. Redman, ISBN-10: 0816519633\nEnvironmental Anthropology: From Pigs to Policies, Patricia Townsend, ISBN-10: 1577665813"
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "- demonstrate the diversity and complexity of environmental challenges\n- challenge assumptions about how people interact with the environment\n- use anthropological research to inspire critical analysis \n- provide an appreciation for human diversity \n- promote solutions for problems facing people and their micro-environments"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None."
+        }
+    ], 
+    "class_num": 35018, 
+    "attributes": null, 
+    "catalog_num": "383-CN"
+}

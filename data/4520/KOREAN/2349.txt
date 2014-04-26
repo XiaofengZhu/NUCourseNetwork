@@ -1,0 +1,48 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 2349, 
+    "subject": "KOREAN", 
+    "requirements": null, 
+    "title": "Korean I", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Wednesday 12:00-1:00", 
+        "bio": null, 
+        "name": "Eunmi Lee", 
+        "phone": "8474671323", 
+        "address": "4-370 Kresge Centennial Hall"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Integrated Korean (Second Edition): Beginning I (University of Hawaii Press);\n\nIntegrated Korean Workbook (Second Edition): Beginning I (University of Hawaii Press)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grade will be based on quizzes and tests, assignments, attendance, oral test and final examination."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Students will learn the Korean alphabet and pronunciation in the first few weeks.  After the instructor's lecture, students will practice speaking with the vocabulary and grammar pattern they learned and elaborate on the conversation. Class participation is very important. Also, various kinds of reading and video materials will be provided to enhance students' reading and understanding skills."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "None"
+        }
+    ], 
+    "class_num": 10434, 
+    "attributes": null, 
+    "catalog_num": "111-1"
+}

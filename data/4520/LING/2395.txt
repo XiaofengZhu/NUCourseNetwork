@@ -1,0 +1,44 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 2395, 
+    "subject": "LING", 
+    "requirements": null, 
+    "title": "Fundamentals of Meaning", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "by appointment", 
+        "bio": null, 
+        "name": "Brady Z Clark", 
+        "phone": "847/491-5778", 
+        "address": "2016 Sheridan Road, Room 107"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Evaluation Method", 
+            "desc": "Weekly homework assignments, two take-home exams."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lectures, discussions, in-class exercises."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Linguistics 270, graduate status, or permission of the instructor."
+        }
+    ], 
+    "class_num": 17042, 
+    "attributes": "Formal Studies Distro Area\n\nPrerequisites apply, see description\n\n", 
+    "catalog_num": "370-0"
+}

@@ -1,0 +1,40 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 1845, 
+    "subject": "ENGLISH", 
+    "requirements": null, 
+    "title": "Studies in Literature and Film", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "14:00:00", 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": "MoWe", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Sarah Valentine", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Kresge Centennial Hall 2-415", 
+    "end_time": "15:20:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "TBA"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Weekly writing assignments, quizzes and a final paper or exam."
+        }
+    ], 
+    "class_num": 23881, 
+    "attributes": "Literature & Fine Arts Distro Area\n\n", 
+    "catalog_num": "386-0"
+}

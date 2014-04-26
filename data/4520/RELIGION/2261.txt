@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 7, 
+    "course_id": 2261, 
+    "subject": "RELIGION", 
+    "requirements": null, 
+    "title": "Topics in Islam", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Brannon Dobbs Ingram", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Teaching Method", 
+            "desc": "<ln/>"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Rel 250 (Introduction to Islam) or permission of instructor"
+        }
+    ], 
+    "class_num": 16846, 
+    "attributes": null, 
+    "catalog_num": "359-0"
+}

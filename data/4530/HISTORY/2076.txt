@@ -1,0 +1,57 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 45, 
+    "course_id": 2076, 
+    "subject": "HISTORY", 
+    "requirements": null, 
+    "title": "Development of the Modern American City: to 1870", 
+    "section": "01", 
+    "coursecomponent_set": [
+        {
+            "room": "University Library 3670", 
+            "section": "60", 
+            "component": "DIS", 
+            "end_time": "12:50:00", 
+            "meeting_days": "Th", 
+            "start_time": "12:00:00"
+        }
+    ], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": "09:00:00", 
+    "component": "01", 
+    "school": "WCAS", 
+    "meeting_days": "MoWeFr", 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "I am an historian of the United States, with particular interests in urbanization, African-American history, and the history of technology.  I have served as director of the American Studies and Urban Studies programs.  My first book was The First Suburbs:  Residential Communities on the Boston Periphery, 1815-1860.  I am currently working on a book about nineteenth-century slums.", 
+        "name": "Henry Claxton Binford", 
+        "phone": "847/491-7262", 
+        "address": "Harris Hall Room 240"
+    }, 
+    "term": "2014 Winter", 
+    "room": "2122 Sheridan Rd Classroom 260", 
+    "end_time": "09:50:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Notes", 
+            "desc": "AREA OF CONCENTRATION:  Americas"
+        }, 
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "Tentative until order posted to Norris website\nCourse Packet:\nHoward P. Chudacoff (ed.), Major Problems in American Urban and Suburban History, (Cengage, 2nd ed. 2005, ISBN 978-0618432769)\nPaul Boyer and Stephen Nissenbaum, Salem Possessed (Harvard University Press, 1974, ISBN 978-0674785328)\nChristine Stansell, City of Women (University of Chicago Press, 2nd ed. 1986, ISBN 978-0252014819)\nHoratio Alger, Ragged Dick (Penguin USA, 1985, ISBN 978-0140390339)\nWilliam Cronon, Nature's Metropolis:  Chicago and the Great West (Norton, 1991, ISBN 978-0393308730)"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades will be based on class participation (10%), a midterm examination (30%), a short paper (20%), and a final examination (40%).   With consent of the instructor, students may substitute a research project for the final examination."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture and mandatory discussion section"
+        }
+    ], 
+    "class_num": 34358, 
+    "attributes": "Historical Studies Distro Area\n\nAttendance at 1st class mandatory\n\n", 
+    "catalog_num": "322-1"
+}

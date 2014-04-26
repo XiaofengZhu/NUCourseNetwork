@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 15, 
+    "course_id": 1997, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Topics in German Literature and Culture", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tues and Thur - 12:30 - 1:30 PM", 
+        "bio": null, 
+        "name": "Peter Brandes", 
+        "phone": "847/467-7076", 
+        "address": "1880 Campus Drive, Kresge 2-575"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 34996, 
+    "attributes": "Reading, writing, speaking proficiency\n\n", 
+    "catalog_num": "345-0"
+}

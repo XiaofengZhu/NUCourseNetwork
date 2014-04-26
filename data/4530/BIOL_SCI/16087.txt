@@ -1,0 +1,40 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 16087, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Cell Biology", 
+    "section": "14", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-22", 
+    "start_time": null, 
+    "component": "14", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": "Emily Updegraff studied plant genetics and reproduction at The University of Chicago, where she received her Ph.D. in 2008.  Her favorite subject to teach is cell biology, and this is her second year teaching this subject for the School of Continuing Studies.  She has also taught biology as an adjunct instructor at Loyola University Chicago.  Dr. Updegraff's full time job is as the Assistant Chair in the Department of Physics & Astronomy in the Weinberg College of Arts & Sciences, where she has worked for the past four years.", 
+        "name": "Emily Parker Updegraff", 
+        "phone": null, 
+        "address": null
+    }, 
+    "term": "2014 Winter", 
+    "room": "Wieboldt Hall 413", 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "We will learn the experimenal techniques used to discover the phenomena of cells and become familiar with the strategies cells use to perpetuate themselves and specialize their functions."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Courses in biochemistry and molecular biology are important preparation. Familiarity with biochemistry and molecular biology is very helpful.  BIOL SCI 210-C or BIOL SCI 301 are listed as prerequisites, but equivalent or concurrent coursework is also acceptable."
+        }
+    ], 
+    "class_num": 35026, 
+    "attributes": null, 
+    "catalog_num": "315-CN"
+}

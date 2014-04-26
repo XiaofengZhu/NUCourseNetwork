@@ -1,0 +1,44 @@
+{
+    "overview": null, 
+    "topic": null, 
+    "seats": 75, 
+    "course_id": 6078, 
+    "subject": "BIOL_SCI", 
+    "requirements": null, 
+    "title": "Physiology and Cell Biology", 
+    "section": "62", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-03-31", 
+    "end_date": "2014-06-14", 
+    "start_time": "18:15:00", 
+    "component": "62", 
+    "school": "UC", 
+    "meeting_days": "Mo", 
+    "instructor": {
+        "office_hours": "TBA", 
+        "bio": null, 
+        "name": "Michele M McDonough", 
+        "phone": "847/491-5061", 
+        "address": "Hogan Hall, Room - 2-100"
+    }, 
+    "term": "2014 Spring", 
+    "room": "Tech Institute Lecture Room 4", 
+    "end_time": "21:15:00", 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "The textbook for the first half of the class will be Essential Cell Biology by Alberts et al., 4th edition 2013\nEdition, Garland Publishers, ISBN# 9780815344544\n\nThe textbook for the second half of the course will be Human Physiology by Dee Unglaub Silverthorn, 6th Edition 2012, Pearson Publishers."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "At the end of the course students are expected to have a basic understanding of cell biology, physiology,\nand the principles that govern normal physiological function. The content of this course is the basics of\nhuman biology, and provides the knowledge base for continued advanced study of biology"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Grades of C- or higher in both BIOL SCI 210-B and CHEM 210-A."
+        }
+    ], 
+    "class_num": 38655, 
+    "attributes": null, 
+    "catalog_num": "210-C"
+}

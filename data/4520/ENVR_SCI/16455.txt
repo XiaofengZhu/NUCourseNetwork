@@ -1,0 +1,57 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 16455, 
+    "subject": "ENVR_SCI", 
+    "requirements": null, 
+    "title": "Energy and the Environment", 
+    "section": "20", 
+    "coursecomponent_set": [
+        {
+            "room": "Frances Searle Building 1421", 
+            "section": "61", 
+            "component": "DIS", 
+            "end_time": null, 
+            "meeting_days": null, 
+            "start_time": null
+        }
+    ], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "As arranged (n-blair@northwestern.edu)", 
+        "bio": null, 
+        "name": "Neal E Blair", 
+        "phone": "847/491-8790", 
+        "address": "TECH A228"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "No textbook. Materials will posted on blackboard."
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Four problem sets, four quizzes, a final group project."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "1. Discuss basic concepts of energy and mass balances within the environmental context. 2. Discuss basic concepts of complex systems (cause and effect, feedbacks, branchpoints, tipping points, synergistic effects).  3. Discuss methodologies involved in the study of global scale processes. 4. Discuss the impacts that humans have had on the environment.  5. Discuss methods of mitigation.  6. Perform basic calculations that illustrate items 1-5.  7. Research the scientific literature and synthesize information."
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "CHEM 103 or equivalent."
+        }
+    ], 
+    "class_num": 11514, 
+    "attributes": "Natural Sciences Distro Area\n\n", 
+    "catalog_num": "203-0"
+}

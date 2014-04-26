@@ -1,0 +1,61 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 20, 
+    "course_id": 6501, 
+    "subject": "PHYSICS", 
+    "requirements": "Enrollment Requirements: Co-requisite: Students must also register for PHYSICS 136-C. \nAdd both classes to the shopping cart and submit together for successful registration.", 
+    "title": "College Physics III", 
+    "section": "23", 
+    "coursecomponent_set": [
+        {
+            "room": "TBA", 
+            "section": "100", 
+            "component": "LAB", 
+            "end_time": "21:50:00", 
+            "meeting_days": "Tu", 
+            "start_time": "20:00:00"
+        }
+    ], 
+    "start_date": "2013-08-05", 
+    "end_date": "2013-08-23", 
+    "start_time": null, 
+    "component": "23", 
+    "school": "UC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": null, 
+        "bio": null, 
+        "name": "Andrew J Rivers", 
+        "phone": "847/467-7100", 
+        "address": "1918 Sheridan"
+    }, 
+    "term": "2013 Summer", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Class Materials (Required)", 
+            "desc": "PHYSICS -TEXT \nAuthor: GIANCOLI \nEdition:6TH 05\nPublisher:PEARSON\nISBN: 9780130606204 \n\nPHYSICS LAB MANUAL:2ND QTR \nAuthor: GOBBI \nEdition:04\nPublisher:STIPES\nISBN: 9781588744074 \n\n\nPersonal Response \"Clickers\" will be required. We use the H-ITT brand"
+        }, 
+        {
+            "name": "Evaluation Method", 
+            "desc": "Grades for this course are based on a two one hour in-class midterms, final exam, lab grade, and completion of homework assignments."
+        }, 
+        {
+            "name": "Teaching Method", 
+            "desc": "Lecture with demonstration. The instructor will draw on the large assortment of lecture demonstrations from the Lecture Demonstration Collection of the Department of Physics and Astronomy at Northwestern University Evanston Campus. Class participation is encouraged through use of personal response polling system, and questions are always welcome. Each class begins with a question and answer session for the problem set assigned the previous class."
+        }, 
+        {
+            "name": "Learning Objectives", 
+            "desc": "Basic understanding of principles of waves: sound, light and matter waves"
+        }, 
+        {
+            "name": "Registration Requirements", 
+            "desc": "Prerequisite: PHYSICS 130-A, B or equivalent course. A $277 lab fee is due at registration."
+        }
+    ], 
+    "class_num": 41691, 
+    "attributes": null, 
+    "catalog_num": "130-C"
+}

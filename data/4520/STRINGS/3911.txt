@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 12, 
+    "course_id": 3911, 
+    "subject": "STRINGS", 
+    "requirements": null, 
+    "title": "Beginning Violin and Viola Pedagogy", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MUSIC", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "TBD", 
+        "bio": null, 
+        "name": "Stacia C Spencer", 
+        "phone": "847/467-6514", 
+        "address": "1818 Hinman Ave"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 13879, 
+    "attributes": "No P/N option for this section\n\n", 
+    "catalog_num": "315-1"
+}

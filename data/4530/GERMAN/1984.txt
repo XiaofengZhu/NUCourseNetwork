@@ -1,0 +1,36 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 25, 
+    "course_id": 1984, 
+    "subject": "GERMAN", 
+    "requirements": null, 
+    "title": "Contemporary Germany", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2014-01-06", 
+    "end_date": "2014-03-15", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "WCAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "Tues and Thur - 12:30 - 1:30 PM", 
+        "bio": null, 
+        "name": "Peter Brandes", 
+        "phone": "847/467-7076", 
+        "address": "1880 Campus Drive, Kresge 2-575"
+    }, 
+    "term": "2014 Winter", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [
+        {
+            "name": "Learning Objectives", 
+            "desc": "The goal of the course is to introduce students to the political history of left-wing terrorism in Germany after 1945 and to reinforce students' critical thinking and arguing skills.\n\nThe students will get to know under which circumstances terrorism arose in West Germany after 1945 and how it influenced the politics of Postwar Germany."
+        }
+    ], 
+    "class_num": 34209, 
+    "attributes": "Historical Studies Distro Area\n\nGiven in English\n\nNo prerequisite in the language\n\n", 
+    "catalog_num": "224-0"
+}

@@ -1,0 +1,31 @@
+{
+    "overview": "", 
+    "topic": null, 
+    "seats": 35, 
+    "course_id": 16162, 
+    "subject": "CHEM_ENG", 
+    "requirements": null, 
+    "title": "Cell-Material Interactions", 
+    "section": "20", 
+    "coursecomponent_set": [], 
+    "start_date": "2013-09-24", 
+    "end_date": "2013-12-07", 
+    "start_time": null, 
+    "component": "20", 
+    "school": "MEAS", 
+    "meeting_days": null, 
+    "instructor": {
+        "office_hours": "By Appointment", 
+        "bio": null, 
+        "name": "Lonnie D Shea", 
+        "phone": "8474917043", 
+        "address": "Tech E156  (Mail to:  E136)"
+    }, 
+    "term": "2013 Fall", 
+    "room": null, 
+    "end_time": null, 
+    "coursedesc_set": [], 
+    "class_num": 17289, 
+    "attributes": null, 
+    "catalog_num": "475-0"
+}
